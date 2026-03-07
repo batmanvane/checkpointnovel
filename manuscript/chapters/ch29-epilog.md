@@ -1,0 +1,40 @@
+# Epilog: Author's Note — The Distance Between Here and There
+
+This is a work of fiction. CortexLink does not exist. The MK-V does not exist. No one's brain has been written to by a five-layer architecture optimizing for seamless integration via reinforcement learning from human feedback.
+
+Not yet.
+
+What does exist, as of the time this book was written:
+
+In January 2024, a man named Noland Arbaugh became the first human to receive a Neuralink brain implant. He used it to play chess with his thoughts. By 2025, roughly seventy people worldwide lived with brain-computer interfaces — all for medical purposes: paralysis, locked-in syndrome, treatment-resistant epilepsy. The technology is real. It works. It helps people who need help. This is not in dispute, and this book does not dispute it.
+
+What this book asks is: what happens next?
+
+The distance between reading and writing is shorter than it looks. In January 2025, the German company Cortec began testing a closed-loop brain-computer interface — a system that doesn't just measure brain activity but responds to it adaptively, adjusting its stimulation based on what it reads. The chief technology officer, Martin Schüttler, compared current brain stimulation to the pacemakers of the 1950s: one fixed rhythm, day and night, regardless of what the patient was doing. The future, he said, is adaptive. Responsive. The system listens, then speaks.
+
+In Jena, fifty kilometers from where Henning Brenner's workshop sits in this novel, a surgeon named Hans Berger measured the brain's electrical activity for the first time in 1924. A hundred years separate that first reading from the first adaptive writing. The next hundred — the distance this novel tries to imagine — may be shorter.
+
+In November 2025, UNESCO's General Conference adopted the Recommendation on the Ethics of Neurotechnology — the first global standard for how this technology should and should not be used. It was the product of years of work by ethicists, neuroscientists, and legal scholars. Marcello Ienca, the neuroethicist at EPFL Lausanne who represented Western Europe in the drafting process, called for "a kind of Geneva Convention — a global consensus on how neurotechnology may be used in the future, and especially how it may not." Chile had already amended its constitution to include neurorights in 2021. Brazil, France, and California followed.
+
+The novel's failed 2029 moratorium is fiction. The impulse behind it is not.
+
+Apple filed a patent in 2023 for in-ear headphones equipped with up to forty EEG electrodes, capable of recording brain activity while users listen to music. The patent has not been granted. The consumer neurotechnology market is already estimated at fifteen billion dollars. Products called "mindmesh," "neorythm," and "mindwave" promise to improve sleep, sharpen focus, ease depression. A neurologist at Munich's Klinikum rechts der Isar called them "essentially toys" whose signals are too weak to decode thoughts. He also said breakthroughs should be expected.
+
+The question is not whether the technology will improve. The question is whether our institutions will improve at the same speed.
+
+In 2025, the education researcher Hartwin Maas warned in the Frankfurter Allgemeine Zeitung that thirty to fifty percent of German university students already lacked fundamental competencies — not because they were less intelligent than previous generations, but because AI tools had made it unnecessary to build certain cognitive skills through effort. The mechanism he described was behavioral, not neural. No implant required. The skills atrophied because they were not used. Use it or lose it. The physiotherapist's maxim, applied to cognition, applied to a generation.
+
+Researchers studying Indian academic authors found that those using Western AI writing tools began conforming to Western rhetorical norms — their writing became more similar to each other and to a particular cultural template. The tool shaped the output. The output, over time, shaped the thinker. No conspiracy. No intent. Just the optimization doing what optimization does: finding the path of least resistance and widening it until it becomes the only path.
+
+This book is set fifteen years from now. The distance between here and there is not measured in years. It is measured in decisions — each one reasonable, each one reviewed, each one, in isolation, a sound engineering choice. The question the book asks is not whether any single decision is wrong. The question is whether anyone is holding the full chain in their head at once.
+
+Lin Wei photographs the whiteboard and then erases it. Henning files report number forty-seven into a system that never calls back. Maya's paper is rejected by reviewers whose comments sound identical. Amara watches thirty voices become one.
+
+These are not speculative scenarios. They are the shapes of problems we already have, drawn at a slightly different scale.
+
+The needle moved in Jena in 1924. It has not stopped moving since. The only question is what we do with the signal — and whether we are paying attention to what is being written while we focus on what is being read.
+
+---
+
+*Erfurt — Shenzhen — Madison — Kisumu — Geneva — Taipei*
+*2024–2026*
