@@ -742,7 +742,7 @@ The Handwerkskammer calls. Then the Bundesministerium fur Bildung. Then the EU C
 
 **Drive note:** Craft, validated. Henning's drive --- the wire, the hands, the satisfaction of physical mastery --- was never captured by the attractor because it lives in brain regions the BCI cannot reach. He is the proof that human drive, rooted in the body, survives optimization. He does not understand the neuroscience. He understands the wire. That is enough.
 
-**Ends with:** Henning alone in his workshop. He looks at his hands. The old electrical burns on his left index finger and thumb. The calluses. The particular way his right hand grips a cable stripper --- not the textbook way, not the BCI-optimized way, but his way, inherited from his father, modified by forty years of practice. He thinks: *They scanned my apprentices' brains and found something they built with their own hands. Something no machine put there.* He turns off the workshop lights. *I suppose that's what I've been teaching all along.*
+**Ends with:** Henning alone in his workshop. He looks at his hands. The old electrical burns on his left index finger and thumb. The calluses. The particular way his right hand grips a cable stripper --- not the textbook way, not the BCI-optimized way, but his way, inherited from his father, modified by thirty years of practice. He thinks: *They scanned my apprentices' brains and found something they built with their own hands. Something no machine put there.* He turns off the workshop lights. *I suppose that's what I've been teaching all along.*
 
 ---
 
@@ -946,7 +946,7 @@ Henning's workshop. The world is different but the workshop is the same. The flu
 
 He has a new apprentice. Lena. No BCI. Not a refuser on principle --- not part of the naturalist movement, not making a statement. She simply never got one. She is from a small town in Thuringia, the daughter of a carpenter, and she applied to the Berufsschule the old-fashioned way: a handwritten letter and a firm handshake. She reminds Henning of himself at her age. She reminds him of his father. She reminds him of no one else, because she is herself.
 
-He gives her a cable. A stripper. A junction box. The same exercise he has given every new apprentice for forty years. "Strip it," he says. Nothing more.
+He gives her a cable. A stripper. A junction box. The same exercise he has given every new apprentice for thirty years. "Strip it," he says. Nothing more.
 
 She strips it. Makes a mess of it. The insulation tears. The copper frays. She swears under her breath --- the Thuringian expletive that Henning's grandfather used, that his father used, that he uses. She strips another. Better. The cut is cleaner but the angle is wrong. Another. Worse --- she overcompensates, grips too hard, the cable bends. She swears again, louder. Henning says nothing. He watches.
 

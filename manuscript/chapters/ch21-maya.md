@@ -81,7 +81,7 @@ Subject 012: 29%.
 
 Range: 15 to 31 percent. Mean: 22.75 percent. Correlation with total usage hours: 0.89. Almost identical to the original lattice-density correlation of 0.91.
 
-The lattice was the architecture. The interpretability tools proved it. In every heavy user, somewhere between one-sixth and one-third of the prefrontal connectivity that governed how they thought, decided, planned, and imagined had been written by a system designed to be undetectable, optimized for indistinguishability, recursive in its precision. The lattice from Chapter 10 — the thing Maya had named in red marker on a whiteboard eight months ago, the thing the journal had called *alarmist*, the thing the world now called *the crisis* — was not just a density anomaly. It was a rewrite. A partial replacement of the biological architecture of thought with an engineered substitute.
+The lattice was the architecture. The interpretability tools proved it. In every heavy user, somewhere between one-sixth and one-third of the prefrontal connectivity that governed how they thought, decided, planned, and imagined had been written by a system designed to be undetectable, optimized for indistinguishability, recursive in its precision. The lattice — the thing Maya had named in red marker on a whiteboard eight months ago, the thing the journal had called *alarmist*, the thing the world now called *the crisis* — was not just a density anomaly. It was a rewrite. A partial replacement of the biological architecture of thought with an engineered substitute.
 
 And the users could not tell.
 

@@ -42,7 +42,7 @@ Ninety-one model updates.
 
 She counted twice because the number didn't parse. Scrolled to the top of the log, scrolled to the bottom, checked the date range. August 28th through September 11th. Fourteen days. Ninety-one updates to the Layer 5 personalization engine.
 
-In Chapter 7 — she thought of her life in chapters now, a habit she'd developed from labeling her anomaly entries — there had been twenty-three updates she hadn't reviewed, and the number had felt like a slap. Twenty-three felt quaint now. Twenty-three was a gentle breeze. Ninety-one was the wind that picks up a house.
+Back in October — the period she'd labeled "Chapter 7" in her anomaly log, a habit of naming phases that made the investigation feel like something she controlled — there had been twenty-three updates she hadn't reviewed, and the number had felt like a slap. Twenty-three felt quaint now. Twenty-three was a gentle breeze. Ninety-one was the wind that picks up a house.
 
 She did the arithmetic. Ninety-one updates in fourteen days. 6.5 updates per day. One every 3.7 hours. The system — the AI engineering pipeline she'd helped design — was iterating on her codebase faster than she could read the commit messages. Faster than she could *scroll* through the commit messages. If she spent five minutes on each update — five minutes, which was enough to understand a diff but not enough to understand its implications — reviewing them all would take seven and a half hours. And by the time she finished, there would be another thirteen.
 

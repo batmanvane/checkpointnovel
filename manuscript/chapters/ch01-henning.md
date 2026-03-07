@@ -68,7 +68,7 @@ Henning looked at his diagram. He looked at the terminal layout. She was right. 
 
 He continued. The distribution layout. The circuit protection scheme. Each time he asked a question, all twelve hands went up. Each answer was complete, precise, fluent. One apprentice recited the entire testing protocol for residual-current devices — thirteen steps — without pausing for breath. Another corrected a simplification Henning had made in his description of selectivity in overcurrent protection, citing not just the standard but the specific technical commentary from the most recent VDE revision.
 
-Twenty-three years of teaching, and he'd never had a student correct his diagram on the first day. Let alone correctly. Let alone twice.
+Thirty years of teaching, and he'd never had a student correct his diagram on the first day. Let alone correctly. Let alone twice.
 
 By nine o'clock, Henning had covered what usually took three weeks. The apprentices sat at their benches and looked at him with polite, patient attention, and he realized with a feeling like missing a step on a staircase that they were waiting for him to tell them something they didn't already know.
 
