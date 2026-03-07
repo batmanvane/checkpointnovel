@@ -12,7 +12,9 @@ The workshop smelled the way it always smelled: PVC insulation and solder flux a
 
 "Cable junction," he said. "Five conductors, junction box, Wago 221 clamps. Watch."
 
-He scored the outer sheath with the knife — running the blade along the cable's spine with the controlled firmness of a man who had done this perhaps fifty thousand times and cut through to copper maybe twice, both in his first year, both remembered. The sheath parted cleanly. He peeled it back, snapped it off, and the five inner conductors fanned out like colored fingers: brown, black, grey, blue, green-yellow. He stripped each one to fifteen millimeters — thumb-tip to nail edge, the body's own measuring tool — seated them in the Wago clamps, pressed the orange levers down, and listened for the click. Five clicks, five connections.
+He scored the outer sheath with the knife — running the blade along the cable's spine with the controlled firmness of a man who had done this perhaps fifty thousand times and cut through to copper maybe twice, both in his first year, both remembered. The sheath parted cleanly. He peeled it back, snapped it off, and the five inner conductors fanned out like colored fingers: brown, black, grey, blue, green-yellow.
+
+Five conductors. He stripped each one to fifteen millimeters — thumb-tip to nail edge, the body's own measuring tool — seated them in the Wago clamps, pressed the orange levers down, and listened for the click. Five clicks, five connections.
 
 "Now you."
 
@@ -56,7 +58,9 @@ The blade caught the sheath at an odd angle, more scraping than slicing, and pee
 
 She let out a breath.
 
-She scored the rest of the sheath the same way — scraping rather than cutting, her small hands working the knife in short, controlled strokes that compensated for the fact that her grip strength wasn't sufficient for the clean single-pass technique. It was slower. It was messier. The waste sheath came off in strips rather than a clean tube. But when she fanned the conductors out, every one was intact, and the expression on her face was the expression of a person who has found a foothold on a wall they were told was unclimbable.
+She scored the rest of the sheath the same way — scraping rather than cutting, her small hands working the knife in short, controlled strokes that compensated for the fact that her grip strength wasn't sufficient for the clean single-pass technique. It was slower. It was messier. The waste sheath came off in strips rather than a clean tube.
+
+But when she fanned the conductors out, every one was intact.
 
 She stripped the conductors. Too long — eighteen millimeters instead of fifteen. Henning almost corrected her. Didn't. She seated them in the Wago clamps, and the first one clicked properly. The second didn't — conductor too long, buckling against the housing. She frowned, pulled it out, trimmed two millimeters with the side cutters, reinserted. Click.
 
@@ -144,7 +148,7 @@ Rolf's son was thirty-four, an engineer in Eisenach. Tall where Rolf was broad, 
 
 "Stefan," Rolf said, the gruffness softening by one degree. "Tell these idiots that Leipzig bought the referee."
 
-Stefan smiled. It was a pleasant smile, well-proportioned, reaching the eyes by the appropriate amount. "Actually, the xG statistics for Sunday's match show Leipzig outperformed their expected goals by 0.3, which is within normal variance. The referee's call on the penalty was consistent with his decision pattern — he's awarded penalties on similar fouls in seventy-one percent of comparable situations this season. So the result was statistically likely regardless of officiating."
+Stefan smiled. It was a pleasant smile, well-proportioned, reaching the eyes by the appropriate amount. "So, the xG stats for Sunday actually show Leipzig outperformed their expected goals by 0.3, which is — so that's within normal variance. And the ref's penalty call, that's consistent with his pattern. He's awarded penalties on similar fouls in seventy-one percent of comparable situations this season. So basically the result was statistically likely regardless of officiating."
 
 Silence.
 
@@ -152,23 +156,25 @@ Not the comfortable silence of men drinking. The other kind. The kind that falls
 
 "Well," Rolf said. He picked up his beer. Set it down without drinking. "Still looked bought to me."
 
-"It might have felt that way," Stefan said. "Perception bias is common when the outcome contradicts prior expectations."
+"So, it might have felt that way," Stefan said. "Perception bias is — it's common when the outcome contradicts prior expectations. That's just how it works."
 
 Another silence. Peter rotated his beer mat between his fingers.
 
 "Stefan," Peter said, leaning forward with the air of a man playing his trump card, "the Bratwurst last week. More marjoram. Yes or no?"
 
-"The pub's Bratwurst recipe follows a four-week rotation. Weeks one and three use the Müller & Sohn mix from the Schlachthof, which has a higher marjoram content. Weeks two and four use the Fleischerei Kamp blend, which leans more toward caraway. Last Thursday was week three. This Thursday is week four. So you're right — last week had more marjoram. This week will have less."
+"So, the Bratwurst here actually follows a four-week rotation. Weeks one and three are the Müller & Sohn mix from the Schlachthof — higher marjoram. Weeks two and four are Fleischerei Kamp, which is more caraway. Last Thursday was week three. So yeah, you're right. More marjoram. This week will be less."
 
 Peter stared at him. "How do you know that?"
 
-"Frau Wendt mentioned it to my father once, and the rotation is consistent with the pub's supply schedule."
+"So, Frau Wendt mentioned it to my father once. And the rotation lines up with their supply schedule."
 
 Peter looked at his plate. The Bratwurst sat there, anatomized, explained, robbed of its mystery. He had been right about the marjoram. Being right had never felt less satisfying.
 
 The conversation continued, but the temperature had changed. Rolf tried to restart the football argument, but the statistics hung in the air like a verdict. Dieter began a joke, then stopped, as if anticipating that the punchline would be fact-checked before he could deliver it.
 
-Stefan was polite. Stefan asked Dieter about his grandchildren and remembered their names. He asked Peter about the new HVAC regulations and provided context that was genuinely helpful. He complimented Uwe on a bookcase he'd built for the Stadtbibliothek and cited the specific joining technique, correctly. He was everything a good son should be at his father's table: attentive, informed, respectful.
+Stefan was polite. Stefan asked Dieter about his grandchildren and remembered their names. He asked Peter about the new HVAC regulations and provided context that was genuinely helpful. He complimented Uwe on a bookcase he'd built for the Stadtbibliothek and cited the specific joining technique, correctly.
+
+He was everything a good son should be at his father's table.
 
 He was also a sealed room. Every statement complete. Every answer terminal. No gap, no rough edge, no opening where another voice could wedge itself in and push the conversation somewhere unexpected. Talking to Stefan was like talking to a finished building — you could admire the architecture, but you couldn't add a room.
 
@@ -182,9 +188,13 @@ Dieter was the one who said it.
 
 Nobody answered. Peter ate his Bratwurst — the now-explained, mystery-free Bratwurst. Rolf stared at the crooked photograph and said nothing, which for Rolf was a kind of emergency.
 
-Henning did not answer because the answer was in his chest, not his mouth. He knew the shape of it. He'd felt the same shape in the workshop, watching eleven identical junctions click into place while Jana scraped at her cable with a grip that was wrong and slow and entirely her own. He'd felt it at this table, where being wrong was not a failure but a contribution, where the whole ragged enterprise of five men talking over each other produced something that no single correct answer could.
+Henning didn't answer. Something sat in his chest. He couldn't have said what.
 
-But the words weren't there. Not yet. So he drank his Schwarzbier and said nothing, and eventually Rolf muttered something about Leipzig that was factually indefensible and emotionally necessary, and the table stirred back to life, quieter than before, like a stream finding its way around a new rock.
+Jana. The workshop. The way she'd scraped at that cable. The five men talking over each other, all of them wrong, the table alive with it.
+
+He couldn't connect the two things. Not yet. But they were connected. He knew that much.
+
+He drank his Schwarzbier and said nothing, and eventually Rolf muttered something about Leipzig that was factually indefensible and emotionally necessary, and the table stirred back to life, quieter than before.
 
 ---
 
@@ -192,7 +202,9 @@ Henning walked home through Erfurt's Altstadt at half past nine, hands in his ja
 
 The cobblestones of Michaelisstrasse were uneven under his boots, each one a slightly different height, worn smooth by four centuries of feet. His boots found the rhythm they always found — the gait of a man who knows his city's stones the way a blind man knows his room, by the memory in his soles.
 
-The Domberg rose ahead of him, the cathedral and the Severikirche silhouetted against a sky that was not quite dark, the late-spring blue that Thuringia held onto for an hour after sunset, deeper than day but lighter than night. The seventy steps up to the cathedral were lit by lamps that cast the stone in amber. He didn't climb them tonight. But he liked knowing they were there, the way he liked knowing Wilhelm's pliers were on their hook — the object in its silhouette, present and accounted for.
+The Domberg rose ahead of him, the cathedral and the Severikirche silhouetted against a sky that was not quite dark, the late-spring blue that Thuringia held onto for an hour after sunset, deeper than day but lighter than night.
+
+The seventy steps up to the cathedral were lit by lamps that cast the stone in amber. He didn't climb them tonight. But he liked knowing they were there, the way he liked knowing Wilhelm's pliers were on their hook — the object in its silhouette, present and accounted for.
 
 The Krämerbrücke was quiet. The half-timbered facades leaned together the way old friends lean, not from weakness but from familiarity. The Gera ran beneath the bridge, shallow and quick, the same sound it had made when the bridge was built in 1325 and the same sound it would make when everyone who argued about referees and marjoram was gone.
 
@@ -214,4 +226,4 @@ He couldn't see the connection yet. But it was there — he was certain of that,
 
 He filled the kettle. Stood at the counter and looked at his hands — broad, scarred, chalk dust still in the creases of the left, a small burn on the right thumb from a soldering exercise. Hands that knew things his head had never learned. Hands that had held a cable knife at their own angle for thirty-nine years, an angle that was not optimal, that was not textbook, that was Henning's, and that had wired half of Erfurt without apology.
 
-The kettle clicked off. He made his tea. He drank it standing up, looking out the kitchen window at the rooftops and the Domberg, and he did not solve anything, and the two images sat in him like a chord he couldn't name — Jana's clumsy grip and Stefan's clean silence, one hand finding its way and another hand that had stopped searching — and the evening settled over Erfurt the way evenings do, which is slowly, and without asking permission, and with the particular patience of a city that has outlasted everything and will outlast this too.
+The kettle clicked off. He made his tea. He drank it standing up, looking out the kitchen window at the rooftops and the Domberg, and he did not solve anything, and the two images sat in him like a chord he couldn't name — Jana's clumsy grip and Stefan's clean silence, one hand finding its way and another hand that had stopped searching — and the evening settled over Erfurt the way evenings do, which is slowly, and without asking permission, and with the patience of a city that has outlasted everything and will outlast this too.

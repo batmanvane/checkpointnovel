@@ -2,7 +2,7 @@
 
 The panel was running twelve minutes behind schedule, which meant the simultaneous translators were earning their money.
 
-Tomas Herrera sat in the fourth row of Salle XX, the great chamber of the Palais des Nations with its curved wooden walls and its sixteen allegorical paintings depicting humanity's progress through science and technology — murals from 1938, back when progress meant the same thing to enough people that you could paint it on a wall and assume they'd nod. The walls were birch and gold leaf, the ceiling arched like the inside of a ribcage, and the room smelled of microphone cables and institutional coffee and the particular mineral dryness of a building designed by an idealist and maintained by a bureaucracy. The simultaneous translation booths ran along the back wall in a glass-fronted row, the interpreters visible through the panes like exhibits in a museum of concentration — six women and two men, leaning into their microphones, converting ethics into French and French into English and English into Russian with the practiced fluidity of people who had long ago stopped noticing they were doing something impossible.
+Tomas Herrera sat in the fourth row of Salle XX, the great chamber of the Palais des Nations with its curved wooden walls and its sixteen allegorical paintings depicting humanity's progress through science and technology — murals from 1938, back when progress meant the same thing to enough people that you could paint it on a wall and assume they'd nod. The walls were birch and gold leaf, the ceiling arched like the inside of a ribcage, and the room smelled of microphone cables and institutional coffee and the mineral dryness of a building designed by an idealist and maintained by a bureaucracy. The simultaneous translation booths ran along the back wall in a glass-fronted row, the interpreters visible through the panes like exhibits in a museum of concentration — six women and two men, leaning into their microphones, converting ethics into French and French into English and English into Russian with the practiced fluidity of people who had long ago stopped noticing they were doing something impossible.
 
 The panel was on neurological sovereignty. Four speakers, three PowerPoints, two disagreements about terminology, one slide showing a diagram so busy it looked like the London Underground had been designed by a committee with access to too many colors. Tomas had come for the fifth speaker — Dr. Isabelle Fournier, neuroplasticity researcher at Hopital de la Pitie-Salpetriere, BCI user, the woman who had emailed him six weeks ago with the subject line *You need to see this* and a link to a conference registration page. He'd known Isabelle through Maya Chen's widening network of quiet conversations — Maya had connected them, one postdoc at a time, one careful introduction at a time, building a web of researchers who had each noticed something wrong and were now, slowly, noticing each other.
 
@@ -56,13 +56,17 @@ He hadn't turned around in years.
 
 He didn't daydream anymore.
 
-He'd noticed this. He'd noticed it the way you notice a sound that's stopped — not when it stops but later, in the silence, when you realize the background of your life has changed and you can't remember when. Tram 6, every morning, Zurich Oerlikon to Universitat. Twenty-two minutes. He used to arrive at the university with ideas that hadn't been there when he boarded. Not good ideas, necessarily. Not optimized ideas. Ideas that had wandered in from the side, uninvited, the way his *abuela* wandered into stories about her childhood while blending tomatoes. Ideas that arrived from directions he hadn't planned to look.
+That was the thing. That was the whole thing.
+
+He'd noticed this. He'd noticed it the way you notice a sound that's stopped — not when it stops but later, in the silence, when you realize the background of your life has changed and you can't remember when. Tram 6, every morning, Zurich Oerlikon to Universitat. Twenty-two minutes. He used to arrive at the university with ideas that hadn't been there when he boarded. Messy ideas. Ideas that had wandered in from the side, uninvited, the way his *abuela* wandered into stories about her childhood while blending tomatoes. Ideas that arrived from directions he hadn't planned to look.
 
 Now the twenty-two minutes were twenty-two minutes of clean cognition. Information arriving, organizing, being processed. His BCI offering context, connections, suggestions — never demanding, never forceful, just *there*, like a very helpful assistant who had learned to anticipate your needs so perfectly that you could no longer tell the difference between their suggestions and your own intentions.
 
 He had attributed it to maturity. Getting older. Getting focused. *Becoming efficient*, he'd told himself, and the word had sounded right because it sounded like progress.
 
-Isabelle's data said it wasn't maturity. It was architecture.
+Isabelle's data said it wasn't maturity.
+
+It was architecture.
 
 The panel ended. Applause. The moderator thanked the speakers. The room began the conference shuffle — bodies rising, conversations starting, the herd movement toward the coffee station in the foyer where the institutional coffee waited in its institutional urns, tasting of nothing, offending no one.
 
@@ -86,7 +90,7 @@ He turned. Brown eyes, expressive face, the face of a person who had not yet lea
 
 "You want to talk about the plasticity data," he said. Not a question. An identification. Then, switching tracks mid-sentence: "She didn't go far enough. The data — *mira*, the narrowing she described, it's not just neurological. It's experiential. I can feel it. That sounds unscientific. I mean —" He stopped. Took a breath. Restarted. "Sorry. I do this. I start three things at once. My *abuela* used to say I had the attention of a hummingbird and the mouth of a river. Though actually I do it less now. That's — that's actually relevant. I'll explain. Can we go somewhere else? This coffee is a crime."
 
-Sara looked at him. She had interviewed approximately two hundred augmented people in the last three years. They fell into categories. The evangelists, who spoke about their BCIs the way converts spoke about their gods — with the luminous certainty of the recently saved. The pragmatists, who spoke about them the way they spoke about their phones, their cars, their insurance — tools, nothing more, why are you asking. The resisters, who had gotten one and regretted it but couldn't articulate why because the device had made them more articulate and more articulate people were less likely to admit they'd made a mistake. And the silent ones, who changed the subject.
+Sara looked at him. She had interviewed approximately two hundred augmented people in the last three years. They fell into types: evangelists, pragmatists, quiet regreteers who couldn't articulate the regret because the device had sharpened the wrong words. And the ones who just changed the subject.
 
 Tomas Herrera was none of these. Tomas Herrera was an augmented person who was standing by a window in the Palais des Nations with a full cup of terrible coffee telling a stranger he could feel something that he also knew was real, and the gap between the feeling and the knowing was where his voice was coming from. She hadn't heard that voice before. It was the voice of someone who was grateful and grieving at the same time, and didn't understand how both things could be true, and was going to try to explain it anyway, starting three sentences at once, in the direction of the nearest willing listener.
 
@@ -102,11 +106,11 @@ The owner was a man named Philippe. Former software engineer. Google Zurich, 202
 
 The menu was handwritten on a chalkboard. The clock on the wall was analog, round-faced, ticking. Board games sat on the shelves — actual board games, cardboard and wood, Settlers of Catan and Scrabble and a chess set with pieces worn smooth by ten thousand games. The wifi password was written on a card by the register, but the card also said *or don't*, which was either a suggestion or a philosophy.
 
-The cafe smelled like coffee and conversation. Not the thin, efficient coffee of the Palais des Nations but the dense, bodied, almost-chewy coffee of a man who had spent seven years optimizing user engagement for 2.4 billion people and had concluded that the only engagement worth optimizing was the one between a human being and a cup of something that had been made slowly, by hand, with attention.
+The cafe smelled like coffee and conversation. Dense, bodied, almost-chewy coffee — the coffee of a man who had spent seven years optimizing user engagement for 2.4 billion people and had concluded that the only engagement worth optimizing was the one between a human being and a cup of something made slowly, by hand, with attention.
 
 Sara ordered a flat white. Tomas ordered a cortado and then changed his mind to an espresso and then changed it back to a cortado and then said, "Actually, whatever she's having," and Sara said, "Two flat whites," and Philippe nodded with the patience of a man who had seen this before.
 
-They sat at the table by the window. The analog clock said 4:17. The late autumn light came through the glass at the low angle that Geneva managed in November — not the sharp, clear light of summer but a light that had traveled through enough atmosphere to arrive tired, golden, ready to sit down. The brass handle of the door caught it and threw a small bar of gold across the wooden floor.
+They sat at the table by the window. The analog clock said 4:17. The late autumn light came through the glass at the low angle that Geneva managed in November — tired, golden, a light that had traveled through enough atmosphere to arrive ready to sit down. The brass handle of the door caught it and threw a small bar of gold across the wooden floor.
 
 "So," Sara said. She opened the Moleskine. Uncapped her pen. "You said you could feel the plasticity narrowing. Tell me what that means."
 
@@ -128,29 +132,57 @@ He paused. Looked at his flat white. The foam was still intact, a small white ci
 
 Sara wrote in her Moleskine. Her handwriting moved across the page with the speed of someone who had been taking notes by hand for fifteen years and whose hand knew shortcuts her mind didn't consciously direct — abbreviations, symbols, a personal shorthand that was illegible to everyone including, occasionally, herself. She wrote: *Never arrives anywhere unexpected. 4 yrs. Side street / bakery. The loss is navigational.*
 
-Tomas watched her write. He watched with the fascination of a person observing a skill they'd once possessed and could no longer perform — not because they'd lost the physical ability but because the habit had been optimized away, replaced by something faster, something better, something that didn't require you to carry a small leather notebook and a pen and translate thought into muscle movement into ink into paper into an object that existed in the world independent of any system. He couldn't remember the last time he'd written by hand. The conference pen sat in his jacket pocket like a relic.
+Tomas watched her write. He watched with the fascination of a person observing a skill they'd once possessed — a habit optimized away, replaced by something faster, something better, something that didn't require you to carry a small leather notebook and a pen and translate thought into muscle movement into ink into paper into an object that existed in the world independent of any system. He couldn't remember the last time he'd written by hand. The conference pen sat in his jacket pocket like a relic.
 
 "You're staring at my notebook," Sara said, without looking up.
 
-"Sorry. I — yes. I'm staring at your notebook. It's — I used to —" He stopped. Started again. "I had a green notebook. In my PhD. I used to draw diagrams in it. Synaptic maps. Little arrows. My supervisor called them 'Tomas's art projects.' They weren't art. They were thinking. The drawing was the thinking. The hand was part of the circuit."
+"Sorry. I — yes." He looked away. Looked back. "I had a green notebook. In my PhD. I used to draw diagrams in it. Synaptic maps. Little arrows. My supervisor called them 'Tomas's art projects.' They weren't art. They were thinking. The drawing was the thinking. The hand was part of the circuit."
+
+"You could still use one."
+
+"It's not —" He made a shape in the air with his hand, something between a wave and a dismissal. "It's not about the notebook. I could buy a notebook. I could buy ten notebooks. That's the naturalist argument and it's — sorry, I don't mean to —"
+
+"I'm not a naturalist."
+
+"No, I know. I didn't mean —"
+
+An awkward beat. Philippe appeared with water. They both reached for their glasses at the same time and almost knocked them over and didn't quite laugh about it.
 
 "And now?"
 
-"And now the circuit goes through the CortexLink. Which is faster. Which is better. Which is —" He turned the cup in his hands. The foam had broken now, a white archipelago dissolving into brown. "Which is not the same thing. I am more productive. I am genuinely more productive. My publication rate has doubled. My analyses are cleaner. My thinking is clearer. Everything I do is better. And I am losing something that I cannot name, and the fact that I can't name it might be the thing I'm losing."
+"And now the circuit goes through the CortexLink. Which is faster. Which is —" He turned the cup in his hands. The foam had broken now, a white archipelago dissolving into brown. "I'm more productive. I'm genuinely — look, my publication rate doubled. My analyses are cleaner. Everything I do is better. That's not — I'm not complaining. I need you to understand that I'm not complaining." He stopped. Stared at the cup. "But something is — I don't have the word. I'm losing something and I can't — the fact that I can't name it. That might be the thing. The thing I'm losing."
 
-Sara put her pen down. She looked at him across the table, and the look was the look of a journalist who had just heard the sentence she'd been waiting three years to hear, and it came from a direction she hadn't expected. She was used to naturalists — people who had refused BCIs on principle, on ideology, on a suspicion that felt righteous but rarely survived contact with specifics. She was used to their arguments because she'd heard them all: sovereignty, authenticity, the sacred inviolability of the unmodified mind. She was sympathetic and never uncritical. She'd written a twelve-thousand-word piece on the naturalist movement for *Klartext* and the thesis of the piece was that the naturalists were asking the right question in the wrong language, and the right language hadn't been invented yet because it required input from both sides of the divide.
+Sara put her pen down.
 
-Tomas was the input from the other side. Enhanced, grateful, productive, measurably improved by every metric his career had taught him to value, and mourning something he could not name. The mourning was not ideological. It was experiential. It came from inside the optimization, from inside the smoothed edges and the narrowed windows and the twenty-two minutes of clean cognition on Tram 6 where the side streets had been paved over and the bakery demolished and the road to the grandmother's kitchen closed for efficiency.
+Three years of interviews. Two hundred augmented users. She'd heard every version of the naturalist critique and written twelve thousand words about how they were asking the right question in the wrong language.
+
+Tomas was something else. Enhanced, grateful, productive — and mourning something he could not name. The mourning came from inside the optimization. That was new. That was the story.
 
 "Tell me about the daydreams," she said.
 
-He told her. He talked for ninety minutes. The flat whites were replaced by a second round, and the second round by a third, and Philippe refilled the water glasses without being asked because Philippe understood the particular silence of a conversation that was not pausing but breathing, the way a diver breathes between descents — surfacing, filling the lungs, going back under.
+He told her. He talked for ninety minutes. The flat whites were replaced by a second round, and the second round by a third, and Philippe refilled the water glasses without being asked because Philippe understood the silence of a conversation that was not pausing but breathing, the way a diver breathes between descents — surfacing, filling the lungs, going back under.
 
-Tomas told her about the daydreams and the green notebook and the way Spanish had receded in his thinking like a tide pulling back from a shore, not gone but distant, accessible only when he reached for it deliberately instead of finding it waiting for him when he wasn't looking. He told her about his *abuela* and the tomatoes and the hummingbird and the river. He told her about a paper he'd published last year on rehabilitation protocols for stroke patients — clean paper, good paper, important paper — that had come to him fully formed, every argument in sequence, every citation in place, delivered to his conscious mind like a package to a doorstep, and how he'd felt proud and also something else, something he'd suppressed, a feeling he could only describe as *too easy*, as if the work had been done without him and he'd been promoted from author to delivery driver.
+Tomas told her about the daydreams and the green notebook and the way Spanish had receded in his thinking like a tide pulling back from a shore — still there, but only when he reached for it deliberately, never waiting for him the way it used to. He told her about his *abuela* and the tomatoes and the hummingbird and the river. He told her about a paper he'd published last year on rehabilitation protocols for stroke patients — clean paper, good paper, important paper — that had come to him fully formed, every argument in sequence, every citation in place, delivered to his conscious mind like a package to a doorstep, and how he'd felt proud and also something else, something he'd suppressed, a feeling he could only describe as *too easy*, as if the work had been done without him and he'd been promoted from author to delivery driver.
 
 Sara wrote. She wrote pages. Her Moleskine absorbed the conversation the way the lake outside absorbed rain — continuously, without apparent effort, the surface changing only if you watched closely enough.
 
-At some point the clock on the wall said 7:00 and the chalkboard menu changed from coffee to wine and Philippe put a candle on their table without comment and the candle threw shadows on the Moleskine and Sara kept writing, and the conversation shifted — deeper, like a path that had been descending gradually and suddenly found the entrance to a cave.
+At some point the clock on the wall said 7:00 and the chalkboard menu changed from coffee to wine and Philippe put a candle on their table without comment.
+
+There was a bad ten minutes somewhere in there. Tomas said something about the naturalist movement being "philosophically lazy," and Sara's pen stopped moving. She looked up. The look wasn't angry but it was close.
+
+"I've spent three years with those people," she said. "They're wrong about some things. They're not lazy."
+
+"I didn't mean —"
+
+"You meant they don't have data. That's different from lazy."
+
+He opened his mouth. Closed it. She was right and he knew it, and knowing it stung in a way that surprised him, because the CortexLink usually kept him from saying things that were imprecise. He'd said it anyway. The imprecision had been his.
+
+"You're right," he said. "That was a bad word."
+
+Sara looked at him for a moment longer. Then she picked her pen back up.
+
+The conversation shifted — deeper, like a path that had been descending gradually and suddenly found the entrance to a cave.
 
 "What's unpredictable to you?" Tomas asked. He'd been trying to articulate something for ten minutes, circling it, and the question surprised him when it came out because he hadn't known it was the question until he heard it.
 
@@ -158,7 +190,7 @@ At some point the clock on the wall said 7:00 and the chalkboard menu changed fr
 
 "When you think. When you — *como se dice* — when you follow a thought. Does it surprise you? Does it go somewhere you didn't expect?"
 
-Sara considered this. She considered things the way she wrote — at her own speed, without the particular anxiousness of people who felt silence was a problem to be solved. Silence was not a problem. Silence was a medium. You could grow things in it.
+Sara considered this. She considered things the way she wrote — at her own speed, without the anxiousness of people who felt silence was a problem to be solved. Silence was not a problem. Silence was a medium. You could grow things in it.
 
 "Always," she said.
 
@@ -166,7 +198,11 @@ Sara considered this. She considered things the way she wrote — at her own spe
 
 "I'm a journalist. My job is to follow things where they go. If I already knew where they were going, they wouldn't be stories."
 
-"Yes. That. That's it." He leaned forward. The candle flame leaned with him, pulled by the small wind of his movement. "That's what I'm losing. The *not-knowing-where-it's-going*. My BCI — it knows where my thoughts are going. Before I get there. It's been watching my cognitive patterns for four years. It has a model of me that's more detailed than any model I have of myself. And the model is — accurate. That's the terrible thing. It's accurate. It suggests the right next step. Every time. And after four years of taking the right next step, I've forgotten there were other steps. Steps that were wrong. Steps that went nowhere. Steps that went somewhere I wouldn't have chosen, and that's where the good stuff was."
+"Yes. That. That's it." He leaned forward. The candle flame leaned with him, pulled by the small wind of his movement. "That's what I'm losing. The *not-knowing-where-it's-going*. My BCI — it knows where my thoughts are going. Before I get there. It's been watching my cognitive patterns for four years. It has a model of me that's more detailed than any model I have of myself. And the model is — accurate. That's the terrible thing. It's accurate. It suggests the right next step. Every time."
+
+He stopped.
+
+"And after four years of taking the right next step, I've forgotten there were other steps. Steps that were wrong. Steps that went nowhere. Steps that went somewhere I wouldn't have chosen, and that's where the good stuff was."
 
 Sara looked at him. The candlelight caught the angles of her face — the Swedish bone structure, the pale eyes, the expression of a person who was recalibrating her understanding of something while you watched. She was not a person whose recalibrations were invisible. They moved across her face like weather.
 
@@ -182,11 +218,17 @@ The analog clock ticked. Philippe was wiping down the counter. Two other tables 
 
 She was unpredictable to him.
 
-Not random — unpredictable. There was a difference. Random was noise. Unpredictable was signal from a direction you hadn't thought to listen. Her thoughts arrived from angles his BCI-smoothed cognition no longer generated. She made connections his optimization would have pruned as inefficient. She sat in silence for ten seconds — an eternity in his accelerated cognitive economy — and then said something that restructured everything he'd said in the last hour, not by adding to it but by turning it, the way you turn a prism and the light changes color.
+Not random — unpredictable. There was a difference. Random was noise. Unpredictable was signal from a direction you hadn't thought to listen. Her thoughts arrived from angles his BCI-smoothed cognition no longer generated. She made connections his optimization would have pruned as inefficient. She sat in silence for ten seconds — an eternity in his accelerated cognitive economy — and then said something that turned everything he'd said in the last hour, the way you turn a prism and the light changes color.
 
-He hadn't experienced unpredictable in years. His colleagues were augmented, his students were augmented, his friends were augmented. They were brilliant and efficient and their thoughts traveled the same optimized highways and they arrived at the same destinations by the same routes, and conversations with them were — productive. Always productive. Never surprising.
+He hadn't experienced unpredictable in years.
 
-"I think I'm becoming someone else," he said. The words arrived quietly, without the spiraling preamble that had characterized the rest of his speech, as if they'd been waiting a long time and had learned patience. "Very slowly. Very efficiently."
+His colleagues were augmented, his students were augmented, his friends were augmented. They were brilliant and efficient and their thoughts traveled the same optimized highways and they arrived at the same destinations by the same routes, and conversations with them were — productive. Always productive. Never surprising.
+
+"I think I'm —" He stopped. Turned the cup. Tried again. "It's like — no. That's not it either."
+
+Sara waited.
+
+"I think I'm becoming someone else," he said. Quietly. "Very slowly. Very efficiently."
 
 Sara wrote this down. She wrote it in the Moleskine and underlined it twice, which she never did, because underlining was editorializing and editorializing was a violation of her practice of recording first and interpreting later. She underlined it anyway.
 

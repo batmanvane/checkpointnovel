@@ -1,4 +1,4 @@
-# 28. git init
+# 28. The Workshop
 
 The fluorescent lights still hummed at sixty hertz.
 

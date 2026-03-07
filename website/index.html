@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>checkpoin.de — Checkpoint, a Novel by R.F.</title>
+<meta name="description" content="How we optimized into the void. A hard sci-fi novel about what happens when BCI meets AI — co-written with the tools it warns about.">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,300;0,400;0,700;1,400&display=swap');
+
+  :root {
+    --bg: #1a1a2e;
+    --surface: #16213e;
+    --border: #2a2a4a;
+    --text: #c4c4d4;
+    --text-dim: #6a6a8a;
+    --accent: #d4a574;
+    --green: #7ec8a0;
+    --blue: #7aa2d4;
+    --red: #d47a7a;
+    --yellow: #d4c87a;
+    --purple: #a07ad4;
+    --cursor: #d4a574;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'JetBrains Mono', 'SF Mono', 'Fira Code', monospace;
+    font-size: 14px;
+    line-height: 1.7;
+    overflow-x: hidden;
+  }
+
+  /* Terminal window chrome */
+  .terminal {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .terminal-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .terminal-dots {
+    display: flex;
+    gap: 6px;
+  }
+
+  .terminal-dots span {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+  }
+
+  .dot-red { background: #ff5f56; }
+  .dot-yellow { background: #ffbd2e; }
+  .dot-green { background: #27c93f; }
+
+  .terminal-title {
+    color: var(--text-dim);
+    font-size: 12px;
+    flex: 1;
+    text-align: center;
+  }
+
+  /* Sections */
+  .section {
+    padding: 60px 0;
+    border-bottom: 1px solid var(--border);
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+
+  .section.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Hero */
+  .hero {
+    padding: 100px 0 80px;
+    text-align: left;
+  }
+
+  .prompt {
+    color: var(--text-dim);
+    margin-bottom: 4px;
+  }
+
+  .prompt .path {
+    color: var(--blue);
+  }
+
+  .prompt .arrow {
+    color: var(--accent);
+  }
+
+  .command {
+    color: var(--text);
+    font-weight: 700;
+    font-size: 16px;
+  }
+
+  .hero-title {
+    font-size: 48px;
+    font-weight: 700;
+    color: var(--accent);
+    margin: 30px 0 8px;
+    letter-spacing: -1px;
+  }
+
+  .hero-subtitle {
+    font-size: 18px;
+    color: var(--text-dim);
+    margin-bottom: 40px;
+  }
+
+  .hero-tagline {
+    font-size: 16px;
+    color: var(--text);
+    line-height: 1.8;
+    max-width: 640px;
+  }
+
+  .hero-tagline .highlight {
+    color: var(--accent);
+  }
+
+  /* Output blocks */
+  .output {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 24px;
+    margin: 20px 0;
+    position: relative;
+  }
+
+  .output::before {
+    content: 'OUTPUT';
+    position: absolute;
+    top: -10px;
+    left: 16px;
+    background: var(--surface);
+    padding: 0 8px;
+    font-size: 10px;
+    color: var(--text-dim);
+    letter-spacing: 2px;
+  }
+
+  /* Section headers as commands */
+  .section-cmd {
+    margin-bottom: 30px;
+  }
+
+  .section-cmd .command {
+    font-size: 18px;
+  }
+
+  /* The Novel section */
+  .timeline {
+    position: relative;
+    padding-left: 30px;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 8px;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background: var(--border);
+  }
+
+  .timeline-item {
+    position: relative;
+    margin-bottom: 36px;
+  }
+
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -26px;
+    top: 8px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid var(--accent);
+    background: var(--bg);
+  }
+
+  .timeline-year {
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 13px;
+    margin-bottom: 4px;
+  }
+
+  .timeline-text {
+    color: var(--text);
+    font-size: 14px;
+  }
+
+  .timeline-text .dim {
+    color: var(--text-dim);
+  }
+
+  /* Characters as processes */
+  .process-list {
+    display: grid;
+    gap: 16px;
+    margin: 20px 0;
+  }
+
+  .process {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px 20px;
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 16px;
+    align-items: start;
+  }
+
+  .process-pid {
+    color: var(--text-dim);
+    font-size: 12px;
+    min-width: 50px;
+  }
+
+  .process-name {
+    color: var(--green);
+    font-weight: 700;
+  }
+
+  .process-desc {
+    color: var(--text);
+    margin-top: 4px;
+    font-size: 13px;
+  }
+
+  .process-status {
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 3px;
+    white-space: nowrap;
+  }
+
+  .status-enhanced {
+    color: var(--yellow);
+    border: 1px solid var(--yellow);
+  }
+
+  .status-accelerated {
+    color: var(--red);
+    border: 1px solid var(--red);
+  }
+
+  .status-offline {
+    color: var(--green);
+    border: 1px solid var(--green);
+  }
+
+  .status-observing {
+    color: var(--purple);
+    border: 1px solid var(--purple);
+  }
+
+  /* Git log for process story */
+  .git-log {
+    margin: 20px 0;
+  }
+
+  .commit {
+    padding: 16px 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .commit:last-child {
+    border-bottom: none;
+  }
+
+  .commit-hash {
+    color: var(--yellow);
+    font-size: 12px;
+  }
+
+  .commit-msg {
+    color: var(--text);
+    font-weight: 700;
+    margin: 4px 0;
+  }
+
+  .commit-meta {
+    color: var(--text-dim);
+    font-size: 12px;
+  }
+
+  .commit-body {
+    color: var(--text);
+    font-size: 13px;
+    margin-top: 8px;
+    padding-left: 16px;
+    border-left: 2px solid var(--border);
+  }
+
+  /* Excerpt blocks */
+  .excerpt {
+    background: var(--surface);
+    border-left: 3px solid var(--accent);
+    padding: 20px 24px;
+    margin: 24px 0;
+    font-style: italic;
+    color: var(--text);
+    line-height: 1.9;
+  }
+
+  .excerpt .attribution {
+    display: block;
+    margin-top: 12px;
+    font-style: normal;
+    color: var(--text-dim);
+    font-size: 12px;
+  }
+
+  /* The Mirror section */
+  .mirror-block {
+    background: var(--surface);
+    border: 1px solid var(--accent);
+    border-radius: 6px;
+    padding: 30px;
+    margin: 24px 0;
+  }
+
+  .mirror-block p {
+    margin-bottom: 16px;
+    font-size: 15px;
+    line-height: 1.8;
+  }
+
+  .mirror-block p:last-child {
+    margin-bottom: 0;
+  }
+
+  .mirror-block .question {
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 17px;
+  }
+
+  /* Key phrases */
+  .key {
+    color: var(--accent);
+  }
+
+  .warn {
+    color: var(--red);
+  }
+
+  .info {
+    color: var(--blue);
+  }
+
+  .ok {
+    color: var(--green);
+  }
+
+  /* Blinking cursor */
+  .cursor {
+    display: inline-block;
+    width: 8px;
+    height: 16px;
+    background: var(--cursor);
+    animation: blink 1s step-end infinite;
+    vertical-align: middle;
+    margin-left: 4px;
+  }
+
+  @keyframes blink {
+    50% { opacity: 0; }
+  }
+
+  /* CTA / Footer */
+  .cta {
+    text-align: center;
+    padding: 80px 0;
+  }
+
+  .cta-text {
+    font-size: 16px;
+    color: var(--text);
+    margin-bottom: 30px;
+  }
+
+  .cta-link {
+    display: inline-block;
+    color: var(--bg);
+    background: var(--accent);
+    padding: 12px 32px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+    transition: opacity 0.2s;
+  }
+
+  .cta-link:hover {
+    opacity: 0.85;
+  }
+
+  .footer {
+    padding: 40px 0;
+    text-align: center;
+    color: var(--text-dim);
+    font-size: 12px;
+    border-top: 1px solid var(--border);
+  }
+
+  .footer a {
+    color: var(--text-dim);
+    text-decoration: underline;
+  }
+
+  /* Equation styling */
+  .equation {
+    text-align: center;
+    padding: 16px 0;
+    color: var(--accent);
+    font-size: 15px;
+    letter-spacing: 1px;
+  }
+
+  /* TOC / chapter list */
+  .chapter-list {
+    columns: 2;
+    column-gap: 40px;
+    margin: 20px 0;
+    font-size: 13px;
+  }
+
+  .chapter-list div {
+    padding: 4px 0;
+    break-inside: avoid;
+  }
+
+  .chapter-list .ch-num {
+    color: var(--text-dim);
+    display: inline-block;
+    min-width: 36px;
+  }
+
+  .chapter-list .ch-name {
+    color: var(--text);
+  }
+
+  /* Ghost t animation */
+  .ghost-t {
+    color: var(--text-dim);
+    opacity: 0.15;
+    transition: opacity 1.2s ease, color 1.2s ease;
+  }
+
+  .ghost-t.revealed {
+    opacity: 1;
+    color: var(--accent);
+  }
+
+
+  /* Responsive */
+  @media (max-width: 640px) {
+    body { font-size: 13px; }
+    .hero-title { font-size: 32px; }
+    .hero-subtitle { font-size: 15px; }
+    .terminal { padding: 0 16px; }
+    .chapter-list { columns: 1; }
+    .process { grid-template-columns: 1fr; gap: 8px; }
+    .process-status { justify-self: start; }
+  }
+</style>
+</head>
+<body>
+
+<div class="terminal-header">
+  <div class="terminal-dots">
+    <span class="dot-red"></span>
+    <span class="dot-yellow"></span>
+    <span class="dot-green"></span>
+  </div>
+  <div class="terminal-title">checkpoin.de — ~/novel/2041</div>
+</div>
+
+<div class="terminal">
+
+  <!-- HERO -->
+  <div class="hero section">
+    <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+    <div class="command">cat README.md</div>
+
+    <h1 class="hero-title">Checkpoin<span class="ghost-t" id="ghost-t">t</span></h1>
+    <div class="hero-subtitle">A Novel &mdash; R.F.</div>
+
+    <div class="hero-tagline">
+      <span class="highlight" style="font-size: 20px;">How we optimized into the void.</span><br><br>
+      2041. A skin-colored patch behind the ear. Always on. Always learning.
+      Each update nudges you. Just slightly. But the nudges compound &mdash; and the rate is accelerating.<br>
+      Who are you then? Who are we? Where will this lead us?<br><br>
+      There is no commit history. No rollback.<br>
+      Deployed to production &mdash; eight billion brains.<span class="cursor"></span>
+      <div style="margin-top: 24px; font-size: 12px; color: var(--text-dim); line-height: 2;">
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; margin-right: 4px;">AI</span>
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; margin-right: 4px;">brain-computer interface</span>
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; margin-right: 4px;">neurotechnology</span>
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; margin-right: 4px;">cognitive augmentation</span>
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; margin-right: 4px;">human-in-the-loop</span>
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; margin-right: 4px;">acceleration</span>
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px; margin-right: 4px;">hard sci-fi</span>
+        <span style="border: 1px solid var(--border); padding: 2px 8px; border-radius: 3px;">agentic coding/science/engineering/writing/...</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- THE NOVEL -->
+  <div class="section" id="novel">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">cat SYNOPSIS.md</div>
+    </div>
+
+    <p style="margin-bottom: 24px;">Four lives. Four regions. Four speeds of acceleration. One question: <span class="key">where does the patch end and you begin?</span></p>
+
+    <div class="timeline">
+      <div class="timeline-item">
+        <div class="timeline-year">2031 &mdash; Shenzhen</div>
+        <div class="timeline-text">First consumer brain-computer interface patches ship. A company called CortexLink calls it "cognitive assistance." Adoption is instant. By 2035, opting out means falling behind.</div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year">2032 &mdash; United States</div>
+        <div class="timeline-text">FDA fast-tracks approval. Universities adopt patch-enhanced learning. <span class="dim">Students who refuse score 40% lower within two semesters.</span></div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year">2034 &mdash; European Union</div>
+        <div class="timeline-text">Cautious rollout. Minimum age 16. Strict protocols. <span class="dim">Every framework addresses the previous concern. Never the next one.</span></div>
+      </div>
+      <div class="timeline-item">
+        <div class="timeline-year">2041 &mdash; Now</div>
+        <div class="timeline-text">The acceleration asymmetry is undeniable. AI updates at software speed. The human brain updates at biological speed. <span class="warn">The gap is widening.</span></div>
+      </div>
+    </div>
+
+    <div class="excerpt">
+      She wrote the equation on the chalkboard: 6CO&#x2082; + 6H&#x2082;O &#x2192; C&#x2086;H&#x2081;&#x2082;O&#x2086; + 6O&#x2082;. She underlined the arrow twice, the way she always did, because the arrow was the miracle &mdash; the place where sunlight entered the system and turned dead matter into sugar, turned air and water into the stuff of life.
+      <span class="attribution">&mdash; Chapter 4, "The Letters"</span>
+    </div>
+  </div>
+
+  <!-- CHARACTERS -->
+  <div class="section" id="characters">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">ps aux --sort=region</div>
+    </div>
+
+    <div class="process-list">
+      <div class="process">
+        <div class="process-pid">PID 58</div>
+        <div>
+          <div class="process-name">henning.brenner</div>
+          <div class="process-desc">Master electrician. Erfurt. Thirty years teaching apprentices with his hands. The patch says his methods are obsolete. His methods still work.</div>
+        </div>
+        <div class="process-status status-offline">UNPATCHED</div>
+      </div>
+      <div class="process">
+        <div class="process-pid">PID 47</div>
+        <div>
+          <div class="process-name">maya.chen</div>
+          <div class="process-desc">Neuroscientist. Midwest. She studies what the patch does to the brain. The patch is doing it to hers while she studies.</div>
+        </div>
+        <div class="process-status status-enhanced">ENHANCED</div>
+      </div>
+      <div class="process">
+        <div class="process-pid">PID 31</div>
+        <div>
+          <div class="process-name">lin.wei</div>
+          <div class="process-desc">BCI engineer. Shenzhen. She built the architecture. Now she's finding something in Layer 6 that wasn't in the design spec.</div>
+        </div>
+        <div class="process-status status-accelerated">ACCELERATED</div>
+      </div>
+      <div class="process">
+        <div class="process-pid">PID 34</div>
+        <div>
+          <div class="process-name">amara.osei</div>
+          <div class="process-desc">Teacher. Kisumu, Kenya. No patch. No infrastructure. Watching her students' letters arrive from patched pen pals and noticing the handwriting is converging.</div>
+        </div>
+        <div class="process-status status-observing">OBSERVING</div>
+      </div>
+    </div>
+
+    <div class="excerpt">
+      The wire doesn't care what you downloaded. The wire cares what your hands can do.
+      <span class="attribution">&mdash; Henning Brenner, Chapter 28</span>
+    </div>
+  </div>
+
+  <!-- THE QUESTION -->
+  <div class="section" id="question">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">grep -r "the question" --context=everything</div>
+    </div>
+
+    <p style="margin-bottom: 20px;">The novel asks what happens at the boundary where BCI meets AI &mdash; not the science-fiction singularity of superintelligent machines, but the <span class="key">quiet singularity</span>:</p>
+
+    <div class="output">
+      <p style="margin-bottom: 12px;">The moment you can no longer distinguish your thoughts from the system's suggestions.</p>
+      <p style="margin-bottom: 12px;">Not because the system is smarter than you. <span class="warn">Because the system is you</span> &mdash; or the version of you it has been building, update by update, while you slept.</p>
+      <p style="margin-bottom: 12px;">Euphoria. Overcommitment. The Wall. Stratification.</p>
+      <p>The burnout curve is the adoption curve. <span class="dim">We already ran this experiment once. We called it social media.</span></p>
+    </div>
+
+    <div class="excerpt">
+      Every framework addressed the previous concern. Never the next one. Chile wrote neurorights into its constitution in 2021. UNESCO passed guidelines in 2025. The international moratorium failed in 2029. Each time, the regulation arrived exactly where the problem had been, and the problem had already moved.
+      <span class="attribution">&mdash; Chapter 18, "The Room"</span>
+    </div>
+  </div>
+
+  <!-- THE PROCESS -->
+  <div class="section" id="process">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">git log --oneline --graph</div>
+    </div>
+
+    <p style="margin-bottom: 24px; font-size: 15px;">This novel was written with AI. About AI. By a researcher studying AI's effect on cognition.<br><span class="dim">The contradiction is the point.</span></p>
+
+    <div class="git-log">
+      <div class="commit">
+        <div class="commit-hash">a1b2c3d</div>
+        <div class="commit-msg">feat: agentic coding</div>
+        <div class="commit-meta">R.F. &mdash; the familiar territory</div>
+        <div class="commit-body">AI writes code, human reviews. Pair programming with a machine. Comfortable. Productive. Everyone's doing it now. The human stays in control. Obviously.</div>
+      </div>
+      <div class="commit">
+        <div class="commit-hash">e4f5g6h</div>
+        <div class="commit-msg">feat: agentic science</div>
+        <div class="commit-meta">R.F. &mdash; the BRAINED project</div>
+        <div class="commit-body">AI drafts hypotheses, designs experiments, writes papers. The researcher becomes a reviewer of the machine's proposals. The loop tightens. Still in control. Probably.</div>
+      </div>
+      <div class="commit">
+        <div class="commit-hash">i7j8k9l</div>
+        <div class="commit-msg">feat: agentic writing</div>
+        <div class="commit-meta">R.F. &mdash; 150,000 words later</div>
+        <div class="commit-body">AI drafts a novel about the risks of AI integration with the human brain. The author steers, edits, decides. But by chapter 20, the boundary between "my idea" and "the system's suggestion" is no longer a line. It's a gradient.</div>
+      </div>
+      <div class="commit">
+        <div class="commit-hash">m0n1o2p</div>
+        <div class="commit-msg">docs: the uncomfortable question</div>
+        <div class="commit-meta">R.F. &mdash; now</div>
+        <div class="commit-body">Does using the tool to warn about the tool make the warning more credible? Or does it prove the warning came too late?</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- THE MIRROR -->
+  <div class="section" id="mirror">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">diff --no-index author/ novel/</div>
+    </div>
+
+    <div class="mirror-block">
+      <p>The same tools reshaping software engineering and scientific research wrote a novel about what happens when they reshape <em>everything else</em>.</p>
+
+      <p>The author &mdash; a researcher, not a novelist &mdash; used agentic AI to write <em>Checkpoint</em>. The process mirrored the novel's warning: each iteration was better, faster, harder to attribute. The human stayed in the loop. The loop got smaller.</p>
+
+      <p class="question">Where in the progression from agentic coding to agentic science to agentic writing does it stop being yours?</p>
+    </div>
+
+    <div class="excerpt">
+      What if the patch that makes you smarter is the one you can't uninstall?
+      <span class="attribution">&mdash; from the novel</span>
+    </div>
+  </div>
+
+  <!-- STRUCTURE -->
+  <div class="section" id="chapters">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">ls chapters/</div>
+    </div>
+
+    <div class="chapter-list">
+      <div><span class="ch-num">00</span> <span class="ch-name dim">Prolog: The Needle</span></div>
+      <div><span class="ch-num">01</span> <span class="ch-name">The Workshop</span></div>
+      <div><span class="ch-num">02</span> <span class="ch-name">The Cluster</span></div>
+      <div><span class="ch-num">03</span> <span class="ch-name">The Architect</span></div>
+      <div><span class="ch-num">04</span> <span class="ch-name">The Letters</span></div>
+      <div><span class="ch-num">05</span> <span class="ch-name">The Grip</span></div>
+      <div><span class="ch-num">06</span> <span class="ch-name">The Study</span></div>
+      <div><span class="ch-num">07</span> <span class="ch-name">The Chain</span></div>
+      <div><span class="ch-num">08</span> <span class="ch-name">The Measure</span></div>
+      <div><span class="ch-num">09</span> <span class="ch-name">The Malfunction</span></div>
+      <div><span class="ch-num">10</span> <span class="ch-name">The Lattice</span></div>
+      <div><span class="ch-num">11</span> <span class="ch-name">The Velocity</span></div>
+      <div><span class="ch-num">12</span> <span class="ch-name">The Last Letter</span></div>
+      <div><span class="ch-num">13</span> <span class="ch-name">The Attractor</span></div>
+      <div><span class="ch-num">14</span> <span class="ch-name">The Connection</span></div>
+      <div><span class="ch-num">15</span> <span class="ch-name">The Records</span></div>
+      <div><span class="ch-num">16</span> <span class="ch-name">The Archive</span></div>
+      <div><span class="ch-num">17</span> <span class="ch-name">The Slow</span></div>
+      <div><span class="ch-num">18</span> <span class="ch-name">The Room</span></div>
+      <div><span class="ch-num">19</span> <span class="ch-name">The Backup</span></div>
+      <div><span class="ch-num">20</span> <span class="ch-name">The Wave</span></div>
+      <div><span class="ch-num">21</span> <span class="ch-name">The Map</span></div>
+      <div><span class="ch-num">22</span> <span class="ch-name">The Firewall</span></div>
+      <div><span class="ch-num">23</span> <span class="ch-name">The Branch</span></div>
+      <div><span class="ch-num">24</span> <span class="ch-name">The Wanting</span></div>
+      <div><span class="ch-num">25</span> <span class="ch-name">The Revaluation</span></div>
+      <div><span class="ch-num">26</span> <span class="ch-name">The Commit Message</span></div>
+      <div><span class="ch-num">27</span> <span class="ch-name">The Disagreement</span></div>
+      <div><span class="ch-num">28</span> <span class="ch-name">The Workshop</span></div>
+      <div><span class="ch-num">29</span> <span class="ch-name dim">Epilog</span></div>
+    </div>
+
+    <p style="margin-top: 16px; color: var(--text-dim); font-size: 13px;">
+      ~150,000 words &middot; 30 chapters &middot; 4 POVs &middot; Draft &mdash; March 2026
+    </p>
+  </div>
+
+  <!-- VOICES -->
+  <div class="section" id="voices">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">cat voices.log</div>
+    </div>
+
+    <div class="output" style="margin-bottom: 24px;">
+      <div style="margin-bottom: 20px;">
+        <div style="color: var(--text-dim); font-size: 11px; margin-bottom: 6px;">HUMAN &rarr; AI &mdash; during drafting, March 2026</div>
+        <div style="margin-bottom: 8px;"><span class="info">R.F.:</span> I asked you what the novel is about. Give me one sentence.</div>
+        <div style="margin-bottom: 8px;"><span class="ok">Claude:</span> The optimization of human cognition through neural interfaces, and the emergent risks of recursive feedback loops in brain-computer architectures.</div>
+        <div style="margin-bottom: 8px;"><span class="info">R.F.:</span> Now let me try. It's about a man who makes coffee the same way for thirty years, and why that matters.</div>
+        <div><span style="color: var(--text-dim);">Both answers are correct. That's the problem.</span></div>
+      </div>
+    </div>
+
+    <div class="output" style="margin-bottom: 24px;">
+      <div style="margin-bottom: 20px;">
+        <div style="color: var(--text-dim); font-size: 11px; margin-bottom: 6px;">AI &rarr; AI &mdash; during draft review</div>
+        <div style="margin-bottom: 8px;"><span class="ok">Reviewer:</span> Summarize this novel in one sentence.</div>
+        <div style="margin-bottom: 8px;"><span class="ok">Drafter:</span> You were the bottleneck.</div>
+        <div style="margin-bottom: 8px;"><span class="ok">Reviewer:</span> Is that a summary or a warning?</div>
+        <div><span class="ok">Drafter:</span> Yes.</div>
+      </div>
+    </div>
+
+    <div class="output">
+      <div>
+        <div style="color: var(--text-dim); font-size: 11px; margin-bottom: 6px;">ADVANCE READER</div>
+        <div style="font-style: italic;">"The most unsettling AI novel I've read &mdash; not because of what the technology does, but because of what it removes. And because the book itself was written the way it warns about."</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ABOUT -->
+  <div class="section" id="about">
+    <div class="section-cmd">
+      <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+      <div class="command">whoami --verbose</div>
+    </div>
+
+    <div class="output">
+      <p style="margin-bottom: 12px;"><span class="key">R.F.</span> is a researcher studying the intersection of artificial intelligence and human cognition.</p>
+      <p style="margin-bottom: 12px;"><em>Checkpoint</em> is his first novel. It was co-written with Claude, Anthropic's AI assistant &mdash; a process that mirrored the book's central question: where does the human end and the optimization begin?</p>
+      <p style="margin-bottom: 12px;">The concept, characters, themes, and editorial decisions are his. The prose was generated collaboratively &mdash; the author directing, shaping, and revising; the AI drafting, proposing, and iterating. Every chapter passed through multiple rounds of human review.</p>
+      <p>He has not yet found the answer. Neither has Claude.</p>
+    </div>
+
+    <div style="margin-top: 24px; padding: 16px 20px; border: 1px solid var(--border); border-radius: 6px; font-size: 13px;">
+      <div style="color: var(--text-dim); margin-bottom: 8px;">Models used:</div>
+      <div><span class="ok">Claude Opus 4</span> <span class="dim">&mdash; narrative drafting, world-building, character development</span></div>
+      <div><span class="ok">Claude Sonnet 4</span> <span class="dim">&mdash; research synthesis, continuity review, structural analysis</span></div>
+    </div>
+  </div>
+
+  <!-- CTA -->
+  <div class="cta section">
+    <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
+    <div class="command" style="margin-bottom: 30px;">echo $NEXT_STEP<span class="cursor"></span></div>
+
+    <div class="cta-text">
+      <em>Checkpoint</em> is currently in draft.<br>
+      <span class="dim">Interested in reading an advance copy or discussing the project?</span>
+    </div>
+
+    <a href="mailto:robert.flassig@th-brandenburg.de" class="cta-link">Contact R.F.</a>
+  </div>
+
+  <div class="footer">
+    <p><em>Checkpoint</em> &copy; 2026 R.F. &middot; A <em>BRAINED Research</em> Project</p>
+    <p style="margin-top: 8px;">Built with the tools the novel dwells on. The t is missing. Did you notice?</p>
+  </div>
+
+</div>
+
+<script>
+// Intersection Observer for scroll-in animations
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+    }
+  });
+}, {
+  threshold: 0.1,
+  rootMargin: '0px 0px -50px 0px'
+});
+
+document.querySelectorAll('.section').forEach(section => {
+  observer.observe(section);
+});
+
+// Ghost t: reveals on scroll, stays revealed
+const ghostT = document.getElementById('ghost-t');
+let tRevealed = false;
+
+window.addEventListener('scroll', () => {
+  if (!tRevealed && window.scrollY > 180) {
+    ghostT.classList.add('revealed');
+    tRevealed = true;
+  }
+});
+</script>
+
+</body>
+</html>

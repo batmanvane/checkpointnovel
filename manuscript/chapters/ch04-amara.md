@@ -4,17 +4,17 @@ The rain had come before dawn, the way it always did in the weeks before the lon
 
 She set her bag on the desk and opened the windows. All four of them, wooden-framed, the hinges stiff from last week's humidity. The air that came in carried the lake. Not the lake itself — Lake Victoria was three hundred meters downhill, past the garden and the fishing road — but its presence: a mineral coolness, a vegetal undercurrent, and beneath that the faint fishiness of water that held a thousand species and the livelihoods of everyone Amara had ever known. On clear mornings you could see the fishing boats from the classroom window, small dark shapes on silver water, heading out before the heat made the surface shimmer and the distance dissolve. This morning the boats were already far out. Her father's among them, probably, though she couldn't tell at this distance. He'd been fishing Victoria since before she was born, and he would fish it after she was gone, and the lake would outlast them both and not notice.
 
-She wrote the day's lesson on the chalkboard. The chalk was the cheap kind — grainy, prone to snapping mid-stroke — because the good kind had been out of stock at the supply depot in town for two months. She wrote carefully, pressing lightly, coaxing the letters out rather than forcing them. PHOTOSYNTHESIS. Then, beneath it, the equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. She underlined the arrow twice, the way she always did, because the arrow was the miracle — the place where sunlight entered the system and turned dead matter into sugar, turned air and water into the stuff of life. Every time she wrote it she thought: this is the most extraordinary sentence in science, and it fits on a chalkboard.
+She wrote the day's lesson on the chalkboard. The chalk was the cheap kind — grainy, prone to snapping mid-stroke — because the good kind had been out of stock at the supply depot in town for two months. She wrote carefully, pressing lightly, coaxing the letters out rather than forcing them. PHOTOSYNTHESIS. Then, beneath it, the equation: 6CO₂ + 6H₂O $\rightarrow$ C₆H₁₂O₆ + 6O₂. She underlined the arrow twice, the way she always did.
 
 The chalk dust settled on her fingers. She brushed them on her skirt — the blue one, the one her mother said made her look like a headmistress, which was not a compliment from a woman who believed headmistresses had forgotten how to laugh — and surveyed the room.
 
 Thirty-six desks, no two alike. Wooden, metal-legged, some with surfaces so scarred by years of pencils and elbows that the grain had been worn into shallow valleys you could feel with your fingertips. Three textbooks — Kenyan national curriculum, 2033 edition, spines cracked, pages soft from a thousand turnings — sat in a stack on the corner shelf, waiting to be distributed among six groups of six. The donated tablet occupied a cleared space on Amara's desk, connected by a fraying cable to the solar battery pack under the window. The tablet was three years old, a gift from an NGO whose name she could never remember because they had changed it twice since the donation. When the internet worked — two hours on a good day, sometimes less, sometimes not at all — students crowded around it six deep, jostling for a view, their breath fogging the screen. The rest of the time it sat dark and patient, like a window onto a room that was usually locked.
 
-The generator hummed from the storage building next door. Not the steady hum of something confident in its purpose but the slightly irregular drone of a machine that had been repaired four times this year and resented it. Amara had learned to read the generator's moods the way her father read the lake surface — by ear, by instinct. Today it sounded willing. That was enough.
+The generator hummed from the storage building next door. The slightly irregular drone of a machine that had been repaired four times this year and resented it. Amara had learned to read the generator's moods the way her father read the lake surface — by ear, by instinct. Today it sounded willing. That was enough.
 
 ---
 
-They arrived in ones and twos and threes, the way water finds its way downhill — by whatever path was available. Some came from the paved road, shoes still clean. Others came up the muddy track from Nyalenda, shoes red to the ankle, socks a lost cause. Grace Achieng arrived eating a mandazi, the sweet fried dough glistening with oil, and left a grease print on the doorframe that Amara decided not to mention. Joseph Odhiambo arrived carrying his younger sister's schoolbag as well as his own because she'd stepped on a thorn and was walking slowly behind him. Otieno Ochieng arrived last, as always, out of breath, his shirt untucked, a leaf caught in his hair from whatever shortcut he'd taken through the hedge.
+They arrived in ones and twos and threes, by whatever path was available. Some came from the paved road, shoes still clean. Others came up the muddy track from Nyalenda, shoes red to the ankle, socks a lost cause. Grace Achieng arrived eating a mandazi, the sweet fried dough glistening with oil, and left a grease print on the doorframe that Amara decided not to mention. Joseph Odhiambo arrived carrying his younger sister's schoolbag as well as his own because she'd stepped on a thorn and was walking slowly behind him. Otieno Ochieng arrived last, as always, out of breath, his shirt untucked, a leaf caught in his hair from whatever shortcut he'd taken through the hedge.
 
 "You're late," Amara said.
 
@@ -22,7 +22,7 @@ They arrived in ones and twos and threes, the way water finds its way downhill �
 
 "Sit down."
 
-He sat, grinning, and the classroom was full. Thirty-six children, aged eleven to thirteen, arranged in six groups around pushed-together desks. The room smelled of rain-damp clothing, chalk dust, the ghost of Grace's mandazi, and the particular warm-earth scent of children who had walked through red mud to get to school. It was not a clean smell. It was the smell of effort, of bodies in motion, of a morning that had already required something of everyone in the room before the first lesson began.
+He sat, grinning, and the classroom was full. Thirty-six children, aged eleven to thirteen, arranged in six groups around pushed-together desks. The room smelled of rain-damp clothing, chalk dust, the ghost of Grace's mandazi, and the warm-earth scent of children who had walked through red mud to get to school.
 
 "Today," Amara said, "we are going to learn how plants eat."
 
@@ -32,7 +32,7 @@ Thirty-six faces looked at her. Some curious. Some skeptical. One — Otieno's �
 
 The sound of thirty-six chairs scraping back across concrete was a kind of music — rough, percussive, full of the joy of children who have been told that learning will not happen at a desk. They filed out through the door and into the compound, blinking in the sudden brightness, and Amara led them around the east side of the building to the school garden.
 
-The garden was not large. A rectangle of turned earth, maybe ten meters by six, bordered by stones that the students had painted in last term's art class — blue, yellow, green, red, no two the same color because Amara had learned early that if you gave thirty-six children one instruction, you got thirty-six interpretations, and this was not a problem to be solved but a fact to be celebrated. Tomato plants climbed bamboo stakes along the back edge. Sukuma wiki — collard greens — spread their broad leaves in the middle rows. A patch of herbs occupied one corner: coriander, mint, the sharp-scented leaves Amara's mother used in her fish stew. And along the near edge, the experimental section: two rows of bean plants, one watered with lake water and one with borehole water, part of a term-long observation project that had generated more arguments than data, which was exactly how Amara wanted it.
+The garden was not large. A rectangle of turned earth, maybe ten meters by six, bordered by stones that the students had painted in last term's art class — blue, yellow, green, red, no two the same color because Amara had learned early that if you gave thirty-six children one instruction, you got thirty-six interpretations, and this was fine. Tomato plants climbed bamboo stakes along the back edge. Sukuma wiki — collard greens — spread their broad leaves in the middle rows. A patch of herbs occupied one corner: coriander, mint, the sharp-scented leaves Amara's mother used in her fish stew. And along the near edge, the experimental section: two rows of bean plants, one watered with lake water and one with borehole water, part of a term-long observation project that had generated more arguments than data, which was exactly how Amara wanted it.
 
 "Kneel down," she said. "Get close to the plants. I want you to look at the leaves."
 
@@ -58,8 +58,7 @@ They knelt. Thirty-six pairs of knees in the red mud, and not one complaint, bec
 
 "From where?"
 
-Grace pointed up, reluctantly, as if admitting the sun had anything to do with food was a concession she wasn't ready to make. Amara smiled. This was it. This was the moment. Not the moment of understanding — that would come later, unevenly, in its own time — but the moment of friction, when the mind pushed back against a new idea because the idea didn't fit the shape of what was already there. You couldn't download this moment. You had to live it.
-
+Grace pointed up, reluctantly, as if admitting the sun had anything to do with food was a concession she wasn't ready to make. Amara smiled.
 "Now," she said. "Dig up one of the bean plants. Gently. I want to see the roots."
 
 Otieno was already digging before she finished the sentence, his hands in the mud to the wrists, working the soil loose around the base of a bean plant with the focused intensity of a boy who had been given permission to get dirty in the name of science. He pulled the plant free, roots trailing, and held it up like a prize fish. Red soil clung to the root hairs in heavy clumps. A worm, disturbed, curled and uncurled in the dangling earth.
@@ -96,7 +95,7 @@ Otieno was already digging before she finished the sentence, his hands in the mu
 
 They were shouting now. Not angrily — joyfully, the way children shout when they have discovered that they disagree about something that matters, that the world is more complicated than they thought, that the person sitting next to them in the mud has a different idea and that different idea might be right or might be wrong but either way it demands an answer. Six other students had joined the argument. Someone invoked the textbook. Someone else invoked their uncle who farmed maize. A girl named Beatrice, quiet usually, suddenly announced that she had seen a YouTube video — on the tablet, during one of the internet windows — that said plants could hear music and it made them grow faster, and did that mean plants had ears, and the argument exploded outward in six directions at once, and Amara stood in the middle of it with the sun on her face and the mud on her knees and let it happen.
 
-She let it happen because this was how it worked. Not the lesson plan — the lesson plan said *introduce photosynthesis, explain the light-dependent and light-independent reactions, assign diagram from textbook page 47*. But the lesson plan was a map, and a map was not the territory. The territory was thirty-six children with dirt under their fingernails, arguing about whether roots could breathe, holding leaves up to the sun to see the veins, discovering that the world was not as simple as a formula on a chalkboard — even though the formula was true, the world was more. The formula was the skeleton. The argument was the flesh.
+She let it happen.
 
 After twenty minutes she called them back. Not because the argument was over — it would never be over; Otieno would still be insisting about roots at the end of term — but because the next part required something the argument couldn't give. She had them draw diagrams in the mud with sticks: the leaf, the stomata, the chloroplasts, the flow of water up from the roots and carbon dioxide in from the air. She walked among them, correcting, questioning, pointing. When Otieno drew the roots with little mouths on them, she didn't correct him. She asked him to explain what the mouths were doing. He thought about it for a long time — longer than a textbook would have allowed — and said, "They're drinking. Not breathing. Faith is right. But they're drinking the way you drink when you're breathing hard after running — like it's all connected."
 
@@ -104,7 +103,7 @@ It was wrong, but it was his kind of wrong, and the path from his kind of wrong 
 
 ---
 
-The school day ended at three. The students poured out of the compound like water released from a dam — scattering down the road, into the alleys of Nyalenda, toward the market, toward the lake, toward whatever waited for them in the long bright afternoon. The generator coughed once and went silent, its daily ration of fuel spent. The bougainvillea rustled in a breeze that came up from the water carrying the smell of drying fish and wood smoke from the cooking fires that were already starting in the houses below the school.
+The school day ended at three. The students poured out of the compound, scattering down the road, into the alleys of Nyalenda, toward the market, toward the lake, toward whatever waited for them in the long bright afternoon. The generator coughed once and went silent, its daily ration of fuel spent. The bougainvillea rustled in a breeze that came up from the water carrying the smell of drying fish and wood smoke from the cooking fires that were already starting in the houses below the school.
 
 Amara sat at her desk. The classroom was empty and quiet in the way that classrooms are quiet after children leave — not an absence of sound but a memory of it, the walls still holding the echo of thirty-six voices the way a bell holds its tone after the strike. Chalk dust floated in the slanted light from the west windows. The tomato leaf, forgotten, lay curled on a desk in the second row. The mud on the floor would need sweeping. She'd do it later.
 
@@ -134,17 +133,11 @@ The first letter. The handwriting was even, neither messy nor precise — a kind
 
 She turned to the signature. Tobias.
 
-She read the second letter. *Dear friends in Kisumu, This term we studied photosynthesis and I was fascinated by the efficiency of the light-dependent reactions, particularly the role of Photosystem II in water splitting. The quantum yield of photosynthesis is approximately 0.125 moles of oxygen per mole of photons absorbed, which is remarkably consistent across plant species. I know that Lake Victoria supports a diverse ecosystem and I wonder how aquatic photosynthesis contributes to the local food web.*
-
-She turned to the signature. Anna.
-
-Third letter. *Dear friends in Kisumu, Our biology class has been focused on photosynthesis. I found the chemiosmotic mechanism of ATP synthesis especially interesting — the way the proton gradient across the thylakoid membrane drives the molecular turbine of ATP synthase. It is a beautiful example of energy transduction in biological systems. Your school garden sounds like an excellent resource for studying plant biology in a practical context.*
-
-Signature: Felix.
+She read the second letter. The same fluency, the same structure, the same accomplished emptiness. She turned to the signature. Felix.
 
 Amara stopped. She put the letter down on the desk and looked at it. Felix. Felix Braun, who in the first year had sent a numbered list of twenty-three questions about Kenyan insects, who had drawn a dung beetle's leg joints with the care of a natural historian, who had wanted to know if stick insects were real or made up. This Felix now wrote about chemiosmotic mechanisms and ATP synthase and proton gradients, and he wrote about them the way everyone else wrote about them: fluently, correctly, interchangeably.
 
-She read the fourth letter, and the fifth, without looking at the names. She read them the way she read student essays when she was checking for copying — attending to the voice, the rhythm, the small choices that revealed the mind behind the words. A preference for long sentences or short ones. A habit of asking questions or making declarations. The way a person started a paragraph — with confidence, with hesitation, with a joke, with an image.
+She read the third letter, and the fourth and fifth, without looking at the names. She read them the way she read student essays when she was checking for copying — attending to the voice, the rhythm, the small choices that revealed the mind behind the words. A preference for long sentences or short ones. A habit of asking questions or making declarations. The way a person started a paragraph — with confidence, with hesitation, with a joke, with an image.
 
 There was nothing to attend to. The grammar was flawless. The vocabulary was advanced, precise, deployed with consistent accuracy. The knowledge was deep — deeper than any thirteen-year-old should have been able to command, deeper than most university students Amara had known. Each letter demonstrated comprehensive understanding of photosynthesis at a level that would have impressed her professors at Maseno. And each letter sounded exactly like the others.
 
@@ -160,7 +153,7 @@ Hannah. Hannah whose stick figures had enormous eyes. Hannah who thought photosy
 
 Hannah's Year Three letter mentioned none of these things. It mentioned the quantum efficiency of Photosystem II. It mentioned C4 carbon fixation. It mentioned nothing that was Hannah and everything that was correct.
 
-Amara sat at her desk for a long time. The light from the west windows had shifted from white to gold, and the chalk dust hung in it like something suspended in amber. A boda-boda passed on the road outside, its engine buzzing high and thin, carrying someone home. From the lake, she could hear the evening birds beginning — the long descending call of a fish eagle, the chatter of weaver birds in the fever trees along the shore. The sounds of a world that was not optimized, not perfected, not even particularly organized, but that continued to produce, out of its mud and its noise and its imperfect light, things that could not be predicted from their parts.
+Amara sat at her desk for a long time. The light from the west windows had shifted from white to gold, and the chalk dust hung in it like something suspended in amber. A boda-boda passed on the road outside, its engine buzzing high and thin, carrying someone home. From the lake, she could hear the evening birds beginning — the long descending call of a fish eagle, the chatter of weaver birds in the fever trees along the shore. The sounds of a world that continued to produce, out of its mud and its noise and its imperfect light, things that could not be predicted from their parts.
 
 She opened her laptop — the old one, the one the school shared among four teachers — and composed an email to Frau Weber. She wrote it quickly, without drafting, because the question was simple and had been forming in her for months.
 
@@ -174,7 +167,7 @@ Amara read the email twice. Then she closed the laptop and looked out the window
 
 *She can visualize anything she wants now. Why would I spend an hour drawing something badly when I can see it perfectly in my head?*
 
-Amara thought about Otieno drawing roots with little mouths in the mud. She thought about the drawing — inaccurate, imaginative, entirely his own. She thought about what it meant to draw something badly, to spend an hour failing to make your hand produce what your mind could see, and how that failure was not a flaw in the process but the process itself. The hand learned from the failure. The eye learned from the gap between intention and result. The person who drew badly a hundred times and then drew well had traveled a road that the person who could visualize perfectly had never needed to walk. And the things you found on that road — the accidents, the surprises, the wrong turns that led to unexpected places — those things were not inefficiencies. They were the point.
+Amara thought about Otieno drawing roots with little mouths in the mud. Inaccurate, imaginative, entirely his own.
 
 But she did not have the words for this yet. Not the precise words, not the ones that would make someone in Stuttgart or Shenzhen or Washington understand what she meant. She had only the feeling — the sense of something valuable disappearing so slowly that the people closest to it couldn't see it going, the way you couldn't see the lake rising until the water was at your door.
 
@@ -230,13 +223,13 @@ She wrote:
 
 *Frau Weber says Hannah can visualize anything now. She says: "Why put it on paper?" I don't know the answer. But I know the question is wrong. The point was never what ended up on the paper. The point was what happened to Hannah while she was drawing.*
 
-She closed the notebook. She did not know what it was evidence of. She did not have the vocabulary — the neuroscience, the statistics, the frameworks that a researcher in Shenzhen or a professor in the American Midwest might have used to name what she was seeing. She had only the letters, and the notebook, and the feeling that something was being lost that the people losing it could not see, because they were inside it, because the loss looked like improvement, because the water was rising so slowly that it felt like the ground was simply getting closer to the sky.
+She closed the notebook. She did not know what it was evidence of. She did not have the vocabulary — the neuroscience, the statistics, the frameworks that a researcher in Shenzhen or a professor in the American Midwest might have used to name what she was seeing. She had only the letters, and the notebook, and the feeling that something was being lost that the people losing it could not see, because the water was rising so slowly that it felt like the ground was simply getting closer to the sky.
 
 She carried the letters back to school the next morning, all of them, both bundles. She arrived early, before the students, while the compound was still quiet and the lake mist was burning off the water in pale spirals. She pinned the Year One letters on the left side of the classroom wall, beside the window, where the morning light would catch them. She pinned the Year Three letters on the right side, further from the window, in the flatter light of the room's interior. Between them, on a strip of card she'd cut from a cereal box, she wrote in thick black marker:
 
 *What Changed*
 
-Then she stood back and looked at it. The wall held both sets of letters like a museum holds artifacts — objects from two different periods, separated by time, connected by the names at the bottom of each page. Thirty names that persisted while everything above them — the voice, the humor, the strangeness, the self — converged toward a single point, the way rivers converge toward a lake, losing their individual character as they merge, becoming water, just water, undifferentiated and deep.
+Then she stood back and looked at it. The wall held both sets of letters like a museum holds artifacts — objects from two different periods, separated by time, connected by the names at the bottom of each page. Thirty names that persisted while everything above them — the voice, the humor, the strangeness, the self — converged toward a single point.
 
 She didn't know what would come of it. She didn't know who would see it, or whether seeing it would matter. She only knew that it needed to be visible — that the change needed to be pinned to a wall where it could be looked at, compared, considered by anyone who walked into this small classroom in Kisumu and was willing to stand still long enough to notice.
 

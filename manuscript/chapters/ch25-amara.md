@@ -116,7 +116,7 @@ The matatu back to Kisumu left at six in the morning — a fourteen-seat minibus
 
 Five hours. She watched Nairobi thin into suburbs, the suburbs into farmland, the farmland into the long brown shoulder of the Rift Valley escarpment, the road following the contour of the earth's lean the way a river followed gravity — not choosing but yielding. The matatu's engine strained on the downgrade with the particular whine of a machine that distrusted the hill's generosity.
 
-She slept. She woke to the smell of sugarcane — the fields outside Kericho, the air through the cracked window suddenly sweet and vegetal, the smell of photosynthesis at industrial scale. 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂. The arrow was still the miracle.
+She slept. She woke to the smell of sugarcane — the fields outside Kericho, the air through the cracked window suddenly sweet and vegetal, the smell of photosynthesis at industrial scale. 6CO₂ + 6H₂O $\rightarrow$ C₆H₁₂O₆ + 6O₂. The arrow was still the miracle.
 
 She slept again. She woke to the lake.
 
