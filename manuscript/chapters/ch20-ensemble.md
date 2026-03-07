@@ -270,7 +270,7 @@ Silence. A beat. Two beats.
 
 "What do you mean, it's not that simple?"
 
-"I mean — the lattice is structural. Maya's data. The neural architecture has already been changed. Removing the device doesn't undo the changes. The pathways are built. The attractors are — we're *in* the attractors, Marco. Taking out the hardware doesn't take us out of the valleys. It just stops new writes. The existing architecture stays."
+"I mean — *mira*, it's not like uninstalling an app. The lattice — Maya's data — the neural architecture has already been changed. The pathways are built. Into the brain. Into *my* brain. The attractors are — we're *in* the attractors, Marco. You can take out the hardware but that doesn't take us out of the valleys. It just stops new writes. The existing architecture — it stays. It's already us."
 
 "So we do nothing?"
 
@@ -342,7 +342,7 @@ Silence. The radiator clanked in Berlin. The street was quiet in Zurich. Six hun
 
 "So what's the answer?"
 
-"The answer is: partly. Partly still themselves. The question is whether they can become themselves again. Whether the plasticity windows are still open enough. Whether the lattice can be — not removed, but grown past. Whether the brain can build new paths around the old ones. Whether it's too late or just late."
+"The answer is — partly. Partly still themselves. *Parcialmente.* The question is whether — I don't know. Whether we can become ourselves again. Whether the plasticity is still — whether the brain can build new paths around the old ones. Grow past it instead of removing it. I keep coming back to that word. *Grow.* Not fix. Not revert. Grow. Whether it's too late or just late."
 
 "Can they?"
 

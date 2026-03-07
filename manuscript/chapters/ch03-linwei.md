@@ -54,7 +54,7 @@ She clicked to the next slide. A before-and-after visualization: two brain maps,
 
 She watched it register around the table. Director Huang's expression shifted from official attention to something closer to satisfaction. VP Liu stopped writing and looked at the slide. Even the government liaisons leaned forward slightly.
 
-"Users don't describe it as accessing external information," Lin Wei said. "They describe it as remembering something they already knew. That's the design target. That's what Layer 5 achieves. Knowledge delivery that's indistinguishable from native cognition."
+"Users don't describe it as accessing external information," Lin Wei said. "They describe it as remembering something they already knew. That's the target spec. That's what Layer 5 achieves. Knowledge delivery that's indistinguishable from native cognition."
 
 She clicked to the metrics summary. Latency: 12ms. Satisfaction: 94.7%. User retention: 99.2%. Net Promoter Score: 91. The numbers filled the slide like a vital signs monitor showing a healthy patient.
 

@@ -183,7 +183,7 @@ Henning's tile unfroze. He had been nodding. "She's right," he said. The two wor
 
 Maya answered. "Amara's network gives us something the baselines can't: a living reference population. Lin Wei's two hundred scans show us what brains looked like before the BCI. Amara's students show us what brains look like when they've been growing without the BCI — growing, developing, changing through normal experience. The baselines are a snapshot. Amara's population is a movie. We need both."
 
-"And the diversity within the unaugmented population is the diversity we're trying to restore," Tomas said. He leaned forward, into the frame, his face beside Sara's. "Amara's students don't all think the same way. That's the point. The lattice produces convergence — identical cognitive architecture in every user. Amara's students are the proof that without the lattice, cognitive architecture is naturally divergent. Individual. Every brain building its own paths."
+"And that's — *mira*, that's the thing," Tomas said. He leaned forward, into the frame, his face beside Sara's. "Amara's students don't all think the same way. That's the point. That's the whole — the lattice makes everyone converge, right? Same architecture, same valleys. But her students, they're all different. Every brain building its own paths. They're what we looked like. Before."
 
 "My students would be pleased to hear you describe them as naturally divergent," Amara said. "Several of them have been called worse things by the education ministry."
 
@@ -241,7 +241,7 @@ He stripped the cable.
 
 Not fast. Not showily. With the deliberate, narrated precision of a man who had taught this motion to three hundred and sixty apprentices and understood that teaching was transmitting — showing the structure rather than the speed, the process rather than the result.
 
-"Watch the wrist," he said. "Not the hand. The wrist. The rotation. A quarter turn before the second cut. That is not in any manual. I learned it from my father, who learned it from his father, who learned it in this workshop in 1962. It is stored in my cerebellum. It is personal. No other electrician rotates at this angle, because no other electrician has my father's hands filtered through my hands filtered through sixty-one years of holding things."
+"Watch the wrist," he said. "Not the hand. The wrist. The rotation. A quarter turn before the second cut. That is not in any manual. I learned it from my father, who learned it from his father, who learned it in this workshop in 1962. It is stored in my hands. It is personal. No other electrician rotates at this angle, because no other electrician has my father's hands filtered through my hands filtered through sixty-one years of holding things."
 
 He set the cable down. Picked up a second length. Held the stripper out to the camera — offering it, the way you offer a tool to an apprentice, grip first, blade away.
 
@@ -285,7 +285,7 @@ Both women stopped. Turned to his tile. The question hung in the call like a wir
 
 "Then the rehabilitation won't work," Lin Wei said. "You can't reactivate dormant pathways while the system is actively writing to the competing pathways. It's like physical therapy while the patient is still in zero gravity. You need the resistance. You need the BCI to be off."
 
-"Then we need a phase-out protocol," Sara said. She had been writing in the Moleskine. She looked up. "Not on or off. A gradient. Reduce usage over weeks. Taper. The way you taper off medication. You don't tell someone who's been on a cognitive prosthetic for six years to go cold turkey. You wean them."
+"What about a taper?" Sara said. She had been writing in the Moleskine. She looked up. "Not on or off. A gradient. Has anyone studied what happens if you reduce usage over weeks instead of switching it off?"
 
 "Is that medically sound?" Amara asked. Her voice arrived through the lag, landing in the brief silence after Sara's last word. "A taper? Has anyone studied BCI withdrawal?"
 
