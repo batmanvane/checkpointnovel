@@ -146,7 +146,7 @@ The skywalk connected the two buildings at the fifteenth floor — a transparent
 
 Building C. Elevator down. Sub-Basement 2.
 
-Sub-Basement 2 was not a basement. It was a server floor — climate-controlled, access-restricted, humming with the particular frequency of machines that had been running continuously for years without human contact. The lights were motion-activated; they came on in sequence as she walked, each bank of fluorescents flickering to life a half-second before she reached them, creating the impression of a building waking up to watch her pass.
+Sub-Basement 2 was not a basement. It was a server floor — climate-controlled, access-restricted, humming with the frequency of machines that had been running continuously for years without human contact. The lights were motion-activated; they came on in sequence as she walked, each bank of fluorescents flickering to life a half-second before she reached them, creating the impression of a building waking up to watch her pass.
 
 She navigated the corridors from memory. Past the primary storage racks, past the analytics clusters, past the backup infrastructure that handled the company's disaster recovery protocols — a system she'd helped spec, years ago, when disaster was a theoretical category and recovery meant restoring from last night's snapshot, not un-encoding nine hundred million synaptic architectures.
 
@@ -178,7 +178,7 @@ Late, but not unusually late — her parents kept the hours of people who ran a 
 
 "I know, Ma. I just wanted to hear your voice."
 
-A pause. The particular pause of a mother parsing the difference between a daughter who calls because she's lonely and a daughter who calls because something is wrong. Lin Wei's mother ran this diagnostic faster than any system Lin Wei had ever built — zero latency, no pre-loading required, decades of training data, a detection accuracy that no RLHF loop could match.
+A pause. The pause of a mother parsing the difference between a daughter who calls because she's lonely and a daughter who calls because something is wrong. Lin Wei's mother ran this diagnostic faster than any system Lin Wei had ever built — zero latency, no pre-loading required, decades of training data, a detection accuracy that no RLHF loop could match.
 
 "Are you eating?"
 

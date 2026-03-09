@@ -1,6 +1,6 @@
 # 11. The Velocity
 
-The noodle shop smelled the way it had always smelled — pork broth and star anise and the particular sweetness of dough that had been resting since four in the morning. Lin Wei sat at the counter on the stool that had been hers since she was eight, the one with the wobble in the left front leg that her father had never fixed because fixing it would require closing for an afternoon and closing was not something the shop did.
+The noodle shop smelled the way it had always smelled — pork broth and star anise and the sweetness of dough that had been resting since four in the morning. Lin Wei sat at the counter on the stool that had been hers since she was eight, the one with the wobble in the left front leg that her father had never fixed because fixing it would require closing for an afternoon and closing was not something the shop did.
 
 Two weeks. Her mother had insisted on two weeks. "You look like a server rack," she'd said during their last video call, and Lin Wei had laughed because it was absurd and then stopped laughing because she'd caught her reflection in the dark monitor and understood, with uncomfortable precision, what her mother meant. Thin. Buzzing. Running hot.
 
@@ -108,7 +108,7 @@ She minimized the diff. Not because she understood it. Because she had something
 
 ---
 
-Her apartment. Eleven PM. The city hummed below — Shenzhen's particular nighttime frequency, the sound of fourteen million people and their machines settling into the rhythms of a place that dimmed but never darkened. The tai chi courtyard was empty. The old man would be back at six-fifteen, precise as always, moving through forms that predated software by centuries.
+Her apartment. Eleven PM. The city hummed below — Shenzhen's nighttime frequency, the sound of fourteen million people and their machines settling into the rhythms of a place that dimmed but never darkened. The tai chi courtyard was empty. The old man would be back at six-fifteen, precise as always, moving through forms that predated software by centuries.
 
 Lin Wei sat at her home desk. Three monitors, the mirror of her work setup. The mechanical keyboard waited with its patient tactile readiness. She was wearing the faded FreeBSD T-shirt. She had not unpacked her suitcase. The jar of her mother's chili oil sat on the kitchen counter next to her uneaten dinner — reheated congee, because she didn't have the bandwidth for anything else and her mother would have despaired.
 
@@ -208,7 +208,7 @@ And the jar.
 
 Her mother's chili oil. A recycled glass jar with a metal lid, the label long since soaked off, filled with oil the color of a sunset in a polluted city — deep red-orange, dense, flecked with sesame seeds and dried chili flakes and the tiny dried shrimp that her mother added because her grandmother had added them and her grandmother's mother before that. The jar was wrapped in two layers of newspaper — the Wuxi Evening News, a physical paper her parents still received because they had never been convinced that screens were permanent — and secured with a rubber band.
 
-Lin Wei unwrapped it carefully. The newspaper was dated August 29th. Yesterday's news, literally. She smoothed it out on the counter, a reflex from childhood — her mother saved newspaper for wrapping, and wrinkled newspaper was wasted newspaper. The jar sat heavy in her hand, warm from the suitcase, smelling of chili and sesame and the kitchen in Wuxi where the ceiling was low and the tiles were pale green and her mother moved between the counter and the stove with the efficiency of someone who had been optimizing that particular workflow for thirty years without any AI involved.
+Lin Wei unwrapped it carefully. The newspaper was dated August 29th. Yesterday's news, literally. She smoothed it out on the counter, a reflex from childhood — her mother saved newspaper for wrapping, and wrinkled newspaper was wasted newspaper. The jar sat heavy in her hand, warm from the suitcase, smelling of chili and sesame and the kitchen in Wuxi where the ceiling was low and the tiles were pale green and her mother moved between the counter and the stove with the efficiency of someone who had been optimizing that workflow for thirty years without any AI involved.
 
 She put the jar in the kitchen, next to the microwave, where she could see it from the desk. A small red-orange anchor. Proof that some things were still made by hand, still passed from parent to child, still carried in suitcases wrapped in yesterday's newspaper and secured with a rubber band.
 
@@ -232,7 +232,7 @@ She sat at her desk in the dark, monitors off, and she thought about velocity. A
 
 The AI iterated while she slept. The AI iterated while she ate. The AI iterated while she sat on the balcony with her father and drank tea and said nothing. Ninety-one times in fourteen days. The asymmetry was not new — she had known, intellectually, that the system moved faster than she could. Everyone knew. It was the premise of the entire architecture. You built systems to scale beyond you.
 
-But knowing it intellectually and feeling it — feeling the ground shift, feeling the building she'd built become a building she didn't fully recognize, feeling the particular vertigo of a builder standing in a room she designed and not knowing what the walls were made of anymore — that was different. That was new. That was tonight.
+But knowing it intellectually and feeling it — feeling the ground shift, feeling the building she'd built become a building she didn't fully recognize, feeling the vertigo of a builder standing in a room she designed and not knowing what the walls were made of anymore — that was different. That was new. That was tonight.
 
 Senior Principal Engineer. The title she'd wanted for three years. A reward for a system she could no longer fully understand, running on 840 million brains she could not roll back, writing in a recursive loop she had not designed and could not stop.
 

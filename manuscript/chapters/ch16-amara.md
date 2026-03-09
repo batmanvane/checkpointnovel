@@ -8,11 +8,11 @@ She was on the path between the school and the communal dock, the stretch where 
 
 The phone rang again. She answered it.
 
-"Mrs. Osei?" The voice was male, careful, accented in the particular way that German-accented English was accented — the consonants too precise, the vowels slightly compressed, as if the language had been assembled from clean components rather than grown in messy soil. "My name is Markus Schreiber. I am a journalist. I write for *Die Zeit* — it is a newspaper, a weekly —"
+"Mrs. Osei?" The voice was male, careful, accented in the way that German-accented English was accented — the consonants too precise, the vowels slightly compressed, as if the language had been assembled from clean components rather than grown in messy soil. "My name is Markus Schreiber. I am a journalist. I write for *Die Zeit* — it is a newspaper, a weekly —"
 
 "I know *Die Zeit*," Amara said, which was true, approximately. Katrin read it. Katrin quoted it sometimes, using the name as a shorthand for *this is serious, this is real*.
 
-"Good. Yes. Good." A pause. The particular silence of a person choosing their words with the care of someone who understood that the wrong word could close a door. She knew that silence. She produced it herself every time she stood in front of thirty-six children and had to decide whether to correct an answer or let it breathe.
+"Good. Yes. Good." A pause. The silence of a person choosing their words with the care of someone who understood that the wrong word could close a door. She knew that silence. She produced it herself every time she stood in front of thirty-six children and had to decide whether to correct an answer or let it breathe.
 
 "Mrs. Osei, I have been in contact with Katrin Weber. Your colleague in Stuttgart. She has shown me something. The letters. The pen-pal letters between your students and hers. Six years of them."
 
@@ -68,7 +68,7 @@ The sun touched the horizon. The lake caught fire — the surface blazed, copper
 
 "Yes," she said. "Come."
 
-She stood on the path for a long time after the call ended. The phone was warm in her hand from forty minutes of contact, and the screen had gone dark, and the lake was darkening too, the copper bleeding into bronze, the bronze into violet, the violet into the deep blue-black of a tropical dusk that happened fast, that did not linger the way European dusks were said to linger but dropped like a curtain, the equator's abrupt farewell to the day. The cook-fires of Nyalenda brightened on the hillside behind her. A mother called a child's name — two syllables, sharp, specific, carrying across the rooftops with the particular authority of a voice that had called that name ten thousand times and would be recognized among a hundred voices, because it was *hers*, meant for one child, unrepeatable, unoptimizable, human.
+She stood on the path for a long time after the call ended. The phone was warm in her hand from forty minutes of contact, and the screen had gone dark, and the lake was darkening too, the copper bleeding into bronze, the bronze into violet, the violet into the deep blue-black of a tropical dusk that happened fast, that did not linger the way European dusks were said to linger but dropped like a curtain, the equator's abrupt farewell to the day. The cook-fires of Nyalenda brightened on the hillside behind her. A mother called a child's name — two syllables, sharp, specific, carrying across the rooftops with the authority of a voice that had called that name ten thousand times and would be recognized among a hundred voices, because it was *hers*, meant for one child, unrepeatable, unoptimizable, human.
 
 She picked up her bag. The folder was inside it — the manila folder, A4, the one she carried to and from school every day, the way a fisherman carries his nets even when he's not sure there will be fish. She felt it against her hip as she shifted the bag onto her shoulder, and she thought: *He said evidence. He used the same word I used. He came to it separately, from the other side of the world, through the science and the statistics, and he arrived at the same word I wrote on the tab of this folder three months ago, alone, at my desk, with the lake going dark outside.*
 
@@ -76,7 +76,7 @@ She picked up her bag. The folder was inside it — the manila folder, A4, the o
 
 ---
 
-The house was quiet. Her mother was not in the kitchen — at Mama Akinyi's, probably, or at the church committee meeting. Her father's nets were on the drying frame in the courtyard, draped in heavy folds, smelling of tilapia and water and the particular vegetal rot of lake weed caught in the mesh. The nets were wet. He had been home, then, and gone again.
+The house was quiet. Her mother was not in the kitchen — at Mama Akinyi's, probably, or at the church committee meeting. Her father's nets were on the drying frame in the courtyard, draped in heavy folds, smelling of tilapia and water and the vegetal rot of lake weed caught in the mesh. The nets were wet. He had been home, then, and gone again.
 
 Amara went to her room. Bed, desk, bookshelf, the window facing the courtyard. She sat in the chair and did nothing for a while. Outside, the evening assembled itself: the clink of dishes from a neighbor's house, the chirp of crickets beginning their nightly argument with the silence, the distant sound of the lake moving against the shore, the oldest sound, the sound that was always there whether you listened for it or not.
 
@@ -152,7 +152,7 @@ And now a journalist from *Die Zeit* was telling her that her letters — handwr
 
 Not charming. Not inefficient. Evidence. The only evidence. The record that no one else had thought to keep, because no one else had been standing where she was standing — at the intersection of two classrooms separated by three thousand kilometers and a technology gap so wide it had its own name — watching from the unenhanced side as thirty voices flattened into one and noting it down, day by day, letter by letter, in a green notebook titled *What Changed*, because she was a teacher, and noticing was what teachers did, and she had refused to stop noticing even when the world told her that what she noticed didn't count.
 
-She thought about Otieno. She thought about him arriving in an hour, late as always, out of breath, shirt untucked, a leaf in his hair. She thought about his bean plants and his root-breathing theory and his kitchen thermometer in a plastic bag. She thought about Faith and Grace and Joseph and Beatrice and all of them — thirty-six children who would pour into this room and fill it with the noise and smell and heat of thirty-six unoptimized, unenhanced, unsynchronized human beings, each one arguing from a different starting point, each one wrong in a different way, each one finding their own path to understanding the way a river finds its path to the lake — by going the long way, the hard way, the way that left mud on your knees and wrong ideas in your head and the particular knowledge that comes only from having walked the road yourself.
+She thought about Otieno. She thought about him arriving in an hour, late as always, out of breath, shirt untucked, a leaf in his hair. She thought about his bean plants and his root-breathing theory and his kitchen thermometer in a plastic bag. She thought about Faith and Grace and Joseph and Beatrice and all of them — thirty-six children who would pour into this room and fill it with the noise and smell and heat of thirty-six unoptimized, unenhanced, unsynchronized human beings, each one arguing from a different starting point, each one wrong in a different way, each one finding their own path to understanding the way a river finds its path to the lake — by going the long way, the hard way, the way that left mud on your knees and wrong ideas in your head and the knowledge that comes only from having walked the road yourself.
 
 They were what the letters used to be. Thirty-six separate voices. And she was the one who heard them.
 

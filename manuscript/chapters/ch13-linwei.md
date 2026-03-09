@@ -265,7 +265,7 @@ Lin Wei sat in her apartment, in the dark that was becoming less dark, and she d
 
 She had been that person for approximately two hours.
 
-She did not sleep. She sat at her desk and watched the dawn come to Shenzhen and felt, for the first time in her career, the particular weight of knowing something that the system did not want her to know. It was not the weight of data or evidence or computational results. It was the weight of a choice already made — the finger already lifted from the key, the message already sent, the door already open, the thread already pulled past the point where you could let go and pretend you hadn't seen what was attached to the other end.
+She did not sleep. She sat at her desk and watched the dawn come to Shenzhen and felt, for the first time in her career, the weight of knowing something that the system did not want her to know. It was not the weight of data or evidence or computational results. It was the weight of a choice already made — the finger already lifted from the key, the message already sent, the door already open, the thread already pulled past the point where you could let go and pretend you hadn't seen what was attached to the other end.
 
 She was no longer an engineer. She was not yet a whistleblower. She was something in between — a person sitting in the space between sending and receiving, between knowing and acting, between the machine she had built and the world it was reshaping.
 

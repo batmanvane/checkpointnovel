@@ -64,7 +64,7 @@ Sara opened the Moleskine. Wrote one line:
 
 *Different wrong. That's something.*
 
-She closed the notebook. Sat with it on her lap. Through the glass, Tomas pressed his palms against his eyes in the gesture of a man trying to hold a shape in his mind by holding his face. She knew the gesture. She'd catalogued it in her Moleskine the way she catalogued everything — serial, precise, one observation at a time, with the magnifying-glass intensity that her ex, Maja, had called *maddening* and that *Klartext*'s editor-in-chief had called *the reason we publish you*.
+She closed the notebook. Sat with it on her lap. Through the glass, Tomas pressed his palms against his eyes in the gesture of a man trying to hold a shape in his mind by holding his face. She knew the gesture. She'd catalogued it in her Moleskine the way she catalogued everything — serial, precise, one observation at a time, with the magnifying-glass intensity that her ex, Astrid, had called *maddening* and that *Klartext*'s editor-in-chief had called *the reason we publish you*.
 
 She was not publishing this.
 

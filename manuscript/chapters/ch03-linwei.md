@@ -138,7 +138,7 @@ She opened the first update. A modification to the temporal prediction model —
 
 The second update: a refinement to the hippocampal encoding pathway — the sequence in which Layer 5 delivered knowledge fragments to the brain's memory consolidation system. The old sequence was hers. The new one was 6% more efficient, measured by retention scores. She read the code twice. It was clean. It was correct. It was not what she would have written, but it was better.
 
-The third: a micro-adjustment to the personalization model's learning rate during sleep consolidation windows. A small change. Three lines of code. She understood what it did, understood why it was an improvement, and understood, with the particular discomfort of a builder watching her creation outgrow her, that she had not thought of it.
+The third: a micro-adjustment to the personalization model's learning rate during sleep consolidation windows. A small change. Three lines of code. She understood what it did, understood why it was an improvement, and understood, with the discomfort of a builder watching her creation outgrow her, that she had not thought of it.
 
 Three updates. Three improvements. None of them hers.
 
@@ -192,7 +192,7 @@ Her father leaned into the frame, holding the plate closer to the camera. Lion's
 
 "That's two months away. You'll be a skeleton by then."
 
-This was the script. They had been performing it, with minor variations, for ten years. Lin Wei's mother worried about food. Lin Wei's father deflected worry into humor. Lin Wei reassured them both and felt the particular tenderness of being loved by people who had no idea what she did all day but cared enormously about whether she'd eaten.
+This was the script. They had been performing it, with minor variations, for ten years. Lin Wei's mother worried about food. Lin Wei's father deflected worry into humor. Lin Wei reassured them both and felt the tenderness of being loved by people who had no idea what she did all day but cared enormously about whether she'd eaten.
 
 "How is work?" her mother asked. This was the other part of the script — the question asked out of love rather than comprehension. Her parents knew she worked at CortexLink. They knew CortexLink made the device that half of China used. Beyond that, the details dissolved into the gap between her world and theirs, the way light dissolves when it hits deep water.
 
@@ -244,7 +244,7 @@ She closed her laptop. The screen went dark. The apartment was quiet. The jade p
 
 She brushed her teeth, set her phone to charge, and went to bed. On the laptop, behind the closed lid, the anomaly tab held its place among the fourteen others. Second from the right. Waiting.
 
-Outside, Shenzhen did not sleep. The towers of Nanshan glowed against the dark, each one processing, iterating, deploying into the night. The city hummed with the particular energy of a place that had been built on the principle that tomorrow would be better than today, that speed was a virtue, that the thing to do with a working system was to ship it and move on.
+Outside, Shenzhen did not sleep. The towers of Nanshan glowed against the dark, each one processing, iterating, deploying into the night. The city hummed with the energy of a place that had been built on the principle that tomorrow would be better than today, that speed was a virtue, that the thing to do with a working system was to ship it and move on.
 
 Lin Wei slept. Her BCI — a small disk behind her left ear, under the skin, so familiar she'd stopped feeling it years ago — did not. Layer 2 pre-loaded knowledge she might need tomorrow. Layer 3 maintained its cache. Layer 4 collected the day's satisfaction data and fed it back into the optimization loop. Layer 5 — her engine, her code, her three years of work — refined its model of her brain by another fractional increment, learning her a little better, writing a little more precisely, in the language she had taught it to speak.
 

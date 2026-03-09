@@ -26,7 +26,7 @@ Alvarez moved on. Tenure re-evaluation criteria. Space allocation. The library �
 
 Maya sat through the rest of the meeting the way she sat through MRI scans — still, patient, recording. When it ended, Rajiv caught her eye and gave a small nod that meant *my office, later*. She nodded back. They had been doing this for years, the silent language of colleagues who understood each other's constraints. He couldn't protect her research forever. She couldn't stop doing it.
 
-She gathered her notebook — an actual paper notebook, spiral-bound, which she knew some of her colleagues found quaint and others found pointed — and walked out of the conference room into a hallway that smelled of floor polish and the particular staleness of a building with too much space and not enough people to breathe the air.
+She gathered her notebook — an actual paper notebook, spiral-bound, which she knew some of her colleagues found quaint and others found pointed — and walked out of the conference room into a hallway that smelled of floor polish and the staleness of a building with too much space and not enough people to breathe the air.
 
 ---
 
@@ -104,7 +104,7 @@ Maya and David had divorced four years ago, and the BCI question had been the re
 
 Maya opened the slow cooker and stirred the sauce. Steam rose, carrying the smell of tomatoes and basil and the sweetness of onions that had been cooking for eight hours. "Set the table?"
 
-Lily set the table and sat back down and picked up her phone again. At dinner she ate with one hand, scrolling with the other — the phone was her compromise, her prosthetic, the closest thing she had to what her classmates carried behind their ears. It wasn't enough. Maya could see that in the particular frustration of a girl watching a tutorial to understand something her friends had simply known, instantly, without effort, the way you know your own name.
+Lily set the table and sat back down and picked up her phone again. At dinner she ate with one hand, scrolling with the other — the phone was her compromise, her prosthetic, the closest thing she had to what her classmates carried behind their ears. It wasn't enough. Maya could see that in the frustration of a girl watching a tutorial to understand something her friends had simply known, instantly, without effort, the way you know your own name.
 
 Maya watched her daughter across the pasta and the untouched salad and thought about the BCI users she'd studied — the ones with the absent gaze, the soft unfocus of eyes looking inward, the casual certainty of people whose minds were always full. Lily didn't have that. Lily had a phone and a textbook and the growing suspicion that her mother's principles were ruining her life.
 
@@ -116,7 +116,7 @@ Lily set down her phone. Not dramatically — she wasn't a dramatic child, had n
 
 "My day was fine. My day is always fine. My day is me being the slow one in every class and pretending it doesn't matter."
 
-They looked at each other across the kitchen table, and Maya felt the particular ache of a fight that both people have already had in their heads, where the words are worn smooth from rehearsal and nothing new can break through. On the refrigerator behind Lily, held by a magnet from the Chicago Field Museum, were three of Lily's childhood drawings: a purple elephant from age six, a self-portrait from age eight with hair like a lion's mane, a watercolor of Lake Michigan from a family trip when she was ten. Lily hadn't drawn anything in over a year. Not because of a BCI — because of despair. What was the point of drawing when your classmates could visualize anything they wanted, instantly, perfectly, without lifting a pencil?
+They looked at each other across the kitchen table, and Maya felt the ache of a fight that both people have already had in their heads, where the words are worn smooth from rehearsal and nothing new can break through. On the refrigerator behind Lily, held by a magnet from the Chicago Field Museum, were three of Lily's childhood drawings: a purple elephant from age six, a self-portrait from age eight with hair like a lion's mane, a watercolor of Lake Michigan from a family trip when she was ten. Lily hadn't drawn anything in over a year. Not because of a BCI — because of despair. What was the point of drawing when your classmates could visualize anything they wanted, instantly, perfectly, without lifting a pencil?
 
 Below the drawings, held by another magnet, was the school's subsidized BCI brochure. Still sealed. Addressed to "Parent/Guardian of Lily Chen." Maya had not opened it. She had not thrown it away.
 

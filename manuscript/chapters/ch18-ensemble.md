@@ -10,7 +10,7 @@ Sara had swept the room herself. Not with equipment — she didn't have equipmen
 
 Henning arrived first. He came through the door the way he came through every door — without ceremony, his jacket already unzipped, his hands finding the back of a chair before his eyes had finished reading the room. He set a leather satchel on the table. No laptop. No tablet. A notebook, paper, a pen. He nodded at Sara. He nodded at Tomas. He sat down.
 
-Maya arrived ninety seconds later, out of breath, a laptop bag over one shoulder and a presentation clicker in her hand. Her jade pendant caught the fluorescent light as she moved — a flash of green against her black sweater, the color of something alive in a room where everything else was institutional grey. She opened the laptop. Connected to the projector. The wall turned blue with a loading screen, and the room acquired the particular atmosphere of a space about to receive information it was not designed for.
+Maya arrived ninety seconds later, out of breath, a laptop bag over one shoulder and a presentation clicker in her hand. Her jade pendant caught the fluorescent light as she moved — a flash of green against her black sweater, the color of something alive in a room where everything else was institutional grey. She opened the laptop. Connected to the projector. The wall turned blue with a loading screen, and the room acquired the atmosphere of a space about to receive information it was not designed for.
 
 "Lin Wei is ready," Maya said, checking her phone. "Amara is — " She paused. "Amara is trying."
 
@@ -196,7 +196,7 @@ Tomas could. Tomas was the inside.
 
 "I think I'm becoming someone else," he said. "Very slowly. Very efficiently. And until today, I thought it was just me getting older."
 
-Sara stopped walking. She turned to face him. The orange light caught the planes of her face, the directness of her gaze, the particular stillness of a journalist who has just heard the sentence she has been waiting for without knowing she was waiting.
+Sara stopped walking. She turned to face him. The orange light caught the planes of her face, the directness of her gaze, the stillness of a journalist who has just heard the sentence she has been waiting for without knowing she was waiting.
 
 She took out the Moleskine. She wrote something. She did not show him. She did not need to.
 

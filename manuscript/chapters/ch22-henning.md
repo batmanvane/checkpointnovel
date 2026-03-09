@@ -10,7 +10,7 @@ Three of them, in the hallway outside Workshop A, visible through the frosted gl
 
 He leaned the broom against the wall and opened the door.
 
-"Meister Brenner?" The woman. Mid-forties, short grey-brown hair, no patch behind either ear — he checked, he always checked. Wire-rimmed glasses. The kind of face that had spent more time thinking than smiling, which Henning respected. "I'm Dr. Katharina Voss, Max Planck Institute for Human Cognitive and Brain Sciences. These are my colleagues Dr. Berger and Dr. Okonkwo. We spoke on the phone."
+"Meister Brenner?" The woman. Mid-forties, short grey-brown hair, no patch behind either ear — he checked, he always checked. Wire-rimmed glasses. The kind of face that had spent more time thinking than smiling, which Henning respected. "I'm Dr. Katharina Voss, Max Planck Institute for Human Cognitive and Brain Sciences. These are my colleagues Dr. Hoffmann and Dr. Okonkwo. We spoke on the phone."
 
 They had. Four days ago. A call from Munich, routed through the Handwerkskammer — through the same office that had filed his forty-seven incident reports in a drawer that nobody opened. The Handwerkskammer had opened the drawer. That alone should have told him something extraordinary was happening, but Henning was not a man who rearranged his understanding of the world on the basis of a phone call. You tested a circuit before you trusted it.
 
@@ -48,7 +48,7 @@ Henning looked at the headset. "You want to scan them while they wire."
 
 "Why mine?"
 
-Dr. Voss exchanged a glance with Dr. Berger, who was unpacking the second case — a duplicate setup, Henning noted, because scientists apparently believed in redundancy the way electricians did. Good.
+Dr. Voss exchanged a glance with Dr. Hoffmann, who was unpacking the second case — a duplicate setup, Henning noted, because scientists apparently believed in redundancy the way electricians did. Good.
 
 "Because of your reports," she said. "And because of Dr. Chen's paper."
 
@@ -86,7 +86,7 @@ Henning looked at the clock. Seven-forty. The cohort arrived at eight-fifteen.
 
 ---
 
-They set up in the back corner of the workshop, behind the last row of benches, where the light from the windows didn't reach and where Henning stored the surplus cable spools and the broken training panels he kept meaning to repair. Dr. Berger and Dr. Okonkwo worked with the quiet efficiency of people who had deployed field equipment many times — cables routed and taped, processing units positioned on a folding table they'd brought themselves, laptop screens angled away from glare. Henning approved. They treated his workshop the way a good contractor treated someone else's site: carefully, with tape on the cables and no holes in the walls.
+They set up in the back corner of the workshop, behind the last row of benches, where the light from the windows didn't reach and where Henning stored the surplus cable spools and the broken training panels he kept meaning to repair. Dr. Hoffmann and Dr. Okonkwo worked with the quiet efficiency of people who had deployed field equipment many times — cables routed and taped, processing units positioned on a folding table they'd brought themselves, laptop screens angled away from glare. Henning approved. They treated his workshop the way a good contractor treated someone else's site: carefully, with tape on the cables and no holes in the walls.
 
 The apprentices arrived. Eight of them today — four were at their employers, the split-week schedule that vocational training in Thuringia had maintained since reunification. Of the eight, three had BCIs for their theoretical work but had trained all practical skills under Henning's method: no accessing during workshop exercises, no device-assisted motor learning. Hands on wire. Repetition until the body knew. The remaining five had BCIs for everything, practical included, trained at other workshops before transferring to Henning's program. The distinction mattered. Henning had been tracking it in his notes for three years.
 
@@ -154,7 +154,7 @@ Henning picked up his coffee. Drank. Set it down.
 
 Voss waited.
 
-"He just called it something different." He picked up a cable stripper from the bench — the school's Knipex, not Wilhelm's, but the same bloodline. Held it in his right hand. Felt the grip, the weight, the particular angle his palm made against the handle, the angle he'd carried for thirty-nine years and could not have described in degrees without a protractor and a reason.
+"He just called it something different." He picked up a cable stripper from the bench — the school's Knipex, not Wilhelm's, but the same bloodline. Held it in his right hand. Felt the grip, the weight, the angle his palm made against the handle, the angle he'd carried for thirty-nine years and could not have described in degrees without a protractor and a reason.
 
 "He called it *learning*."
 
@@ -292,7 +292,7 @@ They were resting on the desk, palms down, the way his father's hands had rested
 
 His father's hands had looked like this. Broader, maybe. The burn in a different place — Klaus had burned himself on a transformer housing, not a soldering iron, and the scar had been on the back of the hand rather than the thumb. Different hands. Different marks. Different signatures in the skin.
 
-His grandfather's hands he remembered from photographs and from the feel of them — Wilhelm's right hand closing over his, guiding the pliers, teaching a seven-year-old boy that the grip was everything and everything started with the grip. Those hands had been narrower than Klaus's, longer-fingered, with a particular bend in the left ring finger where a cable drum had caught it in 1959 and set it slightly crooked. Wilhelm had never had it straightened. *The bend reminds me to watch my fingers,* he'd told Henning once. *A scar is just a lesson your body keeps in case your head forgets.*
+His grandfather's hands he remembered from photographs and from the feel of them — Wilhelm's right hand closing over his, guiding the pliers, teaching a seven-year-old boy that the grip was everything and everything started with the grip. Those hands had been narrower than Klaus's, longer-fingered, with a bend in the left ring finger where a cable drum had caught it in 1959 and set it slightly crooked. Wilhelm had never had it straightened. *The bend reminds me to watch my fingers,* he'd told Henning once. *A scar is just a lesson your body keeps in case your head forgets.*
 
 Three generations of hands. Three sets of scars. Three grips, each distinct, each built by the ten thousand negotiations between a human body and the physical world that no device could mediate and no algorithm could standardize.
 

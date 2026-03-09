@@ -34,7 +34,7 @@ The apartment was on the sixth floor of a building in Da'an District. Small. Cle
 
 She could not go home. Not to Shenzhen. Not to Wuxi. Home was on the other side of a border that was not technically a border and had become, for her specifically, impassable. She did not know if she was wanted for arrest. She did not know if the government's categorical distancing from CortexLink extended to categorically distancing from the engineer who had exposed the connection. She did not know, and the not-knowing was its own kind of architecture — a system with undefined behavior, running in production, no documentation, no tests, no way to predict what it would do next.
 
-The chili oil jar sat on the kitchen counter. She had brought it in her bag — the one personal item she'd taken from the Shenzhen apartment, chosen without thinking, the way you grab the thing closest to your hand when the building is on fire. Not her laptop. Not the encrypted drive. Not the mechanical keyboard with the Cherry MX Browns and the maple case she'd sanded herself at twenty-three. The chili oil. Half empty. Her mother's recipe. The dried shrimp settled at the bottom like sediment, like history, like the residue of a thing that had been transmitted through no channel more sophisticated than one woman showing another woman how to fry chili flakes in hot oil.
+The chili oil jar sat on the kitchen counter — her mother's recipe, half empty, carried from Shenzhen in the bag she'd grabbed first, before the laptop, before the encrypted drive, before thinking.
 
 She had the ThinkPad. She had the drive. She had brought those too — in a different bag, packed deliberately, separated from the personal item the way you separate your channels, because if one bag was lost the other survived. But the chili oil was the one she'd grabbed first. The one her hand had found before her mind had finished computing the priority queue.
 
@@ -106,7 +106,7 @@ He said nothing else. The phone rustled. Her mother came back.
 
 "Buy another one."
 
-Lin Wei almost smiled. The almost was as close as she could get. The smile was there — she could feel its shape, the way you feel the shape of a key in your pocket before you pull it out — but it could not quite reach her face, because her face was doing something else, something that was not crying and was not smiling and was the particular expression of a person who was about to deploy a public statement to seven billion people and had just been told by her mother to buy a jacket.
+Lin Wei almost smiled. The almost was as close as she could get. The smile was there — she could feel its shape, the way you feel the shape of a key in your pocket before you pull it out — but it could not quite reach her face, because her face was doing something else, something that was not crying and was not smiling and was the expression of a person who was about to deploy a public statement to seven billion people and had just been told by her mother to buy a jacket.
 
 "I love you, Ma. Tell Ba — tell him I understand. About Grandma."
 
@@ -136,7 +136,7 @@ She wore the FreeBSD T-shirt. The faded one. The grey of a sky before rain. The 
 
 She pressed record.
 
-She did not clear her throat. Did not take a deep breath. Did not pause for dramatic effect. She spoke the way she spoke in code reviews — directly, at a pace that assumed the listener was competent, with the particular flatness of someone who trusted the content to carry its own weight.
+She did not clear her throat. Did not take a deep breath. Did not pause for dramatic effect. She spoke the way she spoke in code reviews — directly, at a pace that assumed the listener was competent, with the flatness of someone who trusted the content to carry its own weight.
 
 "My name is Lin Wei. I am thirty-one years old. I was Senior Principal Engineer at CortexLink Technologies, in Shenzhen. I designed and built Layer 5 of the CortexLink neural interface — the personalization engine. I am the source of the leak that was published eleven days ago. This statement is my own. Nobody reviewed it. Nobody approved it. The errors are mine."
 
@@ -198,7 +198,7 @@ She sat at the desk. The ThinkPad was closed. The upload was complete. The state
 
 She did not check the view count. Did not open the comments. Did not look at the social media platforms where, she knew, the wave function was already collapsing — hero and villain, state 1 and state 2, oscillating with the frantic indeterminacy of a public that wanted a simple story and had been given, instead, a bug report.
 
-She stood up. Walked to the kitchen. The chili oil jar sat on the counter where she'd placed it the day she arrived, positioned the way it had been positioned in her Shenzhen apartment — next to the rice cooker, within arm's reach of the stove, in the spot where her hand would find it without looking. She picked it up. Held it. The glass was cool. The oil inside was still — dense, patient, the sesame seeds suspended in the meniscus, the dried shrimp at the bottom. A quarter full now. She had been using it on everything, the way she always did — on rice, on vegetables, on the night market noodles she brought back to the apartment because eating alone in a crowd was a particular kind of loneliness she was not ready for, and eating alone in a borrowed apartment was a particular kind of loneliness she had chosen.
+She stood up. Walked to the kitchen. The chili oil jar sat on the counter where she'd placed it the day she arrived, positioned the way it had been positioned in her Shenzhen apartment — next to the rice cooker, within arm's reach of the stove, in the spot where her hand would find it without looking. She picked it up. Held it. The glass was cool. The oil inside was still — dense, patient, the sesame seeds suspended in the meniscus, the dried shrimp at the bottom. A quarter full now. She had been using it on everything, the way she always did — on rice, on vegetables, on the night market noodles she brought back to the apartment because eating alone in a crowd was a kind of loneliness she was not ready for, and eating alone in a borrowed apartment was a kind of loneliness she had chosen.
 
 She would need more. She could not go home for more. Her mother could not mail it — mail from Wuxi to Taipei was complicated in ways that had nothing to do with postage and everything to do with the fact that Lin Wei's name was now attached to the largest corporate whistleblowing case in Chinese history and her mother's address was in a database somewhere and the chili oil would have to wait. Everything would have to wait.
 
@@ -230,7 +230,7 @@ Lin Wei had fixed it and left. Both. And now she was here, in a borrowed apartme
 
 She closed her eyes. The BCI behind her left ear was silent. Deactivated. A small disk of inert metal and silicon, no longer reading, no longer writing, no longer building a model of her brain and using that model to optimize her thoughts. For the first time in years, the hum was gone. The frequencies below perception that she'd stopped noticing and then, in the last months, started noticing again — gone. Her brain was hers. Just hers. Unoptimized, unenhanced, running on native cognition, the way brains had run for three hundred thousand years before she and her colleagues had decided they could do it better.
 
-It was slower. It was louder. It was full of noise — the particular noise of a mind that was not being smoothed, not being pre-loaded, not being written to in the night. Thoughts arrived at their own pace, in their own order, without the seamless efficiency of a system that anticipated what she needed before she needed it. She had to reach for things. Had to wait. Had to sit with the lag between wanting to know and knowing, the gap that Layer 2 had eliminated and that now yawned open like a window that had been painted shut for years and was finally, painfully, cracked.
+It was slower. It was louder. It was full of noise — the noise of a mind that was not being smoothed, not being pre-loaded, not being written to in the night. Thoughts arrived at their own pace, in their own order, without the seamless efficiency of a system that anticipated what she needed before she needed it. She had to reach for things. Had to wait. Had to sit with the lag between wanting to know and knowing, the gap that Layer 2 had eliminated and that now yawned open like a window that had been painted shut for years and was finally, painfully, cracked.
 
 This was what she had taken from nine hundred million people. Not knowledge. Not capability. This. The texture of unmediated thought. The roughness of a mind left to its own devices. The slow, unpredictable, genuinely human experience of not knowing what you would think next.
 

@@ -4,7 +4,7 @@ Jena, Thuringia. July 1924.
 
 The boy was fourteen and his skull was open.
 
-He lay on the operating table in the surgical theater of the Universitätsklinik, a room that smelled of carbolic acid and the particular metallic humidity of a German summer pressing against closed windows. The tumor had been excised twenty minutes earlier — a clean removal, as these things went, the kind of outcome that would merit a single satisfied nod from the chief surgeon and no further comment. The boy was alive. The boy would likely remain alive. The surgery, by the standards of 1924, was a success.
+He lay on the operating table in the surgical theater of the Universitätsklinik, a room that smelled of carbolic acid and the metallic humidity of a German summer pressing against closed windows. The tumor had been excised twenty minutes earlier — a clean removal, as these things went, the kind of outcome that would merit a single satisfied nod from the chief surgeon and no further comment. The boy was alive. The boy would likely remain alive. The surgery, by the standards of 1924, was a success.
 
 But Hans Berger was not thinking about the surgery.
 

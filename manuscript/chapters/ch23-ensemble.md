@@ -221,7 +221,7 @@ He reached off-camera. There was a sound — the thunk of something being set on
 
 "That's one room. What about the other room?"
 
-Maya was quiet. On the screen, her face went through the particular transition of a scientist hearing something obvious that she had not considered, which was not the same as hearing something wrong — it was the sound of a blind spot being illuminated, and the wince was not pain but the adjustment of the eyes.
+Maya was quiet. On the screen, her face went through the transition of a scientist hearing something obvious that she had not considered, which was not the same as hearing something wrong — it was the sound of a blind spot being illuminated, and the wince was not pain but the adjustment of the eyes.
 
 "The procedural system," she said.
 
@@ -289,7 +289,7 @@ Both women stopped. Turned to his tile. The question hung in the call like a wir
 
 "Is that medically sound?" Amara asked. Her voice arrived through the lag, landing in the brief silence after Sara's last word. "A taper? Has anyone studied BCI withdrawal?"
 
-Silence. The particular silence of six people realizing that nobody had studied BCI withdrawal because until eight weeks ago nobody had acknowledged that the BCI was something you could withdraw from.
+Silence. The silence of six people realizing that nobody had studied BCI withdrawal because until eight weeks ago nobody had acknowledged that the BCI was something you could withdraw from.
 
 "No," Maya said. "Nobody has studied it. We'll need to design the taper protocol as part of the study. This is — " She rubbed her forehead. The jade pendant swung. "This is another unknown. Add it to the list."
 
@@ -327,7 +327,7 @@ The room — the call — was very quiet. Lin Wei's tile was motionless. Maya's 
 
 "The world needs a protocol that's fair."
 
-They looked at each other through twelve thousand kilometers of fiber optic cable and the particular friction of two women who were both right in ways that could not be simultaneously optimized — because optimization was what had caused the problem, and the solution could not be built by the same logic that built the disease.
+They looked at each other through twelve thousand kilometers of fiber optic cable and the friction of two women who were both right in ways that could not be simultaneously optimized — because optimization was what had caused the problem, and the solution could not be built by the same logic that built the disease.
 
 Sara wrote something in the Moleskine. She did not read it aloud. Tomas saw it. His eyebrows rose. He said nothing.
 
@@ -343,7 +343,7 @@ They argued about data control for twenty-two minutes. Who held the encryption k
 
 Lin Wei wanted decentralized storage — the baselines on three servers on three continents, no single point of failure, no single point of access. Maya wanted centralized analysis — one team running the interpretability tools, one lab doing the scans, consistency of method across all subjects. Henning wanted to know who decided what happened to his apprentices' data if the project was shut down. Amara wanted community ownership — the data from her schools belonging to her schools, accessible to her schools, deletable by her schools.
 
-They negotiated. Not smoothly. Not efficiently. With the particular friction of four people who had different fears and different priorities and different definitions of the word *safe*. Lin Wei's safety was cryptographic — encryption, redundancy, access control. Maya's safety was methodological — IRB approval, informed consent, peer review. Henning's safety was personal — the name and face of the person responsible, reachable by phone, answerable by name. Amara's safety was communal — the community's right to refuse, to withdraw, to burn the data and walk away.
+They negotiated. Not smoothly. Not efficiently. With the friction of four people who had different fears and different priorities and different definitions of the word *safe*. Lin Wei's safety was cryptographic — encryption, redundancy, access control. Maya's safety was methodological — IRB approval, informed consent, peer review. Henning's safety was personal — the name and face of the person responsible, reachable by phone, answerable by name. Amara's safety was communal — the community's right to refuse, to withdraw, to burn the data and walk away.
 
 They could not agree on a single architecture that satisfied all four definitions. They agreed on an architecture that partially satisfied each one, which was worse by every individual metric and better by the only metric that mattered: it was an architecture that four people from four continents could live inside without anyone's definition of safety being violated beyond their tolerance.
 
@@ -454,7 +454,7 @@ Sara closed her Moleskine. She had filled seven pages. She would not publish any
 
 Tomas pressed his fingers behind his ear. The patch was warm. The device was running. It was always running. But the protocol existed now — a document, version-controlled, four contributors, stored on three servers and a USB drive, describing a method by which the thing the device had written might be grown past, grown around, grown beyond, by the same plasticity the device had used to write it, turned now to a different purpose, aimed now at a different branch.
 
-Not reversal. Not erasure. Not the fantasy of going back to before. The honest, difficult, unoptimizable work of going forward differently.
+No undo. No clean slate. Just the slow, deliberate labor of branching — carrying everything forward while choosing to grow somewhere new.
 
 "Same time next week?" Maya asked.
 

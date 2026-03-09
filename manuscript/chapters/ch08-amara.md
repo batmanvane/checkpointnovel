@@ -2,7 +2,7 @@
 
 They came on a Wednesday, in a white Land Cruiser with African Union plates and tinted windows that reflected the school compound back at itself — the yellow walls, the bougainvillea, the dusty football pitch — as if the vehicle were already deciding what to see and what to leave out.
 
-Amara heard them before she saw them. The engine had a particular diesel authority, the sound of an organization that could afford fuel, and it idled in the school's gravel lot for a full minute before the doors opened, the air conditioning exhaling into the morning heat like a sigh of relief. Three people emerged. Two men, one woman. All in pressed clothes — linen trousers, collared shirts, the woman in a navy blazer despite the thirty-two degrees. Lanyards around their necks, laminated badges catching the light. Tablets in hand, already glowing. They moved across the compound with the careful steps of people whose shoes were not designed for red laterite dust, picking their way between the puddles left by last night's rain the way herons pick through shallows — precise, unhurried, slightly elevated above their surroundings.
+Amara heard them before she saw them. The engine had a diesel authority, the sound of an organization that could afford fuel, and it idled in the school's gravel lot for a full minute before the doors opened, the air conditioning exhaling into the morning heat like a sigh of relief. Three people emerged. Two men, one woman. All in pressed clothes — linen trousers, collared shirts, the woman in a navy blazer despite the thirty-two degrees. Lanyards around their necks, laminated badges catching the light. Tablets in hand, already glowing. They moved across the compound with the careful steps of people whose shoes were not designed for red laterite dust, picking their way between the puddles left by last night's rain the way herons pick through shallows — precise, unhurried, slightly elevated above their surroundings.
 
 Dr. Mwangi met them at the gate. She could see him from her classroom window, shaking hands, gesturing toward the buildings with the pride of a man showing his house to guests who might decide its value. He had ironed his shirt. She had never seen him iron his shirt for a Tuesday staff meeting. He had also, she noticed, positioned himself so that the school garden was behind him rather than the storage shed, where the roof had been leaking since February and the wall bore a water stain in the shape of something Joseph Odhiambo insisted was a map of Tanzania.
 
@@ -22,7 +22,7 @@ He sat, but his attention was already gone, pulled toward the window and the whi
 
 ---
 
-Dr. Mwangi brought them to her classroom at ten-fifteen, during the break between biology and mathematics. The children were in the compound — the sound of them drifting through the open windows like weather, shouts and laughter and the particular percussive slap of a football being kicked on hard-packed earth. Someone was singing. Someone else was telling them to stop singing. A normal ten-fifteen.
+Dr. Mwangi brought them to her classroom at ten-fifteen, during the break between biology and mathematics. The children were in the compound — the sound of them drifting through the open windows like weather, shouts and laughter and the percussive slap of a football being kicked on hard-packed earth. Someone was singing. Someone else was telling them to stop singing. A normal ten-fifteen.
 
 "Mrs. Osei," Dr. Mwangi said, and she could hear the formality he'd put on like his ironed shirt, "these are our visitors from the African Union's Education Technology Assessment Programme. Dr. Onyango, Mr. Kimathi, and Ms. Abara. They're evaluating schools in the Lake Region for the BCI Readiness Initiative."
 
@@ -30,7 +30,7 @@ She shook their hands. Dr. Onyango's grip was firm, professional, the handshake 
 
 "We'd love to hear about your outcomes," Dr. Onyango said. He had taken a seat — her chair, the one behind her desk, which she had not offered but which he occupied with the unselfconscious authority of a man accustomed to sitting wherever the best vantage point was. She stood. It didn't bother her. She was used to standing. Standing was how she taught.
 
-"Outcomes," she repeated. The word had a particular taste in the context of this room — clinical, imported, like a spice that didn't belong in the dish but had been added because a recipe somewhere required it.
+"Outcomes," she repeated. The word had a taste in the context of this room — clinical, imported, like a spice that didn't belong in the dish but had been added because a recipe somewhere required it.
 
 "Exam results, completion rates, any special programs. We're building a baseline profile for each school in the assessment zone."
 
@@ -176,7 +176,7 @@ She wrote the words in the notebook and underlined them. The pen pressed hard en
 
 She did not write what. She did not have the word for it yet — did not have the framework, the data, the precise language that would make someone in Nairobi or Addis Ababa or Shenzhen stop and listen. She had only the letters on the wall and the notebook in her hand and the unarticulated certainty that something was being lost on the other side of the gap, something that the metrics could not see because the metrics were not designed to look for it, the way a net designed for tilapia cannot catch the current.
 
-The last light left the lake. It went the way it always went — not gradually but in a final pulse, the horizon swallowing the sun in one slow exhalation, and then the water was dark and the sky was dark and the only light was the cooking fires of Nyalenda, scattered across the hillside below the school like earthbound stars, each one a family, a meal, a particular arrangement of hands and food and fire that had never been assembled in quite that way before and would not be again.
+The last light left the lake. It went the way it always went — not gradually but in a final pulse, the horizon swallowing the sun in one slow exhalation, and then the water was dark and the sky was dark and the only light was the cooking fires of Nyalenda, scattered across the hillside below the school like earthbound stars, each one a family, a meal, an arrangement of hands and food and fire that had never been assembled in quite that way before and would not be again.
 
 *Mwangi wants BCI for the school. He is not wrong about the gap. He is wrong about what closes it.*
 

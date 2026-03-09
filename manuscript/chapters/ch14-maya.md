@@ -44,11 +44,11 @@ She typed: *Tomorrow. Midnight. Send the link.*
 
 The video call connected at 12:03 AM, which was 1:03 PM in Shenzhen, and the three-minute delay was because Maya had spent those three minutes standing in the doorway of Room 314 with her hand on the light switch, trying to decide whether she was about to do something brave or something stupid. She decided it was both and sat down.
 
-The screen resolved. A woman, early thirties, in a small apartment — clean desk, three monitors behind her, all dark. A jade plant on the windowsill, its leaves catching daylight from a window Maya couldn't see. The woman wore a faded T-shirt with a logo Maya didn't recognize and had the particular stillness of someone who was used to sitting in front of screens for twelve hours at a stretch. Behind her left ear, barely visible, the skin-colored disk of an implanted BCI.
+The screen resolved. A woman, early thirties, in a small apartment — clean desk, three monitors behind her, all dark. A jade plant on the windowsill, its leaves catching daylight from a window Maya couldn't see. The woman wore a faded T-shirt with a logo Maya didn't recognize and had the stillness of someone who was used to sitting in front of screens for twelve hours at a stretch. Behind her left ear, barely visible, the skin-colored disk of an implanted BCI.
 
 "Dr. Chen." The voice was clear, slightly accented, with the cadence of someone who thought faster than she spoke. "I'm Lin Wei. Senior Principal Engineer, CortexLink. Or I was, until about six hours ago. I submitted my resignation this morning."
 
-Maya studied her through the screen. The face was composed but not calm — there was a tightness around the eyes, the look of a person who had made a large decision recently and was still vibrating from the impact. The jade plant behind her threw a small shadow across the desk, and Maya noticed, with the pattern-recognition that was her particular gift and curse, that the plant was healthy. Well-watered. Cared for. This was a person who maintained things.
+Maya studied her through the screen. The face was composed but not calm — there was a tightness around the eyes, the look of a person who had made a large decision recently and was still vibrating from the impact. The jade plant behind her threw a small shadow across the desk, and Maya noticed, with the pattern-recognition that was her gift and curse, that the plant was healthy. Well-watered. Cared for. This was a person who maintained things.
 
 "Why did you resign?"
 
@@ -216,7 +216,7 @@ She underlined *maybe* twice. She wanted to remember what hope felt like when it
 
 On one monitor, the lattice visualization glowed — five brains, five instances of the same impossible architecture. On the other monitor, an email was downloading: Lin Wei's attractor map, sent during the call, the phase-space diagram with its deep valleys and steep walls. Maya arranged the two windows side by side. Left screen: the structure. Right screen: the dynamics. The anatomy and the physics. The thing growing in the brain and the mathematical landscape it was growing toward.
 
-Two halves of the same catastrophe, rendered in false color on two screens in a dark lab in the Midwest, while the campus slept and the town slept and 840 million people around the world slept with devices behind their ears, their brains running the recursive loop, the lattice growing, the attractors pulling, the spiral tightening.
+Two halves of the same catastrophe, rendered in false color on two screens in a dark lab in the Midwest, while the campus slept and the town slept and 900 million people around the world slept with devices behind their ears, their brains running the recursive loop, the lattice growing, the attractors pulling, the spiral tightening.
 
 Maya looked at the two screens. She looked at the corkboard. She looked at the "World's Okayest Scientist" mug, empty, cold, bearing the fingerprints of a daughter who had given it with love and who was sleeping right now in a house on Maple Street with an un-signed brochure on the kitchen table and thirty-four days left on a clock that Maya now understood was not just counting down to a deadline but counting down to the moment when Lily's still-developing prefrontal cortex — the last region to mature, the most plastic, the most vulnerable — would be opened to a system that would begin building a lattice in the tissue that was still, for thirty-four more days, entirely and irreplaceably her own.
 

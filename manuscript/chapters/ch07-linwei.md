@@ -20,7 +20,7 @@ She had User 7's logs open on her left monitor, User 12's on her center, and a d
 
 She blinked. Took a sip of cold tea that tasted like regret.
 
-The signal processing wasn't just reading. It was — she squinted, scrolled, squinted again — it was adapting its write parameters based on read quality. Which made sense. Of course it made sense. If you're sending information to a brain through a neural interface, you want to optimize the signal for that particular brain's receptive characteristics. That was literally in the design doc. She'd probably approved it herself, in some sprint review she barely remembered, back when she was still trying to keep up with the AI team's deployment velocity.
+The signal processing wasn't just reading. It was — she squinted, scrolled, squinted again — it was adapting its write parameters based on read quality. Which made sense. Of course it made sense. If you're sending information to a brain through a neural interface, you want to optimize the signal for that brain's receptive characteristics. That was literally in the design doc. She'd probably approved it herself, in some sprint review she barely remembered, back when she was still trying to keep up with the AI team's deployment velocity.
 
 She pulled up the commit history. Seventeen contributors. Forty-one merged PRs in the last quarter alone.
 

@@ -2,7 +2,7 @@
 
 The phone rang at eight-forty in the morning, and Henning almost didn't answer it.
 
-He was standing in his kitchen on Andreasstrasse, third floor, the Moka pot on the stove just starting to hiss. The autumn dark was still in the windows — late October in Thuringia, the sun arriving with the reluctance of a man who knows his shift is almost over. Through the balcony door he could see the Domberg lit up against the grey, the cathedral and the Severikirche holding their floodlit positions above the Altstadt like two old tradesmen who'd been on the job so long they'd become part of the infrastructure. The coffee was thirty seconds from ready. He could feel it in the pot's vibration, the pitch of the steam, the way the hissing climbed toward the particular frequency that meant the water had found its way through the grounds and was about to announce itself. Thirty years of the same Moka pot had taught him that frequency the way thirty-nine years of wiring had taught him the hum of a live conductor: not by thinking about it, but by standing near it long enough.
+He was standing in his kitchen on Andreasstrasse, third floor, the Moka pot on the stove just starting to hiss. The autumn dark was still in the windows — late October in Thuringia, the sun arriving with the reluctance of a man who knows his shift is almost over. Through the balcony door he could see the Domberg lit up against the grey, the cathedral and the Severikirche holding their floodlit positions above the Altstadt like two old tradesmen who'd been on the job so long they'd become part of the infrastructure. The coffee was thirty seconds from ready. He could feel it in the pot's vibration, the pitch of the steam, the way the hissing climbed toward the frequency that meant the water had found its way through the grounds and was about to announce itself. Thirty years of the same Moka pot had taught him that frequency the way thirty-nine years of wiring had taught him the hum of a live conductor: not by thinking about it, but by standing near it long enough.
 
 The phone was on the counter. The number was international. American prefix. No name.
 
@@ -20,7 +20,7 @@ He picked up.
 
 "Herr Brenner?" A woman's voice. American accent, speaking English. Careful, the way people spoke when they knew they were calling a stranger and expected to be hung up on. "My name is Dr. Maya Chen. I'm a neuroscientist at Lakeview State University, in the United States. I'm sorry to call so early. I found your name through the EU vocational education network — your reports on apprentice behavioral changes. I was hoping we could talk."
 
-Henning leaned against the counter. The stoneware mug radiated warmth into his palm. Outside, the delivery van had finished reversing and was now idling, its engine ticking in the particular rhythm of a diesel that needed its injectors cleaned.
+Henning leaned against the counter. The stoneware mug radiated warmth into his palm. Outside, the delivery van had finished reversing and was now idling, its engine ticking in the rhythm of a diesel that needed its injectors cleaned.
 
 "Which reports," he said.
 
@@ -106,7 +106,7 @@ He paused. Looked out the window. The Domberg was starting to fade into the morn
 
 "Changed how?"
 
-"Lukas used to tie his cable ties in a particular way. Every electrician does it differently — the angle of the cut, how tight you pull, whether you leave the tail or trim it flush. Lukas had a twist. He'd loop the tail under and pull it back through before trimming. Not in any manual. Not taught. Something he'd figured out on his own, probably from watching his father, probably without knowing he was doing it. It made a small bump at the junction, barely visible, but I could pick a Lukas cable tie out of a bundle of fifty. The way you can pick a person's handwriting out of a stack of letters."
+"Lukas used to tie his cable ties in a specific way. Every electrician does it differently — the angle of the cut, how tight you pull, whether you leave the tail or trim it flush. Lukas had a twist. He'd loop the tail under and pull it back through before trimming. Not in any manual. Not taught. Something he'd figured out on his own, probably from watching his father, probably without knowing he was doing it. It made a small bump at the junction, barely visible, but I could pick a Lukas cable tie out of a bundle of fifty. The way you can pick a person's handwriting out of a stack of letters."
 
 He stopped. The kitchen was very quiet.
 
@@ -146,7 +146,7 @@ He pulled the bottom drawer. It stuck, as it always did — the runner was worn,
 
 Thirty years.
 
-Thirty years of teaching notes looked back at him. Handwritten, most of them, on the same lined paper the school had stocked since reunification. The stack was perhaps twenty centimeters deep, not counting the carbon copies filed vertically along the left side of the drawer, yellow and tissue-thin, a paper archive of every incident report he'd submitted to the Handwerkskammer since 1997. Forty-seven reports in all. None acknowledged. None answered. Each one filed in the chamber's system and forgotten, like a letter dropped into a well.
+Thirty years of teaching notes looked back at him. Handwritten, most of them, on the same lined paper the school had stocked since reunification. The stack was perhaps twenty centimeters deep, not counting the carbon copies filed vertically along the left side of the drawer, yellow and tissue-thin, a paper archive of every incident report submitted to the Handwerkskammer since 1997 — the first fourteen years in his father's handwriting, then his own from 2011 onward. Forty-seven reports in all. None acknowledged. None answered. Each one filed in the chamber's system and forgotten, like a letter dropped into a well.
 
 But the teaching notes were different. The teaching notes were his.
 
@@ -166,7 +166,7 @@ He turned the pages. The observations became denser, the handwriting tighter, th
 
 *Cohort 2025. 10 apprentices, 10 with BCI. First cohort with no unaugmented students. Convergence immediate. No individual variation in practical technique after Day 1. Zero. Teaching feels like programming. I show them once. They all do it the same way. But not my way. Their way. A way nobody taught. A way they all arrive at simultaneously, from different starting points, like water finding the same drain.*
 
-He was holding the notes in both hands now, standing in his room, the drawer open, the morning light coming through the courtyard window and falling on paper that smelled of old wood and graphite and the particular mustiness of knowledge stored in a physical medium by a man who didn't trust any other kind.
+He was holding the notes in both hands now, standing in his room, the drawer open, the morning light coming through the courtyard window and falling on paper that smelled of old wood and graphite and the mustiness of knowledge stored in a physical medium by a man who didn't trust any other kind.
 
 "I have notes," he said into the phone, which he'd tucked between his ear and shoulder the way he tucked a pencil — a habit from decades of needing both hands free. "Thirty years of teaching notes. Observations about how apprentices' work changed. When the convergence started. How it progressed. Cohort by cohort, year by year."
 
@@ -186,7 +186,7 @@ And there it was. The ask. The door that always opened after the compliment, the
 
 "Because I described what you've been seeing," Maya said. "And nobody has done that before."
 
-The answer was plain. No flattery, no appeal to the greater good, no promise of co-authorship or acknowledgment or the particular currency that academics traded among themselves while tradesmen did the work. Just the fact. She had described what he'd been seeing. The lattice. The convergence. The way a young man's cable-tie twist disappeared when the device came back online. She had described it not in his language but in hers, and the two languages said the same thing, the way German and English say the same thing when they're both talking about a wire that's carrying current it shouldn't be carrying.
+The answer was plain. No flattery, no appeal to the greater good, no promise of co-authorship or acknowledgment or the currency that academics traded among themselves while tradesmen did the work. Just the fact. She had described what he'd been seeing. The lattice. The convergence. The way a young man's cable-tie twist disappeared when the device came back online. She had described it not in his language but in hers, and the two languages said the same thing, the way German and English say the same thing when they're both talking about a wire that's carrying current it shouldn't be carrying.
 
 He looked at the notes in his hands. The small, precise handwriting. The protractor measurements. The margin drawings. The thirty-year record of a trade observed by a man who loved it enough to notice when it started to change.
 
@@ -212,7 +212,7 @@ He set the stack on the kitchen table. Twenty centimeters of paper, thirty years
 
 The coffee was ready. He poured it, drank half standing at the counter, and then pulled out a chair and sat down with the stack.
 
-The first step was to sort. Not all of it was relevant. The early years — 1997 through 2010 — were standard teaching notes. Lesson plans, exam analyses, supply orders, the administrative sediment of a career in vocational education. Useful as a baseline, Maya might say. Evidence of what normal looked like before the abnormal arrived. He set those aside in a separate pile.
+The first step was to sort. Not all of it was relevant. The early years — 1997 through 2010 — were his father's notes, inherited along with the desk and the drawer and the ten-degree pull technique. Standard teaching notes. Lesson plans, exam analyses, supply orders, the administrative sediment of a career in vocational education. Useful as a baseline, Maya might say. Evidence of what normal looked like before the abnormal arrived. He set those aside in a separate pile.
 
 2011 through 2018: the transition years. The first BCIs appearing in his workshop, one or two per cohort, then four, then seven. His notes from this period were observational but unsystematic — he hadn't yet understood that he was documenting something. He'd noticed things. Noted them. The way an electrician notices a hum in a panel and makes a mental note to check it later. The hum hadn't been loud enough yet to warrant a proper investigation.
 

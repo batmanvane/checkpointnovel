@@ -88,7 +88,7 @@ She looked at the mess. She looked at him.
 
 He said nothing.
 
-She swore. A single word, quiet but precise — *Scheiße* — delivered with the particular Thuringian inflection that turned the word from profanity into punctuation. The same inflection Henning's grandfather had used when a cable drum slipped its brake. A fact had been encountered. The cable was ruined. This was noted. Now you moved on.
+She swore. A single word, quiet but precise — *Scheiße* — delivered with the Thuringian inflection that turned the word from profanity into punctuation. The same inflection Henning's grandfather had used when a cable drum slipped its brake. A fact had been encountered. The cable was ruined. This was noted. Now you moved on.
 
 She picked up a fresh cable. Positioned it. Pressed. Pulled.
 
