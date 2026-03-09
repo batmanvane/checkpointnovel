@@ -308,7 +308,7 @@ But tonight was tonight. Tonight, the jasmine bloomed early in Wuxi. Tonight, he
 
 Lin Wei closed her eyes.
 
-For the first time in chapters, she slept.
+For the first time in weeks, she slept.
 
 The BCI wrote. The city hummed. The encrypted packages sat on servers she would never visit, in cities she might never see, holding data that would change the shape of every conversation about every brain on the planet. The chili oil glowed. The jade plant grew. The construction crane on Keyuan Road held its arm against the sky like a question mark, waiting for morning, waiting for the crews, waiting for the next layer.
 

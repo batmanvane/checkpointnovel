@@ -6,7 +6,7 @@ Maya was in Room 314, running the lattice density comparisons for the third time
 
 Her laptop chimed. She glanced at it the way you glance at a ringing phone during surgery — annoyed, distracted, already dismissing it. An encrypted email, routed through a provider she didn't recognize, from an address that was a string of characters rather than a name. No subject line. The body was three sentences:
 
-*Dr. Chen. I have read your rejected paper. I know why the lattice is growing.*
+*Dr. Chen — I know why your subjects converged. I built the reason. We need to talk.*
 
 Maya closed the email. Opened it again. Read it a fourth time. Then she did what any reasonable scientist would do when confronted with an anonymous message claiming to explain her unpublished, rejected research: she assumed it was garbage.
 
@@ -44,7 +44,7 @@ She typed: *Tomorrow. Midnight. Send the link.*
 
 The video call connected at 12:03 AM, which was 1:03 PM in Shenzhen, and the three-minute delay was because Maya had spent those three minutes standing in the doorway of Room 314 with her hand on the light switch, trying to decide whether she was about to do something brave or something stupid. She decided it was both and sat down.
 
-The screen resolved. A woman, early thirties, in a small apartment — clean desk, three monitors behind her, all dark. A jade plant on the windowsill, its leaves catching daylight from a window Maya couldn't see. The woman wore a faded T-shirt with a logo Maya didn't recognize and had the particular stillness of someone who was used to sitting in front of screens for twelve hours at a stretch. Behind her left ear, barely visible, the skin-colored patch of a BCI.
+The screen resolved. A woman, early thirties, in a small apartment — clean desk, three monitors behind her, all dark. A jade plant on the windowsill, its leaves catching daylight from a window Maya couldn't see. The woman wore a faded T-shirt with a logo Maya didn't recognize and had the particular stillness of someone who was used to sitting in front of screens for twelve hours at a stretch. Behind her left ear, barely visible, the skin-colored disk of an implanted BCI.
 
 "Dr. Chen." The voice was clear, slightly accented, with the cadence of someone who thought faster than she spoke. "I'm Lin Wei. Senior Principal Engineer, CortexLink. Or I was, until about six hours ago. I submitted my resignation this morning."
 
@@ -204,7 +204,7 @@ She sat in the silence for a long time.
 
 The fluorescent light hummed. The broken fMRI machine cast its shadow. The corkboard held its evidence — but the evidence looked different now. Not because anything had changed on the board, but because the frame had changed. The lattice visualizations, which had been a mystery for three months, were now the structural correlate of a recursive feedback loop she could describe in five layers and a spiral. The convergence cluster, which had been a statistical anomaly for four months, was now the behavioral expression of attractor dynamics she could plot in phase space. The rejection letter, which had been a wound, was now — she considered this — data. Evidence that the system's convergent effects extended to the peer review process itself. Three reviewers who wrote like the same person, because they might have been thinking like the same person, because the lattice in their prefrontal cortices might have been guiding them toward the same attractor state: *this research is not important.*
 
-Maya picked up her spiral-bound notebook. Opened it to a fresh page. She wrote the date — July 28, 2041 — and below it, in her left-leaning hand:
+Maya picked up her spiral-bound notebook. Opened it to a fresh page. She wrote the date — October 16, 2041 — and below it, in her left-leaning hand:
 
 *Full chain confirmed. Five layers + recursive feedback = structural rewriting of prefrontal cortex. Lattice = infrastructure. Attractors = destination. Chain = mechanism. Confirmed by L.W. (CortexLink, Layer 5 architect, resigned). Baselines incoming. Interpretability tools outgoing.*
 

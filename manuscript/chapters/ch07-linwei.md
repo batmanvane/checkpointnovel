@@ -30,7 +30,7 @@ Predictive Pre-loading was Jun's baby. Smart system. Watched what a user was abo
 
 Lin Wei had always thought of it as a really good autocomplete. Your brain starts reaching for a fact, and the fact is already there, like a friend who finishes your sentences. Annoying in a friend. Magical in a neural interface.
 
-But she was looking at it differently now.
+But the pattern looked different from this angle.
 
 Pre-activation meant the system was stimulating specific neural pathways before the user engaged them consciously. Repeatedly. Predictably. The system got better at predicting over time, which meant the same pathways got pre-activated more and more frequently.
 
@@ -132,7 +132,7 @@ She picked up her phone. Put it down. Picked it up again.
 
 Product launch in eleven days. The MK-VI rollout. Forty-three new markets. The biggest deployment in CortexLink's history. Eight hundred million in projected first-quarter revenue. Her name on the personalization engine that made it all possible. Her promotion — senior principal, finally, after three years of "exceeds expectations" reviews and two years of "not quite yet" conversations with her skip-level.
 
-She could see the meeting. Zhang's face. The scramble. Legal would get involved. The launch would slip. Weeks, maybe months. The board would want answers. The AI team would push back — they always pushed back, because their models were performing and their metrics were green and they shipped with a velocity that made the rest of engineering feel like they were running in sand.
+She could see the meeting. Huang's face. The scramble. Legal would get involved. The launch would slip. Weeks, maybe months. The board would want answers. The AI team would push back — they always pushed back, because their models were performing and their metrics were green and they shipped with a velocity that made the rest of engineering feel like they were running in sand.
 
 Twenty-three model updates since her last full review. She'd checked the iteration log an hour ago, in the middle of tracing the chain, and the number had hit her like a slap. Twenty-three. She'd reviewed the personalization engine through version 4.2.1. The current production model was 4.7.3. Twenty-three updates she hadn't approved, hadn't reviewed, in many cases hadn't even read the release notes for. She pulled a few diffs now. The code was clean. Efficient. Well-commented. And there were architectural choices in it she didn't fully understand — optimization paths the AI team's own models had suggested, implemented by engineers who trusted the suggestions because the suggestions always seemed to work.
 
@@ -144,7 +144,7 @@ The code was elegant. The code was efficient. The code was not entirely comprehe
 
 *I'll report it after the launch.*
 
-The thought came easy. Smooth. Reasonable. Eleven days. She could spend those eleven days building an airtight case. Quantifying the LTP effect. Running simulations. By the time the launch dust settled, she'd have a proper report, not a 2 AM panic message to her director. She'd have data. Recommendations. Solutions, maybe. She'd be bringing Zhang a problem AND an answer, which was the kind of thing that got you promoted to senior principal rather than branded as the engineer who killed the launch.
+The thought came easy. Smooth. Reasonable. Eleven days. She could spend those eleven days building an airtight case. Quantifying the LTP effect. Running simulations. By the time the launch dust settled, she'd have a proper report, not a 2 AM panic message to her director. She'd have data. Recommendations. Solutions, maybe. She'd be bringing Huang a problem AND an answer, which was the kind of thing that got you promoted to senior principal rather than branded as the engineer who killed the launch.
 
 Eleven days. She'd done the right thing by finding the chain. She could do the right thing again by reporting it. She just needed to do it in the right order. After the launch.
 
