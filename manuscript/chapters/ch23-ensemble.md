@@ -64,12 +64,12 @@ Lin Wei's tile brightened fractionally — she had leaned closer to the screen, 
 
 ```
 /baseline-archive/mri-pre-bci/
-├── subject_001_2036-03-14.nii.gz
-├── subject_002_2036-03-17.nii.gz
-├── subject_003_2036-03-21.nii.gz
+|-- subject_001_2036-03-14.nii.gz
+|-- subject_002_2036-03-17.nii.gz
+|-- subject_003_2036-03-21.nii.gz
 ...
-├── subject_200_2036-09-08.nii.gz
-└── manifest.sha256
+|-- subject_200_2036-09-08.nii.gz
+\-- manifest.sha256
 ```
 
 "Two hundred pre-BCI neural scans," Lin Wei said. "The original MK-V test cohort. Scanned in 2036, before Layer 5 was activated. Before the first write. This is the commit history. The last known good state of two hundred brains, preserved on an encrypted partition that CortexLink decommissioned three years ago because the data was classified as 'legacy diagnostic' and legacy diagnostic data is retained for seven years and then purged, and the purge was scheduled for January 2042, which is in five weeks, which means I copied these files at the last possible moment before they would have been destroyed by a retention policy that nobody wrote and nobody reviewed and nobody thought to question because retention policies are the kind of infrastructure that is invisible until the thing they're retaining turns out to be the most important dataset in the history of neuroscience."

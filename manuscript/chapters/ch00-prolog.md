@@ -30,6 +30,3 @@ He had proven that the brain could be read.
 
 The question of writing had not yet occurred to anyone.
 
----
-
-*One hundred and seventeen years later, fifty kilometers to the west, in a workshop on Schillerstrasse in Erfurt, a man named Henning Brenner would pick up a piece of chalk and begin to draw three sinusoidal waves on a blackboard. But that is the first chapter, and this is only the needle, and the distance between reading and writing is the distance this book travels.*

@@ -164,7 +164,7 @@ She reached for her lab notebook — the physical one, clothbound, the thirty-ei
 
 She uncapped her pen and wrote the date. Then, below it, in handwriting that was distinctly hers — the left-leaning slant, the open loops, the habit of dotting her *i*s slightly to the right — she wrote:
 
-*Convergent cognition in independent subjects. Five BCI users, same platform, different demographics, different usage durations. Identical solution paths on divergent thinking task. Same approach, same errors, same correction sequence. Probability of chance occurrence: ~10⁻¹⁷.*
+*Convergent cognition in independent subjects. Five BCI users, same platform, different demographics, different usage durations. Identical solution paths on divergent thinking task. Same approach, same errors, same correction sequence. Probability of chance occurrence: ~$10^{-17}$.*
 
 She paused. The pen hovered over the page.
 
