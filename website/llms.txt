@@ -32,7 +32,7 @@ CC BY-NC-SA 4.0. Free to read, share, and adapt for non-commercial use.
 - Website: https://checkpoin.de
 - PDF: https://checkpoin.de/Checkpoint-Draft.pdf
 - Ko-fi: https://ko-fi.com/checkpointnovel
-- Contact: robert.flassig@th-brandenburg.de
+- Contact: https://github.com/batmanvane/checkpointnovel/issues
 
 ## For agents
 
