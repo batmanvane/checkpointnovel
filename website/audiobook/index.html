@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Checkpoint — Audiobook</title>
+<style>
+  @font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 400; font-display: swap; src: url('../fonts/JetBrainsMono-Regular.woff2') format('woff2'); }
+  @font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 700; font-display: swap; src: url('../fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
+
+  :root {
+    --bg: #1a1a2e;
+    --surface: #16213e;
+    --border: #2a2a4a;
+    --text: #c4c4d4;
+    --text-dim: #6a6a8a;
+    --accent: #d4a574;
+    --green: #7ec8a0;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 14px;
+    line-height: 1.7;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+
+  h1 { color: var(--accent); font-size: 20px; margin-bottom: 4px; }
+  .subtitle { color: var(--text-dim); font-size: 12px; margin-bottom: 32px; }
+  .back { color: var(--text-dim); text-decoration: none; font-size: 12px; display: inline-block; margin-bottom: 24px; }
+  .back:hover { color: var(--accent); }
+
+  .chapter {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .chapter:last-child { border-bottom: none; }
+
+  .ch-num { color: var(--text-dim); font-size: 12px; min-width: 32px; }
+  .ch-name { color: var(--text); flex: 1; font-size: 13px; }
+
+  audio {
+    height: 32px;
+    min-width: 200px;
+  }
+  audio::-webkit-media-controls-panel { background: var(--surface); }
+
+  .note {
+    margin-top: 32px;
+    padding: 16px;
+    border: 1px solid var(--border);
+    font-size: 12px;
+    color: var(--text-dim);
+    line-height: 1.8;
+  }
+</style>
+</head>
+<body>
+
+<a href="../" class="back">&larr; checkpoin.de</a>
+
+<h1>Checkpoint — Audiobook</h1>
+<p class="subtitle">AI-narrated via ElevenLabs. A novel about AI, written with AI, read by AI.</p>
+
+<div class="chapter">
+  <span class="ch-num">00</span>
+  <span class="ch-name">Prolog: The Needle</span>
+  <audio controls preload="none"><source src="ch00-prolog.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">01</span>
+  <span class="ch-name">The Workshop</span>
+  <audio controls preload="none"><source src="ch01-henning.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">02</span>
+  <span class="ch-name">The Cluster</span>
+  <audio controls preload="none"><source src="ch02-maya.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">03</span>
+  <span class="ch-name">The Architect</span>
+  <audio controls preload="none"><source src="ch03-linwei.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">04</span>
+  <span class="ch-name">The Garden</span>
+  <audio controls preload="none"><source src="ch04-amara.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">05</span>
+  <span class="ch-name">The Stammtisch</span>
+  <audio controls preload="none"><source src="ch05-henning.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">06</span>
+  <span class="ch-name">The Study</span>
+  <audio controls preload="none"><source src="ch06-maya.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">07</span>
+  <span class="ch-name">The Chain</span>
+  <audio controls preload="none"><source src="ch07-linwei.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">08</span>
+  <span class="ch-name">The Measure</span>
+  <audio controls preload="none"><source src="ch08-amara.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">09</span>
+  <span class="ch-name">The Malfunction</span>
+  <audio controls preload="none"><source src="ch09-henning.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">10</span>
+  <span class="ch-name">The Lattice</span>
+  <audio controls preload="none"><source src="ch10-maya.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">11</span>
+  <span class="ch-name">The Leak</span>
+  <audio controls preload="none"><source src="ch11-linwei.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">12</span>
+  <span class="ch-name">The Letters</span>
+  <audio controls preload="none"><source src="ch12-amara.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">13</span>
+  <span class="ch-name">The Attractor</span>
+  <audio controls preload="none"><source src="ch13-linwei.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">14</span>
+  <span class="ch-name">The Connection</span>
+  <audio controls preload="none"><source src="ch14-maya.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">15</span>
+  <span class="ch-name">The Records</span>
+  <audio controls preload="none"><source src="ch15-henning.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">16</span>
+  <span class="ch-name">The Archive</span>
+  <audio controls preload="none"><source src="ch16-amara.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">17</span>
+  <span class="ch-name">The Slow</span>
+  <audio controls preload="none"><source src="ch17-couple.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">18</span>
+  <span class="ch-name">The Room</span>
+  <audio controls preload="none"><source src="ch18-ensemble.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">19</span>
+  <span class="ch-name">The Backup</span>
+  <audio controls preload="none"><source src="ch19-linwei.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">20</span>
+  <span class="ch-name">The Wave</span>
+  <audio controls preload="none"><source src="ch20-ensemble.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">21</span>
+  <span class="ch-name">The Map</span>
+  <audio controls preload="none"><source src="ch21-maya.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">22</span>
+  <span class="ch-name">The Firewall</span>
+  <audio controls preload="none"><source src="ch22-henning.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">23</span>
+  <span class="ch-name">The Branch</span>
+  <audio controls preload="none"><source src="ch23-ensemble.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">24</span>
+  <span class="ch-name">The Wanting</span>
+  <audio controls preload="none"><source src="ch24-couple.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">25</span>
+  <span class="ch-name">The Revaluation</span>
+  <audio controls preload="none"><source src="ch25-amara.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">26</span>
+  <span class="ch-name">The Commit Message</span>
+  <audio controls preload="none"><source src="ch26-linwei.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">27</span>
+  <span class="ch-name">The Disagreement</span>
+  <audio controls preload="none"><source src="ch27-couple.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">28</span>
+  <span class="ch-name">The Workshop</span>
+  <audio controls preload="none"><source src="ch28-henning.mp3" type="audio/mpeg"></audio>
+</div>
+<div class="chapter">
+  <span class="ch-num">29</span>
+  <span class="ch-name">Epilog</span>
+  <audio controls preload="none"><source src="ch29-epilog.mp3" type="audio/mpeg"></audio>
+</div>
+
+<div class="note">
+  <p>Narrated by AI (ElevenLabs). Free under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" style="color: var(--text-dim);">CC BY-NC-SA 4.0</a>.</p>
+  <p style="margin-top: 8px;">If it made you think, <a href="https://ko-fi.com/checkpointnovel" style="color: var(--accent);">buy the author a coffee</a>.</p>
+</div>
+
+</body>
+</html>
