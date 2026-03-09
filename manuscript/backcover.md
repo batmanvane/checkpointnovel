@@ -28,17 +28,6 @@
 \hfill --- advance reader
 \end{quote}
 
-\vspace{0.5cm}
-
-\begin{quote}
-\textit{``Prompt: Summarize this novel in one sentence.\\
-Output: You were the bottleneck.\\
-Prompt: Is that a summary or a warning?\\
-Output: Yes.''}
-
-\hfill --- AI-AI exchange during draft review
-\end{quote}
-
 \vspace{1.5cm}
 
 \noindent\textbf{About the Author}
