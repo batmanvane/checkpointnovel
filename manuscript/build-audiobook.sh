@@ -77,6 +77,11 @@ done
 # Also generate a single combined file for full-book upload
 COMBINED="$OUTDIR/Checkpoint-Full.txt"
 > "$COMBINED"
+# Prepend title page
+if [ -f "$OUTDIR/ch-title.txt" ]; then
+  cat "$OUTDIR/ch-title.txt" >> "$COMBINED"
+  printf '\n\n...\n\n' >> "$COMBINED"
+fi
 for ch in "${CHAPTERS[@]}"; do
   if [ -f "$OUTDIR/${ch}.txt" ]; then
     cat "$OUTDIR/${ch}.txt" >> "$COMBINED"
