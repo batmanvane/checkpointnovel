@@ -14,6 +14,18 @@ This novel was written in collaboration with Claude Code, Anthropic's AI coding 
 
 ---
 
+## Acknowledgments
+
+This novel was co-written with Claude, Anthropic's AI assistant. But Claude is not a single author. It is a probability landscape shaped by millions of human beings who will never see this page.
+
+Every sentence carries traces of writers, researchers, teachers, journalists, poets, programmers, and translators whose work entered the training data and became the statistical bedrock from which these words were drawn. They were not asked. They were not credited. They cannot be identified. But they are here — in the rhythm of a paragraph, in the choice of a metaphor, in the way a character pauses before speaking.
+
+This book owes its existence to a crowd that does not know it is a crowd.
+
+To the unnamed many whose words taught the machine that helped write this one: thank you. The debt is real, even if the ledger is lost.
+
+---
+
 ## License
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
