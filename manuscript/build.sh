@@ -5,6 +5,11 @@ set -e
 OUTDIR="$(dirname "$0")"
 OUTFILE="$OUTDIR/Checkpoint-Draft.pdf"
 
+# Git version info
+GIT_SHORT=$(git -C "$OUTDIR" rev-parse --short HEAD 2>/dev/null || echo "unknown")
+GIT_DATE=$(git -C "$OUTDIR" log -1 --format=%ci 2>/dev/null | cut -d' ' -f1 || echo "unknown")
+VERSION="Draft — ${GIT_DATE} · ${GIT_SHORT}"
+
 # Concatenate all chapters in order with page breaks between them
 CHAPTERS=(
   "$OUTDIR/chapters/ch00-prolog.md"
@@ -55,7 +60,7 @@ pandoc /tmp/checkpoint-combined.md \
   -V title="Checkpoint" \
   -V subtitle="A Novel" \
   -V author="R.F." \
-  -V date="Draft — March 2026" \
+  -V date="$VERSION" \
   -V documentclass=book \
   -V classoption=openany \
   -V geometry=margin=1in \
