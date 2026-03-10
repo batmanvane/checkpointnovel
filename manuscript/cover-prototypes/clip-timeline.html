@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<title>Checkpoint — Timeline Clip</title>
+<style>
+  @font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 400; font-display: swap; src: url('../../website/fonts/JetBrainsMono-Regular.woff2') format('woff2'); }
+  @font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 700; font-display: swap; src: url('../../website/fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #1a1a2e;
+    color: #c4c4d4;
+    font-family: 'JetBrains Mono', monospace;
+    overflow: hidden;
+    width: 1080px;
+    height: 1920px;
+  }
+
+  canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1080px;
+    height: 1920px;
+  }
+
+  #startBtn {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #d4a574;
+    color: #1a1a2e;
+    border: none;
+    padding: 20px 40px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 100;
+    letter-spacing: 2px;
+  }
+  #startBtn:hover { opacity: 0.9; }
+</style>
+</head><body>
+
+<canvas id="c" width="1080" height="1920"></canvas>
+<button id="startBtn">START</button>
+
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+const W = 1080, H = 1920;
+
+const BG = '#1a1a2e';
+const ACCENT = '#d4a574';
+const DIM = '#6a6a8a';
+const TEXT = '#c4c4d4';
+const BLUE = '#7aa2d4';
+const BORDER = '#2a2a4a';
+
+const TOTAL_FRAMES = 75 * 60; // 75 seconds
+let frame = 0;
+let running = false;
+
+// The virtual scroll position — content is much taller than viewport
+const CONTENT_HEIGHT = 18000;
+
+function mulberry32(a) {
+  return function() {
+    a |= 0; a = a + 0x6D2B79F5 | 0;
+    var t = Math.imul(a ^ a >>> 15, 1 | a);
+    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+    return ((t ^ t >>> 14) >>> 0) / 4294967296;
+  }
+}
+
+// EEG generation
+function generateEEG(x, t, style, seed) {
+  const rng = mulberry32(Math.floor(x * 0.1) + seed);
+  if (style < 0.3) {
+    const s = style / 0.3;
+    const alpha = Math.sin(x * 0.04 + t * 2) * 20;
+    const beta = Math.sin(x * 0.12 + t * 5) * 8;
+    const noise = (rng() - 0.5) * 15 * (1 - s * 0.5);
+    const drift = Math.sin(x * 0.005 + t * 0.3) * 10;
+    return alpha + beta + noise + drift;
+  } else if (style < 0.6) {
+    const s = (style - 0.3) / 0.3;
+    const alpha = Math.sin(x * 0.04 + t * 2) * (20 + s * 15);
+    const beta = Math.sin(x * 0.12 + t * 5) * (8 - s * 5);
+    const noise = (rng() - 0.5) * (12 - s * 10);
+    return alpha + beta + noise;
+  } else if (style < 0.85) {
+    const s = (style - 0.6) / 0.25;
+    const perfect = Math.sin(x * 0.04 + t * 2) * 30;
+    const variation = Math.sin(x * 0.04 + t * 2 + rng() * (1 - s) * 2) * 30;
+    return perfect * s + variation * (1 - s);
+  } else {
+    const s = (style - 0.85) / 0.15;
+    const base = Math.sin(x * 0.04 + t * 2) * 30 * (1 - s);
+    const chaos = (rng() - 0.5) * 50 * s;
+    return (base + chaos) * (1 - s * 0.8);
+  }
+}
+
+// Timeline milestones — positioned in virtual scroll space
+const milestones = [
+  { y: 600,   year: '1924', label: 'Jena, Germany', sub: 'Hans Berger connects electrodes\nto an open skull.', eeg: 0 },
+  { y: 1800,  year: '',     label: '',              sub: '', note: 'The needle moves.', eeg: 0.05 },
+  { y: 3000,  year: '1929', label: 'First publication', sub: 'Alpha waves.\n10 cycles per second.\nNo one believes him.', eeg: 0.1 },
+  { y: 4800,  year: '2021', label: 'First BCI trials', sub: 'Reading the brain\nis no longer enough.', eeg: 0.2 },
+  { y: 6600,  year: '2031', label: 'CortexLink MK-I', sub: 'A skin-colored patch\nbehind the left ear.\nIt reads. It also writes.', eeg: 0.35 },
+  { y: 8400,  year: '2035', label: '100 million users', sub: 'The updates are seamless.\nYou barely notice them.', eeg: 0.5 },
+  { y: 10200, year: '2038', label: '500 million',       sub: 'The thoughts come faster now.\nCleaner. More efficient.\nMore... similar.', eeg: 0.7 },
+  { y: 12000, year: '2041', label: '900 million',       sub: 'Four lives.\nFour regions.\nOne question.', eeg: 0.85 },
+  { y: 13800, year: '',     label: '',                   sub: '', question: true, eeg: 0.95 },
+  { y: 15400, year: '',     label: '',                   sub: '', convergence: true, eeg: 1.0 },
+  { y: 17000, year: '',     label: '',                   sub: '', title: true, eeg: 1.0 },
+];
+
+// Convergence lines
+const convLines = [];
+for (let i = 0; i < 40; i++) {
+  const startX = 100 + (i / 40) * 880;
+  convLines.push({
+    startX,
+    exitAngle: (mulberry32(i * 200)() - 0.5) * Math.PI * 0.7,
+    speed: 0.3 + mulberry32(i * 300)() * 0.7,
+    waveFreq: 2 + mulberry32(i * 400)() * 4,
+    waveAmp: 2 + mulberry32(i * 500)() * 10,
+    hue: (startX / W) * 40 + 20,
+    opacity: 0.15 + mulberry32(i * 600)() * 0.2
+  });
+}
+
+function getScrollY(progress) {
+  // Eased scroll through content
+  // Slow at start, accelerate in middle (like acceleration theme), slow at end
+  const p = progress;
+  // Custom easing: slow-fast-slow with acceleration emphasis in the middle
+  let t;
+  if (p < 0.15) {
+    // Slow start
+    t = p / 0.15;
+    t = t * t * 0.15;
+  } else if (p < 0.7) {
+    // Accelerating middle
+    t = (p - 0.15) / 0.55;
+    t = 0.15 + t * 0.55;
+  } else {
+    // Slow end (for question + convergence + title)
+    t = (p - 0.7) / 0.3;
+    t = 0.7 + t * t * 0.3;
+  }
+  return t * (CONTENT_HEIGHT - H);
+}
+
+function getCurrentEEGStyle(scrollY) {
+  // Interpolate eeg style based on scroll position between milestones
+  for (let i = 0; i < milestones.length - 1; i++) {
+    if (scrollY <= milestones[i + 1].y) {
+      const t = (scrollY - milestones[i].y) / (milestones[i + 1].y - milestones[i].y);
+      const clamped = Math.max(0, Math.min(1, t));
+      return milestones[i].eeg + (milestones[i + 1].eeg - milestones[i].eeg) * clamped;
+    }
+  }
+  return 1.0;
+}
+
+function getUserCount(scrollY) {
+  // 0 before 2031 (y=6600), ramps to 900M at 2041 (y=12000)
+  if (scrollY < 6600) return 0;
+  if (scrollY > 12000) return 900000000;
+  return Math.floor(((scrollY - 6600) / (12000 - 6600)) * 900000000);
+}
+
+// Find the current year for the sticky indicator
+function getCurrentYear(scrollY) {
+  let currentYear = '';
+  for (const m of milestones) {
+    if (m.year && scrollY >= m.y - 400) {
+      currentYear = m.year;
+    }
+  }
+  return currentYear;
+}
+
+function drawFrame() {
+  const progress = frame / TOTAL_FRAMES;
+  const scrollY = getScrollY(progress);
+  const time = frame / 60;
+  const eegStyle = getCurrentEEGStyle(scrollY);
+
+  ctx.fillStyle = BG;
+  ctx.fillRect(0, 0, W, H);
+
+  // --- Persistent year indicator (top-left) ---
+  const currentYear = getCurrentYear(scrollY);
+  if (currentYear && scrollY < 13800) {
+    ctx.font = 'bold 28px "JetBrains Mono"';
+    ctx.fillStyle = ACCENT;
+    ctx.globalAlpha = 0.4;
+    ctx.textAlign = 'left';
+    ctx.fillText(currentYear, 80, 80);
+    ctx.globalAlpha = 1;
+  }
+
+  // --- EEG traces (top band, always visible, morphing) ---
+  const eegBandTop = 140;
+  const eegBandHeight = 350;
+  const numTraces = 4;
+  const traceSpacing = eegBandHeight / (numTraces + 1);
+
+  // Fade out during convergence/title
+  let eegOpacity = 1;
+  if (scrollY > 13500) {
+    eegOpacity = Math.max(0, 1 - (scrollY - 13500) / 1800);
+  }
+
+  if (eegOpacity > 0) {
+    for (let tr = 0; tr < numTraces; tr++) {
+      const baseY = eegBandTop + (tr + 1) * traceSpacing;
+
+      ctx.beginPath();
+      const isMain = tr === 1;
+      ctx.strokeStyle = isMain ? ACCENT : BLUE;
+      ctx.globalAlpha = eegOpacity * (isMain ? 0.6 : 0.25);
+      ctx.lineWidth = isMain ? 2 : 1.2;
+
+      for (let x = 60; x < W - 60; x += 2) {
+        const y = baseY + generateEEG(x + tr * 300, time, eegStyle, tr * 1000 + 500);
+        if (x === 60) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      }
+      ctx.stroke();
+    }
+
+    // EEG band separator
+    ctx.strokeStyle = BORDER;
+    ctx.globalAlpha = eegOpacity * 0.3;
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(60, eegBandTop + eegBandHeight + 20);
+    ctx.lineTo(W - 60, eegBandTop + eegBandHeight + 20);
+    ctx.stroke();
+  }
+  ctx.globalAlpha = 1;
+
+  // --- Timeline rail (center vertical line) ---
+  const railX = 160;
+  const railTop = 560;
+  const railBottom = 1800;
+
+  // Only show rail during timeline phase
+  if (scrollY < 13800) {
+    const railOpacity = Math.min(0.25, (scrollY > 200 ? 0.25 : scrollY / 800));
+    ctx.strokeStyle = BORDER;
+    ctx.globalAlpha = railOpacity;
+    ctx.lineWidth = 1;
+    ctx.setLineDash([3, 8]);
+    ctx.beginPath();
+    ctx.moveTo(railX, railTop);
+    ctx.lineTo(railX, railBottom);
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    // Scrolling dot on rail
+    const dotProgress = Math.min(1, scrollY / 13000);
+    const dotY = railTop + dotProgress * (railBottom - railTop);
+    ctx.beginPath();
+    ctx.arc(railX, dotY, 5, 0, Math.PI * 2);
+    ctx.fillStyle = ACCENT;
+    ctx.globalAlpha = railOpacity * 2.5;
+    ctx.fill();
+    ctx.globalAlpha = 1;
+  }
+
+  // --- Milestone content (scrolls through viewport) ---
+  for (const m of milestones) {
+    // Position relative to viewport
+    const viewY = m.y - scrollY + H * 0.55;
+
+    // Only render if on screen (with margin)
+    if (viewY < -300 || viewY > H + 300) continue;
+
+    // Fade based on distance from center of screen
+    const centerDist = Math.abs(viewY - H * 0.55);
+    const fadeZone = H * 0.55;
+    let opacity = Math.max(0, 1 - centerDist / fadeZone);
+    opacity = Math.pow(opacity, 1.3); // Gentle ease
+
+    if (opacity < 0.01) continue;
+    ctx.globalAlpha = opacity;
+
+    if (m.note) {
+      // "The needle moves"
+      ctx.font = 'italic 36px "JetBrains Mono"';
+      ctx.fillStyle = ACCENT;
+      ctx.textAlign = 'left';
+      ctx.fillText(m.note, 220, viewY);
+    }
+    else if (m.question) {
+      ctx.font = '28px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.textAlign = 'center';
+      ctx.fillText('where does the patch stop', W / 2, viewY);
+      ctx.fillText('and the you begin?', W / 2, viewY + 50);
+    }
+    else if (m.convergence) {
+      drawConvergence(opacity, scrollY);
+    }
+    else if (m.title) {
+      // Only show when scrolled far enough
+      const titleFade = Math.min(1, Math.max(0, (scrollY - 16500) / 800));
+      if (titleFade > 0) {
+        ctx.globalAlpha = titleFade;
+
+        ctx.font = 'bold 64px "JetBrains Mono"';
+        ctx.fillStyle = ACCENT;
+        ctx.textAlign = 'center';
+        ctx.fillText('CHECKPOINT', W / 2, H / 2 - 60);
+
+        ctx.font = '22px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        ctx.fillText('How we optimized into the void.', W / 2, H / 2);
+
+        ctx.font = '20px "JetBrains Mono"';
+        ctx.fillStyle = TEXT;
+        ctx.fillText('checkpoin.de', W / 2, H / 2 + 80);
+
+        ctx.font = '16px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        ctx.fillText('Free under CC BY-NC-SA 4.0', W / 2, H / 2 + 130);
+      }
+    }
+    else {
+      // Standard milestone
+      const textX = 220;
+
+      // Year — big, on the rail
+      if (m.year) {
+        ctx.font = 'bold 56px "JetBrains Mono"';
+        ctx.fillStyle = ACCENT;
+        ctx.textAlign = 'left';
+        ctx.fillText(m.year, textX, viewY);
+
+        // Dot on rail
+        ctx.beginPath();
+        ctx.arc(railX, viewY - 15, 8, 0, Math.PI * 2);
+        ctx.fillStyle = ACCENT;
+        ctx.globalAlpha = opacity * 0.6;
+        ctx.fill();
+        ctx.globalAlpha = opacity;
+
+        // Connecting line from rail to text
+        ctx.strokeStyle = ACCENT;
+        ctx.globalAlpha = opacity * 0.2;
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        ctx.moveTo(railX + 10, viewY - 15);
+        ctx.lineTo(textX - 10, viewY - 15);
+        ctx.stroke();
+        ctx.globalAlpha = opacity;
+      }
+
+      // Label
+      if (m.label) {
+        ctx.font = '24px "JetBrains Mono"';
+        ctx.fillStyle = TEXT;
+        ctx.textAlign = 'left';
+        ctx.fillText(m.label, textX, viewY + 50);
+      }
+
+      // Sub text
+      if (m.sub) {
+        ctx.font = '18px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        ctx.textAlign = 'left';
+        const lines = m.sub.split('\n');
+        lines.forEach((line, idx) => {
+          ctx.fillText(line, textX, viewY + 90 + idx * 32);
+        });
+      }
+    }
+  }
+  ctx.globalAlpha = 1;
+
+  // --- User count (bottom right, during adoption phase) ---
+  const count = getUserCount(scrollY);
+  if (count > 0 && scrollY < 13500) {
+    const countFade = Math.min(1, count / 50000000) * Math.max(0, 1 - (scrollY - 12200) / 1200);
+    if (countFade > 0) {
+      ctx.font = '16px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.globalAlpha = countFade * 0.5;
+      ctx.textAlign = 'right';
+      ctx.fillText(count.toLocaleString() + ' connected', W - 80, H - 80);
+      ctx.globalAlpha = 1;
+    }
+  }
+}
+
+function drawConvergence(opacity, scrollY) {
+  const cx = W / 2, cy = H / 2;
+  const convProgress = Math.min(1, Math.max(0, (scrollY - 14800) / 2000));
+
+  if (convProgress <= 0) return;
+
+  for (const line of convLines) {
+    const rng = mulberry32(Math.floor(line.startX) * 137);
+    ctx.beginPath();
+    ctx.strokeStyle = `hsl(${line.hue}, 50%, 60%)`;
+    ctx.globalAlpha = opacity * line.opacity * Math.min(1, convProgress * 2);
+    ctx.lineWidth = 0.8;
+
+    const steps = 80;
+    for (let s = 0; s <= steps; s++) {
+      const t = s / steps;
+      if (t > Math.min(1, convProgress * 1.5)) break;
+
+      let x, y;
+      if (t < 0.5) {
+        const ct = t / 0.5;
+        const pull = ct * ct * ct;
+        x = line.startX + (cx - line.startX) * pull;
+        y = cy - 350 + ct * 350;
+        const noise = (rng() - 0.5) * 15 * (1 - ct);
+        x += noise;
+      } else {
+        const wt = (t - 0.5) / 0.5;
+        const spread = Math.sin(line.exitAngle) * wt * wt * 400 * line.speed;
+        const wave = Math.sin(wt * line.waveFreq * Math.PI * 2) * line.waveAmp * wt;
+        x = cx + spread + wave;
+        y = cy + wt * 400;
+      }
+
+      if (s === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+  }
+
+  // Convergence point
+  if (convProgress > 0.25) {
+    ctx.beginPath();
+    ctx.arc(cx, cy, 3, 0, Math.PI * 2);
+    ctx.fillStyle = ACCENT;
+    ctx.globalAlpha = opacity * Math.min(1, (convProgress - 0.25) * 3);
+    ctx.fill();
+  }
+}
+
+function animate() {
+  if (!running) return;
+  drawFrame();
+  frame++;
+  if (frame <= TOTAL_FRAMES) {
+    requestAnimationFrame(animate);
+  } else {
+    running = false;
+  }
+}
+
+document.getElementById('startBtn').addEventListener('click', function() {
+  this.style.display = 'none';
+  frame = 0;
+  running = true;
+  animate();
+});
+
+document.addEventListener('keydown', function(e) {
+  if (e.code === 'Space') {
+    document.getElementById('startBtn').style.display = 'none';
+    frame = 0;
+    running = true;
+    animate();
+  }
+});
+</script>
+</body></html>

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 12 — Convergence + Wake</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+</style>
+<script>
+window.onload = function() {
+  const g = document.getElementById('lines');
+  const numLines = 50;
+  const startY = 220;
+  const convergeY = 540;
+  const endY = 850;
+  const stepsConverge = 150;
+  const stepsWake = 120;
+
+  // Seed random for consistent results
+  function seededRandom(seed) {
+    let s = seed;
+    return function() {
+      s = (s * 16807 + 0) % 2147483647;
+      return s / 2147483647;
+    };
+  }
+
+  for (let i = 0; i < numLines; i++) {
+    const rng = seededRandom(i * 137 + 42);
+    const startX = 40 + (i / numLines) * 520;
+
+    const points = [];
+
+    // Phase 1: Converge to center
+    for (let s = 0; s <= stepsConverge; s++) {
+      const t = s / stepsConverge;
+      const y = startY + t * (convergeY - startY);
+      const target = 300;
+      const pull = t * t * t;
+      let x = startX + (target - startX) * pull;
+      const noise = (rng() - 0.5) * 18 * (1 - t);
+      x += noise;
+      points.push([x, y]);
+    }
+
+    // Phase 2: Beyond convergence — wake / unknown
+    // Lines pass through the point and spread horizontally
+    // Like ripples on a lake surface, viewed from above
+    const exitAngle = (rng() - 0.5) * Math.PI * 0.8; // spread direction
+    const speed = 0.3 + rng() * 0.7;
+    const waveFreq = 2 + rng() * 4;
+    const waveAmp = 1 + rng() * 8;
+
+    for (let s = 1; s <= stepsWake; s++) {
+      const t = s / stepsWake;
+      const y = convergeY + t * (endY - convergeY);
+
+      // Spread horizontally from center with wave motion
+      const spread = Math.sin(exitAngle) * t * t * 250 * speed;
+      const wave = Math.sin(t * waveFreq * Math.PI * 2) * waveAmp * t;
+      const x = 300 + spread + wave;
+
+      points.push([x, y]);
+    }
+
+    // Draw as polyline
+    const path = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+    const ptStr = points.map(p => `${p[0].toFixed(1)},${p[1].toFixed(1)}`).join(' ');
+    path.setAttribute('points', ptStr);
+    path.setAttribute('fill', 'none');
+
+    // Color: distinct above, uniform gold at convergence, fading to unknown blue below
+    const hue = (startX / 600) * 40 + 20;
+    const opacity = 0.12 + rng() * 0.18;
+    path.setAttribute('stroke', `hsl(${hue}, 50%, 60%)`);
+    path.setAttribute('stroke-width', '0.6');
+    path.setAttribute('opacity', opacity.toFixed(2));
+    g.appendChild(path);
+  }
+
+  // Horizontal wake ripples across the bottom half
+  const wakeG = document.getElementById('wake');
+  for (let row = 0; row < 12; row++) {
+    const y = convergeY + 30 + row * 25;
+    const opacity = 0.04 + (row / 12) * 0.06;
+    const amplitude = 2 + row * 1.5;
+    const freq = 0.015 - row * 0.0005;
+
+    let d = `M 40,${y}`;
+    for (let x = 40; x <= 560; x += 4) {
+      const distFromCenter = Math.abs(x - 300);
+      const envelope = Math.exp(-distFromCenter * distFromCenter / (8000 + row * 2000));
+      const wave = Math.sin((x - 300) * freq * (15 - row * 0.5) + row * 0.7) * amplitude * envelope;
+      d += ` L ${x},${(y + wave).toFixed(1)}`;
+    }
+
+    const path = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    path.setAttribute('d', d);
+    path.setAttribute('fill', 'none');
+    path.setAttribute('stroke', '#d4a574');
+    path.setAttribute('stroke-width', '0.4');
+    path.setAttribute('opacity', opacity.toFixed(3));
+    wakeG.appendChild(path);
+  }
+
+  // Character names at top
+  const identities = ['henning', 'maya', 'lin wei', 'amara', 'tomas', 'sara'];
+  const positions = [90, 170, 255, 345, 430, 510];
+  identities.forEach((name, idx) => {
+    const txt = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+    txt.setAttribute('x', positions[idx]);
+    txt.setAttribute('y', startY - 10);
+    txt.setAttribute('font-family', "'JetBrains Mono', monospace");
+    txt.setAttribute('font-size', '8');
+    txt.setAttribute('fill', '#6a6a8a');
+    txt.setAttribute('opacity', '0.35');
+    txt.setAttribute('text-anchor', 'middle');
+    txt.textContent = name;
+    g.appendChild(txt);
+  });
+};
+</script>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <defs>
+    <radialGradient id="converge-glow" cx="50%" cy="60%" r="30%">
+      <stop offset="0%" stop-color="#d4a574" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#d4a574" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="600" height="900" fill="#1a1a2e"/>
+
+  <!-- Ambient glow at convergence -->
+  <rect width="600" height="900" fill="url(#converge-glow)"/>
+
+  <!-- Wake ripples (behind the lines) -->
+  <g id="wake"></g>
+
+  <!-- Convergence lines -->
+  <g id="lines"></g>
+
+  <!-- Convergence point -->
+  <circle cx="300" cy="540" r="2.5" fill="#d4a574" opacity="0.6"/>
+
+  <!-- Title -->
+  <text x="300" y="90" font-family="'JetBrains Mono', monospace" font-size="48" font-weight="700" fill="#d4a574" text-anchor="middle" letter-spacing="6">CHECKPOINT</text>
+  <text x="300" y="122" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a" text-anchor="middle">How we optimized into the void.</text>
+
+  <!-- Author -->
+  <text x="300" y="890" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c4c4d4" text-anchor="middle">R.F. &amp; Claude</text>
+</svg>
+</body></html>

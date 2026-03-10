@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 7 — Feedback Loop</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+</style>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <defs>
+    <marker id="arrow" markerWidth="6" markerHeight="4" refX="5" refY="2" orient="auto">
+      <path d="M0,0 L6,2 L0,4" fill="none" stroke="#d4a574" stroke-width="0.5" opacity="0.4"/>
+    </marker>
+  </defs>
+
+  <rect width="600" height="900" fill="#1a1a2e"/>
+
+  <!-- The recursive input→output→input chain, spiraling inward -->
+  <g font-family="'JetBrains Mono', monospace">
+
+    <!-- Outermost loop — NOW -->
+    <text x="120" y="280" font-size="14" fill="#d4a574" opacity="0.9">input</text>
+    <line x1="185" y1="276" x2="350" y2="276" stroke="#d4a574" stroke-width="0.5" opacity="0.3" marker-end="url(#arrow)"/>
+    <text x="360" y="280" font-size="14" fill="#7aa2d4" opacity="0.9">output</text>
+
+    <!-- Arrow curving back -->
+    <path d="M 430,285 C 460,310 460,330 430,340" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.25"/>
+
+    <!-- Second loop — slightly indented, dimmer -->
+    <text x="155" y="350" font-size="13" fill="#d4a574" opacity="0.7">input</text>
+    <line x1="215" y1="346" x2="340" y2="346" stroke="#d4a574" stroke-width="0.5" opacity="0.25" marker-end="url(#arrow)"/>
+    <text x="350" y="350" font-size="13" fill="#7aa2d4" opacity="0.7">output</text>
+
+    <path d="M 415,355 C 440,375 440,390 415,400" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.2"/>
+
+    <!-- Third loop -->
+    <text x="185" y="415" font-size="12" fill="#d4a574" opacity="0.5">input</text>
+    <line x1="235" y1="411" x2="330" y2="411" stroke="#d4a574" stroke-width="0.5" opacity="0.2" marker-end="url(#arrow)"/>
+    <text x="338" y="415" font-size="12" fill="#7aa2d4" opacity="0.5">output</text>
+
+    <path d="M 398,420 C 418,435 418,448 398,455" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.15"/>
+
+    <!-- Fourth loop — getting small -->
+    <text x="210" y="470" font-size="11" fill="#d4a574" opacity="0.35">input</text>
+    <line x1="255" y1="466" x2="320" y2="466" stroke="#d4a574" stroke-width="0.5" opacity="0.15" marker-end="url(#arrow)"/>
+    <text x="325" y="470" font-size="11" fill="#7aa2d4" opacity="0.35">output</text>
+
+    <path d="M 380,475 C 395,485 395,495 380,502" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.1"/>
+
+    <!-- Fifth — barely visible -->
+    <text x="230" y="515" font-size="10" fill="#d4a574" opacity="0.2">input</text>
+    <line x1="270" y1="511" x2="310" y2="511" stroke="#d4a574" stroke-width="0.5" opacity="0.1"/>
+    <text x="315" y="515" font-size="10" fill="#7aa2d4" opacity="0.2">output</text>
+
+    <!-- Sixth — ghost -->
+    <text x="248" y="550" font-size="9" fill="#d4a574" opacity="0.1">input</text>
+    <text x="305" y="550" font-size="9" fill="#7aa2d4" opacity="0.1">output</text>
+
+    <!-- Seventh — almost gone -->
+    <text x="260" y="580" font-size="8" fill="#d4a574" opacity="0.06">input</text>
+    <text x="300" y="580" font-size="8" fill="#7aa2d4" opacity="0.06">output</text>
+
+    <!-- Converging to a point -->
+    <circle cx="290" cy="610" r="2" fill="#d4a574" opacity="0.15"/>
+    <circle cx="290" cy="610" r="6" fill="none" stroke="#d4a574" stroke-width="0.3" opacity="0.08"/>
+
+    <!-- Left side: return arrows (output becomes input) -->
+    <path d="M 110,285 C 80,310 80,340 110,345" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.2"/>
+    <path d="M 145,355 C 120,375 120,400 145,410" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.15"/>
+    <path d="M 175,420 C 155,435 155,455 175,465" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.1"/>
+    <path d="M 200,475 C 185,485 185,500 200,510" fill="none" stroke="#6a6a8a" stroke-width="0.5" opacity="0.07"/>
+  </g>
+
+  <!-- Annotation -->
+  <text x="490" y="280" font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a" opacity="0.4">2031</text>
+  <text x="490" y="350" font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a" opacity="0.3">2035</text>
+  <text x="490" y="415" font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a" opacity="0.2">2038</text>
+  <text x="490" y="470" font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a" opacity="0.15">2041</text>
+  <text x="490" y="550" font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a" opacity="0.08">20??</text>
+
+  <!-- Title -->
+  <text x="300" y="130" font-family="'JetBrains Mono', monospace" font-size="48" font-weight="700" fill="#d4a574" text-anchor="middle" letter-spacing="6">CHECKPOINT</text>
+  <text x="300" y="165" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a" text-anchor="middle">How we optimized into the void.</text>
+
+  <!-- The void label -->
+  <text x="290" y="640" font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a" text-anchor="middle" opacity="0.2">void</text>
+
+  <text x="300" y="780" font-family="'JetBrains Mono', monospace" font-size="11" fill="#6a6a8a" text-anchor="middle" opacity="0.5">where does the patch stop and the you begin?</text>
+  <text x="300" y="840" font-family="'JetBrains Mono', monospace" font-size="14" fill="#c4c4d4" text-anchor="middle">R.F. &amp; Claude</text>
+</svg>
+</body></html>

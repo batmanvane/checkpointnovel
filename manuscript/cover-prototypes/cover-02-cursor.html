@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 2 — Terminal Cursor</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+  @keyframes blink { 0%,50% { opacity: 1; } 51%,100% { opacity: 0; } }
+</style>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <defs>
+    <linearGradient id="glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#d4a574" stop-opacity="0.06"/>
+      <stop offset="50%" stop-color="#d4a574" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#d4a574" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="900" fill="#1a1a2e"/>
+  <rect width="600" height="900" fill="url(#glow)"/>
+
+  <!-- Terminal prompt lines — ghost text, as if someone is typing -->
+  <g font-family="'JetBrains Mono', 'SF Mono', monospace" font-size="11">
+    <!-- Dim "history" lines -->
+    <text x="40" y="300" fill="#2a2a4a">$ cat /dev/brain</text>
+    <text x="40" y="320" fill="#2a2a4a">reading neural substrate...</text>
+    <text x="40" y="340" fill="#2a2a4a">900,000,000 devices connected</text>
+    <text x="40" y="360" fill="#2a2a4a">$ git log --oneline consciousness</text>
+    <text x="40" y="380" fill="#2a2a4a">fatal: no commit history found</text>
+    <text x="40" y="400" fill="#2a2a4a">$ git diff self</text>
+    <text x="40" y="420" fill="#2a2a4a">warning: no rollback available</text>
+    <text x="40" y="440" fill="#2a2a4a">warning: deployed to production</text>
+    <text x="40" y="460" fill="#2a2a4a">$ _</text>
+
+    <!-- Slightly more visible -->
+    <text x="40" y="510" fill="#3a3a5a">$ patch --reverse</text>
+    <text x="40" y="530" fill="#3a3a5a">error: cannot determine boundary</text>
+    <text x="40" y="550" fill="#4a4a6a">error: where does the patch stop</text>
+    <text x="40" y="570" fill="#6a6a8a">error: and the you begin?</text>
+
+    <!-- Active prompt -->
+    <text x="40" y="620" fill="#6a6a8a">$</text>
+    <rect x="56" y="609" width="8" height="14" fill="#d4a574" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;0.8;0;0" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Title -->
+  <text x="40" y="120" font-family="'JetBrains Mono', monospace" font-size="42" font-weight="700" fill="#d4a574" letter-spacing="6">CHECKPOINT</text>
+
+  <!-- Subtitle -->
+  <text x="40" y="155" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a">How we optimized into the void.</text>
+
+  <!-- Author -->
+  <text x="40" y="850" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c4c4d4">R.F. &amp; Claude</text>
+</svg>
+</body></html>

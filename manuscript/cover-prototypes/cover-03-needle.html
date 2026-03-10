@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 3 — The Needle</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+</style>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <defs>
+    <linearGradient id="needle-glow" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="40%" stop-color="#1a1a2e"/>
+      <stop offset="50%" stop-color="#1e1e35"/>
+      <stop offset="60%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <filter id="glow-filter">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="900" fill="url(#needle-glow)"/>
+
+  <!-- Single needle/line — galvanometer trace -->
+  <!-- Flat line... then the first deflection -->
+  <g filter="url(#glow-filter)">
+    <path d="M 0,450
+      L 80,450
+      L 120,450
+      L 160,450
+      L 200,450
+      L 240,450
+      L 280,450
+      C 290,450 295,448 300,444
+      C 310,436 315,436 320,444
+      C 325,448 330,452 335,456
+      C 340,460 345,460 350,456
+      C 355,452 358,448 362,444
+      C 366,440 370,440 374,444
+      C 378,448 382,452 386,456
+      C 390,460 394,460 398,456
+      C 402,452 405,448 408,444
+      C 412,440 416,440 420,444
+      C 424,448 428,452 432,456
+      C 436,460 440,460 444,456
+      C 448,452 452,448 456,444
+      C 460,440 464,440 468,444
+      C 472,448 476,452 480,456
+      C 484,460 488,460 492,456
+      C 496,452 500,448 504,444
+      C 508,440 512,440 516,444
+      C 520,448 524,452 528,456
+      C 532,460 536,460 540,456
+      L 560,450
+      L 600,450"
+      fill="none" stroke="#d4a574" stroke-width="1.5" opacity="0.9"/>
+  </g>
+
+  <!-- Flatline before — very dim -->
+  <line x1="0" y1="450" x2="280" y2="450" stroke="#d4a574" stroke-width="0.5" opacity="0.15"/>
+
+  <!-- The moment marker -->
+  <line x1="280" y1="430" x2="280" y2="470" stroke="#d4a574" stroke-width="0.5" opacity="0.2" stroke-dasharray="2,3"/>
+
+  <!-- Annotation -->
+  <text x="282" y="425" font-family="'JetBrains Mono', monospace" font-size="9" fill="#6a6a8a" opacity="0.5">the needle moved</text>
+
+  <!-- Title — large, centered -->
+  <text x="300" y="200" font-family="'JetBrains Mono', monospace" font-size="48" font-weight="700" fill="#d4a574" text-anchor="middle" letter-spacing="8">CHECKPOINT</text>
+
+  <!-- Tagline -->
+  <text x="300" y="235" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a" text-anchor="middle">How we optimized into the void.</text>
+
+  <!-- Bottom question -->
+  <text x="300" y="720" font-family="'JetBrains Mono', monospace" font-size="11" fill="#6a6a8a" text-anchor="middle" opacity="0.6">where does the patch stop and the you begin?</text>
+
+  <!-- Author -->
+  <text x="300" y="820" font-family="'JetBrains Mono', monospace" font-size="14" fill="#c4c4d4" text-anchor="middle">R.F. &amp; Claude</text>
+</svg>
+</body></html>

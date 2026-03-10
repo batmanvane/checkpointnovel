@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 6 — Strange Attractor</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+</style>
+<script>
+// Generate Lorenz attractor points as SVG path
+function lorenz() {
+  let x = 0.1, y = 0, z = 0;
+  const dt = 0.005, sigma = 10, rho = 28, beta = 8/3;
+  const points = [];
+  for (let i = 0; i < 12000; i++) {
+    const dx = sigma * (y - x) * dt;
+    const dy = (x * (rho - z) - y) * dt;
+    const dz = (x * y - beta * z) * dt;
+    x += dx; y += dy; z += dz;
+    if (i % 2 === 0) {
+      // Project 3D to 2D: use x,z plane, centered
+      const px = 300 + x * 7;
+      const py = 420 - (z - 24) * 8;
+      points.push([px, py]);
+    }
+  }
+  return points;
+}
+
+window.onload = function() {
+  const pts = lorenz();
+  const svg = document.getElementById('attractor-path');
+
+  // Build path segments with varying opacity
+  const totalPts = pts.length;
+  for (let i = 1; i < totalPts; i++) {
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', pts[i-1][0]);
+    line.setAttribute('y1', pts[i-1][1]);
+    line.setAttribute('x2', pts[i][0]);
+    line.setAttribute('y2', pts[i][1]);
+
+    // Color shifts from gold to blue over the trajectory
+    const t = i / totalPts;
+    const r = Math.round(212 - t * 90);
+    const g = Math.round(165 - t * 3);
+    const b = Math.round(116 + t * 96);
+    const opacity = 0.15 + t * 0.35;
+
+    line.setAttribute('stroke', `rgb(${r},${g},${b})`);
+    line.setAttribute('stroke-width', '0.6');
+    line.setAttribute('opacity', opacity);
+    svg.appendChild(line);
+  }
+};
+</script>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <!-- Background -->
+  <rect width="600" height="900" fill="#1a1a2e"/>
+
+  <!-- Attractor paths rendered by JS -->
+  <g id="attractor-path"></g>
+
+  <!-- input/output labels along the lobes -->
+  <g font-family="'JetBrains Mono', monospace" font-size="7" opacity="0.25">
+    <text x="195" y="370" fill="#d4a574">input</text>
+    <text x="380" y="370" fill="#7aa2d4">output</text>
+    <text x="195" y="470" fill="#d4a574">input</text>
+    <text x="380" y="470" fill="#7aa2d4">output</text>
+    <text x="290" y="420" fill="#6a6a8a" font-size="6">recurse</text>
+  </g>
+
+  <!-- Title -->
+  <text x="300" y="130" font-family="'JetBrains Mono', monospace" font-size="48" font-weight="700" fill="#d4a574" text-anchor="middle" letter-spacing="6">CHECKPOINT</text>
+  <text x="300" y="165" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a" text-anchor="middle">How we optimized into the void.</text>
+
+  <!-- Bottom -->
+  <text x="300" y="780" font-family="'JetBrains Mono', monospace" font-size="11" fill="#6a6a8a" text-anchor="middle" opacity="0.5">where does the patch stop and the you begin?</text>
+  <text x="300" y="840" font-family="'JetBrains Mono', monospace" font-size="14" fill="#c4c4d4" text-anchor="middle">R.F. &amp; Claude</text>
+</svg>
+</body></html>

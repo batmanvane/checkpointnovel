@@ -10,6 +10,17 @@ GIT_SHORT=$(git -C "$OUTDIR" rev-parse --short HEAD 2>/dev/null || echo "unknown
 GIT_DATE=$(git -C "$OUTDIR" log -1 --format=%ci 2>/dev/null | cut -d' ' -f1 || echo "unknown")
 VERSION="Draft — ${GIT_DATE} · ${GIT_SHORT}"
 
+# Generate cover SVG and convert to PDF
+COVER_SVG="$OUTDIR/cover.svg"
+COVER_PDF="/tmp/checkpoint-cover.pdf"
+if [ -f "$OUTDIR/generate-cover.py" ]; then
+  python3 "$OUTDIR/generate-cover.py" > /dev/null 2>&1
+fi
+if [ -f "$COVER_SVG" ] && command -v rsvg-convert &> /dev/null; then
+  rsvg-convert -f pdf "$COVER_SVG" -o "$COVER_PDF"
+  echo "Cover: $COVER_PDF"
+fi
+
 # Concatenate all chapters in order with page breaks between them
 CHAPTERS=(
   "$OUTDIR/chapters/ch00-prolog.md"
@@ -73,4 +84,22 @@ pandoc /tmp/checkpoint-combined.md \
   --toc
 
 rm /tmp/checkpoint-combined.md
+
+# Prepend cover page if available
+if [ -f "$COVER_PDF" ]; then
+  BODY_PDF="/tmp/checkpoint-body.pdf"
+  mv "$OUTFILE" "$BODY_PDF"
+  # Use pdftk or gs to merge cover + body
+  if command -v pdftk &> /dev/null; then
+    pdftk "$COVER_PDF" "$BODY_PDF" cat output "$OUTFILE"
+  elif command -v gs &> /dev/null; then
+    gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -sOutputFile="$OUTFILE" "$COVER_PDF" "$BODY_PDF"
+  else
+    # Fallback: skip cover merge
+    mv "$BODY_PDF" "$OUTFILE"
+    echo "Warning: No PDF merge tool (pdftk/gs). Cover not included."
+  fi
+  rm -f "$BODY_PDF" "$COVER_PDF"
+fi
+
 echo "Built: $OUTFILE"

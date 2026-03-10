@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 8 — The Fork</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+</style>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <rect width="600" height="900" fill="#1a1a2e"/>
+
+  <!-- Single trunk line from top, splitting into branches -->
+  <!-- Main trunk: the past, clear and straight -->
+  <line x1="300" y1="220" x2="300" y2="420" stroke="#d4a574" stroke-width="2" opacity="0.7"/>
+
+  <!-- The fork point -->
+  <circle cx="300" cy="420" r="4" fill="#d4a574" opacity="0.8"/>
+  <circle cx="300" cy="420" r="8" fill="none" stroke="#d4a574" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Branch 1: curves right and down — acceleration, the void -->
+  <path d="M 300,420 C 320,460 360,500 420,540 C 480,580 520,620 540,700"
+    fill="none" stroke="#d4a574" stroke-width="1.5" opacity="0.5"/>
+  <!-- Dissolving end -->
+  <path d="M 540,700 C 548,730 552,750 554,770"
+    fill="none" stroke="#d4a574" stroke-width="1" opacity="0.2" stroke-dasharray="4,4"/>
+  <circle cx="556" cy="785" r="1.5" fill="#d4a574" opacity="0.1"/>
+
+  <!-- Branch 2: curves left — resistance, Henning's path -->
+  <path d="M 300,420 C 280,460 240,500 180,540 C 120,580 90,600 80,640"
+    fill="none" stroke="#7ec8a0" stroke-width="1.5" opacity="0.5"/>
+  <path d="M 80,640 C 75,660 78,680 90,700"
+    fill="none" stroke="#7ec8a0" stroke-width="1" opacity="0.3"/>
+
+  <!-- Branch 3: goes almost straight down — trying to hold center -->
+  <path d="M 300,420 C 302,460 305,500 310,550 C 315,600 312,650 300,700"
+    fill="none" stroke="#7aa2d4" stroke-width="1" opacity="0.35"/>
+  <path d="M 300,700 C 295,720 298,740 300,760"
+    fill="none" stroke="#7aa2d4" stroke-width="0.5" opacity="0.15" stroke-dasharray="3,5"/>
+
+  <!-- Sub-branches from branch 1 — further fragmentation -->
+  <path d="M 420,540 C 430,550 445,555 460,558" fill="none" stroke="#d4a574" stroke-width="0.5" opacity="0.2"/>
+  <path d="M 460,570 C 475,578 490,582 505,580" fill="none" stroke="#d4a574" stroke-width="0.5" opacity="0.15"/>
+  <path d="M 480,580 C 490,600 495,610 492,625" fill="none" stroke="#d4a574" stroke-width="0.5" opacity="0.1"/>
+
+  <!-- Timeline annotations along the trunk -->
+  <g font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a">
+    <text x="312" y="250" opacity="0.4">2024 — the needle</text>
+    <text x="312" y="300" opacity="0.35">2031 — first patch</text>
+    <text x="312" y="350" opacity="0.3">2035 — 100M users</text>
+    <text x="312" y="400" opacity="0.25">2039 — 900M users</text>
+    <text x="312" y="425" opacity="0.5">2041 — now</text>
+  </g>
+
+  <!-- Branch labels -->
+  <g font-family="'JetBrains Mono', monospace" font-size="8">
+    <text x="530" y="780" fill="#d4a574" opacity="0.2">void</text>
+    <text x="55" y="720" fill="#7ec8a0" opacity="0.3">resist</text>
+    <text x="305" y="775" fill="#7aa2d4" opacity="0.15">?</text>
+  </g>
+
+  <!-- Title -->
+  <text x="300" y="120" font-family="'JetBrains Mono', monospace" font-size="48" font-weight="700" fill="#d4a574" text-anchor="middle" letter-spacing="6">CHECKPOINT</text>
+  <text x="300" y="155" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a" text-anchor="middle">How we optimized into the void.</text>
+
+  <text x="300" y="860" font-family="'JetBrains Mono', monospace" font-size="14" fill="#c4c4d4" text-anchor="middle">R.F. &amp; Claude</text>
+</svg>
+</body></html>

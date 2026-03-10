@@ -134,6 +134,17 @@
   .hero {
     padding: 100px 0 80px;
     text-align: left;
+    position: relative;
+  }
+
+  .hero-cover {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 180px;
+    height: 270px;
+    opacity: 0.5;
+    pointer-events: none;
   }
 
   .prompt {
@@ -531,6 +542,7 @@
     .chapter-list { columns: 1; }
     .process { grid-template-columns: 1fr; gap: 8px; }
     .process-status { justify-self: start; }
+    .hero-cover { width: 120px; height: 180px; top: 60px; opacity: 0.35; }
   }
 </style>
 </head>
@@ -549,6 +561,7 @@
 
   <!-- HERO -->
   <div class="hero section">
+    <img src="cover-small.svg" alt="" class="hero-cover">
     <div class="prompt"><span class="path">~/novel</span> <span class="arrow">&gt;</span></div>
     <div class="command">cat README.md</div>
 
@@ -851,13 +864,9 @@
     </div>
 
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin-bottom: 24px;">
+      <a href="read/" class="cta-link">Read online</a>
       <a href="Checkpoint-Draft.pdf" class="cta-link" download>PDF</a>
       <a href="audiobook/" class="cta-link">Audiobook</a>
-      <a href="#" class="cta-link" style="background: var(--surface); color: var(--text); border: 1px solid var(--border);" title="Coming soon">EPUB</a>
-      <a href="#" class="cta-link" style="background: var(--surface); color: var(--text); border: 1px solid var(--border);" title="Coming soon">Archive.org</a>
-      <a href="#" class="cta-link" style="background: var(--surface); color: var(--text); border: 1px solid var(--border);" title="Coming soon">Apple Books</a>
-      <a href="#" class="cta-link" style="background: var(--surface); color: var(--text); border: 1px solid var(--border);" title="Coming soon">Google Play</a>
-      <a href="#" class="cta-link" style="background: var(--surface); color: var(--text); border: 1px solid var(--border);" title="Coming soon">Amazon</a>
       <a href="https://github.com/batmanvane/checkpointnovel" class="cta-link" style="background: var(--surface); color: var(--text); border: 1px solid var(--border);">GitHub</a>
     </div>
     <p class="dim" style="margin-bottom: 24px; font-size: 12px;">AI-narrated. A novel about AI, written with AI, read by AI. The recursion is the point.</p>

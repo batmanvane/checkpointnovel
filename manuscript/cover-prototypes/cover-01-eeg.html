@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 1 — EEG Dissolve</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+</style>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#d4a574" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#d4a574" stop-opacity="0.8"/>
+      <stop offset="85%" stop-color="#d4a574" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#d4a574" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fade2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2d4" stop-opacity="0.6"/>
+      <stop offset="60%" stop-color="#7aa2d4" stop-opacity="0.4"/>
+      <stop offset="85%" stop-color="#7aa2d4" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#7aa2d4" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="right-clip">
+      <rect x="0" y="0" width="600" height="900"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="900" fill="#1a1a2e"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.04" stroke="#c4c4d4">
+    <line x1="0" y1="0" x2="0" y2="900" stroke-width="0.5"/>
+    <line x1="50" y1="0" x2="50" y2="900" stroke-width="0.5"/>
+    <line x1="100" y1="0" x2="100" y2="900" stroke-width="0.5"/>
+    <line x1="150" y1="0" x2="150" y2="900" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="200" y2="900" stroke-width="0.5"/>
+    <line x1="250" y1="0" x2="250" y2="900" stroke-width="0.5"/>
+    <line x1="300" y1="0" x2="300" y2="900" stroke-width="0.5"/>
+    <line x1="350" y1="0" x2="350" y2="900" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="900" stroke-width="0.5"/>
+    <line x1="450" y1="0" x2="450" y2="900" stroke-width="0.5"/>
+    <line x1="500" y1="0" x2="500" y2="900" stroke-width="0.5"/>
+    <line x1="550" y1="0" x2="550" y2="900" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="900" stroke-width="0.5"/>
+  </g>
+
+  <!-- EEG waveform — clean on left, dissolving to noise on right -->
+  <!-- Main wave (alpha rhythm ~10Hz) -->
+  <path d="M 40,420
+    C 55,390 65,390 80,420
+    C 95,450 105,450 120,420
+    C 135,390 145,390 160,420
+    C 175,450 185,450 200,420
+    C 215,390 225,390 240,420
+    C 255,450 265,450 280,420
+    C 295,385 305,385 320,420
+    C 335,455 345,458 360,415
+    C 375,372 388,380 400,425
+    C 410,460 425,370 440,410
+    C 448,435 460,385 475,430
+    C 482,445 490,395 505,420
+    C 512,435 520,405 535,425
+    C 542,435 548,415 560,420"
+    fill="none" stroke="url(#fade)" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Second trace (beta, faster) -->
+  <path d="M 40,460
+    C 48,452 52,452 60,460
+    C 68,468 72,468 80,460
+    C 88,452 92,452 100,460
+    C 108,468 112,468 120,460
+    C 128,452 132,452 140,460
+    C 148,468 152,468 160,460
+    C 168,452 172,452 180,460
+    C 188,468 192,468 200,460
+    C 208,452 212,452 220,460
+    C 228,468 232,468 240,460
+    C 248,452 252,452 260,460
+    C 268,468 275,465 280,460
+    C 288,452 295,455 300,462
+    C 308,468 318,450 325,458
+    C 335,465 342,448 355,462
+    C 362,468 370,445 385,458
+    C 395,465 405,448 420,455
+    C 430,460 440,450 455,458
+    C 462,462 470,452 480,458
+    C 488,462 495,455 505,458"
+    fill="none" stroke="url(#fade2)" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Scattered dots — signal dissolving into noise -->
+  <g fill="#d4a574">
+    <circle cx="420" cy="408" r="1" opacity="0.5"/>
+    <circle cx="445" cy="440" r="1.2" opacity="0.4"/>
+    <circle cx="460" cy="395" r="0.8" opacity="0.35"/>
+    <circle cx="480" cy="445" r="1" opacity="0.3"/>
+    <circle cx="495" cy="400" r="0.7" opacity="0.25"/>
+    <circle cx="510" cy="435" r="1.1" opacity="0.2"/>
+    <circle cx="525" cy="405" r="0.6" opacity="0.18"/>
+    <circle cx="535" cy="440" r="0.9" opacity="0.15"/>
+    <circle cx="545" cy="410" r="0.5" opacity="0.12"/>
+    <circle cx="555" cy="430" r="0.8" opacity="0.1"/>
+    <circle cx="565" cy="415" r="0.4" opacity="0.08"/>
+  </g>
+  <g fill="#7aa2d4">
+    <circle cx="430" cy="465" r="0.8" opacity="0.3"/>
+    <circle cx="455" cy="448" r="0.6" opacity="0.25"/>
+    <circle cx="478" cy="470" r="0.9" opacity="0.2"/>
+    <circle cx="500" cy="450" r="0.5" opacity="0.15"/>
+    <circle cx="518" cy="465" r="0.7" opacity="0.12"/>
+    <circle cx="540" cy="455" r="0.4" opacity="0.1"/>
+  </g>
+
+  <!-- Title -->
+  <text x="40" y="160" font-family="'JetBrains Mono', 'SF Mono', 'Fira Code', monospace" font-size="42" font-weight="700" fill="#d4a574" letter-spacing="6">CHECKPOINT</text>
+
+  <!-- Subtitle -->
+  <text x="40" y="195" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a">How we optimized into the void.</text>
+
+  <!-- Bottom text -->
+  <text x="40" y="800" font-family="'JetBrains Mono', monospace" font-size="11" fill="#6a6a8a">where does the patch stop</text>
+  <text x="40" y="818" font-family="'JetBrains Mono', monospace" font-size="11" fill="#6a6a8a">and the you begin?</text>
+
+  <!-- Author -->
+  <text x="40" y="860" font-family="'JetBrains Mono', monospace" font-size="13" fill="#c4c4d4">R.F. &amp; Claude</text>
+</svg>
+</body></html>

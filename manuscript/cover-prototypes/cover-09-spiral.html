@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>Cover 9 — Optimization Spiral</title>
+<style>
+  body { margin: 0; background: #000; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+</style>
+<script>
+window.onload = function() {
+  const g = document.getElementById('spiral');
+  const cx = 300, cy = 430;
+  const turns = 8;
+  const maxR = 180;
+  const totalPts = 2000;
+
+  for (let i = 1; i < totalPts; i++) {
+    const t0 = (i-1) / totalPts;
+    const t1 = i / totalPts;
+    const angle0 = t0 * turns * Math.PI * 2;
+    const angle1 = t1 * turns * Math.PI * 2;
+    // Spiral inward: radius decreases
+    const r0 = maxR * (1 - t0);
+    const r1 = maxR * (1 - t1);
+    const x0 = cx + Math.cos(angle0) * r0;
+    const y0 = cy + Math.sin(angle0) * r0 * 0.6; // squash vertically
+    const x1 = cx + Math.cos(angle1) * r1;
+    const y1 = cy + Math.sin(angle1) * r1 * 0.6;
+
+    const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+    line.setAttribute('x1', x0);
+    line.setAttribute('y1', y0);
+    line.setAttribute('x2', x1);
+    line.setAttribute('y2', y1);
+
+    // Early: gold, clear. Late: blue-dim, fading
+    const r = Math.round(212 - t1 * 100);
+    const gg = Math.round(165 - t1 * 40);
+    const b = Math.round(116 + t1 * 80);
+    const opacity = 0.6 * (1 - t1 * 0.7);
+
+    line.setAttribute('stroke', `rgb(${r},${gg},${b})`);
+    line.setAttribute('stroke-width', (1.5 - t1 * 1.0).toFixed(2));
+    line.setAttribute('opacity', opacity.toFixed(3));
+    g.appendChild(line);
+  }
+
+  // Add "input" and "output" labels along the spiral
+  const labels = [
+    {t: 0.05, text: 'read', color: '#d4a574'},
+    {t: 0.12, text: 'write', color: '#7aa2d4'},
+    {t: 0.20, text: 'read', color: '#d4a574'},
+    {t: 0.28, text: 'write', color: '#7aa2d4'},
+    {t: 0.36, text: 'read', color: '#d4a574'},
+    {t: 0.44, text: 'optimize', color: '#6a6a8a'},
+    {t: 0.52, text: 'read', color: '#d4a574'},
+    {t: 0.60, text: 'write', color: '#7aa2d4'},
+    {t: 0.70, text: 'optimize', color: '#6a6a8a'},
+    {t: 0.80, text: 'read', color: '#d4a574'},
+    {t: 0.90, text: '...', color: '#6a6a8a'},
+  ];
+
+  labels.forEach(l => {
+    const angle = l.t * turns * Math.PI * 2;
+    const r = maxR * (1 - l.t);
+    const x = cx + Math.cos(angle) * r;
+    const y = cy + Math.sin(angle) * r * 0.6;
+    const txt = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+    txt.setAttribute('x', x);
+    txt.setAttribute('y', y - 8);
+    txt.setAttribute('font-family', "'JetBrains Mono', monospace");
+    txt.setAttribute('font-size', Math.max(6, 9 - l.t * 4).toFixed(1));
+    txt.setAttribute('fill', l.color);
+    txt.setAttribute('opacity', (0.4 * (1 - l.t * 0.6)).toFixed(2));
+    txt.setAttribute('text-anchor', 'middle');
+    txt.textContent = l.text;
+    g.appendChild(txt);
+  });
+};
+</script>
+</head><body>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 900" width="600" height="900">
+  <rect width="600" height="900" fill="#1a1a2e"/>
+
+  <g id="spiral"></g>
+
+  <!-- Center point — the void -->
+  <circle cx="300" cy="430" r="2" fill="#d4a574" opacity="0.4"/>
+  <text x="300" y="448" font-family="'JetBrains Mono', monospace" font-size="8" fill="#6a6a8a" text-anchor="middle" opacity="0.25">void</text>
+
+  <!-- Title -->
+  <text x="300" y="100" font-family="'JetBrains Mono', monospace" font-size="48" font-weight="700" fill="#d4a574" text-anchor="middle" letter-spacing="6">CHECKPOINT</text>
+  <text x="300" y="135" font-family="'JetBrains Mono', monospace" font-size="12" fill="#6a6a8a" text-anchor="middle">How we optimized into the void.</text>
+
+  <text x="300" y="780" font-family="'JetBrains Mono', monospace" font-size="11" fill="#6a6a8a" text-anchor="middle" opacity="0.5">where does the patch stop and the you begin?</text>
+  <text x="300" y="840" font-family="'JetBrains Mono', monospace" font-size="14" fill="#c4c4d4" text-anchor="middle">R.F. &amp; Claude</text>
+</svg>
+</body></html>
