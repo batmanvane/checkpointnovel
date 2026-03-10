@@ -32,7 +32,7 @@
 
 \noindent\textbf{About the Author}
 
-\noindent R.F. is a researcher studying the intersection of artificial intelligence and human cognition. \textit{Checkpoint} is his first novel. It was co-written with Claude, Anthropic's AI assistant --- a process that mirrored the book's central question: where does the human end and the optimization begin? He has not yet found the answer. Neither has Claude.
+\noindent Robert Flassig is a physicist with a background in complex systems modeling, working with machine learning in applied engineering research. He uses AI to enhance his research by deepening and widening exploration paths --- and wrote this novel about what happens when you do that to the human brain. \textit{Checkpoint} is his first novel. It was co-written with Claude, Anthropic's AI assistant --- a process that mirrored the book's central question: where does the human end and the optimization begin?
 
 \vspace{0.5cm}
 
