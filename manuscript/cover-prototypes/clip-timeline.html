@@ -53,17 +53,17 @@ const W = 1080, H = 1920;
 
 const BG = '#1a1a2e';
 const ACCENT = '#d4a574';
-const DIM = '#6a6a8a';
-const TEXT = '#c4c4d4';
-const BLUE = '#7aa2d4';
-const BORDER = '#2a2a4a';
+const DIM = '#9a9abc';
+const TEXT = '#e4e4f4';
+const BLUE = '#8ab4e8';
+const BORDER = '#3a3a5a';
 
-const TOTAL_FRAMES = 75 * 60; // 75 seconds
+const TOTAL_FRAMES = 90 * 60; // 90 seconds
 let frame = 0;
 let running = false;
 
 // The virtual scroll position — content is much taller than viewport
-const CONTENT_HEIGHT = 18000;
+const CONTENT_HEIGHT = 20000;
 
 function mulberry32(a) {
   return function() {
@@ -105,17 +105,18 @@ function generateEEG(x, t, style, seed) {
 
 // Timeline milestones — positioned in virtual scroll space
 const milestones = [
-  { y: 600,   year: '1924', label: 'Jena, Germany', sub: 'Hans Berger connects electrodes\nto an open skull.', eeg: 0 },
-  { y: 1800,  year: '',     label: '',              sub: '', note: 'The needle moves.', eeg: 0.05 },
-  { y: 3000,  year: '1929', label: 'First publication', sub: 'Alpha waves.\n10 cycles per second.\nNo one believes him.', eeg: 0.1 },
-  { y: 4800,  year: '2021', label: 'First BCI trials', sub: 'Reading the brain\nis no longer enough.', eeg: 0.2 },
-  { y: 6600,  year: '2031', label: 'CortexLink MK-I', sub: 'A skin-colored patch\nbehind the left ear.\nIt reads. It also writes.', eeg: 0.35 },
-  { y: 8400,  year: '2035', label: '100 million users', sub: 'The updates are seamless.\nYou barely notice them.', eeg: 0.5 },
-  { y: 10200, year: '2038', label: '500 million',       sub: 'The thoughts come faster now.\nCleaner. More efficient.\nMore... similar.', eeg: 0.7 },
-  { y: 12000, year: '2041', label: '900 million',       sub: 'Four lives.\nFour regions.\nOne question.', eeg: 0.85 },
-  { y: 13800, year: '',     label: '',                   sub: '', question: true, eeg: 0.95 },
-  { y: 15400, year: '',     label: '',                   sub: '', convergence: true, eeg: 1.0 },
-  { y: 17000, year: '',     label: '',                   sub: '', title: true, eeg: 1.0 },
+  { y: 200,   year: '', label: '', sub: '', intro: true, eeg: 0 },
+  { y: 2000,  year: '1924', label: 'Jena, Germany', sub: 'Hans Berger connects electrodes\nto an open skull.', eeg: 0 },
+  { y: 3400,  year: '',     label: '',              sub: '', note: 'The needle moves.', eeg: 0.05 },
+  { y: 5000,  year: '1929', label: 'First publication', sub: 'Alpha waves.\n10 cycles per second.\nNo one believes him.', eeg: 0.1 },
+  { y: 6800,  year: '2021', label: 'First BCI trials', sub: 'Reading the brain\nis no longer enough.', eeg: 0.2 },
+  { y: 8600,  year: '2031', label: 'CortexLink MK-I', sub: 'A skin-colored patch\nbehind the left ear.\nIt reads. It also writes.', eeg: 0.35 },
+  { y: 10400, year: '2035', label: '100 million users', sub: 'The updates are seamless.\nYou barely notice them.', eeg: 0.5 },
+  { y: 12200, year: '2038', label: '500 million',       sub: 'The thoughts come faster now.\nCleaner. More efficient.\nMore... similar.', eeg: 0.7 },
+  { y: 14000, year: '2041', label: '900 million',       sub: 'Four lives.\nFour regions.\nOne question.', eeg: 0.85 },
+  { y: 15800, year: '',     label: '',                   sub: '', question: true, eeg: 0.95 },
+  { y: 17400, year: '',     label: '',                   sub: '', convergence: true, eeg: 1.0 },
+  { y: 19000, year: '',     label: '',                   sub: '', title: true, eeg: 1.0 },
 ];
 
 // Convergence lines
@@ -129,7 +130,7 @@ for (let i = 0; i < 40; i++) {
     waveFreq: 2 + mulberry32(i * 400)() * 4,
     waveAmp: 2 + mulberry32(i * 500)() * 10,
     hue: (startX / W) * 40 + 20,
-    opacity: 0.15 + mulberry32(i * 600)() * 0.2
+    opacity: 0.25 + mulberry32(i * 600)() * 0.3
   });
 }
 
@@ -168,10 +169,10 @@ function getCurrentEEGStyle(scrollY) {
 }
 
 function getUserCount(scrollY) {
-  // 0 before 2031 (y=6600), ramps to 900M at 2041 (y=12000)
-  if (scrollY < 6600) return 0;
-  if (scrollY > 12000) return 900000000;
-  return Math.floor(((scrollY - 6600) / (12000 - 6600)) * 900000000);
+  // 0 before 2031 (y=8600), ramps to 900M at 2041 (y=14000)
+  if (scrollY < 8600) return 0;
+  if (scrollY > 14000) return 900000000;
+  return Math.floor(((scrollY - 8600) / (14000 - 8600)) * 900000000);
 }
 
 // Find the current year for the sticky indicator
@@ -196,10 +197,10 @@ function drawFrame() {
 
   // --- Persistent year indicator (top-left) ---
   const currentYear = getCurrentYear(scrollY);
-  if (currentYear && scrollY < 13800) {
-    ctx.font = 'bold 28px "JetBrains Mono"';
+  if (currentYear && scrollY < 15800) {
+    ctx.font = 'bold 36px "JetBrains Mono"';
     ctx.fillStyle = ACCENT;
-    ctx.globalAlpha = 0.4;
+    ctx.globalAlpha = 0.8;
     ctx.textAlign = 'left';
     ctx.fillText(currentYear, 80, 80);
     ctx.globalAlpha = 1;
@@ -213,8 +214,8 @@ function drawFrame() {
 
   // Fade out during convergence/title
   let eegOpacity = 1;
-  if (scrollY > 13500) {
-    eegOpacity = Math.max(0, 1 - (scrollY - 13500) / 1800);
+  if (scrollY > 15500) {
+    eegOpacity = Math.max(0, 1 - (scrollY - 15500) / 1800);
   }
 
   if (eegOpacity > 0) {
@@ -224,7 +225,7 @@ function drawFrame() {
       ctx.beginPath();
       const isMain = tr === 1;
       ctx.strokeStyle = isMain ? ACCENT : BLUE;
-      ctx.globalAlpha = eegOpacity * (isMain ? 0.6 : 0.25);
+      ctx.globalAlpha = eegOpacity * (isMain ? 0.8 : 0.4);
       ctx.lineWidth = isMain ? 2 : 1.2;
 
       for (let x = 60; x < W - 60; x += 2) {
@@ -251,11 +252,15 @@ function drawFrame() {
   const railTop = 560;
   const railBottom = 1800;
 
-  // Only show rail during timeline phase
-  if (scrollY < 13800) {
-    const railOpacity = Math.min(0.25, (scrollY > 200 ? 0.25 : scrollY / 800));
+  // Only show rail once the first milestone is on screen
+  // Rail starts at the 1924 milestone (index 1, after intro)
+  const firstTimelineViewY = milestones[1].y - scrollY + H * 0.55;
+  const railVisible = firstTimelineViewY < H + 100 && scrollY < 15800;
+
+  if (railVisible) {
+    const railFadeIn = Math.min(0.25, Math.max(0, (scrollY - 100) / 600));
     ctx.strokeStyle = BORDER;
-    ctx.globalAlpha = railOpacity;
+    ctx.globalAlpha = railFadeIn;
     ctx.lineWidth = 1;
     ctx.setLineDash([3, 8]);
     ctx.beginPath();
@@ -264,14 +269,6 @@ function drawFrame() {
     ctx.stroke();
     ctx.setLineDash([]);
 
-    // Scrolling dot on rail
-    const dotProgress = Math.min(1, scrollY / 13000);
-    const dotY = railTop + dotProgress * (railBottom - railTop);
-    ctx.beginPath();
-    ctx.arc(railX, dotY, 5, 0, Math.PI * 2);
-    ctx.fillStyle = ACCENT;
-    ctx.globalAlpha = railOpacity * 2.5;
-    ctx.fill();
     ctx.globalAlpha = 1;
   }
 
@@ -292,32 +289,59 @@ function drawFrame() {
     if (opacity < 0.01) continue;
     ctx.globalAlpha = opacity;
 
-    if (m.note) {
-      // "The needle moves"
-      ctx.font = 'italic 36px "JetBrains Mono"';
+    // Consistent text layout: all left-aligned at textX
+    const textX = 220;
+    ctx.textAlign = 'left';
+
+    if (m.intro) {
+      // Opening text from website abstract
+      ctx.font = 'bold 48px "JetBrains Mono"';
       ctx.fillStyle = ACCENT;
-      ctx.textAlign = 'left';
-      ctx.fillText(m.note, 220, viewY);
+      ctx.fillText('2041.', textX, viewY);
+
+      ctx.font = '22px "JetBrains Mono"';
+      ctx.fillStyle = TEXT;
+      ctx.fillText('A skin-colored patch', textX, viewY + 60);
+      ctx.fillText('behind the ear.', textX, viewY + 92);
+      ctx.fillText('Always on. Always learning.', textX, viewY + 132);
+
+      ctx.font = '18px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.fillText('Each update nudges you.', textX, viewY + 200);
+      ctx.fillText('Just slightly.', textX, viewY + 232);
+      ctx.fillText('But the nudges compound —', textX, viewY + 272);
+      ctx.fillText('and the rate is accelerating.', textX, viewY + 304);
+
+      ctx.font = '18px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.fillText('No commit history. No rollback.', textX, viewY + 380);
+      ctx.fillStyle = TEXT;
+      ctx.fillText('Deployed to production —', textX, viewY + 420);
+      ctx.fillStyle = ACCENT;
+      ctx.fillText('eight billion brains.', textX, viewY + 460);
+    }
+    else if (m.note) {
+      ctx.font = 'italic 28px "JetBrains Mono"';
+      ctx.fillStyle = ACCENT;
+      ctx.fillText(m.note, textX, viewY);
     }
     else if (m.question) {
-      ctx.font = '28px "JetBrains Mono"';
+      ctx.font = '24px "JetBrains Mono"';
       ctx.fillStyle = DIM;
-      ctx.textAlign = 'center';
-      ctx.fillText('where does the patch stop', W / 2, viewY);
-      ctx.fillText('and the you begin?', W / 2, viewY + 50);
+      ctx.fillText('where does the patch stop', textX, viewY);
+      ctx.fillText('and the you begin?', textX, viewY + 40);
     }
     else if (m.convergence) {
       drawConvergence(opacity, scrollY);
     }
     else if (m.title) {
-      // Only show when scrolled far enough
-      const titleFade = Math.min(1, Math.max(0, (scrollY - 16500) / 800));
+      const titleFade = Math.min(1, Math.max(0, (scrollY - 18500) / 800));
       if (titleFade > 0) {
         ctx.globalAlpha = titleFade;
+        ctx.textAlign = 'center';
 
         ctx.font = 'bold 64px "JetBrains Mono"';
         ctx.fillStyle = ACCENT;
-        ctx.textAlign = 'center';
         ctx.fillText('CHECKPOINT', W / 2, H / 2 - 60);
 
         ctx.font = '22px "JetBrains Mono"';
@@ -334,51 +358,19 @@ function drawFrame() {
       }
     }
     else {
-      // Standard milestone
-      const textX = 220;
-
-      // Year — big, on the rail
-      if (m.year) {
-        ctx.font = 'bold 56px "JetBrains Mono"';
-        ctx.fillStyle = ACCENT;
-        ctx.textAlign = 'left';
-        ctx.fillText(m.year, textX, viewY);
-
-        // Dot on rail
-        ctx.beginPath();
-        ctx.arc(railX, viewY - 15, 8, 0, Math.PI * 2);
-        ctx.fillStyle = ACCENT;
-        ctx.globalAlpha = opacity * 0.6;
-        ctx.fill();
-        ctx.globalAlpha = opacity;
-
-        // Connecting line from rail to text
-        ctx.strokeStyle = ACCENT;
-        ctx.globalAlpha = opacity * 0.2;
-        ctx.lineWidth = 1;
-        ctx.beginPath();
-        ctx.moveTo(railX + 10, viewY - 15);
-        ctx.lineTo(textX - 10, viewY - 15);
-        ctx.stroke();
-        ctx.globalAlpha = opacity;
-      }
-
-      // Label
+      // Standard milestone — label + sub (year shown in sticky top-left)
       if (m.label) {
-        ctx.font = '24px "JetBrains Mono"';
+        ctx.font = 'bold 26px "JetBrains Mono"';
         ctx.fillStyle = TEXT;
-        ctx.textAlign = 'left';
-        ctx.fillText(m.label, textX, viewY + 50);
+        ctx.fillText(m.label, textX, viewY);
       }
 
-      // Sub text
       if (m.sub) {
-        ctx.font = '18px "JetBrains Mono"';
+        ctx.font = '20px "JetBrains Mono"';
         ctx.fillStyle = DIM;
-        ctx.textAlign = 'left';
         const lines = m.sub.split('\n');
         lines.forEach((line, idx) => {
-          ctx.fillText(line, textX, viewY + 90 + idx * 32);
+          ctx.fillText(line, textX, viewY + 44 + idx * 34);
         });
       }
     }
@@ -387,12 +379,12 @@ function drawFrame() {
 
   // --- User count (bottom right, during adoption phase) ---
   const count = getUserCount(scrollY);
-  if (count > 0 && scrollY < 13500) {
-    const countFade = Math.min(1, count / 50000000) * Math.max(0, 1 - (scrollY - 12200) / 1200);
+  if (count > 0 && scrollY < 15500) {
+    const countFade = Math.min(1, count / 50000000) * Math.max(0, 1 - (scrollY - 14200) / 1200);
     if (countFade > 0) {
       ctx.font = '16px "JetBrains Mono"';
       ctx.fillStyle = DIM;
-      ctx.globalAlpha = countFade * 0.5;
+      ctx.globalAlpha = countFade * 0.7;
       ctx.textAlign = 'right';
       ctx.fillText(count.toLocaleString() + ' connected', W - 80, H - 80);
       ctx.globalAlpha = 1;
@@ -402,16 +394,16 @@ function drawFrame() {
 
 function drawConvergence(opacity, scrollY) {
   const cx = W / 2, cy = H / 2;
-  const convProgress = Math.min(1, Math.max(0, (scrollY - 14800) / 2000));
+  const convProgress = Math.min(1, Math.max(0, (scrollY - 16800) / 2000));
 
   if (convProgress <= 0) return;
 
   for (const line of convLines) {
     const rng = mulberry32(Math.floor(line.startX) * 137);
     ctx.beginPath();
-    ctx.strokeStyle = `hsl(${line.hue}, 50%, 60%)`;
+    ctx.strokeStyle = `hsl(${line.hue}, 55%, 70%)`;
     ctx.globalAlpha = opacity * line.opacity * Math.min(1, convProgress * 2);
-    ctx.lineWidth = 0.8;
+    ctx.lineWidth = 1.2;
 
     const steps = 80;
     for (let s = 0; s <= steps; s++) {

@@ -67,8 +67,6 @@ cd manuscript
 bash build-audiobook.sh    # generates audiobook/*.txt
 ```
 
-A novel about AI, written with AI, narrated by AI. The recursion is the point.
-
 ## How it was made
 
 Co-written by R.F. and Claude (Anthropic's AI assistant). The concept, characters, themes, and editorial decisions are human. The prose was generated collaboratively — the author directing, shaping, and revising; the AI drafting, proposing, and iterating.
