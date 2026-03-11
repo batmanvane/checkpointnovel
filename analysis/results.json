@@ -1,0 +1,375 @@
+{
+  "novel": {
+    "total_words": 143370,
+    "unique_words": 10660,
+    "chapters": 30,
+    "avg_sentence_length": 12.86,
+    "positive_density": 3.9,
+    "negative_density": 2.27,
+    "emotional_range": 6.17
+  },
+  "characters": {
+    "Prolog": {
+      "total_words": 626,
+      "chapters": 1,
+      "avg_sentence_length": 13.91,
+      "dialogue_ratio": 0.0,
+      "positive_density": 3.19,
+      "negative_density": 0.0,
+      "pos_neg_ratio": 319.0,
+      "avg_word_length": 4.73
+    },
+    "Henning": {
+      "total_words": 28343,
+      "chapters": 6,
+      "avg_sentence_length": 12.89,
+      "dialogue_ratio": 0.31,
+      "positive_density": 3.39,
+      "negative_density": 2.6,
+      "pos_neg_ratio": 1.3,
+      "avg_word_length": 4.75
+    },
+    "Maya": {
+      "total_words": 24558,
+      "chapters": 5,
+      "avg_sentence_length": 12.64,
+      "dialogue_ratio": 0.27,
+      "positive_density": 3.25,
+      "negative_density": 3.49,
+      "pos_neg_ratio": 0.93,
+      "avg_word_length": 4.88
+    },
+    "Lin Wei": {
+      "total_words": 31922,
+      "chapters": 6,
+      "avg_sentence_length": 13.1,
+      "dialogue_ratio": 0.17,
+      "positive_density": 4.7,
+      "negative_density": 2.39,
+      "pos_neg_ratio": 1.97,
+      "avg_word_length": 4.88
+    },
+    "Amara": {
+      "total_words": 22504,
+      "chapters": 5,
+      "avg_sentence_length": 15.17,
+      "dialogue_ratio": 0.3,
+      "positive_density": 5.37,
+      "negative_density": 1.81,
+      "pos_neg_ratio": 2.96,
+      "avg_word_length": 4.62
+    },
+    "Sara+Tomas": {
+      "total_words": 15274,
+      "chapters": 3,
+      "avg_sentence_length": 12.27,
+      "dialogue_ratio": 0.35,
+      "positive_density": 3.55,
+      "negative_density": 1.97,
+      "pos_neg_ratio": 1.8,
+      "avg_word_length": 4.74
+    },
+    "Ensemble": {
+      "total_words": 19333,
+      "chapters": 3,
+      "avg_sentence_length": 11.16,
+      "dialogue_ratio": 0.41,
+      "positive_density": 3.49,
+      "negative_density": 1.88,
+      "pos_neg_ratio": 1.85,
+      "avg_word_length": 4.78
+    },
+    "Epilog": {
+      "total_words": 810,
+      "chapters": 1,
+      "avg_sentence_length": 12.86,
+      "dialogue_ratio": 0.1,
+      "positive_density": 1.23,
+      "negative_density": 0.0,
+      "pos_neg_ratio": 123.0,
+      "avg_word_length": 5.17
+    }
+  },
+  "convergence": {
+    "per_character_per_part": {
+      "Henning": {
+        "Part I": 14.14,
+        "Part II": 13.75,
+        "Part III": 12.0,
+        "Part IV": 12.43
+      },
+      "Maya": {
+        "Part I": 13.79,
+        "Part II": 12.75,
+        "Part III": 11.94,
+        "Part IV": 12.49
+      },
+      "Lin Wei": {
+        "Part I": 12.48,
+        "Part II": 11.25,
+        "Part III": 14.75,
+        "Part IV": 13.04
+      },
+      "Amara": {
+        "Part I": 15.39,
+        "Part II": 16.39,
+        "Part III": 14.55,
+        "Part IV": 13.14
+      }
+    },
+    "cross_character_std": {
+      "Part I": 1.04,
+      "Part II": 1.87,
+      "Part III": 1.34,
+      "Part IV": 0.32
+    }
+  },
+  "sentiment_arc": [
+    {
+      "chapter": "ch00-prolog.md",
+      "character": "Prolog",
+      "positive_density": 3.19,
+      "negative_density": 0.0
+    },
+    {
+      "chapter": "ch01-henning.md",
+      "character": "Henning",
+      "positive_density": 2.27,
+      "negative_density": 2.56
+    },
+    {
+      "chapter": "ch02-maya.md",
+      "character": "Maya",
+      "positive_density": 2.78,
+      "negative_density": 2.78
+    },
+    {
+      "chapter": "ch03-linwei.md",
+      "character": "Lin Wei",
+      "positive_density": 3.64,
+      "negative_density": 1.93
+    },
+    {
+      "chapter": "ch04-amara.md",
+      "character": "Amara",
+      "positive_density": 6.92,
+      "negative_density": 0.82
+    },
+    {
+      "chapter": "ch05-henning.md",
+      "character": "Henning",
+      "positive_density": 3.96,
+      "negative_density": 1.98
+    },
+    {
+      "chapter": "ch06-maya.md",
+      "character": "Maya",
+      "positive_density": 4.18,
+      "negative_density": 3.3
+    },
+    {
+      "chapter": "ch07-linwei.md",
+      "character": "Lin Wei",
+      "positive_density": 5.0,
+      "negative_density": 3.33
+    },
+    {
+      "chapter": "ch08-amara.md",
+      "character": "Amara",
+      "positive_density": 4.5,
+      "negative_density": 2.02
+    },
+    {
+      "chapter": "ch09-henning.md",
+      "character": "Henning",
+      "positive_density": 5.14,
+      "negative_density": 3.95
+    },
+    {
+      "chapter": "ch10-maya.md",
+      "character": "Maya",
+      "positive_density": 3.14,
+      "negative_density": 3.98
+    },
+    {
+      "chapter": "ch11-linwei.md",
+      "character": "Lin Wei",
+      "positive_density": 2.96,
+      "negative_density": 2.12
+    },
+    {
+      "chapter": "ch12-amara.md",
+      "character": "Amara",
+      "positive_density": 5.96,
+      "negative_density": 1.91
+    },
+    {
+      "chapter": "ch13-linwei.md",
+      "character": "Lin Wei",
+      "positive_density": 5.51,
+      "negative_density": 2.05
+    },
+    {
+      "chapter": "ch14-maya.md",
+      "character": "Maya",
+      "positive_density": 3.65,
+      "negative_density": 5.38
+    },
+    {
+      "chapter": "ch15-henning.md",
+      "character": "Henning",
+      "positive_density": 4.16,
+      "negative_density": 2.24
+    },
+    {
+      "chapter": "ch16-amara.md",
+      "character": "Amara",
+      "positive_density": 3.7,
+      "negative_density": 2.31
+    },
+    {
+      "chapter": "ch17-couple.md",
+      "character": "Sara+Tomas",
+      "positive_density": 2.93,
+      "negative_density": 2.02
+    },
+    {
+      "chapter": "ch18-ensemble.md",
+      "character": "Ensemble",
+      "positive_density": 3.44,
+      "negative_density": 2.29
+    },
+    {
+      "chapter": "ch19-linwei.md",
+      "character": "Lin Wei",
+      "positive_density": 4.78,
+      "negative_density": 3.01
+    },
+    {
+      "chapter": "ch20-ensemble.md",
+      "character": "Ensemble",
+      "positive_density": 4.28,
+      "negative_density": 1.92
+    },
+    {
+      "chapter": "ch21-maya.md",
+      "character": "Maya",
+      "positive_density": 2.49,
+      "negative_density": 2.02
+    },
+    {
+      "chapter": "ch22-henning.md",
+      "character": "Henning",
+      "positive_density": 1.39,
+      "negative_density": 2.32
+    },
+    {
+      "chapter": "ch23-ensemble.md",
+      "character": "Ensemble",
+      "positive_density": 2.74,
+      "negative_density": 1.43
+    },
+    {
+      "chapter": "ch24-couple.md",
+      "character": "Sara+Tomas",
+      "positive_density": 3.32,
+      "negative_density": 2.7
+    },
+    {
+      "chapter": "ch25-amara.md",
+      "character": "Amara",
+      "positive_density": 5.75,
+      "negative_density": 2.01
+    },
+    {
+      "chapter": "ch26-linwei.md",
+      "character": "Lin Wei",
+      "positive_density": 6.32,
+      "negative_density": 1.88
+    },
+    {
+      "chapter": "ch27-couple.md",
+      "character": "Sara+Tomas",
+      "positive_density": 4.4,
+      "negative_density": 1.2
+    },
+    {
+      "chapter": "ch28-henning.md",
+      "character": "Henning",
+      "positive_density": 3.41,
+      "negative_density": 2.56
+    },
+    {
+      "chapter": "ch29-epilog.md",
+      "character": "Epilog",
+      "positive_density": 1.23,
+      "negative_density": 0.0
+    }
+  ],
+  "sentence_histogram": {
+    "1-5": 4498,
+    "6-10": 2578,
+    "11-15": 1077,
+    "16-20": 747,
+    "21-25": 571,
+    "26-30": 447,
+    "31+": 1228
+  },
+  "classics": {
+    "1984": {
+      "author": "George Orwell",
+      "year": 1949,
+      "source": "Project Gutenberg #67912",
+      "total_words": 103359,
+      "unique_words": 9595,
+      "avg_sentence_length": 15.4,
+      "positive_density": 3.62,
+      "negative_density": 4.97,
+      "emotional_range": 8.59
+    },
+    "Frankenstein": {
+      "author": "Mary Shelley",
+      "year": 1818,
+      "source": "Project Gutenberg #84",
+      "total_words": 75206,
+      "unique_words": 7668,
+      "avg_sentence_length": 22.2,
+      "positive_density": 7.58,
+      "negative_density": 6.78,
+      "emotional_range": 14.36
+    },
+    "The Time Machine": {
+      "author": "H.G. Wells",
+      "year": 1895,
+      "source": "Project Gutenberg #35",
+      "total_words": 32575,
+      "unique_words": 5114,
+      "avg_sentence_length": 16.6,
+      "positive_density": 5.07,
+      "negative_density": 4.11,
+      "emotional_range": 9.18
+    },
+    "War of the Worlds": {
+      "author": "H.G. Wells",
+      "year": 1898,
+      "source": "Project Gutenberg #36",
+      "total_words": 60160,
+      "unique_words": 7614,
+      "avg_sentence_length": 17.5,
+      "positive_density": 2.43,
+      "negative_density": 3.62,
+      "emotional_range": 6.05
+    },
+    "We": {
+      "author": "Yevgeny Zamyatin",
+      "year": 1924,
+      "source": "Project Gutenberg #61963",
+      "total_words": 64053,
+      "unique_words": 6348,
+      "avg_sentence_length": 12.4,
+      "positive_density": 4.43,
+      "negative_density": 3.75,
+      "emotional_range": 8.18
+    }
+  }
+}
