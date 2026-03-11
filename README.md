@@ -46,14 +46,21 @@ manuscript/
 ├── build-audiobook.sh  # Generate TTS-ready text from chapters
 └── Checkpoint-Draft.pdf
 
+marketing/
+├── clips/              # Social media animation (HTML source + exported video)
+└── covers/             # Cover design prototypes (HTML/canvas)
+
 website/
 ├── index.html          # checkpoin.de (terminal aesthetic)
+├── read/               # Full online reader
 ├── audiobook/          # Audiobook player + MP3s served to listeners
 ├── fonts/              # Self-hosted JetBrains Mono (no Google)
 ├── llms.txt            # For AI agents
 └── AGENTS.md           # Also for AI agents
 
+analysis/               # Text analytics (analyze.py, results.json, statistics.html)
 research/               # Concept docs, world-building research
+feedback/               # Editorial audits and revision directives
 docs/plans/             # Implementation plans
 AGENTS.md               # For AI agents (repo root)
 ```

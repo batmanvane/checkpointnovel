@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<title>Checkpoint — Timeline Clip</title>
+<style>
+  @font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 400; font-display: swap; src: url('../../website/fonts/JetBrainsMono-Regular.woff2') format('woff2'); }
+  @font-face { font-family: 'JetBrains Mono'; font-style: normal; font-weight: 700; font-display: swap; src: url('../../website/fonts/JetBrainsMono-Bold.woff2') format('woff2'); }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #1a1a2e;
+    color: #c4c4d4;
+    font-family: 'JetBrains Mono', monospace;
+    overflow: hidden;
+    width: 1080px;
+    height: 1920px;
+  }
+
+  canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 1080px;
+    height: 1920px;
+  }
+
+  #startBtn {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #d4a574;
+    color: #1a1a2e;
+    border: none;
+    padding: 20px 40px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 20px;
+    cursor: pointer;
+    z-index: 100;
+    letter-spacing: 2px;
+  }
+  #startBtn:hover { opacity: 0.9; }
+</style>
+</head><body>
+
+<canvas id="c" width="1080" height="1920"></canvas>
+<button id="startBtn">START</button>
+
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+const W = 1080, H = 1920;
+
+const BG = '#1a1a2e';
+const ACCENT = '#d4a574';
+const DIM = '#b0b0d0';
+const TEXT = '#f0f0ff';
+const BLUE = '#8ab4e8';
+const BORDER = '#3a3a5a';
+
+// 60 seconds — social media length
+const TOTAL_FRAMES = 66 * 60; // 66 seconds
+let frame = 0;
+let running = false;
+
+function mulberry32(a) {
+  return function() {
+    a |= 0; a = a + 0x6D2B79F5 | 0;
+    var t = Math.imul(a ^ a >>> 15, 1 | a);
+    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+    return ((t ^ t >>> 14) >>> 0) / 4294967296;
+  }
+}
+
+// EEG generation — smooth
+function generateEEG(x, t, style, seed) {
+  const seedVal = seed + Math.floor(x * 0.05) * 73;
+  const rng = mulberry32(seedVal);
+  const rngVal = rng();
+
+  if (style < 0) {
+    const flatness = Math.min(1, -style);
+    const drift = Math.sin(x * 0.003 + t * 0.2) * 1.5 * flatness;
+    const emerging = (1 - flatness) * Math.sin(x * 0.04 + t * 2) * 8;
+    return drift + emerging;
+  }
+  if (style < 0.3) {
+    const s = style / 0.3;
+    return Math.sin(x * 0.04 + t * 2) * 20
+         + Math.sin(x * 0.12 + t * 5) * 8
+         + Math.sin(x * 0.23 + rngVal * 100) * 8 * (1 - s * 0.5)
+         + Math.sin(x * 0.005 + t * 0.3) * 10;
+  } else if (style < 0.6) {
+    const s = (style - 0.3) / 0.3;
+    return Math.sin(x * 0.04 + t * 2) * (20 + s * 15)
+         + Math.sin(x * 0.12 + t * 5) * (8 - s * 5)
+         + Math.sin(x * 0.23 + rngVal * 100) * (6 - s * 5);
+  } else if (style < 0.85) {
+    const s = (style - 0.6) / 0.25;
+    const perfect = Math.sin(x * 0.04 + t * 2) * 30;
+    const variation = Math.sin(x * 0.04 + t * 2 + rngVal * (1 - s) * 2) * 30;
+    return perfect * s + variation * (1 - s);
+  } else {
+    const s = (style - 0.85) / 0.15;
+    return Math.sin(x * 0.04 + t * 2) * 30 * (1 - s)
+         + Math.sin(x * 0.15 + t * 3 + rngVal * 20) * 15 * s * (1 - s * 0.7);
+  }
+}
+
+// --- TIMING MODEL ---
+// 9 text milestones, equally spaced.
+// Each milestone is at screen center (peak visibility) exactly when its year shows.
+// Linear scroll through text → uniform speed for all milestones.
+// Short eased ending for convergence + title.
+
+const MS = 1000; // spacing between milestones (scroll units)
+const Y0 = 600;  // first milestone position
+
+const milestones = [
+  { y: Y0 + MS * 0, year: '1924', label: 'Jena, Germany',      sub: 'Hans Berger connects electrodes\nto an open skull.', eeg: -1 },
+  { y: Y0 + MS * 1, year: '1929', label: 'First publication',   sub: 'Alpha waves.\n10 cycles per second.\nNo one believes him.', eeg: 0.1 },
+  { y: Y0 + MS * 2, year: '2021', label: 'First BCI trials',    sub: 'Reading the brain\nis no longer enough.', eeg: 0.2 },
+  { y: Y0 + MS * 3, year: '2031', label: 'CortexLink MK-I',     sub: 'A skin-colored patch\nbehind the left ear.\nIt reads. It also writes.', eeg: 0.35 },
+  { y: Y0 + MS * 4, year: '2035', label: '100 million users',   sub: 'The updates are seamless.\nYou barely notice them.', eeg: 0.5 },
+  { y: Y0 + MS * 5, year: '2038', label: '500 million',          sub: 'You barely notice the updates.\nBut the updates notice you.', eeg: 0.7 },
+  { y: Y0 + MS * 6, year: '2041', label: '900 million',          sub: 'The thoughts come cleaner now.\nMore efficient. More... similar.', eeg: 0.85 },
+  { y: Y0 + MS * 7, year: '',     label: '',                      sub: '', question: true, eeg: 0.95 },
+  { y: Y0 + MS * 8, year: '',     label: '',                      sub: '', cliffhanger: true, eeg: 0.98 },
+  { y: Y0 + MS * 9 + 200, year: '', label: '',                    sub: '', convergence: true, eeg: 1.0 },
+  { y: Y0 + MS * 9 + 1400, year: '', label: '',                   sub: '', title: true, eeg: 1.0 },
+];
+
+// Key positions
+const TEXT_END_Y = Y0 + MS * 8 + 500;  // after cliffhanger fades
+const TITLE_Y = milestones[milestones.length - 1].y;
+const CONTENT_HEIGHT = TITLE_Y + H;
+const SCROLL_MAX = CONTENT_HEIGHT - H;
+
+// Convergence lines
+const convLines = [];
+for (let i = 0; i < 40; i++) {
+  const startX = 100 + (i / 40) * 880;
+  convLines.push({
+    startX,
+    exitAngle: (mulberry32(i * 200)() - 0.5) * Math.PI * 0.7,
+    speed: 0.3 + mulberry32(i * 300)() * 0.7,
+    waveFreq: 2 + mulberry32(i * 400)() * 4,
+    waveAmp: 2 + mulberry32(i * 500)() * 10,
+    hue: (startX / W) * 40 + 20,
+    opacity: 0.25 + mulberry32(i * 600)() * 0.3
+  });
+}
+
+// Scroll: linear with 5-second hold at end for title card
+const HOLD_TIME = 5; // seconds the title stays fully visible
+const SCROLL_FRAMES = (66 - HOLD_TIME) * 60; // frames spent scrolling
+
+function getScrollY(progress) {
+  const scrollProgress = Math.min(1, frame / SCROLL_FRAMES);
+  return scrollProgress * SCROLL_MAX;
+}
+
+function getCurrentEEGStyle(scrollY) {
+  for (let i = 0; i < milestones.length - 1; i++) {
+    if (scrollY <= milestones[i + 1].y) {
+      const t = (scrollY - milestones[i].y) / (milestones[i + 1].y - milestones[i].y);
+      return milestones[i].eeg + (milestones[i + 1].eeg - milestones[i].eeg) * Math.max(0, Math.min(1, t));
+    }
+  }
+  return 1.0;
+}
+
+function getUserCount(scrollY) {
+  const start = Y0 + MS * 3; // 2031
+  const end = Y0 + MS * 6;   // 2041
+  if (scrollY < start) return 0;
+  if (scrollY > end) return 900000000;
+  return Math.floor(((scrollY - start) / (end - start)) * 900000000);
+}
+
+// Year counter — pauses at each milestone while text is readable, counts between
+// Pause zone: ±MS*0.3 around each milestone (year holds while text is near center)
+// Count zone: between pause zones (year ticks up smoothly)
+const PAUSE_R = MS * 0.45;
+
+function getCurrentYear(scrollY) {
+  const ym = milestones.filter(m => m.year).map(m => ({ y: m.y, year: parseInt(m.year) }));
+  if (ym.length === 0 || scrollY < ym[0].y - PAUSE_R) return null;
+
+  for (let i = 0; i < ym.length; i++) {
+    const m = ym[i];
+    // In pause zone — hold this year
+    if (scrollY >= m.y - PAUSE_R && scrollY <= m.y + PAUSE_R) {
+      return m.year;
+    }
+    // In count zone between this and next milestone
+    if (i < ym.length - 1) {
+      const next = ym[i + 1];
+      const countStart = m.y + PAUSE_R;
+      const countEnd = next.y - PAUSE_R;
+      if (scrollY > countStart && scrollY < countEnd) {
+        const t = (scrollY - countStart) / (countEnd - countStart);
+        return Math.round(m.year + (next.year - m.year) * t);
+      }
+    }
+  }
+
+  // After last year milestone
+  return ym[ym.length - 1].year;
+}
+
+function drawFrame() {
+  const progress = frame / TOTAL_FRAMES;
+  const scrollY = getScrollY(progress);
+  const time = frame / 60;
+  const eegStyle = getCurrentEEGStyle(scrollY);
+
+  ctx.fillStyle = BG;
+  ctx.fillRect(0, 0, W, H);
+
+  // --- Year counter (top-left) ---
+  const questionY = Y0 + MS * 7;
+  const currentYear = getCurrentYear(scrollY);
+  if (currentYear !== null && scrollY < questionY) {
+    const isFuture = currentYear >= 2027;
+    let yearOpacity = 0.85;
+
+    if (isFuture) {
+      const futureDepth = Math.min(1, (currentYear - 2027) / 14);
+      const flickerSeed = Math.sin(frame * 0.37) * Math.cos(frame * 0.53);
+      if (flickerSeed > 0.88 - futureDepth * 0.2) {
+        yearOpacity = 0.35 + Math.abs(flickerSeed) * 0.3;
+      }
+    }
+
+    ctx.font = 'bold 36px "JetBrains Mono"';
+    ctx.fillStyle = isFuture ? ACCENT : TEXT;
+    ctx.globalAlpha = yearOpacity;
+    ctx.textAlign = 'left';
+    ctx.fillText(String(currentYear), 80, 80);
+    ctx.globalAlpha = 1;
+  }
+
+  // --- EEG traces ---
+  const eegBandTop = 140;
+  const eegBandHeight = 350;
+  const numTraces = 4;
+  const traceSpacing = eegBandHeight / (numTraces + 1);
+
+  let eegOpacity = 1;
+  const cliffY = Y0 + MS * 8;
+  if (scrollY > cliffY) {
+    eegOpacity = Math.max(0, 1 - (scrollY - cliffY) / 1500);
+  }
+
+  // Impulse sweep
+  const sweepStart = Y0 + MS * 0.8;
+  const sweepEnd = Y0 + MS * 2;
+  const sweepProgress = Math.min(1, Math.max(0, (scrollY - sweepStart) / (sweepEnd - sweepStart)));
+
+  if (eegOpacity > 0) {
+    for (let tr = 0; tr < numTraces; tr++) {
+      const baseY = eegBandTop + (tr + 1) * traceSpacing;
+      ctx.beginPath();
+      const isMain = tr === 1;
+      ctx.strokeStyle = isMain ? ACCENT : BLUE;
+      ctx.globalAlpha = eegOpacity * (isMain ? 0.8 : 0.4);
+      ctx.lineWidth = isMain ? 2 : 1.2;
+
+      const trDelay = tr * 0.08;
+      const trSweep = Math.min(1, Math.max(0, (sweepProgress - trDelay) / (1 - trDelay)));
+
+      for (let x = 60; x < W - 60; x += 2) {
+        const xNorm = 1 - (x - 60) / (W - 120);
+        const edge = trSweep * 1.3;
+        const dist = Math.max(0, Math.min(1, (edge - xNorm) * 3));
+        const blend = dist * dist * (3 - 2 * dist);
+        const eegVal = generateEEG(x + tr * 300, time, eegStyle, tr * 1000 + 500);
+        const y = baseY + eegVal * blend;
+        if (x === 60) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+      }
+      ctx.stroke();
+    }
+
+    ctx.strokeStyle = BORDER;
+    ctx.globalAlpha = eegOpacity * 0.3;
+    ctx.lineWidth = 1;
+    ctx.beginPath();
+    ctx.moveTo(60, eegBandTop + eegBandHeight + 20);
+    ctx.lineTo(W - 60, eegBandTop + eegBandHeight + 20);
+    ctx.stroke();
+  }
+  ctx.globalAlpha = 1;
+
+  // --- Timeline rail ---
+  const railX = 160;
+  const railTop = 560;
+  const railBottom = 1800;
+
+  const firstViewY = milestones[0].y - scrollY + H * 0.5;
+  if (firstViewY < H + 100 && scrollY < questionY) {
+    const railFadeIn = Math.min(0.25, Math.max(0, (scrollY - 100) / 600));
+    ctx.strokeStyle = BORDER;
+    ctx.globalAlpha = railFadeIn;
+    ctx.lineWidth = 1;
+    ctx.setLineDash([3, 8]);
+    ctx.beginPath();
+    ctx.moveTo(railX, railTop);
+    ctx.lineTo(railX, railBottom);
+    ctx.stroke();
+    ctx.setLineDash([]);
+    ctx.globalAlpha = 1;
+  }
+
+  // --- Milestone content ---
+  // Reference point: milestone is at screen center (H * 0.5) when scrollY = m.y
+  // This aligns with the year counter showing that year at that moment
+  const REF_Y = H * 0.5;
+
+  for (const m of milestones) {
+    const viewY = m.y - scrollY + REF_Y;
+    if (viewY < -300 || viewY > H + 300) continue;
+
+    const centerDist = Math.abs(viewY - REF_Y);
+    const fadeZone = H * 0.55; // text visible across 55% of viewport — starts early
+    let opacity = Math.max(0, 1 - centerDist / fadeZone);
+    // Plateau: full brightness for middle 60%, fade at edges
+    opacity = Math.min(1, opacity * 2.0);
+    opacity = Math.sqrt(opacity); // gentle curve, not harsh quadratic
+
+    if (opacity < 0.01) continue;
+    ctx.globalAlpha = opacity;
+
+    const textX = 220;
+    ctx.textAlign = 'left';
+
+    if (m.question) {
+      ctx.font = '26px "JetBrains Mono"';
+      ctx.fillStyle = TEXT;
+      ctx.fillText('Where does the patch stop', textX, viewY);
+      ctx.fillStyle = ACCENT;
+      ctx.fillText('and the you begin?', textX, viewY + 44);
+    }
+    else if (m.cliffhanger) {
+      ctx.font = '22px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.fillText('Four people find out.', textX, viewY);
+      ctx.fillStyle = TEXT;
+      ctx.fillText('Not all of them wanted to.', textX, viewY + 44);
+    }
+    else if (m.convergence) {
+      // skip — title card stands alone
+    }
+    else if (m.title) {
+      const convEnd = milestones[milestones.length - 2].y;
+      const titleFade = Math.min(1, Math.max(0, (scrollY - (convEnd + 800)) / 600));
+      if (titleFade > 0) {
+        ctx.globalAlpha = titleFade;
+        ctx.textAlign = 'center';
+
+        // Position title card in upper third, leaving room for convergence below
+        const titleBaseY = 280;
+
+        ctx.font = 'bold 64px "JetBrains Mono"';
+        ctx.fillStyle = ACCENT;
+        ctx.fillText('CHECKPOINT', W / 2, titleBaseY);
+
+        ctx.font = '20px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        ctx.fillText('A Novel.', W / 2, titleBaseY + 50);
+
+        ctx.font = '22px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        ctx.fillText('How we optimized into the void.', W / 2, titleBaseY + 110);
+
+        ctx.font = '20px "JetBrains Mono"';
+        ctx.fillStyle = TEXT;
+        ctx.fillText('checkpoin.de', W / 2, titleBaseY + 190);
+
+        ctx.font = '16px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        ctx.fillText('Free under CC BY-NC-SA 4.0', W / 2, titleBaseY + 240);
+
+        ctx.font = '14px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        ctx.fillText('Music: "Ambient Piano" by Light Cut', W / 2, titleBaseY + 290);
+      }
+    }
+    else {
+      // Standard milestone: label + sub, anchored so text block center ≈ viewY
+      const blockTop = viewY - 20; // shift up slightly so multi-line subs stay centered
+      if (m.label) {
+        ctx.font = 'bold 26px "JetBrains Mono"';
+        ctx.fillStyle = TEXT;
+        ctx.fillText(m.label, textX, blockTop);
+      }
+      if (m.sub) {
+        ctx.font = '20px "JetBrains Mono"';
+        ctx.fillStyle = DIM;
+        const lines = m.sub.split('\n');
+        lines.forEach((line, idx) => {
+          ctx.fillText(line, textX, blockTop + 40 + idx * 32);
+        });
+      }
+    }
+  }
+  ctx.globalAlpha = 1;
+
+  // --- User count ---
+  const count = getUserCount(scrollY);
+  if (count > 0 && scrollY < questionY) {
+    const countFade = Math.min(1, count / 50000000) * Math.max(0, 1 - (scrollY - (Y0 + MS * 6)) / (MS * 0.8));
+    if (countFade > 0) {
+      ctx.font = '16px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.globalAlpha = countFade * 0.7;
+      ctx.textAlign = 'right';
+      ctx.fillText(count.toLocaleString() + ' connected', W - 80, H - 80);
+      ctx.globalAlpha = 1;
+    }
+  }
+}
+
+function drawConvergence(opacity, scrollY) {
+  const cx = W / 2, cy = H * 0.6;
+  const convY = milestones[milestones.length - 2].y; // convergence milestone
+  const convProgress = Math.min(1, Math.max(0, (scrollY - convY + 200) / 2000));
+
+  if (convProgress <= 0) return;
+
+  for (const line of convLines) {
+    const rng = mulberry32(Math.floor(line.startX) * 137);
+    ctx.beginPath();
+    ctx.strokeStyle = `hsl(${line.hue}, 55%, 70%)`;
+    ctx.globalAlpha = opacity * line.opacity * Math.min(1, convProgress * 2);
+    ctx.lineWidth = 1.2;
+
+    const steps = 80;
+    for (let s = 0; s <= steps; s++) {
+      const t = s / steps;
+      if (t > Math.min(1, convProgress * 1.5)) break;
+
+      let x, y;
+      if (t < 0.5) {
+        const ct = t / 0.5;
+        const pull = ct * ct * ct;
+        x = line.startX + (cx - line.startX) * pull;
+        y = cy - 350 + ct * 350;
+        x += (rng() - 0.5) * 15 * (1 - ct);
+      } else {
+        const wt = (t - 0.5) / 0.5;
+        x = cx + Math.sin(line.exitAngle) * wt * wt * 400 * line.speed
+            + Math.sin(wt * line.waveFreq * Math.PI * 2) * line.waveAmp * wt;
+        y = cy + wt * 400;
+      }
+
+      if (s === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+  }
+
+  if (convProgress > 0.25) {
+    ctx.beginPath();
+    ctx.arc(cx, cy, 3, 0, Math.PI * 2);
+    ctx.fillStyle = ACCENT;
+    ctx.globalAlpha = opacity * Math.min(1, (convProgress - 0.25) * 3);
+    ctx.fill();
+  }
+}
+
+function animate() {
+  if (!running) return;
+  drawFrame();
+  frame++;
+  if (frame <= TOTAL_FRAMES) {
+    requestAnimationFrame(animate);
+  } else {
+    running = false;
+  }
+}
+
+document.getElementById('startBtn').addEventListener('click', function() {
+  this.style.display = 'none';
+  frame = 0;
+  running = true;
+  animate();
+});
+
+document.addEventListener('keydown', function(e) {
+  if (e.code === 'Space') {
+    document.getElementById('startBtn').style.display = 'none';
+    frame = 0;
+    running = true;
+    animate();
+  }
+});
+</script>
+</body></html>

@@ -2,7 +2,7 @@
 
 ## Post 1: Launch Announcement (LinkedIn)
 
-**Attachment:** Animated timeline clip (clip-timeline.html → exported video)
+**Attachment:** Animated timeline clip (marketing/clips/social-media-clip.mov)
 
 **Text:**
 
