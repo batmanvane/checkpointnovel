@@ -147,9 +147,9 @@ But the substrate was there. The foundation. The original architecture, built by
 
 She checked the other subjects. One by one, pulling up the deep-threshold analysis, looking for the ghost pattern beneath the lattice. Subject 001. Subject 002. Subject 005. Every scan she checked, every brain she examined at the deep threshold, showed the same thing: dormant native pathways, faint but structurally present, underlying the BCI-written architecture like a palimpsest.
 
-It was 4:11 AM. The lab was silent. The fluorescent lights hummed at their 120 hertz. The cooling system of the new fMRI machine cycled in the next room with a low, rhythmic thrum, like a mechanical heartbeat. On the corkboard, the lattice visualizations glowed in their false-color mosaic, and behind Maya, through the window, the campus was dark — building after building with their lights off, the parking lot empty, the December sky overcast and starless.
+It was 4:11 AM. The lab was empty. The fluorescent lights hummed at their 120 hertz. The cooling system of the new fMRI machine cycled in the next room with a low, rhythmic thrum, like a mechanical heartbeat. On the corkboard, the lattice visualizations glowed in their false-color mosaic, and behind Maya, through the window, the campus was dark — building after building with their lights off, the parking lot empty, the December sky overcast and starless.
 
-She was crying. She noticed this the way she noticed all data — automatically, without judgment. Tears on her cheeks, warm, slightly blurring her vision. She took off her glasses and wiped them with the hem of her sweater. She put them back on. She looked at the word in her notebook.
+She was crying. She noticed this the way she noticed all data — automatically, without judgment. Tears on her cheeks, warm, blurring her vision. She took off her glasses and wiped them with the hem of her sweater. She put them back on. She looked at the word in her notebook.
 
 *Dormant.*
 
@@ -223,7 +223,7 @@ Maya almost laughed. The non sequitur of adolescence — the collision of existe
 
 "That," Maya said, "I cannot fix with science."
 
-Lily's mouth twitched. Not a smile. The ghost of a smile. The dormant pathway of a smile, weakened by months of fear and anger, but present, structurally intact, potentially recoverable.
+Lily's mouth twitched. Not a smile. The ghost of a smile.
 
 "Go to bed," Maya said. "School tomorrow."
 
@@ -231,7 +231,7 @@ Lily's mouth twitched. Not a smile. The ghost of a smile. The dormant pathway of
 
 "Then go to bed yesterday."
 
-Lily stood up. She didn't let go of Maya's hand right away. She held it for a second longer than necessary — the extra second that was not about the hand but about the holding, the human gesture that no BCI could optimize because it wasn't efficient and it wasn't measurable and it served no function except the function of being a daughter who loved her mother and was scared and was choosing, in the small hours of a December morning, to believe that the roads were still there.
+Lily stood up. She didn't let go of Maya's hand right away. She held it for a second longer than necessary.
 
 Lily went upstairs. Her door closed. Soft click. Not the controlled finality of seven months ago. Just a close.
 

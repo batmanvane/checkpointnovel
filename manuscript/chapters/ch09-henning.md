@@ -124,13 +124,13 @@ Volker Brandt signed the score sheet with a frown. "He should retake the diagnos
 
 "He should," Henning said, and did not say what he was thinking, which was: *He should never have needed a device to remember Ohm's law. He knew it. He learned it. He earned it. And something took it from him — not by stealing it, but by making it unnecessary, which is worse, because you can't prosecute a thief who steals something by making it free.*
 
-The other six apprentices passed with near-perfect scores. Their panels were identical. Their fault diagnoses were complete. Their theoretical recall was flawless. They shook Brandt's hand and left the workshop and Henning watched them go, six young people with six devices that had not malfunctioned, six ships still floating, and he wondered how many of them could swim.
+The other six apprentices passed with near-perfect scores. Their panels were identical. Their fault diagnoses were complete. Their theoretical recall was flawless. They shook Brandt's hand and left the workshop and Henning watched them go, six young people with six devices that had not malfunctioned, six ships still floating, and wondered how many of them could swim.
 
 ---
 
 He wrote the incident report at his desk after the others had gone.
 
-The workshop was quiet in the way it was only quiet after exams — a density to the silence, the air still thick with the effort of people who had been tested and found sufficient or insufficient. The fluorescent lights hummed. The tool wall displayed its silhouettes. Henning sat at his desk by the window, a pen in his right hand and a carbon-copy form in front of him — the old kind, with the tissue-thin yellow duplicate sheet underneath, because Henning kept carbon forms in his desk the way he kept his grandfather's pliers on the pegboard: not from nostalgia, but from the conviction that some things should exist in more than one place.
+The workshop held the particular density of a room just emptied after exams — the air still thick with the effort of people who had been tested and found sufficient or insufficient. The fluorescent lights hummed. The tool wall displayed its silhouettes. Henning sat at his desk by the window, a pen in his right hand and a carbon-copy form in front of him — the old kind, with the tissue-thin yellow duplicate sheet underneath, because Henning kept carbon forms in his desk the way he kept his grandfather's pliers on the pegboard: not from nostalgia, but from the conviction that some things should exist in more than one place.
 
 He wrote in his angular, upright hand, the handwriting of a man who had learned from teachers who considered penmanship a form of professional hygiene.
 
@@ -168,15 +168,13 @@ The Handwerkskammer occupied a building on the south side of Fischmarkt that had
 
 Henning climbed the stairs — stone, worn concave in the center by centuries of boot heels, his own contributing their infinitesimal share to the erosion. Second floor. The examination office. A door with a frosted glass panel that said PRÜFUNGSWESEN in brass letters that needed polishing.
 
-The clerk behind the desk was a woman in her forties with a neat blouse and an expression of practiced neutrality. She looked up when Henning entered, and her face performed the micro-sequence that faces perform when they recognize someone they've met before but can't quite place: a flicker of almost-recognition, a brief internal search, a decision to default to professional courtesy.
+The clerk behind the desk was a woman in her forties with a neat blouse and an expression of practiced neutrality. She looked up when Henning entered, and her face performed the micro-sequence that faces perform when they recognize someone they've met before but can't quite place: a flicker of recognition that didn't quite land, a brief internal search, a decision to default to professional courtesy.
 
 "Good afternoon."
 
 "Good afternoon." Henning placed the folded incident report on the desk. "I'd like to file this. Incident during today's Gesellenprüfung. Workshop A, Schillerstrasse."
 
-The clerk unfolded the report, scanned the first paragraph with the speed of someone who reads forms the way plumbers read pipe joints — by shape rather than content. She nodded.
-
-"Device malfunction during an exam?"
+The clerk unfolded the report, scanned the first paragraph with the speed of someone who reads forms the way plumbers read pipe joints — by shape rather than content. "Device malfunction during an exam?"
 
 "Yes."
 
@@ -234,11 +232,11 @@ He looked at the carbon copy in the drawer. At Lukas's name in his own handwriti
 
 He closed the drawer. It stuck, as it always did, and he lifted the front edge slightly and pushed again, and it closed with the soft wooden thunk of a mechanism that was worn but functional, imperfect but maintained, still doing its job because someone cared enough to work around its flaws.
 
-The workshop was dark outside the circle of his desk lamp. The tool wall was a grid of shadows, Wilhelm's silhouettes holding the places of tools that were all present, all accounted for, all maintained. His grandfather's Knipex Cobolt pliers hung on their hook, the dark-honey Bakelite handles catching the light.
+Beyond his desk lamp, the workshop had gone to silhouettes. The tool wall was a grid of shadows, Wilhelm's silhouettes holding the places of tools that were all present, all accounted for, all maintained. His grandfather's Knipex Cobolt pliers hung on their hook, the dark-honey Bakelite handles catching the light.
 
 Henning sat in his workshop after hours and thought about a boy who had reached for his own knowledge and found someone else's furniture where his memories used to be. About a drawer full of reports that no one would read. About a system that documented everything and understood nothing. About muscles and minds and the terrible democracy of atrophy, which did not care whether you were a leg or a thought — if you weren't used, you were lost.
 
-He was not an angry man. Anger was a surge, a spike, and spikes tripped breakers. He was something steadier than angry. He was a man who had measured a fault, documented it, reported it, filed it, and received in return the silence that institutions offer when they have heard you and have decided, politely, that the hearing was sufficient.
+He was something steadier than angry. He was a man who had measured a fault, documented it, reported it, filed it, and received in return the silence that institutions offer when they have heard you and have decided, politely, that the hearing was sufficient.
 
 It was not sufficient.
 
@@ -249,8 +247,6 @@ But a fault that remained was a fault that would recur. That was not opinion. Th
 Henning turned off his desk lamp. The workshop went dark. He stood, put on his jacket, checked the tool wall one final time — every silhouette filled, every tool in its place — and walked to the door.
 
 In the hallway, his boots echoed on the linoleum. The building was empty and would be empty until morning, when the next cohort would arrive and sit at the twelve benches and wire their junctions and strip their cables with the smooth, identical precision of people who had never needed to find their own angle, and Henning would stand at the front and teach them anyway, because teaching was what he did, and the wire didn't care what you downloaded, and somebody had to say so, even if nobody was listening.
-
-Especially if nobody was listening.
 
 He pushed through the heavy front door into the July evening. Erfurt was warm and old and lit by streetlamps that cast the cobblestones in amber. The Domberg rose against the last light, the cathedral and the Severikirche holding their positions the way they had held them for eight hundred years, patient and unaugmented, built by hands that had learned their trade the hard way because there was no other way, and still standing because what is built by hands that know what they're doing does not come down easily.
 

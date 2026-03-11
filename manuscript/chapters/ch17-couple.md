@@ -56,8 +56,6 @@ He hadn't turned around in years.
 
 He didn't daydream anymore.
 
-That was the thing. That was the whole thing.
-
 He'd noticed this. He'd noticed it the way you notice a sound that's stopped — not when it stops but later, in the silence, when you realize the background of your life has changed and you can't remember when. Tram 6, every morning, Zurich Oerlikon to Universitat. Twenty-two minutes. He used to arrive at the university with ideas that hadn't been there when he boarded. Messy ideas. Ideas that had wandered in from the side, uninvited, the way his *abuela* wandered into stories about her childhood while blending tomatoes. Ideas that arrived from directions he hadn't planned to look.
 
 Now the twenty-two minutes were twenty-two minutes of clean cognition. Information arriving, organizing, being processed. His BCI offering context, connections, suggestions — never demanding, never forceful, just *there*, like a very helpful assistant who had learned to anticipate your needs so perfectly that you could no longer tell the difference between their suggestions and your own intentions.
@@ -78,7 +76,7 @@ Sara found the man with the pen at the coffee station.
 
 She hadn't followed him. She had followed the coffee, because the coffee was terrible and therefore free and she was a freelance journalist, and being a freelance journalist meant your relationship to bad coffee was collaborative. You and the bad coffee were in this together. You had an understanding.
 
-He was standing by the window, holding a cup he hadn't drunk from, staring at the Ariana Park outside where the peacocks wandered between the sculptures with the regal indifference of animals who had not been informed they were decorative. His name tag said DR. TOMAS HERRERA, UNIVERSITY OF ZURICH, NEUROPLASTICITY AND REHABILITATION. Behind his left ear, the CortexLink EU-I dermal patch, skin-colored, almost invisible.
+He was standing by the window, holding a cup he hadn't drunk from, staring at the Ariana Park outside where the peacocks wandered between the sculptures with the regal indifference of animals who had not been informed they were decorative. His name tag said DR. TOMAS HERRERA, UNIVERSITY OF ZURICH, NEUROPLASTICITY AND REHABILITATION. Behind his left ear, the CortexLink EU-I dermal patch, skin-colored, visible only if you knew to look.
 
 She was there because of Isabelle Fournier. She needed a quote from the panel for her piece, and Fournier was surrounded by six people and a microphone. Herrera had been visibly affected by the talk. She'd watched him from three rows back — the knee stopping, the stillness, a quality of attention that was different from agreement or disagreement or academic interest. It was the attention of a person hearing their own diagnosis.
 
@@ -116,7 +114,7 @@ They sat at the table by the window. The analog clock said 4:17. The late autumn
 
 ---
 
-Tomas talked. He talked the way he used to talk — before the CortexLink, before the efficiency, before whatever had happened to his hummingbird attention — which is to say he talked in spirals, starting in three directions, circling back, losing the thread, finding a better thread, dropping that one too. Sara listened. She was good at listening to people who talked in spirals. It was like watching someone search for something in a dark room — you couldn't help them by turning on the light. You helped them by sitting still and not making noise so they could hear the thing they were looking for when they bumped into it.
+Tomas talked. He talked the way he used to talk — before the CortexLink, before the efficiency, before whatever had happened to his hummingbird attention — which is to say he talked in spirals, starting in three directions, circling back, losing the thread, finding a better thread, dropping that one too. Sara listened. She was good at listening to people who talked in spirals. It was like watching someone search for something in a dark room — you helped by sitting still and not making noise.
 
 He told her about Tram 6.
 
@@ -190,7 +188,7 @@ The conversation shifted — deeper, like a path that had been descending gradua
 
 "When you think. When you — *como se dice* — when you follow a thought. Does it surprise you? Does it go somewhere you didn't expect?"
 
-Sara considered this. She considered things the way she wrote — at her own speed, without the anxiousness of people who felt silence was a problem to be solved. Silence was not a problem. Silence was a medium. You could grow things in it.
+Sara considered this. She considered things the way she wrote — at her own speed, without the anxiousness of people who felt silence was a problem to be solved. Silence was not a problem. Silence was a medium.
 
 "Always," she said.
 
@@ -218,7 +216,7 @@ The analog clock ticked. Philippe was wiping down the counter. Two other tables 
 
 She was unpredictable to him.
 
-Not random — unpredictable. There was a difference. Random was noise. Unpredictable was signal from a direction you hadn't thought to listen. Her thoughts arrived from angles his BCI-smoothed cognition no longer generated. She made connections his optimization would have pruned as inefficient. She sat in silence for ten seconds — an eternity in his accelerated cognitive economy — and then said something that turned everything he'd said in the last hour, the way you turn a prism and the light changes color.
+Not random — unpredictable. There was a difference. Random was noise. Unpredictable was signal from a direction you hadn't thought to listen. She sat in silence for ten seconds — an eternity in his accelerated cognitive economy — and then said something that turned everything he'd said in the last hour, the way you turn a prism and the light changes color.
 
 He hadn't experienced unpredictable in years.
 
@@ -266,4 +264,4 @@ He didn't ask what she wrote.
 
 She didn't tell him.
 
-They walked toward the lake. The water was dark and the air was cold and somewhere behind them the brass handle of Le Lent's door caught the light from a passing car and flared once, briefly, like a signal from a world that was still slow enough to be touched by hand.
+They walked toward the lake. The water was black against the quay stones and the air carried the mineral bite of November, and somewhere behind them the brass handle of Le Lent's door caught the light from a passing car and flared once, briefly, like a signal from a world that was still slow enough to be touched by hand.

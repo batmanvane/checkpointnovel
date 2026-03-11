@@ -106,9 +106,9 @@ He moved between the benches. Showed one apprentice how to position the cable st
 
 He taught the way his grandfather had taught him. Without slides. Without manuals. Hand over hand, correction by correction, the knowledge passing through the air between two bodies like current through a conductor.
 
-This was what teaching was. This was what it had always been. The wire didn't care what you downloaded. The wire cared what your hands could do.
+The wire didn't care what you downloaded. The wire cared what your hands could do.
 
-By ten o'clock, the junction boxes were wired. None were perfect. All were functional. The apprentices looked at their work with the slightly dazed expression of people who have just discovered that knowing how to do something and being able to do it are separated by an ocean their devices cannot cross.
+By ten o'clock, the junction boxes were wired. None were perfect. All were functional. The apprentices looked at their work with the dazed expression of people who have just discovered that knowing how to do something and being able to do it are separated by an ocean their devices cannot cross.
 
 Henning should have felt triumphant. Relief, at least. And he did, for a while. But as he walked between the benches during the second exercise — a simple ring circuit on a training board — he began to notice something else. Something he couldn't name yet, only feel, the way he could feel a loose connection in a panel before he found it: a hum in the wrong register, a warmth where there should be none.
 

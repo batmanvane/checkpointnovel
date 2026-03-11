@@ -146,7 +146,7 @@ She paused. Looked at him the way Maya had looked at him — not with the carefu
 
 "Your teaching method didn't resist the technology, Meister Brenner. It built knowledge in a place the technology cannot reach. That's not resistance. That's a firewall. A physical, anatomical firewall. And you've been building it for thirty years."
 
-The workshop was quiet. The fluorescent lights hummed their sixty-hertz hymn. The tool wall held its silhouettes. The Moccamaster clicked off — it had a thermal switch that cut power when the hotplate reached temperature, a small mechanical decision made without consultation, without firmware, without anyone's permission.
+The fluorescent lights hummed their sixty-hertz hymn. The tool wall held its silhouettes. The Moccamaster clicked off — it had a thermal switch that cut power when the hotplate reached temperature, a small mechanical decision made without consultation, without firmware, without anyone's permission.
 
 Henning picked up his coffee. Drank. Set it down.
 
@@ -164,7 +164,7 @@ The calls started that afternoon.
 
 The first was from the Handwerkskammer. Not the filing clerk behind the frosted glass on Fischmarkt — the president. Dr. Wolfgang Seidel, whom Henning had met exactly once, at a ceremony for thirty-year service awards, where Seidel had shaken his hand and said something about the backbone of the German economy and moved on to the next handshake with the practiced efficiency of a man who had four hundred backbones to acknowledge before lunch.
 
-Now Seidel was on the phone, and the practiced efficiency was gone. In its place: the careful, slightly breathless tone of a man who has discovered that something important happened under his roof and he was the last to know.
+Now Seidel was on the phone, and the practiced efficiency was gone. In its place: the careful, breathless tone of a man who has discovered that something important happened under his roof and he was the last to know.
 
 "Meister Brenner. I've just been briefed by Dr. Voss's team. The preliminary results from your workshop — I want you to know that the Handwerkskammer takes this extremely seriously."
 
@@ -188,7 +188,7 @@ A woman with a voice like polished granite explained that the Ministry was formi
 
 The woman from the Ministry paused. Recalculated. The same pause Seidel had made. Henning was beginning to understand that he was producing this pause in people — the hiccup of a system encountering an input it hadn't been designed to process. A man who didn't want to fly business class to be told he was important.
 
-"We could come to you," she said, with the slightly bewildered flexibility of an institution discovering that the mountain would not be coming to Mohammed.
+"We could come to you," she said, with the bewildered flexibility of an institution discovering that the mountain would not be coming to Mohammed.
 
 "That would be fine. I'll make coffee."
 
@@ -294,7 +294,7 @@ His father's hands had looked like this. Broader, maybe. The burn in a different
 
 His grandfather's hands he remembered from photographs and from the feel of them — Wilhelm's right hand closing over his, guiding the pliers, teaching a seven-year-old boy that the grip was everything and everything started with the grip. Those hands had been narrower than Klaus's, longer-fingered, with a bend in the left ring finger where a cable drum had caught it in 1959 and set it slightly crooked. Wilhelm had never had it straightened. *The bend reminds me to watch my fingers,* he'd told Henning once. *A scar is just a lesson your body keeps in case your head forgets.*
 
-Three generations of hands. Three sets of scars. Three grips, each distinct, each built by the ten thousand negotiations between a human body and the physical world that no device could mediate and no algorithm could standardize.
+Three generations of hands. Three sets of scars. Three grips, each distinct.
 
 They scanned my apprentices' brains, he thought, and found something they built with their own hands. Something no machine put there. Something the machine couldn't reach, not because the machine was flawed, but because the knowledge lived in a room the machine didn't have a key to.
 
@@ -311,8 +311,6 @@ He thought about Lukas's cable-tie twist — the loop pulled back through, the s
 The part behind the panel was still there. The firewall had held. It had held in Tomas Richter's cocked wrist and Maren Dietz's double pull and Florian Beck's left-to-right sequence. It had held in every apprentice who had stood at a bench in this workshop and stripped a cable while Henning watched, correcting by hand, teaching by repetition, building knowledge in a place he hadn't known was a fortress because he hadn't known there was a war.
 
 He stood up. Put on his jacket. Turned off the desk lamp. The workshop went dark, and in the darkness the tool wall was a grid of shadows, and the silhouettes were invisible, and the tools were hanging in their places where no one could see them, which didn't matter, because they were there whether anyone looked or not.
-
-I suppose that's what I've been teaching all along, he thought. Not a method. Not a firewall. Not an alternative to the technology or a resistance to the future. Just the slow, difficult, irreplaceable work of building something in a place only hands can reach. The place behind the panel. The room without a door. The knowledge that lives in the body because the body earned it, and what the body earns, it keeps.
 
 He turned off the fluorescent lights. The humming stopped. The workshop was dark and silent and smelled of PVC and coffee and the winter air of Erfurt in December, and the tools hung in their silhouettes, and the broom stood in its corner, and the Moccamaster sat on the bench with its thermal switch off and its carafe empty, and everything was in its place, and the place was his, and what was his was his in the way that mattered — by knowledge, by the thirty years of mornings he'd walked through that door and turned on those lights and picked up those tools and taught those hands, building something that he couldn't have named and didn't need to name because it was the thing itself, the knowledge in the body, the skill in the hand, the firewall that held because it was made of the only material that no machine had ever learned to write.
 

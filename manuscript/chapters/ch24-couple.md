@@ -116,7 +116,7 @@ The door opened. Sara. She set a coffee in front of him. Sat down.
 
 "How was it?"
 
-He looked up. His eyes were bright — something burning behind them, a fire lit by friction rather than fuel.
+He looked up. His eyes had the glassy, wired look of someone who'd been crying or running — something lit by friction rather than fuel.
 
 "I was frustrated," he said. "Sara, I sat there for twenty minutes. Twenty minutes on a single problem. A twelve-year-old could do it. *Una nina de doce anos.* I could feel the shape in my head and it kept dissolving. Like trying to hold water in your hands. I'd get three faces of the cube and the fourth would collapse and I'd start over. No cached progress. No partial solution held in buffer. Just me and the shape and the dissolution and the beginning again."
 
@@ -128,7 +128,7 @@ She looked at him.
 
 "I haven't been frustrated in four years. Do you understand? The CortexLink — it smooths everything. Not aggressively. Gently. Like those rivers in the Netherlands they've engineered so perfectly the water never floods, never droughts, just flows at the optimal rate. My cognition has been like that. No *frustration*, because frustration is what happens when the water hits a rock and the rock doesn't move and the water has to figure out another way, and the CortexLink removes the rocks before the water reaches them."
 
-His hands were shaking slightly. Not weakness — the residual vibration of effort, the way a guitar string vibrates after the note.
+His hands were shaking. Not weakness — the residual vibration of effort, the way a guitar string vibrates after the note.
 
 "Today there were rocks. And I hit them. And I sat there and I *didn't know what to do*. Not 'the system didn't suggest what to do' — *I* didn't know. *Yo no sabia.* The not-knowing was mine. The frustration was mine. It came from *me*. From whatever is underneath the optimization. And it felt —"
 
@@ -136,7 +136,7 @@ The fluorescent light buzzed. The cartoon bacterium stared at them with its goog
 
 "It felt like being alive," Tomas said. "The alive where you don't know the answer. The alive where the next thought hasn't been prepared for you. Where your brain is *struggling*. The way a muscle struggles. And the struggle hurts and the struggle is slow and the struggle is inefficient and the struggle is *you*. *Eres tu.* It's you in there. Not the system wearing your face. You."
 
-Sara sat next to him. Their shoulders touched. She held the pressure — because this was not a moment that required words from her. This was a moment that required proximity.
+Sara sat next to him. Their shoulders touched. She held the pressure.
 
 "Twenty minutes on a twelve-year-old's puzzle," Tomas said. "Best twenty minutes I've had in years."
 
@@ -210,7 +210,7 @@ She considered this. Slowly, with the patience of a person who had learned that 
 
 "Because it was *yours*. It moved through your body before it reached your mouth. It had a shape. A physical shape. The wanting came through your muscles before it came through your words. That's how I knew."
 
-She brought two cups to the table. Their fingers touched on the handoff — his reaching, hers releasing, the ceramic warm between them, the contact lasting a half-second longer than mechanics required. The half-second was not optimized. It was chosen. Two nervous systems, uncoordinated by any external scheduler, arriving independently at the same decision: *hold on*.
+She brought two cups to the table. Their fingers touched on the handoff — his reaching, hers releasing, the ceramic warm between them, the contact lasting a half-second longer than mechanics required.
 
 ---
 

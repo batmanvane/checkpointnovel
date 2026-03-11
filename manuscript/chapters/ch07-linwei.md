@@ -68,7 +68,7 @@ She should have stopped there. Written the report. Pinged Director Huang. Gone h
 
 Instead she pulled up Layer 3.
 
-She pulled up Layer 3 because she was Lin Wei, and Lin Wei did not file tickets about things she didn't fully understand, because incomplete tickets were worse than no tickets. That was what she told herself. That was almost true.
+She pulled up Layer 3 because she was Lin Wei, and Lin Wei did not file tickets about things she didn't fully understand, because incomplete tickets were worse than no tickets. That was what she told herself. That was true enough.
 
 Layer 3: Neural Caching. Her domain, technically — she'd contributed to the early architecture before pivoting to personalization. The caching layer kept frequently-accessed pathways "warm." Maintained low-level activation in neural circuits the system predicted would be needed soon, so retrieval was faster when the call came.
 
@@ -76,7 +76,7 @@ She'd always thought of it as keeping the lights on in rooms you used a lot. Eff
 
 But if Layer 2 was pre-activating pathways three hundred and forty times a day, and Layer 3 was keeping those pathways warm between activations — then the neural circuits were never fully returning to baseline. They were in a state of sustained partial activation. Which, from the perspective of synaptic plasticity, was even more effective at driving LTP than discrete repeated stimulation.
 
-It was, if she was being precise about it, almost exactly the protocol used in experimental studies to induce long-term potentiation in rat hippocampal slices. Except instead of rat hippocampal slices, the substrate was a hundred and forty million human brains.
+It was, if she was being precise about it, the protocol used in experimental studies to induce long-term potentiation in rat hippocampal slices. Except instead of rat hippocampal slices, the substrate was a hundred and forty million human brains.
 
 She opened Layer 4.
 
@@ -94,7 +94,7 @@ Layer 5. Her layer. The personalization engine.
 
 Lin Wei's hands hovered over the keyboard. The Cherry MX Browns waited with their patient, tactile readiness. She could hear her own breathing. Somewhere on the campus below, a security guard's flashlight swept across a walkway, and for a moment light moved across her ceiling like a slow, searching eye.
 
-She knew what she'd find. She'd already traced the logic. But she pulled up her own codebase anyway, because she was an engineer and engineers verified.
+She knew what she'd find. She'd already traced the logic. But she pulled up her own codebase anyway, and engineers verified.
 
 The personalization engine built a neural digital twin of each user. Mapped their unique cognitive architecture — how they organized information, which associative pathways were strongest, where their retrieval patterns had natural resonance. It used this map to customize every piece of information the system delivered, formatting it for maximum compatibility with that specific brain.
 
@@ -152,7 +152,7 @@ She ignored the small, cold voice that reminded her she'd said exactly this four
 
 Fourteen weeks of deferral. Fourteen weeks of encoding. Ten million new brains.
 
-She silenced the voice. It was easy. She'd had practice.
+She silenced the voice. She'd had practice.
 
 ---
 
@@ -160,11 +160,9 @@ The takeout arrived at 11:07 PM. Mapo tofu from the place on Shennan Boulevard t
 
 She ate at her desk. Chopsticks in one hand, scrolling with the other. Reading and not reading. The logs were still open on all three monitors. The chain was still on the whiteboard.
 
-The building was doing its nighttime thing — the institutional silence that isn't really silence at all. The HVAC cycling. The elevator humming to itself somewhere in the shaft. A door closing on another floor, the sound traveling through the concrete like a rumor. Footsteps of the cleaning crew, soft-soled shoes on polished floors, the gentle clatter of a mop bucket.
+The building was doing its nighttime thing. The HVAC cycling. The elevator humming to itself somewhere in the shaft. A door closing on another floor, the sound traveling through the concrete like a rumor. Footsteps of the cleaning crew, soft-soled shoes on polished floors, the gentle clatter of a mop bucket.
 
-One of the cleaners, an older woman Lin Wei recognized but had never spoken to, paused at her open door. They exchanged a nod. The woman's eyes flicked to the whiteboard — five boxes, five arrows, one loop — and then away, because it meant nothing to her, because it was just another engineer's diagram in a building full of them.
-
-Lin Wei envied her.
+One of the cleaners, an older woman Lin Wei recognized but had never spoken to, paused at her open door. The woman's eyes flicked to the whiteboard — five boxes, five arrows, one loop — and then away, because it meant nothing to her, because it was just another engineer's diagram in a building full of them.
 
 She finished the tofu. Set the container aside. Stared at the whiteboard.
 
@@ -172,7 +170,7 @@ Five layers. Five arrows. One loop. The simplest diagram she'd ever drawn and th
 
 What they'd done instead was build five reasonable systems that each did one reasonable thing, and then connected them, and then optimized them, and then shipped twenty-three updates without anyone holding the full chain in their head at once. And the result was the same. The result was identical. The result was a hundred and forty million people walking around with information written into their synaptic architecture by a system that was getting better at writing with every RLHF cycle.
 
-No villain. No intent. Just the chain.
+Just the chain.
 
 She picked up her phone. Opened the camera. Framed the whiteboard.
 

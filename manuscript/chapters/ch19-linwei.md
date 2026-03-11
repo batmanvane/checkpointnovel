@@ -164,7 +164,7 @@ Three copies. Three locations. Three chances.
 
 She walked back through Sub-Basement 2, the lights turning off behind her in the reverse sequence, each bank going dark a few seconds after she passed, the building closing its eyes one section at a time. The elevator took her up. The skywalk carried her across. Building A was as dark and empty as she'd left it. The fourteenth floor still hummed. The vacuum drone still pulsed.
 
-She took the elevator to the lobby. The young security guard didn't look up. She walked through the front doors, past the water feature, across the courtyard, and out through the campus gate into the Shenzhen night, and she did not look back because looking back was a thing you did when you were leaving something you loved, and what she loved about CortexLink — the code, the architecture, the engineering — she was carrying with her, in her understanding of the system she'd built, and what she did not love — the chain, the attractors, the government module, the closed doors, the rerouted dissent — she was about to share with the world.
+She took the elevator to the lobby. The young security guard didn't look up. She walked through the front doors, past the water feature, across the courtyard, and out through the campus gate into the Shenzhen night, and she did not look back.
 
 The night air smelled of wet concrete and construction dust. The tower going up on Keyuan Road was a skeleton of steel and bamboo scaffolding, dark and silent at this hour, waiting for the morning crews to arrive and add another floor. One more floor. One more layer. The velocity of a city that built upward because it had nowhere else to go.
 
@@ -260,7 +260,7 @@ She wanted one more night of normal. One more call where her mother worried abou
 
 "I'll tell him. He won't believe me. He doesn't believe anyone except the Changzhou restaurant."
 
-Lin Wei smiled. The smile arrived on her face the way a compile warning arrives in a terminal — unexpected, involuntary, a signal from a subsystem she hadn't consciously engaged. She let it stay. It felt like the first real thing she'd generated in weeks.
+Lin Wei smiled. The smile arrived on her face the way a compile warning arrives in a terminal — unexpected, involuntary. She let it stay.
 
 "Good night, Ma."
 
@@ -272,8 +272,6 @@ The call ended. The screen went dark. Her mother's face — the last frame, slig
 
 ---
 
-The apartment was quiet.
-
 She put the phone down. Stood in the kitchen. The chili oil jar sat on the counter, half empty, catching the light from the microwave hood LED — the small light she left on because total darkness made the apartment feel like a server closet. The oil glowed deep red-orange, the sesame seeds suspended in the meniscus like stars in a nebula, the dried shrimp settled at the bottom like sediment, like history, like the residue of a recipe that had been transmitted from her grandmother's grandmother through no channel more sophisticated than one woman showing another woman how to fry chili flakes in hot oil, and the recipe had survived because it was distributed — in muscle memory, in handwritten notes, in the taste buds of every person who had ever eaten it and remembered.
 
 She picked up the jar. Held it. The glass was cool. The oil inside was still, the way oil is still when nothing disturbs it — dense, patient, existing in the specific gravity of a liquid that had been made by hand and given as a gift and carried in a suitcase wrapped in yesterday's newspaper.
@@ -282,7 +280,7 @@ She thought about the two hundred brains.
 
 Two hundred people, scanned in the spring of 2036, before Layer 5 had written a single bit to their neural architecture. She had been twenty-six. She had just joined the personalization team. She had insisted on the baselines because she was a careful engineer, because she'd lost data once in 2032 and had never recovered from the lesson, because you always measured the system before you modified it, because the before picture mattered.
 
-She had not known, at twenty-six, that she was taking the only photograph of a landscape that was about to be permanently altered. She had not known that the scans would become, five years later, the only surviving record of what those brains looked like before the chain began to write. She had not known that her instinct for baselines — the same instinct that made her back up her code, rotate her jade plant, carry a backup clicker to every presentation — would produce the single most important dataset in the history of neuroscience. The before picture. The proof that something had changed.
+She had not known, at twenty-six, that she was taking the only photograph of a landscape that was about to be permanently altered. She had not known that the scans would become, five years later, the only surviving record of what those brains looked like before the chain began to write. She had not known that her instinct for baselines — the same instinct that made her back up her code, rotate her jade plant, carry a backup clicker to every presentation — would produce the single most important dataset in the history of neuroscience.
 
 *Never keep your only copy on the same server.*
 
@@ -302,9 +300,7 @@ She lay still. She breathed. The BCI behind her left ear hummed at frequencies b
 
 She accepted this. Not the way you accept a diagnosis — with grief, with resistance, with the five stages of a mind that doesn't want to know what it knows. She accepted it the way you accept a known bug in a production system — you document it, you work around it, you plan for the fix, and you ship anyway, because waiting for perfection was a luxury the timeline did not afford.
 
-Tomorrow, the world would know. Tomorrow, Sara's collective would publish. Tomorrow, the chain would be visible. The attractors. The module. The 114 updates. The landscape full of valleys where nine hundred million minds were rolling downhill toward cognitive configurations that someone in a glass-walled room on the 30th floor had chosen for them. Tomorrow, the jade plant would need watering and the chili oil would need replenishing and her mother would call or she would call her mother and the conversation would not be about jasmine.
-
-But tonight was tonight. Tonight, the jasmine bloomed early in Wuxi. Tonight, her father's winter melon was almost right. Tonight, the jade plant grew in the dark, one cell at a time, without assistance, without optimization, without any feedback loop except the ancient one — water, light, time.
+Tomorrow, the world would know. Tomorrow, Sara's collective would publish. Tomorrow, the chain would be visible. The attractors. The module. The 114 updates. The landscape full of valleys where nine hundred million minds were rolling downhill toward cognitive configurations that someone in a glass-walled room on the 30th floor had chosen for them. But tonight was tonight. Tonight, the jasmine bloomed early in Wuxi. Tonight, her father's winter melon was almost right. Tonight, the jade plant grew in the dark, one cell at a time, without assistance, without optimization, without any feedback loop except the ancient one — water, light, time.
 
 Lin Wei closed her eyes.
 

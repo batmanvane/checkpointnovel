@@ -60,7 +60,7 @@ She paused, and he could hear her searching for the word that wasn't the word sh
 
 "Like a lattice," she said. "Regular. Repeating. Almost geometric. Growing in the same location, with the same structure, in every brain I've looked at."
 
-The kitchen was quiet. The Moka pot had stopped ticking. The delivery van had gone. The Domberg held its floodlit position above the rooftops, stone and light and eight hundred years of not going anywhere.
+The Moka pot had stopped ticking. The delivery van had gone. The Domberg held its floodlit position above the rooftops, stone and light and eight hundred years of not going anywhere.
 
 "Herr Brenner?"
 
@@ -92,7 +92,7 @@ Henning blinked. Nobody had asked him that. Not the sociologist, not the psychol
 
 "That's what I need," she said. "Not the anatomy. The observation. The thing you saw with your own eyes in a room where it actually happened."
 
-He picked up the mug again. Drank. The coffee was cooling, moving from the temperature where it was a pleasure to the temperature where it was merely a fact. He drank it anyway, because waste was for people who'd never gone without.
+He picked up the mug again. Drank. The coffee was cooling, moving from the temperature where it was a pleasure to the temperature where it was merely a fact. He drank it anyway.
 
 "There's something else," he said. "About Lukas. Something I didn't put in the report."
 
@@ -108,7 +108,7 @@ He paused. Looked out the window. The Domberg was starting to fade into the morn
 
 "Lukas used to tie his cable ties in a specific way. Every electrician does it differently — the angle of the cut, how tight you pull, whether you leave the tail or trim it flush. Lukas had a twist. He'd loop the tail under and pull it back through before trimming. Not in any manual. Not taught. Something he'd figured out on his own, probably from watching his father, probably without knowing he was doing it. It made a small bump at the junction, barely visible, but I could pick a Lukas cable tie out of a bundle of fifty. The way you can pick a person's handwriting out of a stack of letters."
 
-He stopped. The kitchen was very quiet.
+He stopped. The Moka pot ticked once on the cooling burner and then nothing.
 
 "After the repair, the twist was gone."
 
@@ -138,7 +138,7 @@ Henning stood in his kitchen and held his father's mug and felt something he had
 
 "My paper was rejected. The reviewers said it was alarmist. Three reviewers, and they all said the same thing, in the same words." A pause. "Which, given what I know about convergent cognition, may not be a coincidence."
 
-Henning almost laughed. It was not a funny observation. It was the kind of observation that arrived at the exact intersection of terrifying and obvious, the kind that earned its dark humor by being precisely correct.
+Henning almost laughed. It was not a funny observation. It earned its dark humor by being precisely correct.
 
 "Wait," he said. He set the mug down and walked out of the kitchen, down the short hallway where his Meisterbrief hung in its frame — he passed it every morning and thought nothing of it, the way you think nothing of your own spine — and into the other room. His desk was against the wall, under the window that looked out onto the inner courtyard. A solid desk, oak, bought secondhand in 1998 from a joiner on Löberstrasse who was retiring and selling his workshop furniture. No drawers on the right because the wall was too close. Three drawers on the left: top for pens and tools, middle for current paperwork, bottom for everything else.
 
@@ -160,7 +160,7 @@ He lifted the first few pages. His handwriting was small and angular and upright
 
 *Cohort 2021. 12 apprentices, 9 with BCI. Convergence in practical technique now pronounced. Augmented students adopt identical grip within 30 minutes of first exercise. Correction sequences synchronized. Cable runs indistinguishable. Unaugmented students (3) show normal individual variation. The gap is visible. Not between good and bad. Between same and different.*
 
-He turned the pages. The observations became denser, the handwriting tighter, the margins filling with notes and cross-references as the pattern solidified year by year. He'd started drawing small diagrams — cable-stripper grip angles, measured with a protractor he'd borrowed from the metalwork instructor and never returned. He'd recorded times, sequences, error rates. Not because he was conducting an experiment. Because he was a man who noticed things, and when a man who noticed things stopped writing down what he noticed, he stopped being the kind of man who noticed things.
+He turned the pages. The observations became denser, the handwriting tighter, the margins filling with notes and cross-references as the pattern solidified year by year. He'd started drawing small diagrams — cable-stripper grip angles, measured with a protractor he'd borrowed from the metalwork instructor and never returned. He'd recorded times, sequences, error rates. Not because he was conducting an experiment. Because he was a man who noticed things.
 
 *Cohort 2024. 12 apprentices, 11 with BCI. Jana Kirchner only unaugmented student. Convergence now near-total in augmented group. Practical technique identical across 11 students by end of first week. Cable-stripper angle: 23 degrees, measured. All 11. Jana: 31 degrees (personal, adapted for small hands). Incident: covered Jana's patch during exercise. (She has no patch. Covered the spot anyway, symbolic gesture.) She found her own technique. Ugly. Functional. Hers.*
 
@@ -230,7 +230,7 @@ The work had a rhythm. Place the page. Flatten it with the edge of his hand — 
 
 He photographed the 2019 notes. The first systematic observations. *All 4 augmented students adjusted cable-stripper angle at same point in exercise.* The words looked different on the phone's screen than they did on paper — sharper, somehow more official, as if the act of digitization had promoted them from personal observation to evidence.
 
-He photographed the 2021 notes. *The gap is visible. Not between good and bad. Between same and different.* He paused at that line. He'd written it in the margin, late at night, the ink slightly blurred where his hand had rested on the wet words. He remembered writing it. He remembered the feeling — the formless unease crystallizing into language, the moment when a man who works with his hands finds the words for what his hands have been telling him.
+He photographed the 2021 notes. *The gap is visible. Not between good and bad. Between same and different.* He paused at that line. He'd written it in the margin, late at night, the ink blurred where his hand had rested on the wet words. He remembered writing it. He remembered the feeling — the formless unease crystallizing into language, the moment when a man who works with his hands finds the words for what his hands have been telling him.
 
 The 2023 notes included the first incident report about convergent troubleshooting. Three apprentices, working on separate panels in separate rooms, had diagnosed identical faults using identical sequences — same meter settings, same test points, same order of elimination. He'd timed them. The sequences were within four seconds of each other. He'd written: *No communication between rooms. No shared reference material visible. The sequence is not in any manual I know. It comes from somewhere I cannot see.*
 
@@ -242,7 +242,7 @@ The Lukas pages. The incident report — the original, not the carbon copy, whic
 
 *L. Wendt — post-repair observation. Cable ties no longer show the reverse-loop twist. Technique now standard across all augmented students. Work quality improved. Work identity gone. He is better at the trade and less present in it. I do not know how to report this. There is no form for the loss of a fingerprint.*
 
-He photographed that page and sat for a moment, the phone in his hand, looking at the words on the screen. *There is no form for the loss of a fingerprint.* He'd written that alone, at his desk, after hours, the workshop dark around him. He'd written it and put it in the drawer and closed the drawer and gone home and stood in this kitchen and made coffee from this Moka pot and looked out at the Domberg and thought: somebody should know this. And then he'd thought: nobody will.
+He photographed that page and sat for a moment, the phone in his hand, looking at the words on the screen. *There is no form for the loss of a fingerprint.* He'd written that alone, at his desk, after hours, the workshop dark around him. He'd written it and put it in the drawer and closed the drawer and gone home and thought: somebody should know this. And then he'd thought: nobody will.
 
 Now somebody would.
 
@@ -292,4 +292,4 @@ Henning ended the call. He stood in his room for a long time, his hand on the dr
 
 It was the design.
 
-He went to the kitchen. He made more coffee. The Moka pot hissed and climbed and sang its small mechanical song, and the coffee was good, and the morning was his, and the city outside the window was the city it had always been — old, and stubborn, and beautiful in the way that only irregular things are beautiful, which is to say: in a way that no lattice could contain, and no algorithm could predict, and no system could optimize, because the beauty was in the variation, and the variation was in the hands, and the hands were still, for now, for a little while longer, their own.
+He went to the kitchen. He made more coffee. The Moka pot hissed and climbed and sang its small mechanical song, and the coffee was good, and the morning was his, and the city outside the window was the city it had always been — old, and stubborn, and beautiful in the way that only irregular things are beautiful.

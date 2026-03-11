@@ -2,7 +2,7 @@
 
 The protocol took Maya three days to design and two pots of coffee to believe in.
 
-She built it at the kitchen table, after Lily was asleep, with her spiral-bound notebook open to a blank page and a pen that was running low on ink. The pen mattered. Not because of some romantic attachment to analog tools — though she had one, and she was self-aware enough to admit it — but because designing an experiment by hand forced a kind of slowness that caught errors. You couldn't copy-paste a bad assumption in a notebook. You had to write it out, letter by letter, and somewhere around the third sentence your hand would slow down and your brain would say, *Wait. That's not right.*
+She built it at the kitchen table, after Lily was asleep, with her spiral-bound notebook open to a blank page and a pen that was running low on ink. The pen mattered. Not because of some romantic attachment to analog tools — though she had one, and she was self-aware enough to admit it — but because you couldn't copy-paste a bad assumption in a notebook. You had to write it out, letter by letter, and somewhere around the third sentence your hand would slow down and your brain would say, *Wait. That's not right.*
 
 The study needed three tasks. She'd known that since the cluster — five BCI users producing identical solution paths on her Divergent Solutions Task — but a single task was a single data point, and a single data point was an anecdote in a lab coat. She needed convergence across modalities: verbal, spatial, narrative. Three tasks, three cognitive domains, same prediction. If BCI users converged on identical outputs across all three, the pattern was not an artifact of the task. It was an artifact of the mind.
 
@@ -90,7 +90,7 @@ She printed the rejection letter and the reviewer comments. She drove home.
 
 ---
 
-The BCI brochure from Lily's school had migrated from the refrigerator to the kitchen table. Maya noticed it the moment she walked in — a glossy trifold, Lakewood High School logo in blue and silver, the headline reading *Bridging the Gap: Universal BCI Access for Every Student*. Someone had opened it. Not Maya. The seal was broken, the panels unfolded, then refolded slightly off-register the way paper does when a different pair of hands closes it.
+The BCI brochure from Lily's school had migrated from the refrigerator to the kitchen table. Maya noticed it the moment she walked in — a glossy trifold, Lakewood High School logo in blue and silver, the headline reading *Bridging the Gap: Universal BCI Access for Every Student*. Someone had opened it. Not Maya. The seal was broken, the panels unfolded, then refolded off-register the way paper does when a different pair of hands closes it.
 
 Lily was on the couch in the living room, earbuds in, watching something on her phone. She didn't look up when Maya came in. This was not unusual. What was unusual was the quality of the silence — not the comfortable silence of two people sharing a space, but the taut silence of someone who has done something and is waiting to see if it's been noticed.
 
@@ -108,11 +108,11 @@ Maya stared at that second testimonial. David R. David. Her ex-husband's name wa
 
 She put the brochure back on the table. The testimonial was almost certainly not from her David. But the voice — *I was skeptical at first* — sounded like the voice she'd argued with across this same table four years ago, when he'd said those exact words about the BCI and she'd said *skepticism is the beginning of the process, not the end*, and he'd looked at her with the expression of a man who had realized his wife would never change her mind, and she'd looked at him with the expression of a woman who had realized the same thing about her husband.
 
-She cooked dinner. Grilled cheese and tomato soup, because it was Thursday and she was tired and there was comfort in melting butter in a cast iron pan, the way there was comfort in any task that required attention and rewarded it with something warm. The cheese was sharp cheddar from the co-op. The bread was sourdough she'd bought three days ago, slightly stale, which was better for grilling anyway — more structure, crisper crust. These were the kinds of things a BCI could not teach you. The things you knew because you'd burned enough bread to learn.
+She cooked dinner. Grilled cheese and tomato soup, because it was Thursday and she was tired and there was comfort in melting butter in a cast iron pan, the way there was comfort in any task that required attention and rewarded it with something warm. The cheese was sharp cheddar from the co-op. The bread was sourdough she'd bought three days ago, stale, which was better for grilling anyway — more structure, crisper crust. These were the kinds of things a BCI could not teach you. The things you knew because you'd burned enough bread to learn.
 
 "Lily. Dinner."
 
-Lily came to the table. She'd been crying. Not dramatically — her eyes were dry now, her face composed — but Maya could see it in the slight puffiness around the orbits, the pink at the edges of the nostrils. The signs a mother reads the way a radiologist reads a scan: automatically, completely, without needing to be told what she's seeing.
+Lily came to the table. She'd been crying. Not dramatically — her eyes were dry now, her face composed — but Maya could see it in the puffiness around the orbits, the pink at the edges of the nostrils. The signs a mother reads the way a radiologist reads a scan: automatically, completely, without needing to be told what she's seeing.
 
 "What happened?"
 
@@ -126,7 +126,7 @@ Maya waited. The soup steamed between them. The kitchen faucet dripped — she n
 
 "I sat there." Lily's voice was flat and precise, the way Maya's voice got when she was presenting data that hurt. "I sat there and watched them do it. I tried to contribute. I said I could do the section on cellular respiration because I actually studied it last night, and Priya said, 'It's okay, I already did that part.' She wasn't being mean. She was being efficient. She just — already had it. All of it. And better than what I would have done."
 
-Maya reached across the table and put her hand on Lily's. Lily didn't pull away. She also didn't hold on.
+Maya reached across the table and put her hand on Lily's. Lily didn't pull away.
 
 "I'm the project mascot, Mom. I'm the one they carry so the teacher doesn't make them redo the groups. I'm not a teammate. I'm a — a — accommodation."
 
@@ -156,7 +156,7 @@ She washed the dishes. She dried them. She put them away.
 
 ---
 
-At eleven-forty, the house was silent. Lily's light had been off since ten. The neighbor's sprinkler had stopped. The only sound was the furnace cycling — on, hum, off — and the faint ticking of the kitchen clock, which ran on a AA battery and lost two minutes a month and which Maya refused to replace because its imprecision was a comfort, a small daily proof that not everything needed to be exact.
+At eleven-forty, the house had settled into its night sounds. Lily's light had been off since ten. The neighbor's sprinkler had stopped. The only sound was the furnace cycling — on, hum, off — and the faint ticking of the kitchen clock, which ran on a AA battery and lost two minutes a month and which Maya refused to replace because its imprecision was a comfort, a small daily proof that not everything needed to be exact.
 
 She went into her home office. The third bedroom. Stacked journals, two monitors, the desk chair with the broken armrest. On the corkboard above the desk, a stratigraphy of three years: printouts, sticky notes, index cards, the red string connecting the original five-subject cluster from the longitudinal study.
 
@@ -168,7 +168,7 @@ Below both, she pinned the school's BCI brochure. The trifold with the blue-and-
 
 Three documents. Three versions of the same problem. The data showing convergence. The institution refusing to see it. The clock ticking down to the moment when refusal became irrelevant because her daughter would be absorbed into the pattern whether Maya proved it existed or not.
 
-She touched the jade pendant at her throat. Her mother had given it to her when she'd started her PhD — smooth, cool, the green so dark it was almost black. Her mother, who had never gone to college, who read recipes the way Maya read data, who had said, when Maya told her about the PhD program: *Good. Ask the hard questions. But eat lunch.* Maya had not eaten lunch today. She'd forgotten, the way she forgot when the work was pulling her forward faster than her body could follow.
+She touched the jade pendant at her throat. Her mother had given it to her when she'd started her PhD — smooth, cool, the green so dark it was almost black. Her mother, who had never gone to college, who read recipes the way Maya read data, who had said, when Maya told her about the PhD program: *Good. Ask the hard questions. But eat lunch.* Maya had not eaten lunch today. She'd forgotten.
 
 She sat down at her desk. Opened her laptop. Created a new file.
 
@@ -196,4 +196,3 @@ Maya turned back to the protocol. She would need a new title for the expanded st
 
 The fluorescent light in the hallway buzzed. The furnace clicked on. Maya Chen worked alone in the yellow light, building the instrument that would measure what she already knew, and outside the window the dark campus stretched away in all directions, half its buildings unlit, its parking lots empty, its silence no longer the silence of a sleeping institution but the silence of a mind that had stopped asking questions.
 
-She would not stop asking.

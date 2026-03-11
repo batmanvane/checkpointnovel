@@ -12,7 +12,7 @@ Maya leaned forward. The jade pendant swung against her collarbone, cool and fam
 
 There was a new ridge.
 
-Not a lesion. Not a tumor — tumors were irregular, chaotic, the cellular equivalent of a room where someone had thrown all the furniture against one wall. This was ordered. A dense connectivity pattern running through the dorsolateral prefrontal cortex in a series of regular, repeating nodes, each one linked to the next by fiber bundles so uniform they looked almost crystalline. The pattern had a geometry to it — not the organic, branching geometry of natural neural architecture, which looked like river deltas and tree roots and all the other fractal shapes that biology favored, but something tighter. More regular. Almost gridlike.
+Not a lesion. Not a tumor — tumors were irregular, chaotic, the cellular equivalent of a room where someone had thrown all the furniture against one wall. This was ordered. A dense connectivity pattern running through the dorsolateral prefrontal cortex in a series of regular, repeating nodes, each one linked to the next by fiber bundles so uniform they looked crystalline. The pattern had a geometry to it — not the organic, branching geometry of natural neural architecture, which looked like river deltas and tree roots and all the other fractal shapes that biology favored, but something tighter. More regular. Gridlike.
 
 Maya had been reading fMRI scans since 2019. She had a mental atlas of the human brain that was more detailed than any textbook because it included the variations — the thousand ways a healthy brain could differ from the canonical diagrams, the way no two faces were exactly alike but you could still recognize a face. She knew what belonged. She knew what didn't.
 
@@ -78,7 +78,7 @@ Maya spent three days in Room 314, leaving only to microwave leftovers in the br
 
 She expanded the analysis to the full cohort. Forty subjects in the expanded convergence study, all CortexLink US-I users, matched with forty unaugmented controls. She ran every subject's current scan against their pre-BCI baseline — for the controls, the baseline was simply their first scan at intake, before the study began.
 
-The results sorted themselves with a clarity that felt almost cruel.
+The results sorted themselves with a clarity that felt cruel.
 
 The forty controls: no lattice. Not in a single one. Normal age-related changes in connectivity — slight decreases in prefrontal density, the gentle erosion that every brain experienced past forty — but no new architecture. No novel structures. No grids.
 
@@ -104,9 +104,9 @@ She underlined the last word twice.
 
 ---
 
-On the second night, at twenty past one in the morning, Maya stood in the break room and watched the microwave rotate a container of leftover lo mein from the Chinese place on College Avenue — one of the few restaurants that hadn't closed, sustained by the residual loyalty of faculty who remembered when College Avenue had been an avenue and not a corridor of dark storefronts. The microwave hummed. The lo mein turned. The vending machine in the corner cast a rectangle of bluish light across the linoleum floor.
+On the second night, at twenty past one in the morning, Maya stood in the break room and watched the microwave rotate a container of leftover lo mein from the Chinese place on College Avenue — one of the few restaurants that hadn't closed, sustained by the residual loyalty of faculty who remembered when College Avenue had been an avenue and not a corridor of papered-over storefronts. The microwave hummed. The lo mein turned. The vending machine in the corner cast a rectangle of bluish light across the linoleum floor.
 
-On the counter beside the sink, someone had left a coffee mug with a faded logo: *I Heart Neuroscience*, the heart rendered as a cartoon brain with little arms giving a thumbs up. The mug had been there for at least three weeks. Maya knew this because she had been tracking it the way she tracked all data points in her environment — automatically, continuously, without trying. She had washed it once, when it started to smell, and put it back where she'd found it. Nobody had claimed it. The graduate student it belonged to — Kevin, if she remembered correctly, a second-year who'd been working on motor cortex mapping — had left the program in April to take a job at a BCI startup in Austin. The mug was a fossil. A trace of someone who had been here and was not here anymore, like the flyers on the bulletin boards in the dark buildings across campus.
+On the counter beside the sink, someone had left a coffee mug with a faded logo: *I Heart Neuroscience*, the heart rendered as a cartoon brain with little arms giving a thumbs up. The mug had been there for at least three weeks. Maya knew this because she had been tracking it the way she tracked all data points in her environment — automatically, continuously, without trying. She had washed it once, when it started to smell, and put it back where she'd found it. Nobody had claimed it. The graduate student it belonged to — Kevin, if she remembered correctly, a second-year who'd been working on motor cortex mapping — had left the program in April to take a job at a BCI startup in Austin. The mug was a fossil. A trace of someone who had been here and was not here anymore, like the flyers on the bulletin boards in the emptied buildings across campus.
 
 She took her lo mein back to Room 314 and ate it standing at her desk, looking at the lattice visualizations arrayed across her two monitors. Five subjects, five brains, five instances of the same impossible structure. She had arranged them in order of density — Subject 0341 on the far left, the faintest lattice, two years of use; Subject 0047 on the far right, the densest, seven years. Left to right, you could watch the lattice grow. You could see it spreading through the prefrontal cortex like frost across a windowpane — the same crystalline regularity, the same geometric precision, the same beauty that made your stomach drop because beautiful things in the wrong place were the most frightening things of all.
 
@@ -116,19 +116,19 @@ Maya set down the lo mein. She wasn't hungry anymore.
 
 She thought about Lily.
 
-The ninety-day clock from the school's BCI subsidy program was down to roughly sixty days now. August first. The brochure was still on the kitchen table at home — not the refrigerator anymore, not sealed anymore, but open, refolded slightly off-register by Lily's hands. Maya had not moved it. She could not bring herself to throw it away, because throwing it away was a decision, and she was not ready to make a decision. She was in the space between observation and action, the gap where a scientist lived, the gap that was also — she understood this with a clarity that hurt — the gap where a mother failed.
+The ninety-day clock from the school's BCI subsidy program was down to roughly sixty days now. August first. The brochure was still on the kitchen table at home — not the refrigerator anymore, not sealed anymore, but open, refolded slightly off-register by Lily's hands. Maya had not moved it. She could not bring herself to throw it away. She was in the space between observation and action, the gap where a scientist lived, the gap that was also — she understood this with a clarity that hurt — the gap where a mother failed.
 
 Lily was fifteen. Her brain was still developing. The prefrontal cortex — the exact region where the lattice grew — was the last part of the brain to mature, not fully myelinated until the mid-twenties. It was still plastic, still forming, still laying down the architecture that would define Lily's cognitive life. If the lattice grew in adult brains that were supposed to be architecturally stable, what would it do in a brain that was still under construction?
 
 Maya did not have the data. She had the fear.
 
-She picked up her phone. The screen was dark. She held it in her hand for a long moment, the way you hold a tool you need but don't know how to use. She could call Rajiv. Her department chair — or former department chair, now that the department had been merged. He would listen. He would nod. He would ask careful questions. And then he would ask her what she wanted him to do, and she would not have an answer, because the answer was *tell everyone* and the institutional apparatus for telling everyone was the same apparatus that had rejected her paper six weeks ago with three reviews that read like they'd been written by the same person.
+She picked up her phone. The screen showed three missed calls from David. She held it in her hand for a long moment, the way you hold a tool you need but don't know how to use. She could call Rajiv. Her department chair — or former department chair, now that the department had been merged. He would listen. He would nod. He would ask careful questions. And then he would ask her what she wanted him to do, and she would not have an answer, because the answer was *tell everyone* and the institutional apparatus for telling everyone was the same apparatus that had rejected her paper six weeks ago with three reviews that read like they'd been written by the same person.
 
-She could call Grace. Grace was brilliant, Grace was careful, Grace was — Maya's throat tightened — Grace was a BCI user. Had been since 2036. Five years of heavy use. Five years. If Maya scanned Grace's brain right now, in the working fMRI machine twenty feet away through the wall, she would almost certainly find the lattice growing in Grace's prefrontal cortex.
+She could call Grace. Grace was brilliant, Grace was careful, Grace was — Maya's throat tightened — Grace was a BCI user. Had been since 2036. Five years of heavy use. Five years. If Maya scanned Grace's brain right now, in the working fMRI machine twenty feet away through the wall, she would find the lattice growing in Grace's prefrontal cortex.
 
 Her best graduate student. Her closest collaborator. The person who had found the lattice in Subject 0112's scan and brought it to Maya, who had worked beside her for three days running baseline comparisons, whose BCI-accelerated processing had made the analysis possible at a speed Maya could not have achieved alone.
 
-The lattice was in Grace's brain. Almost certainly. Growing in the same region, with the same geometry, with the same terrible patience. And Grace did not know. Grace could not know — because the lattice was silent. It produced no symptoms. No headaches, no seizures, no cognitive deficits. The twenty-three subjects who had it were functioning normally by every clinical measure Maya could apply. They were fine. They were more than fine — they were the same people who had produced identical solution paths on the Divergent Solutions Task, the same people whose short stories followed the same five-beat arc, the same people whose engineering schematics priced the mesh screen at exactly nine dollars.
+The lattice was in Grace's brain. Growing in the same region, with the same geometry, with the same terrible patience. And Grace did not know. Grace could not know — because the lattice was silent. It produced no symptoms. No headaches, no seizures, no cognitive deficits. The twenty-three subjects who had it were functioning normally by every clinical measure Maya could apply. They were fine. They were more than fine — they were the same people who had produced identical solution paths on the Divergent Solutions Task, the same people whose short stories followed the same five-beat arc, the same people whose engineering schematics priced the mesh screen at exactly nine dollars.
 
 They were converging. And the lattice was the architecture of the convergence. The hardware running the software. The structure through which the signal flowed.
 
@@ -166,7 +166,7 @@ She picked up her spiral-bound notebook and wrote:
 
 *Something is building this. Layer by layer. In every brain I scan. And nobody knows it's there.*
 
-She read the sentence back. It was not a hypothesis. It was not a result. It was the thing a scientist wrote when the data had carried her past the edge of what she knew how to say in the language of science, into the territory where all she had was the plain, blunt, terrified declarative. Something is building this.
+She read the sentence back. It was not a hypothesis. It was not a result. Something is building this.
 
 What was building it? She didn't know. The BCI was the common factor — the only common factor — but the BCI was a device, a tool, a thing that sat behind the ear and communicated with the prefrontal cortex through electromagnetic signals. Tools didn't build new architecture in the brains of their users. Hammers didn't restructure the motor cortex of carpenters. Pianos didn't grow lattices in the prefrontal cortex of pianists. Neural plasticity responded to repeated use — that was Hebb's rule, neurons that fire together wire together — but Hebbian plasticity produced gradual, diffuse changes in synaptic strength, not the sudden appearance of a novel geometric structure that looked like it had been designed.
 
@@ -189,8 +189,6 @@ She put the phone down. She turned back to the corkboard.
 The lattice visualizations hung in a row of five, white-hot against blue, five brains building the same impossible structure. Above them, the convergence cluster and the rejection letter and the brochure. The evidence wall. The accretion of three years of questions that nobody wanted to ask, organized on a four-by-three-foot corkboard in a lab on the third floor of a building that was half dark, in a university that was contracting, in a town that was emptying, on a Thursday evening in a country where 1.5 billion people carried devices behind their ears and not one of them knew about the thing growing in the tissue next to it.
 
 Maya Chen stood alone in Room 314 and looked at what she had found. Beautiful. Terrifying. Precise. A lattice of new neural architecture, growing in the prefrontal cortex of every heavy BCI user she had scanned, absent in every person she had scanned who did not use one. Correlating with usage at 0.91. Appearing in no anatomy textbook, no neurological case study, no medical record.
-
-She had discovered something that, if confirmed, changed everything.
 
 She was the only person who knew.
 

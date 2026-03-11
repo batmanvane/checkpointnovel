@@ -22,7 +22,7 @@ She wrote the date. Below it:
 
 They came in November. Not the AU delegation — a different kind of visitor entirely.
 
-Three researchers. Two from the University of Geneva, one from Lakeview State. They arrived not in a white Land Cruiser with tinted windows but in a hired matatu from Kisumu town, the minibus painted green and yellow with a portrait of Bob Marley on the rear panel. They emerged looking slightly dazed, the way people looked when they had just experienced fifty minutes of Kenyan public transport for the first time.
+Three researchers. Two from the University of Geneva, one from Lakeview State. They arrived not in a white Land Cruiser with tinted windows but in a hired matatu from Kisumu town, the minibus painted green and yellow with a portrait of Bob Marley on the rear panel. They emerged looking dazed, the way people looked when they had just experienced fifty minutes of Kenyan public transport for the first time.
 
 Dr. Annalise Gerber was tall, Swiss-German, precise. Dr. James Okello was Kenyan, Luo, from Siaya County — forty minutes up the lakeshore — and he greeted Amara in Dholuo before switching to English, and the sound of her mother tongue from a man in a lab coat made something loosen in her chest that she had not known was tight. The postdoc, Rachel Torres, had her notebook already open, her pen already moving.
 
@@ -44,7 +44,7 @@ The EEG data came back after three weeks. Gerber showed Amara the preliminary ma
 
 Thirty-six maps. Thirty-six patterns. No two alike.
 
-Not a little different. Profoundly different. Each brain had its own topology. Otieno's was a landscape of sharp spikes and deep troughs, his attention slamming from one focus to another with violent energy. Faith's was rolling, sustained, her attention building in long waves that crested slowly. Grace's was rhythmic, almost musical, her problem-solving occurring in pulses that Gerber said she had never seen in an augmented brain, because augmented brains did not pulse — they flowed, continuously, without the natural oscillation between effort and rest.
+Not a little different. Profoundly different. Each brain had its own topology. Otieno's was a landscape of sharp spikes and deep troughs, his attention slamming from one focus to another with violent energy. Faith's was rolling, sustained, her attention building in long waves that crested slowly. Grace's was rhythmic, musical, her problem-solving occurring in pulses that Gerber said she had never seen in an augmented brain, because augmented brains did not pulse — they flowed, continuously, without the natural oscillation between effort and rest.
 
 "This is what we've lost," Gerber said quietly. "Not intelligence. Not capability. Diversity. Your students are what all of us used to look like. Before."
 
@@ -60,11 +60,11 @@ She paused. The lake air came through the window, mineral and green.
 
 "They are not specimens. They are teachers."
 
-Gerber was quiet for a moment. Then she closed the laptop. Not the gesture of someone finishing a presentation — the gesture of someone who understood that the data on the screen was less important than the woman sitting across from her, and that the woman had just told her something the data could not contain.
+Gerber was quiet for a moment. Then she closed the laptop.
 
 ---
 
-The UN conference room was cold. The air conditioning hit her as she entered the building, and the temperature drop was so sudden her body interpreted it as a change in altitude. The lobby was marble. The light was artificial — flat, white, shadowless, making everything equally visible and equally unreal.
+The UN conference room smelled of recirculated air and carpet adhesive. The air conditioning hit her as she entered the building, and the temperature drop was so sudden her body interpreted it as a change in altitude. The lobby was marble. The light was the kind that erased shadows — flat, institutional, making everything equally visible and equally unreal.
 
 The conference room: a long polished table, microphones at each place setting, water glasses with geometrically perfect ice cubes melting in precisely maintained 21 degrees. Flags. A screen displaying COGNITIVE REHABILITATION AND GLOBAL EQUITY in four languages.
 
@@ -94,7 +94,7 @@ She breathed. The room breathed with her.
 
 "Otieno Ochieng has been arguing for four years that roots breathe. He is wrong. He is wrong in a way that is entirely his own, that no other child in the world would be wrong in quite the same way, because his wrongness comes from his grandmother's knowledge of soil and his own observation of dissolved oxygen and a stubbornness that borders on the theological. His wrongness is not a failure of education. His wrongness is the *engine* of his education. The friction between what he believes and what is true is the heat that forges understanding. Take away the friction, and you take away the heat. Take away the heat, and you are left with information that never had to fight its way into a mind."
 
-She paused. Not for effect. Because the irony was so large she needed a moment to stand inside it.
+She paused.
 
 "Now your researchers come to my classroom and tell me that my students have the healthiest brains on Earth. Not because they are special. Because they were never optimized. Because they still have thirty roads going to thirty places, and each road is theirs."
 
@@ -108,7 +108,7 @@ Her voice was steady the way the lake surface was steady on a windless morning �
 
 She picked up the microphone. She clipped it back to her lapel. She sat down.
 
-The room applauded. She sat through it the way she sat through Nyalenda rainstorms — present, patient, knowing that the noise was not the point. The point was always what came after.
+The room applauded. She sat through it the way she sat through Nyalenda rainstorms — present, patient.
 
 ---
 
@@ -132,7 +132,7 @@ The chalkboard was still cracked along the lower right corner, the fissure follo
 
 She set her bag on the desk. She opened the shutters. The lake air came in — not the flat, controlled 21 degrees of the UN conference room but a living temperature, rising and falling with the wind and the clouds, a temperature that had an opinion about the time of day and expressed it through your skin.
 
-The students had gone home at three. The compound was quiet. But Otieno was in the garden.
+The students had gone home at three. The compound held only the generator's hum and the lake birds. But Otieno was in the garden.
 
 Of course Otieno was in the garden. He was sixteen now — taller, thinner, his voice broken and settling. He was crouched between the tomato plants, his school shirt untucked, his hands red with soil to the wrists, examining something at the base of a stem with the same focused intensity he had brought to the bean experiment six years ago.
 

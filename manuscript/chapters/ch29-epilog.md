@@ -30,7 +30,7 @@ This book is set fifteen years from now. The distance between here and there is 
 
 Lin Wei photographs the whiteboard and then erases it. Henning files report number forty-seven into a system that never calls back. Maya's paper is rejected by reviewers whose comments sound identical. Amara watches thirty voices become one.
 
-These are not speculative scenarios. They are the shapes of problems we already have, drawn at a slightly different scale.
+These are not speculative scenarios. They are the shapes of problems we already have, drawn at a different scale.
 
 The needle moved in Jena in 1924. It has not stopped moving since. The only question is what we do with the signal — and whether we are paying attention to what is being written while we focus on what is being read.
 

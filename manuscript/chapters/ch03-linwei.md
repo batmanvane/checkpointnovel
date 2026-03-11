@@ -52,7 +52,7 @@ She clicked to the next slide. A before-and-after visualization: two brain maps,
 
 "Without personalization, we're broadcasting. With it, we're speaking each brain's native language. That's the difference between 89% satisfaction and 94.7%. That's the difference between 'this is useful' and 'this feels like thinking.'"
 
-She watched it register around the table. Director Huang's expression shifted from official attention to something closer to satisfaction. VP Liu stopped writing and looked at the slide. Even the government liaisons leaned forward slightly.
+She watched it register around the table. Director Huang's expression shifted from official attention to something closer to satisfaction. VP Liu stopped writing and looked at the slide. Even the government liaisons leaned forward.
 
 "Users don't describe it as accessing external information," Lin Wei said. "They describe it as remembering something they already knew. That's the target spec. That's what Layer 5 achieves. Knowledge delivery that's indistinguishable from native cognition."
 
@@ -162,7 +162,7 @@ She had twenty minutes. She used ten of them to review the anomaly data one more
 
 The thought formed clearly, the way thoughts did when her BCI pre-loaded relevant frameworks: *If Layer 3 caching produces permanent encoding, then we're not providing access. We're rewriting.*
 
-She let the thought sit. It was too large for a Tuesday evening. She filed it in the same mental folder as the anomaly entry — interesting, unresolved, worth revisiting after the MK-VIII launch in Q4. The launch was everything right now. Three hundred engineers, eighteen months of development, a product that would push latency below 8ms and expand the electrode array to 262,144 contacts. Her Layer 5 was the centerpiece. She couldn't afford to chase anomalies.
+She let the thought sit. It was too large for a Tuesday evening. She filed it in the same mental folder as the anomaly entry — interesting, unresolved, worth revisiting after the MK-VIII launch in Q4. Three hundred engineers, eighteen months of development, a product that would push latency below 8ms and expand the electrode array to 262,144 contacts. Her Layer 5 was the centerpiece.
 
 She minimized the browser tab. It stayed open behind the others, the anomaly entry still visible as a thin strip at the bottom of the screen, like a thread trailing from a sweater.
 
@@ -218,11 +218,11 @@ Her mother's face did the thing it always did when Lin Wei reported professional
 
 "Rotate it more."
 
-Lin Wei smiled. This was the thing the conference room couldn't give her, the thing no metric could measure: the ordinary, repetitive, irreplaceable warmth of being told to rotate her plant by a woman who ran a noodle shop in Wuxi and had never written a line of code and loved her in a language that had nothing to do with layers or latency or user satisfaction scores.
+Lin Wei smiled. This was the thing the conference room couldn't give her, the thing no metric could measure: the ordinary, repetitive, irreplaceable warmth of being told to rotate her plant by a woman who ran a noodle shop in Wuxi and had never written a line of code.
 
 They talked for forty minutes. Her father described the meatballs in unnecessary detail. Her mother reported on the neighbor's daughter's exam results, the price of pork at the Wuxi morning market, the leak in the bathroom that the landlord still hadn't fixed. Her father mentioned that the old catalpa tree in the courtyard had begun to bloom. Lin Wei listened and asked questions and laughed at her father's jokes and felt, for forty minutes, like a person rather than an architect.
 
-When they hung up — her mother's face lingering on the screen for an extra moment, the way it always did, as if she could hold the connection open by looking — Lin Wei sat in the quiet of her apartment and let the silence settle. The city hummed below. Somewhere on Keyuan Road, a delivery scooter honked twice. The tai chi courtyard was dark.
+When they hung up — her mother's face lingering on the screen for an extra moment, the way it always did, as if she could hold the connection open by looking — Lin Wei sat in the quiet of her apartment and let the silence settle. The city hummed below. Somewhere on Keyuan Road, a delivery scooter honked twice. The tai chi courtyard was empty, the old man's chalk marks still faintly visible on the concrete.
 
 She looked at her three monitors. Left: terminal, idle. Center: browser, fourteen tabs, the anomaly entry visible as a thin strip behind the others. Right: the video call app, her mother's contact photo still displayed — a selfie from last Spring Festival, her parents standing in front of the noodle shop, her mother holding a paper lantern, her father squinting into the sun.
 

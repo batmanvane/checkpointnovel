@@ -8,7 +8,7 @@ Sara had swept the room herself. Not with equipment — she didn't have equipmen
 
 "It's clean," she told Tomas, who was standing in the doorway holding two coffees from the vending machine down the hall. He handed her one. She took it without looking at it, the way you take a tool from someone when your attention is on the work.
 
-Henning arrived first. He came through the door the way he came through every door — without ceremony, his jacket already unzipped, his hands finding the back of a chair before his eyes had finished reading the room. He set a leather satchel on the table. No laptop. No tablet. A notebook, paper, a pen. He nodded at Sara. He nodded at Tomas. He sat down.
+Henning arrived first. He came through the door the way he came through every door — without ceremony, his jacket already unzipped, his hands finding the back of a chair before his eyes had finished reading the room. He set a leather satchel on the table. No laptop. No tablet. A notebook, paper, a pen. He sat down.
 
 Maya arrived ninety seconds later, out of breath, a laptop bag over one shoulder and a presentation clicker in her hand. Her jade pendant caught the fluorescent light as she moved — a flash of green against her black sweater, the color of something alive in a room where everything else was institutional grey. She opened the laptop. Connected to the projector. The wall turned blue with a loading screen, and the room acquired the atmosphere of a space about to receive information it was not designed for.
 
@@ -26,17 +26,17 @@ The connection dropped.
 
 "And now we don't," Henning said.
 
-Sara redialed. The link churned. Amara's face reassembled itself on the screen, pixel by pixel, like a photograph developing in reverse — first the outline, then the features, then the expression, which was patient, slightly amused, the expression of a woman who had spent six years working with a donated tablet and was not going to be undone by a dropped call.
+Sara redialed. The link churned. Amara's face reassembled itself on the screen, pixel by pixel, like a photograph developing in reverse — first the outline, then the features, then the expression, which was patient, amused, the expression of a woman who had spent six years working with a donated tablet and was not going to be undone by a dropped call.
 
 "I'm here," Amara said. "The connection will hold for a while, then it won't. This is normal."
 
-The room was silent for a moment. Six people — four in Geneva, two on screens, spanning four continents, five time zones, and a technology gap so wide it had its own vocabulary. Maya at the head of the table, laptop open. Henning to her left, notebook closed, pen uncapped. Tomas across from him, coffee untouched. Sara at the far end, her Moleskine open to a blank page, phone recording. On the left screen, Lin Wei. On the right screen, Amara — when the bandwidth allowed.
+The projector fan whirred. Six people — four in Geneva, two on screens, spanning four continents, five time zones, and a technology gap so wide it had its own vocabulary. Maya at the head of the table, laptop open. Henning to her left, notebook closed, pen uncapped. Tomas across from him, coffee untouched. Sara at the far end, her Moleskine open to a blank page, phone recording. On the left screen, Lin Wei. On the right screen, Amara — when the bandwidth allowed.
 
 "Let's start," Maya said.
 
 ---
 
-She stood. She did not need to — the room was small enough that everyone could see the projected wall from their seats. But she stood because the data required it, the way a surgeon stands over a patient, the way a person stands when the thing on the table is too important to address while comfortable.
+She stood. She did not need to — the room was small enough that everyone could see the projected wall from their seats. But she stood.
 
 "This is Subject 0047," she said. The wall showed a brain scan — axial cross-section, false-color, the dorsolateral prefrontal cortex lit up in a gridlike pattern that looked less like biology and more like circuit board trace. White-hot lines against blue. Regular. Repeating. Wrong. "Two-year BCI user. This is the lattice."
 
@@ -88,7 +88,7 @@ Lin Wei stopped sharing her screen. The projector returned to Maya's five brain 
 
 "That is the mechanism," Lin Wei said. "I built Layer 5. I resigned six weeks ago."
 
-Nobody spoke. The plane tree outside the window held its bare branches against the grey sky, and the silence in the room was the silence of six people looking at the same thing and understanding it fully for the first time, the way you understand a diagnosis when the doctor stops talking and the room gets quiet and the weight of what was said lands not in your mind but in your chest.
+Nobody spoke. The plane tree outside the window held its bare branches against the grey sky, and nobody spoke.
 
 ---
 
@@ -122,7 +122,7 @@ A long silence. On the right-hand screen, Amara's connection stuttered — a fre
 
 "The lattice is in the hands," Henning said. "Not just in the brain. In the hands, in the work, in the small things a person does that nobody teaches and nobody measures and nobody notices until they're gone. Those things are gone. In my workshop, in thirty years, I have never seen a cohort where the work was indistinguishable. Now I have. Now it is. And nobody filed a report except me."
 
-He closed his mouth. He did not say *that is all*. He did not need to. The economy of a man who wired buildings for a living: you connected what needed connecting, you terminated cleanly, and you did not add wire the circuit didn't need.
+He closed his mouth.
 
 ---
 

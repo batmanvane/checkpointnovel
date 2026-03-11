@@ -8,7 +8,7 @@ CortexLink Technologies Ltd. Market close: 0.00 TWD. Trading suspended pending r
 
 She'd watched the drop the way she'd watched deploys fail at 3 AM — with the specific numbness of a person who had caused the failure and reported the failure and was now watching the system do the only thing a failed system could do, which was stop.
 
-The Chinese government had issued a statement. Nine paragraphs. She'd read it in the original Mandarin, then read the English translation that six different news outlets had published within the hour, each one slightly different in phrasing and identical in substance. The government "had no involvement in, and categorically distances itself from, any module or system component designed for social harmony optimization or cognitive influence." CortexLink had "acted independently and in violation of national neural technology regulations." The government "is committed to protecting the cognitive sovereignty of all citizens."
+The Chinese government had issued a statement. Nine paragraphs. She'd read it in the original Mandarin, then read the English translation that six different news outlets had published within the hour, each one different in phrasing and identical in substance. The government "had no involvement in, and categorically distances itself from, any module or system component designed for social harmony optimization or cognitive influence." CortexLink had "acted independently and in violation of national neural technology regulations." The government "is committed to protecting the cognitive sovereignty of all citizens."
 
 Lin Wei read the phrase *cognitive sovereignty* three times. She had not heard it before the leak. Nobody had. It was new vocabulary — language invented to describe a violation that had not previously needed a name, the way *data breach* hadn't existed until there was data to breach. The phrase was clean, precise, and useful, and she suspected it would outlive the statement that introduced it.
 
@@ -40,7 +40,7 @@ She had the ThinkPad. She had the drive. She had brought those too — in a diff
 
 ---
 
-She called her mother before recording the statement. Not after. Before. Because the order mattered. Because the statement was a deployment, and once she deployed, she could not roll back, and she wanted to hear her mother's voice in the version of reality where the deployment had not yet happened.
+She called her mother before recording the statement. Not after. Before.
 
 Her mother answered on the second ring. As always. The phone within arm's reach. The reflexive preparedness of a woman whose daughter was now on the news in seven languages and might need her at any hour for any reason and had, for the first time in thirty-one years, actually needed her.
 
@@ -122,7 +122,7 @@ Lin Wei almost smiled. The almost was as close as she could get. The smile was t
 
 "I will."
 
-The call ended. The screen went dark. The borrowed apartment was quiet. The chili oil jar caught the grey afternoon light from the window that faced the wrong direction. Taipei's winter sky pressed against the glass like a system waiting for input.
+The call ended. The screen went dark. The refrigerator cycled on, the only sound in the borrowed apartment. The chili oil jar caught the grey afternoon light from the window that faced the wrong direction. Taipei's winter sky pressed against the glass like a system waiting for input.
 
 ---
 
@@ -156,7 +156,7 @@ Then she reached the passage she'd written and rewritten four times, in Mandarin
 
 "I am responsible for the code I wrote. I am responsible for the tests I did not run. I am not responsible for what the system became — that emerged from five layers of reasonable engineering across multiple teams, companies, and years. But I am the one who saw it first. And I waited. I waited because the launch was in two weeks. I waited because my promotion was on the line. I waited because I told myself: *after*. That wait is mine."
 
-She did not blink. Did not look away from the camera. Did not soften the delivery or add a qualifier or reach for the emotional register that the audience might have expected from a person confessing to a role in the largest cognitive modification event in human history. She was not confessing. She was documenting. The documentation was the confession. The precision was the apology. She did not ask for forgiveness because forgiveness was not a function she could call. It was a response that would be generated, or not, by nine hundred million users and seven billion non-users and a species that was just beginning to understand what had been done to it.
+She did not blink. Did not look away from the camera. Did not soften the delivery or add a qualifier or reach for the emotional register that the audience might have expected from a person confessing to a role in the largest cognitive modification event in human history. She was not confessing. She was documenting. She did not ask for forgiveness because forgiveness was not a function she could call. It was a response that would be generated, or not, by nine hundred million users and seven billion non-users and a species that was just beginning to understand what had been done to it.
 
 She took one breath. Continued.
 
@@ -210,11 +210,11 @@ Two hundred people, scanned in the spring of 2036. She had been twenty-six. She 
 
 Two hundred was not enough. Nine hundred million was the number that mattered, and two hundred was a rounding error, a sample so small that any statistician would laugh, a dataset that could not, by itself, prove anything about the full population. She knew this. She was an engineer. She understood sample sizes and confidence intervals and the vast, impassable distance between two hundred and nine hundred million.
 
-But two hundred was what she had. Two hundred was what her instinct had saved, back when instinct was all she had, before the anomaly, before the chain, before the attractor landscape, before the social harmony module, before Geneva, before the leak, before the stock hit zero and the campus was sealed and her jade plant was dying in a dark apartment in Shenzhen because nobody was there to water it on Tuesdays and Fridays and rotate it a quarter turn on Sundays.
+But two hundred was what she had. Two hundred was what her instinct had saved, back when instinct was all she had, before the anomaly, before the chain, before the attractor landscape, before the social harmony module, before Geneva, before the leak, before the stock hit zero and the campus was sealed and her jade plant was dying in a shuttered apartment in Shenzhen because nobody was there to water it on Tuesdays and Fridays and rotate it a quarter turn on Sundays.
 
 *Two hundred is not enough. But it's a start. It's what I had. I committed what I had.*
 
-She turned off the kitchen light. The chili oil jar disappeared into the dark — the last ember, gone. The apartment was shapes now. The desk. The closed laptop. The window, through which the night market's lights made a warm, uneven glow on the ceiling, shifting as people moved below, as stalls opened and closed their awnings, as the street did what streets did when they were full of humans feeding other humans without any system optimizing the interaction.
+She turned off the kitchen light. The chili oil jar disappeared — the last ember, gone. The apartment was shapes now. The desk. The closed laptop. The window, through which the night market's lights made a warm, uneven glow on the ceiling, shifting as people moved below, as stalls opened and closed their awnings, as the street did what streets did when they were full of humans feeding other humans without any system optimizing the interaction.
 
 She brushed her teeth. Changed out of the FreeBSD T-shirt and into the other one — also FreeBSD, also faded, the backup, because she had packed two and left everything else. She got into the borrowed bed, under the borrowed blanket, in the borrowed dark.
 
@@ -241,8 +241,6 @@ Tomorrow: Maya's team. The protocol. The work.
 The work would take years. She was an engineer. She knew how to build.
 
 She slept. Not the way a system sleeps after a clean deployment — not with all processes complete and all checksums verified and the logs quiet. She slept the way a person sleeps after telling the truth to everyone at once — unevenly, with interruptions, with the restlessness of a mind that had filed its bug report and was now waiting, in the dark, for the response.
-
-The chili oil waited on the counter. The laptop waited on the desk. The two hundred brain scans waited on a server she did not own, in a format she had made readable, under a license that did not exist because the data was free, because she had made it free, because the only thing worse than building a system that wrote to nine hundred million brains was building it and then letting the corporation that deployed it own the only evidence of what those brains had looked like before.
 
 The night market hummed. Taipei breathed. The borrowed apartment held its borrowed silence.
 

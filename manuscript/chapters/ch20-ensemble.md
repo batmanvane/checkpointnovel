@@ -158,13 +158,13 @@ She knew the evidence. The pen-pal letters. The convergence. But her thirty-six 
 
 They were never behind.
 
-She saw it now with the clarity of a diagnosis arriving complete. They were ahead. They had what nine hundred million people were discovering they had lost — the capacity to think a thought that was their own. The capacity that had been treated as a deficiency, a gap, a measure of how much catching up they had to do. The distance was the advantage. The gap was the gift. The thing they didn't have was the thing that was destroying the people who had it.
+She saw it now with the clarity of a diagnosis arriving complete. They were ahead. They had what nine hundred million people were discovering they had lost — the capacity to think a thought that was their own. The distance was the advantage. The gap was the gift.
 
 They just didn't know it yet. Neither did I.
 
 She closed the notebook. In twelve minutes her students would walk through that door, each one distinct, and she would teach them the way she always taught them — with chalk and voice and the slow, imperfect, human act of transmitting knowledge from one mind to another without any system in between.
 
-Outside, a fish eagle called. The lake held the morning light. The tablet's connection dropped, and the headline disappeared, and the classroom was quiet.
+Outside, a fish eagle called. The lake held the morning light. The tablet's connection dropped, and the headline disappeared.
 
 ---
 
@@ -330,7 +330,7 @@ Silence. The radiator clanked in Berlin. The street was quiet in Zurich. Six hun
 
 "Can they?"
 
-He was quiet for a long time. The apartment was dark.
+He was quiet for a long time. The streetlight on Langstrasse threw a stripe across the ceiling.
 
 Marco was asleep in the next room. Wrong about the method. Right about the urgency. He had disagreed today — first time in two years. That was proof. The valleys were deep but not sealed. A mind inside the mechanism could still push back.
 

@@ -1,6 +1,6 @@
 # 4. The Letters
 
-The rain had come before dawn, the way it always did in the weeks before the long rains settled in — a single hour of downpour that turned the compound to rust-colored mud and left the air smelling of iron and green things growing. By the time Amara Osei unlocked the classroom door at six-forty, the sun had already burned through the cloud cover and was doing what equatorial sun did: making everything louder. The yellow paint on the school walls blazed. The corrugated roof ticked as it expanded in the heat. The puddles in the compound caught the light and threw it back like little mirrors laid flat on the earth, and the bougainvillea along the fence — magenta, relentless, growing over everything whether you wanted it to or not — looked almost electrically bright against the wet red soil.
+The rain had come before dawn, the way it always did in the weeks before the long rains settled in — a single hour of downpour that turned the compound to rust-colored mud and left the air smelling of iron and green things growing. By the time Amara Osei unlocked the classroom door at six-forty, the sun had already burned through the cloud cover and was doing what equatorial sun did: making everything louder. The yellow paint on the school walls blazed. The corrugated roof ticked as it expanded in the heat. The puddles in the compound caught the light and threw it back like little mirrors laid flat on the earth, and the bougainvillea along the fence — magenta, relentless, growing over everything whether you wanted it to or not — looked electrically bright against the wet red soil.
 
 She set her bag on the desk and opened the windows. All four of them, wooden-framed, the hinges stiff from last week's humidity. The air that came in carried the lake. Not the lake itself — Lake Victoria was three hundred meters downhill, past the garden and the fishing road — but its presence: a mineral coolness, a vegetal undercurrent, and beneath that the faint fishiness of water that held a thousand species and the livelihoods of everyone Amara had ever known. On clear mornings you could see the fishing boats from the classroom window, small dark shapes on silver water, heading out before the heat made the surface shimmer and the distance dissolve. This morning the boats were already far out. Her father's among them, probably, though she couldn't tell at this distance. He'd been fishing Victoria since before she was born, and he would fish it after she was gone, and the lake would outlast them both and not notice.
 
@@ -10,7 +10,7 @@ The chalk dust settled on her fingers. She brushed them on her skirt — the blu
 
 Thirty-six desks, no two alike. Wooden, metal-legged, some with surfaces so scarred by years of pencils and elbows that the grain had been worn into shallow valleys you could feel with your fingertips. Three textbooks — Kenyan national curriculum, 2033 edition, spines cracked, pages soft from a thousand turnings — sat in a stack on the corner shelf, waiting to be distributed among six groups of six. The donated tablet occupied a cleared space on Amara's desk, connected by a fraying cable to the solar battery pack under the window. The tablet was three years old, a gift from an NGO whose name she could never remember because they had changed it twice since the donation. When the internet worked — two hours on a good day, sometimes less, sometimes not at all — students crowded around it six deep, jostling for a view, their breath fogging the screen. The rest of the time it sat dark and patient, like a window onto a room that was usually locked.
 
-The generator hummed from the storage building next door. The slightly irregular drone of a machine that had been repaired four times this year and resented it. Amara had learned to read the generator's moods the way her father read the lake surface — by ear, by instinct. Today it sounded willing. That was enough.
+The generator hummed from the storage building next door. The irregular drone of a machine that had been repaired four times this year and resented it. Amara had learned to read the generator's moods the way her father read the lake surface — by ear, by instinct. Today it sounded willing. That was enough.
 
 ---
 
@@ -99,7 +99,7 @@ She let it happen.
 
 After twenty minutes she called them back. Not because the argument was over — it would never be over; Otieno would still be insisting about roots at the end of term — but because the next part required something the argument couldn't give. She had them draw diagrams in the mud with sticks: the leaf, the stomata, the chloroplasts, the flow of water up from the roots and carbon dioxide in from the air. She walked among them, correcting, questioning, pointing. When Otieno drew the roots with little mouths on them, she didn't correct him. She asked him to explain what the mouths were doing. He thought about it for a long time — longer than a textbook would have allowed — and said, "They're drinking. Not breathing. Faith is right. But they're drinking the way you drink when you're breathing hard after running — like it's all connected."
 
-It was wrong, but it was his kind of wrong, and the path from his kind of wrong to the right answer would pass through territory no curriculum could map. Amara wrote his words in her notebook that evening, the way she wrote many things her students said, because she had learned that the most interesting things in education happened in the margins, not the center.
+It was wrong, but it was his kind of wrong, and the path from his kind of wrong to the right answer would pass through territory no curriculum could map. Amara wrote his words in her notebook that evening, the way she wrote many things her students said.
 
 ---
 
@@ -169,7 +169,7 @@ Amara read the email twice. Then she closed the laptop and looked out the window
 
 Amara thought about Otieno drawing roots with little mouths in the mud. Inaccurate, imaginative, entirely his own.
 
-But she did not have the words for this yet. Not the precise words, not the ones that would make someone in Stuttgart or Shenzhen or Washington understand what she meant. She had only the feeling — the sense of something valuable disappearing so slowly that the people closest to it couldn't see it going, the way you couldn't see the lake rising until the water was at your door.
+But she did not have the words for this yet — the way you couldn't see the lake rising until the water was at your door.
 
 ---
 
@@ -189,7 +189,7 @@ Her mother laughed. Not a polite laugh — a real one, the kind that came from t
 
 "He'll be something."
 
-Amara made tea. The kettle was old, aluminum, dented on one side from the time it fell off the stove during the tremor in 2037 — not a real earthquake, just the earth shifting in its sleep, her father said. She boiled the water and added tea leaves directly to the pot, the way everyone in Kisumu made tea, without bags or infusers or anything between the leaf and the water. She added sugar — too much, more than she intended, because the spoon was large and the gesture was automatic and she had been making tea this way since she was twelve and muscle memory didn't negotiate. The result was dark, sweet, tannic, and perfect in the way that imperfect things made by habit rather than measurement were always perfect: not optimal, but hers.
+Amara made tea. The kettle was old, aluminum, dented on one side from the time it fell off the stove during the tremor in 2037 — not a real earthquake, just the earth shifting in its sleep, her father said. She boiled the water and added tea leaves directly to the pot, the way everyone in Kisumu made tea, without bags or infusers or anything between the leaf and the water. She added sugar — too much, more than she intended. The result was dark, sweet, tannic, and perfect in the way that imperfect things made by habit rather than measurement were always perfect: not optimal, but hers.
 
 She carried the tea to her room. A small room — bed, desk, bookshelf, a window that faced the courtyard. The desk was wooden, rough-surfaced, the kind of desk that snagged paper if you wrote too fast. She had covered it with a cloth, but the cloth had slipped, and the wood's grain was visible at the edge, the rings of whatever tree had become this desk still legible if you looked closely, which Amara sometimes did, tracing the lines with her finger the way she traced the veins of a leaf held to the light — looking for the pattern, the record of growth, the years laid down one by one.
 

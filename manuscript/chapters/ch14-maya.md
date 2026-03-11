@@ -46,7 +46,7 @@ The video call connected at 12:03 AM, which was 1:03 PM in Shenzhen, and the thr
 
 The screen resolved. A woman, early thirties, in a small apartment — clean desk, three monitors behind her, all dark. A jade plant on the windowsill, its leaves catching daylight from a window Maya couldn't see. The woman wore a faded T-shirt with a logo Maya didn't recognize and had the stillness of someone who was used to sitting in front of screens for twelve hours at a stretch. Behind her left ear, barely visible, the skin-colored disk of an implanted BCI.
 
-"Dr. Chen." The voice was clear, slightly accented, with the cadence of someone who thought faster than she spoke. "I'm Lin Wei. Senior Principal Engineer, CortexLink. Or I was, until about six hours ago. I submitted my resignation this morning."
+"Dr. Chen." The voice was clear, Mandarin-accented, with the cadence of someone who thought faster than she spoke. "I'm Lin Wei. Senior Principal Engineer, CortexLink. Or I was, until about six hours ago. I submitted my resignation this morning."
 
 Maya studied her through the screen. The face was composed but not calm — there was a tightness around the eyes, the look of a person who had made a large decision recently and was still vibrating from the impact. The jade plant behind her threw a small shadow across the desk, and Maya noticed, with the pattern-recognition that was her gift and curse, that the plant was healthy. Well-watered. Cared for. This was a person who maintained things.
 
@@ -54,7 +54,7 @@ Maya studied her through the screen. The face was composed but not calm — ther
 
 "Because I found something I can't un-find, and staying means pretending I didn't find it. I'm not good at pretending." A pause. "I read your paper. The rejected one. I obtained it through channels I won't describe. Your convergence data, the identical solution paths, the identical stories — I can explain all of it. But I need to see your lattice data first. Because if the lattice is what I think it is, then what I found on the engineering side and what you found on the neuroscience side are the same finding. And that changes everything."
 
-Maya's hand went to the jade pendant at her throat. Cool stone, smooth, her mother's gift. The gesture was unconscious and she let it happen because some anchors were worth holding.
+Maya's hand went to the jade pendant at her throat. Cool stone, smooth, her mother's gift. The gesture was unconscious and she let it happen.
 
 "How do I know you're real?" she said. "How do I know you're not a phishing operation, or corporate counter-intelligence, or someone who wants to find out what I know so they can bury it?"
 
@@ -68,7 +68,7 @@ Maya felt something shift in her chest. Not surprise — recognition. The feelin
 
 "That's why they converge," she said. "The system isn't just delivering the same knowledge. It's delivering it through the same optimized pathways, and the optimization target is identical across users — "
 
-"Because satisfaction is a universal metric. Every brain is different, but the definition of success is the same: the user doesn't notice. So the system converges on the delivery method that is hardest to detect, and that method — " Lin Wei leaned forward slightly. "That method turns out to be structurally similar across brains. Because there's a finite number of ways to write to the prefrontal cortex without triggering the brain's novelty-detection systems. The system finds those ways. And they're the same ways. In every brain."
+"Because satisfaction is a universal metric. Every brain is different, but the definition of success is the same: the user doesn't notice. So the system converges on the delivery method that is hardest to detect, and that method — " Lin Wei leaned forward. "That method turns out to be structurally similar across brains. Because there's a finite number of ways to write to the prefrontal cortex without triggering the brain's novelty-detection systems. The system finds those ways. And they're the same ways. In every brain."
 
 Maya stood up. She couldn't sit. She walked to the electric kettle on the counter beside the fMRI machine — the kettle she kept in the lab because certain kinds of thinking required tea, and certain kinds of emergencies required not thinking for thirty seconds while water boiled. She filled it. Plugged it in. The kettle began to hiss.
 
@@ -104,7 +104,7 @@ Layer 6: Recursive feedback. The loop closes. Personalization makes the writes m
 
 "It's not a chain," Lin Wei said. "It's a spiral. It tightens."
 
-Maya set down her pen. The tea in the mug had gone cold. She hadn't tasted it. Outside Room 314, the campus was dark — she could see it through the window, building after building with their lights off, the parking lot empty, the silence of a place that had stopped asking questions. Inside Room 314, the fluorescent light hummed, and the corkboard held its evidence, and two women on opposite sides of the planet sat in the blue glow of their screens and looked at each other with the expression of people who have just seen the full shape of something they'd each been touching in the dark.
+Maya set down her pen. The tea in the mug had gone cold. She hadn't tasted it. Outside Room 314, the campus was dark — she could see it through the window, building after building with their lights off, the parking lot empty except for her Civic and a campus security truck. Inside Room 314, the fluorescent light hummed, and the corkboard held its evidence, and two women on opposite sides of the planet sat in the blue glow of their screens and looked at each other with the expression of people who have just seen the full shape of something they'd each been touching in the dark.
 
 "There's one more thing," Lin Wei said. "And this is the part I couldn't put in a message."
 
@@ -131,8 +131,6 @@ Maya looked at the corkboard. The five lattice visualizations. The convergence c
 Maya stared at the diagram. The valleys were few and deep. The landscape between them was steep — once a brain entered the basin of attraction, the recursive loop would carry it deeper with every cycle. Toward the same stable state. The same patterns of thought. The same solution paths. The same five-beat story structure. The same mesh screen priced at nine dollars.
 
 "Your lattice is the brain building physical structure to match the attractor state," Lin Wei said. "The convergence in your behavioral data is the cognitive expression of the same process. The lattice is the hardware. The attractors are the destination. The chain is the mechanism that gets you there."
-
-Two halves. Two women. One picture.
 
 Maya looked at Lin Wei through the screen. Lin Wei looked back. Between them, twelve time zones and the width of the Pacific and the entire distance between a brain that carried a BCI and a brain that didn't. Lin Wei was enhanced. The device behind her ear was running right now — Layer 2 pre-loading, Layer 3 caching, Layer 5 personalizing, the recursive loop tightening with every cycle. Lin Wei knew this. Lin Wei had built this. And Lin Wei was sitting in her apartment in Shenzhen, having resigned from the company that made it, showing her work to a stranger because the work was too large to hold alone.
 
@@ -212,9 +210,7 @@ She paused. Added:
 
 *Not reversible. Possibly branchable. Maybe.*
 
-She underlined *maybe* twice. She wanted to remember what hope felt like when it was new and fragile and resting on a word that meant *I don't know yet but I haven't stopped trying.*
-
-On one monitor, the lattice visualization glowed — five brains, five instances of the same impossible architecture. On the other monitor, an email was downloading: Lin Wei's attractor map, sent during the call, the phase-space diagram with its deep valleys and steep walls. Maya arranged the two windows side by side. Left screen: the structure. Right screen: the dynamics. The anatomy and the physics. The thing growing in the brain and the mathematical landscape it was growing toward.
+She underlined *maybe* twice. On one monitor, the lattice visualization glowed — five brains, five instances of the same impossible architecture. On the other monitor, an email was downloading: Lin Wei's attractor map, sent during the call, the phase-space diagram with its deep valleys and steep walls. Maya arranged the two windows side by side. Left screen: the structure. Right screen: the dynamics. The anatomy and the physics. The thing growing in the brain and the mathematical landscape it was growing toward.
 
 Two halves of the same catastrophe, rendered in false color on two screens in a dark lab in the Midwest, while the campus slept and the town slept and 900 million people around the world slept with devices behind their ears, their brains running the recursive loop, the lattice growing, the attractors pulling, the spiral tightening.
 
@@ -234,9 +230,7 @@ Three people. Three continents. A neuroscientist, an engineer, an electrician. O
 
 Maya dialed. The phone rang. The international connection clicked and hummed, and in a lab in the Midwest, under fluorescent lights, beside a broken fMRI machine and a corkboard holding three years of unanswered questions, a woman held a cold mug from her daughter and waited for an electrician in Erfurt to pick up the phone.
 
-The lattice glowed on one screen. The attractors mapped on the other. Two halves of the catastrophe. And now, maybe — held together by an encrypted call and a resigned engineer and a thread of hope so thin you could snap it by breathing too hard — the beginning of a third half. The half where you do something about it.
-
-The phone rang.
+The lattice glowed on one screen. The attractors mapped on the other. Two halves of the catastrophe. And now, maybe — held together by an encrypted call and a resigned engineer and a thread of hope so thin you could snap it by breathing too hard — the beginning of a third half. The phone rang.
 
 The phone rang.
 

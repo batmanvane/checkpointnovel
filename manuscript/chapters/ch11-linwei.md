@@ -22,7 +22,7 @@ Lin Wei stopped walking. Her suitcase — the small one, the black hardshell she
 
 The launch was scheduled for September 15th. She had left for Wuxi on August 28th. Today was September 11th. The math was not complicated. They had moved the launch up by four days. They had launched while she was eating her mother's noodles.
 
-She found her desk. Three monitors, dark. Mechanical keyboard, Cherry MX Browns, the maple case she'd sanded herself a decade ago, still here, still patient. Jade plant, alive, clearly watered — someone had watered it, and she felt a brief, irrational gratitude for whoever that was. The photo of her parents' noodle shop leaned against the base of the right monitor, slightly tilted, as if someone had bumped the desk.
+She found her desk. Three monitors, dark. Mechanical keyboard, Cherry MX Browns, the maple case she'd sanded herself a decade ago, still here, still patient. Jade plant, alive, clearly watered — someone had watered it, and she felt a brief, irrational gratitude for whoever that was. The photo of her parents' noodle shop leaned against the base of the right monitor, tilted, as if someone had bumped the desk.
 
 She sat down. Pressed the power key. The monitors woke in sequence — left, center, right — and the light hit her face in three stages, like a room being lit by someone who wasn't sure they wanted to see what was inside.
 
@@ -32,7 +32,7 @@ She scrolled. Congratulations threads. Launch metrics. A champagne emoji from VP
 
 She read it twice. The promotion she'd been waiting three years for. The title she'd imagined in her email signature, on her conference badges, in the line of text beneath her name on the papers she'd never have time to write. Senior Principal Engineer. She had built the system that made CortexLink's product feel like thinking, and they had rewarded her for it, and the reward arrived while she was in Wuxi being told by her mother to eat more pork.
 
-The congratulations should have landed differently. Should have felt like the deployment monitors going green. Instead it felt like checking the monitors and finding them green when you hadn't deployed anything — that specific unease of a system behaving correctly without your input.
+It felt like checking the deployment monitors and finding them green when you hadn't deployed anything.
 
 She opened the deployment log.
 
@@ -100,7 +100,7 @@ The shrug. She would remember that shrug. She would replay it later, in her apar
 
 *It tested well. We shipped it.*
 
-She nodded. Patted his shoulder. Walked back to her desk. Sat down. Looked at the forty-seven lines of code she couldn't fully grasp, written by a system she'd helped build, deployed to 142 million brains while she was eating hand-pulled noodles in a kitchen in Wuxi.
+She patted his shoulder. Walked back to her desk. Sat down. Looked at the forty-seven lines of code she couldn't fully grasp, written by a system she'd helped build, deployed to 142 million brains while she was eating hand-pulled noodles in a kitchen in Wuxi.
 
 The jade plant caught the afternoon light. The photo of the noodle shop stood straight now. The monitors glowed. Everything was working. 94.7% satisfaction. 142 million activations. Senior Principal Engineer.
 
@@ -190,7 +190,7 @@ Two hundred baseline neural scans. The only record of what those brains looked l
 
 She copied them because that was what you did. You backed up your data. You committed your working state. You made sure that if everything went sideways — if the migration corrupted the production database, if the deploy broke the build, if the system you'd built did something you hadn't intended — you could at least look at the diff. You could see what had changed.
 
-She did not think of it as whistle-blowing. She did not think of it as resistance. She thought of it as basic engineering hygiene, the kind of thing you did automatically, the way you wrote tests and commented your code and rotated the jade plant on Sundays.
+She thought of it as basic engineering hygiene, the kind of thing you did automatically, the way you wrote tests and commented your code and rotated the jade plant on Sundays.
 
 She did not know — could not know, sitting in her apartment at midnight in her faded T-shirt — that the drive in her hand contained the only surviving record of two hundred unmodified human brains. That every other baseline in CortexLink's system would be overwritten, archived, deprecated, or lost within the next eighteen months as the infrastructure team consolidated their storage architecture. That the 2TB matte-black drive would become, through no intention of hers, the most important backup in human history.
 
@@ -216,15 +216,13 @@ The encrypted drive went in the desk drawer. Top right. Next to a spare USB cabl
 
 She closed the drawer.
 
-The apartment was dark now. She'd turned off the monitors. The only light came from the kitchen — the small LED under the microwave hood that she left on because total darkness in a forty-five-square-meter apartment made it feel like a server closet, and she spent enough of her life in those.
+She'd turned off the monitors. The only light came from the kitchen — the small LED under the microwave hood that she left on because total darkness in a forty-five-square-meter apartment made it feel like a server closet, and she spent enough of her life in those.
 
 The chili oil jar caught the light. The red-orange oil glowed faintly, like an ember, like the last warm thing in a cooling system.
 
 Lin Wei stood between the kitchen and the desk. Between the jar and the drawer. Between her mother's recipe and her backup of two hundred brains. The apartment hummed with the building's HVAC and the city's baseline frequency and her BCI's subperceptual processing, and she stood in the middle of it all, in her FreeBSD T-shirt, and she whispered to the dark.
 
 "There's no rollback. But I have the commit history."
-
-The words hung in the apartment the way commit messages hang in a repository — small, timestamped, waiting for someone to read them.
 
 She did not sleep.
 

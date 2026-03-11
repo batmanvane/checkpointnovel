@@ -16,7 +16,7 @@ Rajiv Patel, seated two chairs to Maya's left, shifted in his seat. As departmen
 
 "It eliminates it," Maya said. Not angry. Just precise. The way you correct a measurement that's been reported with the wrong unit. "You're folding a research department into a service department. We stop asking questions and start optimizing products."
 
-Alvarez looked at her with the expression she'd come to recognize in administrators over the last five years — sympathetic, slightly tired, already past the argument. "Maya, your research is exactly the kind of work that thrives in a computational context. BCI-adjacent neuroscience is where the funding is."
+Alvarez looked at her with the expression she'd come to recognize in administrators over the last five years — sympathetic, tired, already past the argument. "Maya, your research is exactly the kind of work that thrives in a computational context. BCI-adjacent neuroscience is where the funding is."
 
 "My research is BCI-critical neuroscience. There's a difference."
 
@@ -48,7 +48,7 @@ Same initial approach: gravity-fed filtration using layered sediment. Same seque
 
 She ran the probability calculation three times because the first two felt like errors. Five independent subjects producing identical solution paths on a divergent thinking task. The probability was somewhere south of being struck by lightning while winning the lottery. On a Tuesday. In February.
 
-She sat back in her chair. The fluorescent lights hummed. On the corkboard behind her desk, three years of pinned papers and sticky notes formed their own kind of stratigraphy — layers of work, each one a question she'd tried to answer.
+She sat back in her chair. The fluorescent tube above her desk ticked — the one with the bad ballast, the one facilities had been meaning to replace since January. On the corkboard behind her desk, three years of pinned papers and sticky notes formed their own kind of stratigraphy — layers of work, each one a question she'd tried to answer.
 
 She printed the five profiles and pinned them to a clear section of the corkboard. Then she pulled a length of red string from the supply drawer — left over from a department poster session, the kind of thing you keep because you might need it and then one day you do — and ran it between the five printouts, connecting them. Subject to subject, line to line, the red string tracing the identical solution paths like a web.
 
@@ -132,7 +132,7 @@ Maya opened her mouth to explain — to talk about longitudinal studies and effe
 
 "Kayla stopped talking to me." Lily said it flat, the way you say something you've been carrying for weeks and are tired of holding. "She said I make her feel weird. Because I'm slow. Because I have to actually *think* about things and it takes me longer and she can tell. She said it's like talking to someone on dial-up."
 
-The word hit Maya in the amygdala, which was appropriate, because that was exactly where a mother's fear lived — not in the prefrontal regions the BCI could reach, but in the deep limbic structures that evolution had hardened against exactly this kind of threat: your child, excluded, vulnerable, alone.
+The word hit Maya in the amygdala.
 
 "I'm sorry," Maya said. And she was. She was sorry in a way that had no protocol, no confidence interval.
 

@@ -38,7 +38,7 @@ The vending machine in the hallway dispensed coffee that tasted like someone had
 
 She went back to her desk. Looked at the query. Looked at the jade plant.
 
-The plant didn't care. The plant had been growing at its own pace for ten years, one leaf at a time, indifferent to launch cycles and audit trails and the question of whether its owner was about to commit a career-ending act of unauthorized data access. The plant was the only honest thing in the room.
+The plant didn't care. The plant had been growing at its own pace for ten years, one leaf at a time, indifferent to launch cycles and audit trails and the question of whether its owner was about to commit a career-ending act of unauthorized data access.
 
 She pressed Enter.
 
@@ -152,7 +152,7 @@ She closed the interface specification. Closed the architecture documentation. C
 
 Her apartment was twelve minutes away. She walked it in eight because her legs were moving at a speed her conscious mind had not authorized, carrying her through the commercial strip on Keyuan Road where nothing was open except the 24-hour convenience store on the corner, its fluorescent light spilling across the sidewalk like a confession. The night air smelled of wet concrete — it had rained while she was inside, and the city was breathing out the accumulated heat of the day through its cooling surfaces, each building and sidewalk and rooftop exhaling moisture into the dark.
 
-She badged into her building. Elevator to seven. Key in the lock. The apartment was dark and small and hers — forty-five square meters of the only space in Shenzhen where nobody was watching, where no audit trail logged her keystrokes, where the three monitors on the wall-mounted desk waited in their powered-down patience like instruments in a darkened theater.
+She badged into her building. Elevator to seven. Key in the lock. The apartment smelled of the congee she'd left out and was hers — forty-five square meters of the only space in Shenzhen where nobody was watching, where no audit trail logged her keystrokes, where the three monitors on the wall-mounted desk waited in their powered-down patience like instruments in a darkened theater.
 
 She turned on the desk lamp. Not the monitors. Not yet. The lamp threw a warm yellow circle across the desk, catching the jade plant and the framed photo and the encrypted drive in its open drawer and the mechanical keyboard with its Cherry MX Browns and its maple case and its keycaps in CortexLink blue that she'd chosen when she was twenty-three and enthusiastic and did not yet know what she was building.
 
@@ -264,10 +264,6 @@ The jade plant caught the growing light. Dawn was coming to Shenzhen — the slo
 Lin Wei sat in her apartment, in the dark that was becoming less dark, and she did not sleep. The message was sent. The data was on her drive. The attractor landscape glowed on her screen. The jade plant grew. Somewhere on the other side of the Pacific, on a preprint server nobody read, a paper with zero citations waited for the one person in the world who could confirm it was true.
 
 She had been that person for approximately two hours.
-
-She did not sleep. She sat at her desk and watched the dawn come to Shenzhen and felt, for the first time in her career, the weight of knowing something that the system did not want her to know. It was not the weight of data or evidence or computational results. It was the weight of a choice already made — the finger already lifted from the key, the message already sent, the door already open, the thread already pulled past the point where you could let go and pretend you hadn't seen what was attached to the other end.
-
-She was no longer an engineer. She was not yet a whistleblower. She was something in between — a person sitting in the space between sending and receiving, between knowing and acting, between the machine she had built and the world it was reshaping.
 
 The jade plant's silhouette sharpened against the brightening window. The chili oil jar on the kitchen counter caught the first real light — deep red-orange, glowing like an ember, like her mother's hands, like the last warm thing in a system that was running very cold.
 

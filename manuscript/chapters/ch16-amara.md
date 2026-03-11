@@ -8,7 +8,7 @@ She was on the path between the school and the communal dock, the stretch where 
 
 The phone rang again. She answered it.
 
-"Mrs. Osei?" The voice was male, careful, accented in the way that German-accented English was accented — the consonants too precise, the vowels slightly compressed, as if the language had been assembled from clean components rather than grown in messy soil. "My name is Markus Schreiber. I am a journalist. I write for *Die Zeit* — it is a newspaper, a weekly —"
+"Mrs. Osei?" The voice was male, careful, accented in the way that German-accented English was accented — the consonants too precise, the vowels compressed, as if the language had been assembled from clean components rather than grown in messy soil. "My name is Markus Schreiber. I am a journalist. I write for *Die Zeit* — it is a newspaper, a weekly —"
 
 "I know *Die Zeit*," Amara said, which was true, approximately. Katrin read it. Katrin quoted it sometimes, using the name as a shorthand for *this is serious, this is real*.
 
@@ -32,7 +32,7 @@ She said nothing. She stood on the path with the phone to her ear and the lake t
 
 He talked for forty minutes. She stood for all of it.
 
-She did not sit on the overturned canoe near the dock, though her legs wanted her to. She stood because the standing felt necessary — because what he was telling her required her full height, her full weight on the ground, as if she might otherwise be lifted off it.
+She did not sit on the overturned canoe near the dock, though her legs wanted her to. She stood. What he was telling her required her full height, her full weight on the ground.
 
 He told her about convergence. He used the word carefully, the way you handle a tool you respect — placing it precisely, explaining its edges. "The research is emerging," he said. "Scattered. Fragmented. But the pattern is consistent. BCI users — heavy users, long-term users — their cognitive patterns are converging. Their problem-solving approaches. Their language structures. Their creative outputs. The variation between individuals is collapsing."
 
@@ -76,7 +76,7 @@ She picked up her bag. The folder was inside it — the manila folder, A4, the o
 
 ---
 
-The house was quiet. Her mother was not in the kitchen — at Mama Akinyi's, probably, or at the church committee meeting. Her father's nets were on the drying frame in the courtyard, draped in heavy folds, smelling of tilapia and water and the vegetal rot of lake weed caught in the mesh. The nets were wet. He had been home, then, and gone again.
+The house smelled of groundnut oil and the day's cooking. Her mother was not in the kitchen — at Mama Akinyi's, probably, or at the church committee meeting. Her father's nets were on the drying frame in the courtyard, draped in heavy folds, smelling of tilapia and water and the vegetal rot of lake weed caught in the mesh. The nets were wet. He had been home, then, and gone again.
 
 Amara went to her room. Bed, desk, bookshelf, the window facing the courtyard. She sat in the chair and did nothing for a while. Outside, the evening assembled itself: the clink of dishes from a neighbor's house, the chirp of crickets beginning their nightly argument with the silence, the distant sound of the lake moving against the shore, the oldest sound, the sound that was always there whether you listened for it or not.
 
@@ -84,7 +84,7 @@ She opened her bag. She took out the folder.
 
 *Evidence.*
 
-The word sat on the manila tab in her own handwriting — the slightly rounded letters, the open loops. She had written it three months ago, after reading the last batch of Stuttgart letters and understanding that thirty voices had become one. She had written the word without knowing what it meant. She had known only that the letters were evidence *against* something — against the word *better*, against *every metric*, against the quiet institutional certainty that efficiency and optimization were goods so obvious they required no defense.
+The word sat on the manila tab in her own handwriting — the rounded letters, the open loops. She had written it three months ago, after reading the last batch of Stuttgart letters and understanding that thirty voices had become one. She had written the word without knowing what it meant. She had known only that the letters were evidence *against* something — against the word *better*, against *every metric*, against the quiet institutional certainty that efficiency and optimization were goods so obvious they required no defense.
 
 Now she knew what they were evidence *for*.
 
@@ -150,7 +150,7 @@ The words arrived unbidden, sharp and specific, located precisely where Mr. Kima
 
 And now a journalist from *Die Zeit* was telling her that her letters — handwritten, hand-carried, hand-pinned, the analog record of an analog teacher in an analog classroom in a place the metrics called deficient — were the most important document in the world.
 
-Not charming. Not inefficient. Evidence. The only evidence. The record that no one else had thought to keep, because no one else had been standing where she was standing — at the intersection of two classrooms separated by three thousand kilometers and a technology gap so wide it had its own name — watching from the unenhanced side as thirty voices flattened into one and noting it down, day by day, letter by letter, in a green notebook titled *What Changed*, because she was a teacher, and noticing was what teachers did, and she had refused to stop noticing even when the world told her that what she noticed didn't count.
+Not charming. Not inefficient. Evidence. The only evidence. The record that no one else had thought to keep, because no one else had been standing where she was standing — at the intersection of two classrooms separated by three thousand kilometers and a technology gap so wide it had its own name — watching from the unenhanced side as thirty voices flattened into one.
 
 She thought about Otieno. She thought about him arriving in an hour, late as always, out of breath, shirt untucked, a leaf in his hair. She thought about his bean plants and his root-breathing theory and his kitchen thermometer in a plastic bag. She thought about Faith and Grace and Joseph and Beatrice and all of them — thirty-six children who would pour into this room and fill it with the noise and smell and heat of thirty-six unoptimized, unenhanced, unsynchronized human beings, each one arguing from a different starting point, each one wrong in a different way, each one finding their own path to understanding the way a river finds its path to the lake — by going the long way, the hard way, the way that left mud on your knees and wrong ideas in your head and the knowledge that comes only from having walked the road yourself.
 
@@ -162,14 +162,12 @@ She wrote:
 
 *They called. They said my letters matter. I always knew they did. I just didn't know why.*
 
-She looked at the last word. Small, four letters, sitting at the end of the sentence the way the last note of a song sits in the air after the singing stops — not loud, not emphatic, just present, waiting to be heard.
-
-She underlined it.
+She underlined the last word.
 
 She underlined it again.
 
 She underlined it a third time.
 
-The line was dark now, the ink thick where the pen had passed three times over the same word, and the word sat inside its underlines the way a stone sits in a riverbed — held, shaped, made more itself by the current that moves over it. *Why.* Three lines beneath it. Not the answer but the orientation — a way of standing in the world that said: *I will keep looking. I will keep asking. I will keep writing it down.*
+The line was dark now, the ink thick where the pen had passed three times over the same word. *Why.* Three lines beneath it.
 
 She closed the notebook. Outside, the lake had turned from silver to white, the sun high enough now to make the surface difficult to look at, and the weaver bird was still building its nest, one strand at a time, and the bougainvillea was still growing over the fence, and the generator coughed itself awake in the storage building, its diesel heartbeat settling into the uneven rhythm she knew as well as her own pulse, and the compound was waking, and the day was beginning, and somewhere on the path from Nyalenda a boy with a leaf in his hair was running late, and the letters were in the folder and the folder was on the desk and the notebook was in her hands, and Amara Osei — thirty-four, science teacher, Kisumu, Kenya, unaugmented by circumstance and precise by nature and right, right, right all along — sat in her classroom and waited for her students to arrive.

@@ -70,8 +70,6 @@ But it was hers.
 
 Henning picked up the continuity meter. Five green lights. Five solid contacts. He set the meter down and looked at Jana's junction, then at the eleven identical junctions on the other benches, and something moved through his chest that he had not felt in a long time.
 
-Hope. That was the word. He'd almost forgotten its weight.
-
 "Good," he said.
 
 Jana looked up. "It's ugly."
@@ -94,7 +92,7 @@ Thursday evening, seven o'clock, and Henning pushed through the heavy wooden doo
 
 Fried onions. Schwarzbier. Brass polish and old wood and the funk of a pub that had been absorbing the exhalations of Thuringian tradesmen since before the Napoleonic wars. The floor was dark oak, scarred by boot heels. Beer mats from three decades papered the wall behind the bar in overlapping layers, a geological record of brands that had come and gone while the Schwarzbier remained.
 
-The back corner table was under the framed photograph of the 1990 Erfurt football team — the season after the Wall came down, when FC Rot-Weiss played their first matches against West German clubs and lost magnificently and nobody cared because losing was beside the point. The photograph was slightly crooked. It had been slightly crooked for as long as Henning could remember, and if anyone ever straightened it, Rolf would crook it again on principle.
+The back corner table was under the framed photograph of the 1990 Erfurt football team — the season after the Wall came down, when FC Rot-Weiss played their first matches against West German clubs and lost magnificently and nobody cared because losing was beside the point. The photograph was crooked. It had been crooked for as long as Henning could remember, and if anyone ever straightened it, Rolf would crook it again on principle.
 
 Rolf Eberhardt was already seated, Schwarzbier half-finished, reading glasses pushed up onto his forehead where they served no optical purpose but kept his remaining hair organized. Sixty-one, master plumber, hands like catcher's mitts. Beside him: Dieter Falk, master roofer, retired, who came every Thursday because his wife had choir practice and the alternative was television. Across the table: Peter Hausmann, HVAC technician, still working, still complaining about it. And at the end, wedged between the wall and the radiator, Uwe Stollberg, master carpenter, who spoke least and listened most and had once built a staircase so beautiful that the architect had wept, which Uwe considered an appropriate reaction to good joinery.
 
@@ -132,7 +130,7 @@ Peter leaned in. "The Bratwurst was different last week. Did anyone else notice?
 
 Uwe said nothing. He drank his beer and watched the argument the way he watched everything — with the calm, assessing gaze of a man who measured twice and spoke once. Henning caught his eye. Uwe raised his glass a millimeter. *Thursday.*
 
-This was it. This was the thing itself. The voices overlapping, the arguments going nowhere, the jokes delivered with such conviction that you laughed anyway. Nobody was right. Nobody needed to be right. The rightness was beside the point — the point was the friction, the unpredictable swerve of a conversation between five men who had known each other long enough to be honest and not long enough to be bored.
+This was it. This was the thing itself. The voices overlapping, the arguments going nowhere, the jokes delivered with such conviction that you laughed anyway. Nobody was right. Nobody needed to be right.
 
 Henning ordered the Bratwurst. It came with mustard and Bratkartoffeln and a pickled gherkin that he ate first because he always ate it first. The Bratwurst was, as far as he could determine, exactly the same as last week. He did not mention this to Peter.
 
@@ -216,13 +214,13 @@ He thought about Stefan at the Stammtisch. The pleasant smile. The marjoram expl
 
 Two images from the same Thursday. Jana's ugly, working junction. Stefan's beautiful, deadening precision. One had made Henning feel something he'd almost forgotten the name of. The other had made five men go silent in a pub that ran on noise.
 
-He turned onto Andreasstrasse. The stairwell light was on a timer that gave him exactly forty-five seconds to reach his door, which was enough if he didn't fumble with the keys, which he sometimes did because his hands were fifty-eight years old and the keyhole was designed for younger fingers, and the fumbling was his, and the forty-five seconds were a small nightly negotiation between a man and his building that no one would ever optimize because no one would ever care enough to try.
+He turned onto Andreasstrasse. The stairwell light was on a timer that gave him exactly forty-five seconds to reach his door, which was enough if he didn't fumble with the keys, which he sometimes did and the fumbling was his, and the forty-five seconds were a small nightly negotiation between a man and his building that no one would ever optimize because no one would ever care enough to try.
 
-He stood in the dark hallway, his father's Meisterbrief a dim rectangle on the wall.
+He stood in the hallway, his shin finding the boot rack, his father's Meisterbrief a dim rectangle on the wall.
 
 Two things. Jana's grip. Stefan's answers. He could feel them sitting side by side in his chest like two puzzle pieces from different boxes, edges that almost matched but didn't.
 
-He couldn't see the connection yet. But it was there — he was certain of that, the way he was certain of a loose connection in a panel before he found it, by the hum, by the warmth, by the wrongness in the right register. Henning was not a man who reached for words before they were ready. You didn't force a conductor into a terminal. You positioned it, you aligned it, and you let the mechanism do its work.
+He couldn't see the connection yet. But it was there — he was certain of that, the way he was certain of a loose connection in a panel before he found it, by the hum, by the warmth, by the wrongness in the right register. You didn't force a conductor into a terminal. You positioned it, you aligned it, and you let the mechanism do its work.
 
 He filled the kettle. Stood at the counter and looked at his hands — broad, scarred, chalk dust still in the creases of the left, a small burn on the right thumb from a soldering exercise. Hands that knew things his head had never learned. Hands that had held a cable knife at their own angle for thirty-nine years, an angle that was not optimal, that was not textbook, that was Henning's, and that had wired half of Erfurt without apology.
 

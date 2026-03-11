@@ -147,7 +147,7 @@ $ git checkout cognitive-diversity-restored
 
 "A branch carries everything forward. The full commit history. Every write. Every lattice pathway. Nothing is deleted. But from the branch point forward, new commits go to the new branch. New growth. New pathways. The branch diverges from main. It doesn't erase main. It grows past it."
 
-The room — the six-tiled, four-continent, half-buffering room — was quiet. The metaphor landed the way metaphors land when they're not metaphors at all but descriptions, when the comparison is not decorative but structural, when the thing being compared and the thing being compared to share the same architecture at the level that matters.
+The room — the six-tiled, four-continent, half-buffering room — was quiet.
 
 "That's the protocol," Maya said. "Not reversal. Branching."
 
@@ -171,7 +171,7 @@ She paused. Looked directly at the camera. The lag was gone for a moment — the
 
 "My students are not specimens. They are not a control group. They are not the absence of technology. They are the presence of themselves. When you say 'unaugmented population,' you are defining them by what they lack. They lack nothing. They have cognitive diversity that nine hundred million people have lost. They have original thinking that your protocol is trying to restore. They have what the world now needs. And I will share their data, and I will connect you with other teachers in Kisumu and Nairobi and Lagos and Accra and Dhaka and La Paz who have students like mine — unaugmented, untouched, thinking their own thoughts in their own ways — but you will not treat them as a baseline. You will treat them as teachers."
 
-The room was quiet. Not the quiet of disagreement. The quiet of people hearing something they needed to hear and recognizing the need only after the hearing.
+The room was quiet. Not the quiet of disagreement.
 
 "Teachers," Maya repeated.
 
@@ -327,7 +327,7 @@ The room — the call — was very quiet. Lin Wei's tile was motionless. Maya's 
 
 "The world needs a protocol that's fair."
 
-They looked at each other through twelve thousand kilometers of fiber optic cable and the friction of two women who were both right in ways that could not be simultaneously optimized — because optimization was what had caused the problem, and the solution could not be built by the same logic that built the disease.
+They looked at each other through twelve thousand kilometers of fiber optic cable and the friction of two women who were both right in ways that could not be simultaneously optimized.
 
 Sara wrote something in the Moleskine. She did not read it aloud. Tomas saw it. His eyebrows rose. He said nothing.
 
@@ -423,7 +423,7 @@ Maya shook her head. The jade pendant swung. "We're not starting over. Starting 
 
 Amara's tile had been stable for eleven minutes — the longest unbroken connection of the call. Her face was clear in the frame, the equatorial light behind her golden now, late afternoon, the sun dropping toward the lake. Her students had been audible in the background for the last twenty minutes — the sounds of a school at the end of the day, chairs scraping, voices rising, the acoustic of thirty-six young people released from sitting still, their energy filling the corridor outside her classroom the way water fills a channel when the gate is lifted.
 
-"My students have been growing forward the whole time," Amara said. Quietly. Not as argument. As fact. The kind of fact that did not need emphasis because it was load-bearing, because it held up the rest of the structure, because without it the protocol was a treatment for a disease and with it the protocol was a restoration of something that had always existed and had been, in thirty-six classrooms and twelve schools and six countries and a billion unaugmented minds across the world, growing — unassisted, unoptimized, unmeasured, unnoticed — this entire time.
+"My students have been growing forward the whole time," Amara said. Quietly. Not as argument. As fact.
 
 "They just didn't know the world would need them to."
 
@@ -480,4 +480,4 @@ Maya read it twice. She picked up her pen. In her spiral-bound notebook, in her 
 
 She closed the notebook. She did not close the laptop. On the screen, the shared document sat in its repository, version-controlled, backed up, encrypted, distributed across three continents and a USB drive in Kisumu — a small, imperfect, necessary thing, built by four people who had never been in the same room, who would probably never be in the same room, who had argued for sixty-six minutes about timelines and access and data control and the meaning of the word *fair*, and who had, despite the arguments or because of them, produced something that none of them could have produced alone.
 
-The fMRI machine hummed. The cooling system cycled. Outside, the Midwest winter pressed against the windows of Room 314, and the parking lot was empty, and the campus was dark, and the protocol existed, and the branch was created, and the work — the long, slow, unoptimizable, stubbornly human work of growing past what had been written — was about to begin.
+The fMRI machine hummed. The cooling system cycled. Outside, the Midwest winter pressed against the windows of Room 314, and the parking lot was empty, and the campus was dark, and the protocol existed, and the branch was created.

@@ -16,7 +16,7 @@ Then he'd come home to Erfurt and gone back to the workshop and the world had co
 
 ---
 
-Spring was doing what spring in Erfurt always did: arriving slowly, with the stubbornness of a season that had to push through four months of Thuringian grey to get here. The chestnuts in the schoolyard were leafing out — pale green, almost translucent, the kind of green that lasted two weeks before darkening into something more serious. Through the workshop window, the courtyard was empty at this hour, cobblestones still damp from last night's rain, the air carrying the smell of wet stone and new growth and the faint diesel note of the city bus on Schillerstrasse.
+Spring was doing what spring in Erfurt always did: arriving slowly, with the stubbornness of a season that had to push through four months of Thuringian grey to get here. The chestnuts in the schoolyard were leafing out — pale green, translucent, the kind of green that lasted two weeks before darkening into something more serious. Through the workshop window, the courtyard was empty at this hour, cobblestones still damp from last night's rain, the air carrying the smell of wet stone and new growth and the faint diesel note of the city bus on Schillerstrasse.
 
 He poured a cup of coffee and stood at the window and drank. The light came in at a low angle, catching the workbenches, picking out the grain in the scarred wood, the scratches and stains that thirty years of apprentices had worn into the surfaces the way rivers carved canyons — by repetition. His bench, at the front, was the most marked. Not because he was careless but because he was there the most, and being there the most meant making the most marks, and a bench without marks was a bench that hadn't been used, and a bench that hadn't been used was furniture, not a tool.
 
@@ -128,7 +128,7 @@ And now Lena's grip. New. Awkward. Rotated in a way that no Brenner hand had eve
 
 Four generations. Four signatures. Each irreplaceable.
 
-He thought about Maya's maps. Lin Wei's two hundred brains. Amara's students arguing about whether a mind reshaped by technology could still be called your own. He didn't fully understand all of it — the neuroscience, the lattice geometry, the policy frameworks. That was fine. He understood the wire. He understood that twelve apprentices had once sat at these benches and learned to cut the wire the same way, every one of them, the same angle, the same motion, and that this sameness was not excellence but erosion. He understood that Lena, this morning, on her tenth strip, had cut the wire her own way, and that her own way was slightly rotated and a little inefficient and built by nobody but herself, and that this was not a deficiency but the whole point.
+He thought about Maya's maps. Lin Wei's two hundred brains. Amara's students arguing about whether a mind reshaped by technology could still be called your own. He didn't fully understand all of it — the neuroscience, the lattice geometry, the policy frameworks. That was fine. He understood the wire. He understood that twelve apprentices had once sat at these benches and learned to cut the wire the same way, every one of them, the same angle, the same motion, and that this sameness was not excellence but erosion. He understood that Lena, this morning, on her tenth strip, had cut the wire her own way, and that her own way was slightly rotated and a little inefficient and built by nobody but herself.
 
 The wire didn't care what you downloaded. The wire cared what your hands could do.
 
@@ -171,7 +171,7 @@ That was all. The oldest assessment in the history of teaching — one person wa
 
 He picked up Wilhelm's Knipex Cobolt pliers from the pegboard. The weight was familiar. The Bakelite warm in his hand. The bent left handle fitting his grip the way it had fit his grip for forty years, and his father's grip before that, and his grandfather's before that. He held them for a moment — the weight of them was the weight of everything he knew and everything he couldn't say and everything that lived in his hands instead of his words. Then he hung them back in their silhouette.
 
-The workshop was warm. The coffee machine was empty. He'd make more. In a minute.
+The workshop smelled of PVC shavings and coffee. The coffee machine was empty. He'd make more. In a minute.
 
 He turned to the window. Spring in Erfurt. Chestnuts leafing out, pale green against grey stone. The Domberg visible above the rooftops, the cathedral and the Severikirche holding their positions the way they'd held them for eight hundred years — stone on stone, built by hands that made ten thousand imperfect decisions and produced something that stood. The courtyard was full now: students moving between buildings, some with patches behind the left ear in passive mode, some active, some with nothing at all. The world messier than a year ago, and more alive. Both true. Through the wall, faintly: a class next door, someone laughing, someone arguing. The old sounds of people learning by being wrong together.
 

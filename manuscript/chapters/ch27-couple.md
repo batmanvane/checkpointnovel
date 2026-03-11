@@ -22,7 +22,7 @@ He wanted the dust.
 
 "Three generations of wrong."
 
-They were both laughing. Not the polished, socially calibrated laughter of two augmented minds running optimal conversation protocols. The stupid, overlapping, slightly-too-loud laughter of two men who were wrong about different things and enjoying it. Marco's arepa burned on the pan. Neither of them noticed for thirty seconds, and the thirty seconds of not-noticing was a luxury — the luxury of attention consumed entirely by something that did not matter, deployed inefficiently, wasted on an argument about empanadas that would change nothing and improve nothing and produce no measurable outcome except the experience of two humans disagreeing for the pure mammalian pleasure of disagreement.
+They were both laughing. Not the polished, socially calibrated laughter of two augmented minds running optimal conversation protocols. The stupid, overlapping, too-loud laughter of two men who were wrong about different things and enjoying it. Marco's arepa burned on the pan. Neither of them noticed for thirty seconds, and the thirty seconds of not-noticing was a luxury — the luxury of attention consumed entirely by something that did not matter, deployed inefficiently, wasted on an argument about empanadas that would change nothing and improve nothing and produce no measurable outcome except the experience of two humans disagreeing for the pure mammalian pleasure of disagreement.
 
 Tomas called Sara from the tram home. 7 PM. March light fading over Zurich, the Limmat catching the last of it in long green streaks.
 
@@ -54,7 +54,7 @@ This was the word he kept returning to. Texture. For four years, his cognitive e
 
 He got lost in thought on the tram.
 
-Genuinely lost. Not the guided wandering of a BCI offering scenic routes through his own mind. The actual, undirected, slightly disorienting experience of a consciousness that had stopped paying attention to where it was going and ended up somewhere strange. He'd board at Brauerstrasse, thinking about the plasticity paper, and arrive at Universitat thinking about the color of the Limmat in March, which was not the green of summer or the grey of winter but a transitional green, a green that hadn't decided what it was yet, and the undecidedness of the green connected to something about neural states in transition, and the neural states connected to — nothing. The connection dissolved before it formed. A synapse that fired and missed. A thought that existed for half a second and vanished, leaving only the faint residue of having been *almost* something.
+Genuinely lost. Not the guided wandering of a BCI offering scenic routes through his own mind. The actual, undirected, disorienting experience of a consciousness that had stopped paying attention to where it was going and ended up somewhere strange. He'd board at Brauerstrasse, thinking about the plasticity paper, and arrive at Universitat thinking about the color of the Limmat in March, which was not the green of summer or the grey of winter but a transitional green, a green that hadn't decided what it was yet, and the undecidedness of the green connected to something about neural states in transition, and the neural states connected to — nothing. The connection dissolved before it formed. A synapse that fired and missed. A thought that existed for half a second and vanished, leaving only the faint residue of having been *almost* something.
 
 He couldn't always remember his daydreams. They were formless. Strange. They went places he didn't plan and didn't map and couldn't retrace. The CortexLink would have mapped them. Would have traced the associative pathways, identified the latent connections, extracted the signal from what appeared to be noise. But noise was not always noise. Sometimes noise was the sound of a mind breathing — inhaling whatever was in the air, exhaling whatever it didn't need, the respiratory cycle of consciousness that his optimization had replaced with a ventilator. The ventilator was more efficient. The ventilator delivered a precise oxygen mix at an optimal rate. But you don't *breathe* on a ventilator. The machine breathes. You receive.
 
@@ -118,13 +118,11 @@ But water that always takes the shape of its container is not water. It's a prop
 
 "I want Le Lent," he said again. "I want it with my own wanting."
 
-The kitchen was quiet. The radiator ticked. The steam from Sara's coffee caught the light and dissolved. From the courtyard, the sound of pigeons doing whatever pigeons did at 8 AM in March — existing, probably, without agenda, a small committee of birds who had never been optimized for anything and seemed fine.
+The radiator ticked. The steam from Sara's coffee caught the light and dissolved. From the courtyard, the sound of pigeons doing whatever pigeons did at 8 AM in March — existing, probably, without agenda, a small committee of birds who had never been optimized for anything and seemed fine.
 
 Sara looked at him across the kitchen table. The look lasted three seconds. In three seconds, her face did something that Tomas had seen only a few times in the year they'd been together — a shift, a tectonic movement beneath the Swedish composure, something rising from below that was too large for the surface to contain and too important to suppress. Her eyes changed. Not color. Depth. As if a door had opened behind them into a room that was larger than the room it was in.
 
 "Welcome back," she said.
-
-Two words. Sara's entire arc in two words. A year of watching from behind one-way glass, of Moleskine notes and observation-room silence, of witnessing a mind dismantle itself and rebuild from the wreckage — compressed into two syllables that carried no emphasis because they didn't need emphasis. Emphasis was for words that doubted themselves. These didn't.
 
 He felt his eyes sting. Not tears — the precursor to tears, the chemical announcement that tears were available if he wanted them. He didn't want them. He wanted the sting. The sting was his.
 
@@ -192,8 +190,6 @@ She picked up the bun again.
 
 Tomas looked at her. He looked at her across the well-designed table in the well-designed cafe while the well-designed coffee cooled in his cup and the child hit a frequency that could have shattered the Copenhagen glassware, and he understood what she was saying. She was saying: *this is what two distinct minds sound like when they share a morning*. One likes the cardamom bun. One hates the coffee. One finds the child charming in her sonic ambition. One wants to leave. The disagreement is small and stupid and it matters more than anything because it is *real* — two separate wantings, two separate experiencings, colliding at a table on a Saturday morning with no algorithm smoothing the collision, no optimization resolving the friction, no system pre-loading their responses to align.
 
-Friction. The thing that slows you down. The thing that wears surfaces rough. The thing that generates heat, and heat is what you feel when two things touch.
-
 They were touching.
 
 "Can we go?" he said.
@@ -228,7 +224,7 @@ The flower stall was a permanent impermanence — a wooden cart that appeared ev
 
 Daffodils. Yellow. A bucket of them, standing in water, their stems pale green, their heads the yellow that only daffodils managed — not the yellow of caution or of sunshine but the yellow of *first*. The first color after winter. The color that meant the ground had made a decision.
 
-He bought them. A bunch. The woman wrapped the stems in brown paper and he paid with cash he happened to have because he'd gone to the ATM yesterday for no reason he could articulate, which was itself a symptom of recovery — the purposeless errand, the action taken without optimization, the body moving through the city on its own recognizance.
+He bought them. A bunch. The woman wrapped the stems in brown paper and he paid with cash he happened to have because he'd gone to the ATM yesterday for no reason he could articulate.
 
 Sara watched him. She stood on the sidewalk with her hands in her jacket pockets and watched him buy daffodils from a woman in a green hat, and her face did the thing it had done in the kitchen — the shift beneath the surface, the tectonic movement.
 
