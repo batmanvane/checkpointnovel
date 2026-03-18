@@ -98,7 +98,7 @@ The real baseline: Tomas sat at the BEKANT desk and could not rotate a three-dim
 
 Twenty-three minutes on the first problem. Wrong. Nineteen on the second. Wrong.
 
-Sara watched from behind the glass and did not write and did not look away.
+Sara watched from behind the glass and did not write and did not look away. She wanted him to get it right. She examined the wanting and could not determine its source — whether it came from love, or from the need to believe that her choice to pick him over the story had been worth the cost. Both motives pointed at the same green checkmark. She could not separate them. She was not sure she wanted to.
 
 Day three: marginally better. He solved one problem. One. Fourteen minutes, tentative — she could see it in how he entered the answer, finger hovering. But the guess was right. One right answer in ninety minutes, and when the green checkmark appeared, Tomas put his head down on the BEKANT desk and stayed there for eleven seconds. Sara counted. Eleven seconds of a man resting his forehead on birch veneer because his own brain had, for the first time in four years, solved a simple spatial reasoning problem without help.
 
@@ -211,6 +211,14 @@ She considered this. Slowly, with the patience of a person who had learned that 
 "Because it was *yours*. It moved through your body before it reached your mouth. It had a shape. A physical shape. The wanting came through your muscles before it came through your words. That's how I knew."
 
 She brought two cups to the table. Their fingers touched on the handoff — his reaching, hers releasing, the ceramic warm between them, the contact lasting a half-second longer than mechanics required.
+
+They drank. And the silence between them was good, but different from the silences they used to share. The old silences had been seamless — two minds in the same groove, comfortable, frictionless. This silence had texture. An edge. He noticed her Moleskine on the counter, and the one on the nightstand, and the one in her coat pocket, and for the first time in a year the notebooks irritated him. Not their presence — their quantity. Their ubiquity. The way she documented everything, catalogued everything, processed the world through ink before she let it settle.
+
+He said nothing. But she saw his eyes move to the notebook on the counter and then away, and something in her chest tightened — not hurt, not quite, but the awareness that his irritation was new, and the newness meant something. He never would have been irritated before. The CortexLink had smoothed that. Filed the sharp edges off his reactions before they reached consciousness. Every disagreement pruned. Every friction preemptively resolved.
+
+*He never disagreed before,* she thought. *Was that love? Or was that convergence?*
+
+She didn't ask. He didn't say. They drank their tea, and the question hung between them like a draft from a window neither had closed.
 
 ---
 
