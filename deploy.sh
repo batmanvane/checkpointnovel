@@ -13,7 +13,8 @@ bash manuscript/build-reader.sh
 bash manuscript/build.sh 2>&1 | tail -1
 
 # Copy PDF into website/ for deployment
-cp manuscript/Checkpoint-Draft.pdf website/Checkpoint-Draft.pdf
+mkdir -p website/assets
+cp manuscript/Checkpoint-Draft.pdf website/assets/Checkpoint-Draft.pdf
 
 echo "Deploying to $HOST..."
 lftp -e "
