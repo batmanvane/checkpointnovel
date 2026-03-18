@@ -26,7 +26,7 @@ She slipped into Salle XX through the side door, press badge visible, Moleskine 
 
 The panel was on neurological sovereignty. She knew this because she'd written the two-paragraph preview for her collective's newsletter, and she'd used the phrase "neurological sovereignty" four times in two paragraphs because the phrase was doing a lot of work and nobody on the panel was going to define it. This was why she was here — for the space where the definitions should be and weren't.
 
-She sat in the sixth row, aisle seat, three rows behind a man who was bouncing his left knee and holding a conference pen like he'd forgotten what it was for. Dark hair, mid-thirties, the physical restlessness of someone whose body was still sending signals his mind had stopped answering. She noticed the pen because she noticed pens — professionally, automatically, with the involuntary assessment of someone whose primary tool was being held incorrectly by a stranger.
+She sat in the sixth row, aisle seat, three rows behind a man who was bouncing his left knee and holding a conference pen like he'd forgotten what it was for. Dark hair, mid-thirties, the physical restlessness of someone whose body was still sending signals his mind had stopped answering. Good hands — she noticed this before she noticed the pen, and noticed herself noticing, which was unusual. She noticed the pen because she noticed pens — professionally, automatically, with the involuntary assessment of someone whose primary tool was being held incorrectly by a stranger.
 
 The fourth speaker finished. The fifth speaker stood. Dr. Isabelle Fournier, according to the program. Neuroplasticity. BCI user — the small dermal patch visible behind her left ear, the European model, same as about forty percent of the audience. Sara scanned the room. Forty percent was a guess. Forty-three, probably, if you counted the ones who'd covered theirs with their hair.
 
@@ -144,7 +144,7 @@ Tomas watched her write. He watched with the fascination of a person observing a
 
 "No, I know. I didn't mean —"
 
-An awkward beat. Philippe appeared with water. They both reached for their glasses at the same time and almost knocked them over and didn't quite laugh about it.
+An awkward beat. Philippe appeared with water. They both reached for their glasses at the same time and their fingers met on the wet surface of the same glass. Neither pulled away immediately. A half-second, maybe less — the duration of a held note, the space between a question and its answer. Philippe appeared with water. He set it down without comment, but his eyes moved between them with the practiced discretion of a man who had served ten thousand first conversations and could tell the difference between the ones that were interviews and the ones that weren't.
 
 "And now?"
 
@@ -202,7 +202,7 @@ He stopped.
 
 "And after four years of taking the right next step, I've forgotten there were other steps. Steps that were wrong. Steps that went nowhere. Steps that went somewhere I wouldn't have chosen, and that's where the good stuff was."
 
-Sara looked at him. The candlelight caught the angles of her face — the Swedish bone structure, the pale eyes, the expression of a person who was recalibrating her understanding of something while you watched. She was not a person whose recalibrations were invisible. They moved across her face like weather.
+Sara looked at him. The candlelight caught the angles of her face — the Swedish bone structure, the pale eyes, the expression of a person who was recalibrating her understanding of something while you watched. She was not a person whose recalibrations were invisible. They moved across her face like weather. He was aware of her nearness in a way his BCI had nothing to do with — the warmth of a body across a small table, the particular stillness of a person listening with her whole frame. His optimization had no model for this. His optimization had no suggestions.
 
 "You're not mourning efficiency," she said. "You're mourning *lostness*."
 
@@ -264,4 +264,18 @@ He didn't ask what she wrote.
 
 She didn't tell him.
 
-They walked toward the lake. The water was black against the quay stones and the air carried the mineral bite of November, and somewhere behind them the brass handle of Le Lent's door caught the light from a passing car and flared once, briefly, like a signal from a world that was still slow enough to be touched by hand.
+They walked toward the lake. Side by side, shoulders not quite touching — a gap of perhaps ten centimeters that neither closed and neither widened, held in place by a tension that was not uncomfortable but was not nothing. The water was black against the quay stones and the air carried the mineral bite of November.
+
+At the hotel lobby, they stopped. The automatic doors opened and the warm air from inside met the cold air from outside and for a moment they stood in both temperatures at once.
+
+"Good night," she said.
+
+"Good night."
+
+She walked toward the elevator. He watched her go — the Moleskine in her left hand, her shoulders straight, the slight unevenness of her stride that he'd noticed in the first ten minutes and that his BCI had not suggested he notice. The elevator doors opened. She stepped in. Turned. Their eyes met across the lobby for a duration that the clock above the reception desk would have measured as two seconds and that Tomas would have measured as something else entirely.
+
+The doors closed.
+
+He stood in the lobby. The night porter looked at him with the neutrality of a man who had seen this before. Tomas put his hands in his pockets. The conference pen was still there. He held it.
+
+Somewhere behind them, the brass handle of Le Lent's door caught the light from a passing car and flared once, briefly, like a signal from a world that was still slow enough to be touched by hand.
