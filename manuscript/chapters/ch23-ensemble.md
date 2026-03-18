@@ -50,7 +50,7 @@ She clicked. A third image appeared — a difference map, the delta between befo
 
 "Physical therapy," Tomas said, from behind Sara. "After stroke."
 
-"Exactly after stroke. The damaged pathways don't regenerate. But the brain routes around them. It activates alternative pathways, strengthens connections that were dormant or underused, builds new architecture that restores function through a different route. The principle is the same. The plasticity is the same. The challenge is the same: you have to make the brain do the work itself. You cannot do it for the brain. Doing it for the brain is what created the problem."
+"Exactly after stroke. The damaged pathways don't regenerate. But the brain routes around them. It activates alternative pathways, strengthens connections that were dormant or underused, builds new wiring that restores function through a different route. The principle is the same. The plasticity is the same. The challenge is the same: you have to make the brain do the work itself. You cannot do it for the brain. Doing it for the brain is what created the problem."
 
 "How," Henning said. Not a question — a single syllable that meant *get to the point*.
 
@@ -76,11 +76,11 @@ Lin Wei's tile brightened fractionally — she had leaned closer to the screen, 
 
 She stopped. Took a breath. Lin Wei did not usually speak in paragraphs. The paragraph meant something.
 
-"These baselines are the calibration data," she continued, steadier now. "Without them, Maya's interpretability tools can distinguish between native and BCI-written pathways — but they can't tell you what the native architecture *should* look like. They can show you the dormant roads. They can't show you where the roads were supposed to go. The baselines can. For these two hundred people — and only these two hundred — we have the before picture. The original architecture. The target state for rehabilitation."
+"These baselines are the calibration data," she continued, steadier now. "Without them, Maya's interpretability tools can distinguish between native and BCI-written pathways — but they can't tell you what the native architecture *should* look like. They can show you the dormant roads. They can't show you where the roads were supposed to go. The baselines can. For these two hundred people — and only these two hundred — we have the before picture. The original wiring. The target state for rehabilitation."
 
 "Two hundred people," Tomas said. "Out of nine hundred million."
 
-"Two hundred people is a calibration set. You don't need the before picture for every brain. You need enough before pictures to build a model that can predict the before picture for any brain, given the after picture and the usage history and the demographic data. Two hundred is — " She paused. Did something in her head that Maya recognized as engineering math, the rapid estimation that produced answers good enough for architecture and bad enough for publication. "Two hundred is tight. It's not comfortable. But it's enough to train an inverse model. Map the BCI-written architecture backward to the probable pre-BCI state. Bayesian inference. The same math the BCI uses to personalize forward — we use it to personalize backward."
+"Two hundred people is a calibration set. You don't need the before picture for every brain. You need enough before pictures to build a model that can predict the before picture for any brain, given the after picture and the usage history and the demographic data. Two hundred is — " She paused. Did something in her head that Maya recognized as engineering math, the rapid estimation that produced answers good enough for architecture and bad enough for publication. "Two hundred is tight. It's not comfortable. But it's enough to train an inverse model. Map the BCI-written structure backward to the probable pre-BCI state. Bayesian inference. The same math the BCI uses to personalize forward — we use it to personalize backward."
 
 "You want to use the system's own math against it," Sara said.
 
@@ -116,9 +116,9 @@ Lin Wei was quiet for three seconds. On the screen, her face did something compl
 
 She pulled up a diagram — a flowchart, drawn in the style of someone who had been building flowcharts for twenty years and had opinions about arrow placement that she would defend with her life.
 
-"Step one: scan the patient. Full-brain structural and functional imaging with the 9.4-Tesla machine. The interpretability tools map every pathway in the prefrontal cortex and classify it: native, BCI-written, or dormant. We get a three-layer map. The lattice. The living architecture. And the ghost — the original pathways underneath, weakened but present."
+"Step one: scan the patient. Full-brain structural and functional imaging with the 9.4-Tesla machine. The interpretability tools map every pathway in the prefrontal cortex and classify it: native, BCI-written, or dormant. We get a three-layer map. The lattice. The living wiring. And the ghost — the original pathways underneath, weakened but present."
 
-"Step two: overlay the baseline model. Lin Wei's inverse model predicts what the patient's pre-BCI architecture should have looked like. We compare that prediction to the dormant pathways we can actually see. The overlap tells us which dormant pathways are recoverable — structurally intact enough to reactivate — and which have degraded beyond the threshold."
+"Step two: overlay the baseline model. Lin Wei's inverse model predicts what the patient's pre-BCI wiring should have looked like. We compare that prediction to the dormant pathways we can actually see. The overlap tells us which dormant pathways are recoverable — structurally intact enough to reactivate — and which have degraded beyond the threshold."
 
 "Step three: design personalized cognitive exercises. This is the stroke rehab analogy in practice. For each recoverable dormant pathway, we design a task that forces the brain to use that specific pathway instead of the BCI-written one. Decision-making tasks that require divergent thinking — the kind of thinking the lattice optimizes away. Creative exercises. Problem-solving from novel angles. The exercises are different for every patient because the dormant architecture is different in every patient. This is not a curriculum. It is a prescription."
 
@@ -132,7 +132,7 @@ She pulled up a diagram — a flowchart, drawn in the style of someone who had b
 
 "No." Maya said the word the way you close a door — completely, without ambiguity. "The lattice stays. LTP is not reversible. What was written stays written. The knowledge stays. The skills stay. Everything the BCI gave them, they keep. What changes is the *balance*. Right now, the BCI-written pathways dominate because the native pathways are dormant. If we reactivate the native pathways, the brain has two systems — the engineered one and the original one. Both active. Both contributing. The patient doesn't lose the lattice. They gain back everything the lattice suppressed."
 
-Lin Wei's face changed. The expression Maya had seen before — the engineer recognizing the architecture.
+Lin Wei's face changed. The expression Maya had seen before — the engineer recognizing the structure.
 
 "It's not `git revert`," Lin Wei said.
 
@@ -183,7 +183,7 @@ Henning's tile unfroze. He had been nodding. "She's right," he said. The two wor
 
 Maya answered. "Amara's network gives us something the baselines can't: a living reference population. Lin Wei's two hundred scans show us what brains looked like before the BCI. Amara's students show us what brains look like when they've been growing without the BCI — growing, developing, changing through normal experience. The baselines are a snapshot. Amara's population is a movie. We need both."
 
-"And that's — *mira*, that's the thing," Tomas said. He leaned forward, into the frame, his face beside Sara's. "Amara's students don't all think the same way. That's the point. That's the whole — the lattice makes everyone converge, right? Same architecture, same valleys. But her students, they're all different. Every brain building its own paths. They're what we looked like. Before."
+"And that's — *mira*, that's the thing," Tomas said. He leaned forward, into the frame, his face beside Sara's. "Amara's students don't all think the same way. That's the point. That's the whole — the lattice makes everyone converge, right? Same pattern, same valleys. But her students, they're all different. Every brain building its own paths. They're what we looked like. Before."
 
 "My students would be pleased to hear you describe them as naturally divergent," Amara said. "Several of them have been called worse things by the education ministry."
 
@@ -201,7 +201,7 @@ Henning said nothing, which was his way of agreeing with things that didn't need
 
 "Component four," Maya said. "Henning."
 
-Henning looked at the camera the way he looked at a fuse box — directly, without romance, with the expectation that what he was about to see would need work.
+Henning looked at the camera — directly, without romance, with the expectation that what he was about to see would need work.
 
 "I'm not a neuroscientist," he said.
 
@@ -229,7 +229,7 @@ Maya was quiet. On the screen, her face went through the transition of a scienti
 
 He held up the cable stripper. Turned it in his hand. The fluorescent light caught the jaw, the hinge, the small geometric perfection of a tool designed to do one thing.
 
-"Your rehabilitation protocol needs a physical component. Embodied learning. The hands. Not as supplementary. Not as optional enrichment. As core. Because the procedural system is the only system the BCI never compromised. It's the clean architecture. The firewall. And when you train someone through their hands — through repetition, through physical practice, through the body's own negotiation with the material — you build pathways in the cerebellum and basal ganglia that are inherently resistant to the lattice. Not because they're stronger. Because they're in a different room. The room the device can't enter."
+"Your rehabilitation protocol needs a physical component. Embodied learning. The hands. Not as supplementary. As core. Because the procedural system is the only system the BCI never compromised. It's the clean framework. The firewall. And when you train someone through their hands — through repetition, through physical practice, through the body's own negotiation with the material — you build pathways in the cerebellum and basal ganglia that are inherently resistant to the lattice. Not because they're stronger. Because they're in a different room. The room the device can't enter."
 
 He looked at the camera.
 
@@ -239,7 +239,7 @@ He lowered the camera — or tilted the laptop, more likely, given the sudden ve
 
 He stripped the cable.
 
-Not fast. Not showily. With the deliberate, narrated precision of a man who had taught this motion to three hundred and sixty apprentices and understood that teaching was transmitting — showing the structure rather than the speed, the process rather than the result.
+With the deliberate, narrated precision of a man who had taught this motion to three hundred and sixty apprentices and understood that teaching was transmitting — showing the structure rather than the speed, the process rather than the result.
 
 "Watch the wrist," he said. "Not the hand. The wrist. The rotation. A quarter turn before the second cut. That is not in any manual. I learned it from my father, who learned it from his father, who learned it in this workshop in 1962. It is stored in my hands. It is personal. No other electrician rotates at this angle, because no other electrician has my father's hands filtered through my hands filtered through sixty-one years of holding things."
 
@@ -247,13 +247,13 @@ He set the cable down. Picked up a second length. Held the stripper out to the c
 
 "The protocol needs this. Not cable stripping specifically — I am not proposing that nine hundred million people learn to be electricians, though the world could use more electricians. The protocol needs embodied learning. Physical tasks. Hands on material. The body negotiating with the world without the device mediating the negotiation. Woodworking. Cooking. Drawing. Sewing. Playing an instrument. Any skill that requires the hands to learn what the hands can only learn through repetition. Any skill that builds in the room behind the panel."
 
-He raised the camera back to his face. The expression was the one Maya had learned to read as Henning at his most serious — flat, direct, the face of a man who did not perform conviction but simply had it, the way a wall had load-bearing capacity.
+He raised the camera back to his face. The expression was the one Maya had learned to read as Henning at his most serious — flat, direct, the face of a man who did not perform conviction but simply had it.
 
 "Your cognitive exercises reactivate the dormant declarative pathways. Good. Necessary. But if you don't also build the procedural system — the system the BCI left alone because it couldn't reach it — then you're rehabilitating half the brain. The half the device already owns. You need to rehabilitate the half it doesn't."
 
 Silence. Six tiles. Four continents. The hum of a fNIRS machine cooling in Maya's lab, the hum of fluorescent lights in Henning's workshop, the hum of a tablet processor overheating in Amara's classroom, the hum of nothing in Lin Wei's safehouse, the hum of a Zurich street through an open window in Tomas and Sara's apartment. Five different hums, none of them harmonized, none of them convergent.
 
-"He's right," Maya said. She said it the way she'd said *dormant* in her notebook at 2:47 AM — pressing the words into the surface with force, because certain findings deserved the resistance.
+"He's right," Maya said. She pressed the words out the way she'd pressed *dormant* into her notebook at 2:47 AM — with force, because certain findings deserved the resistance.
 
 ---
 
@@ -345,7 +345,7 @@ Lin Wei wanted decentralized storage — the baselines on three servers on three
 
 They negotiated. Not smoothly. Not efficiently. With the friction of four people who had different fears and different priorities and different definitions of the word *safe*. Lin Wei's safety was cryptographic — encryption, redundancy, access control. Maya's safety was methodological — IRB approval, informed consent, peer review. Henning's safety was personal — the name and face of the person responsible, reachable by phone, answerable by name. Amara's safety was communal — the community's right to refuse, to withdraw, to burn the data and walk away.
 
-They could not agree on a single architecture that satisfied all four definitions. They agreed on an architecture that partially satisfied each one, which was worse by every individual metric and better by the only metric that mattered: it was an architecture that four people from four continents could live inside without anyone's definition of safety being violated beyond their tolerance.
+They could not agree on a single framework that satisfied all four definitions. They agreed on a framework that partially satisfied each one, which was worse by every individual metric and better by the only metric that mattered: it was a structure that four people from four continents could live inside without anyone's definition of safety being violated beyond their tolerance.
 
 "This is not elegant," Lin Wei said.
 
@@ -355,7 +355,7 @@ They could not agree on a single architecture that satisfied all four definition
 
 "In my experience, they usually are."
 
-Henning's WiFi dropped for the third time. When he returned, the argument had moved on, and he asked no one to repeat what he'd missed, which was either stoic efficiency or the pragmatic assessment that whatever he'd missed would circle back, because arguments always circled back, the way apprentices always made the same mistake twice — the first time from ignorance, the second time from not quite having learned the lesson the first time taught.
+Henning's WiFi dropped for the third time. When he returned, the argument had moved on, and he asked no one to repeat what he'd missed, which was either stoic efficiency or the pragmatic assessment that whatever he'd missed would circle back, because arguments always circled back, like apprentices making the same mistake twice — the first time from ignorance, the second time from not quite having learned the lesson the first time taught.
 
 ---
 
@@ -415,7 +415,7 @@ Switched to a new branch 'cognitive-diversity-restored'
 
 "That's a lot of words for *starting over*," Henning said.
 
-Maya shook her head. The jade pendant swung. "We're not starting over. Starting over would mean losing everything the BCI built — the knowledge, the skills, the enhanced capacity. We're not losing any of that. We're growing forward. The branch carries the full commit history. Everything that was written stays written. But from this point forward, the growth is different. Divergent. Individual. The lattice stays. The diversity grows around it."
+Maya shook her head. "We're not starting over. Starting over would mean losing everything the BCI built — the knowledge, the skills, the enhanced capacity. We're not losing any of that. We're growing forward. The branch carries the full commit history. Everything that was written stays written. But from this point forward, the growth is different. Divergent. Individual. The lattice stays. The diversity grows around it."
 
 "Like a tree growing around a fence," Tomas said.
 
@@ -423,13 +423,13 @@ Maya shook her head. The jade pendant swung. "We're not starting over. Starting 
 
 Amara's tile had been stable for eleven minutes — the longest unbroken connection of the call. Her face was clear in the frame, the equatorial light behind her golden now, late afternoon, the sun dropping toward the lake. Her students had been audible in the background for the last twenty minutes — the sounds of a school at the end of the day, chairs scraping, voices rising, the acoustic of thirty-six young people released from sitting still, their energy filling the corridor outside her classroom the way water fills a channel when the gate is lifted.
 
-"My students have been growing forward the whole time," Amara said. Quietly. Not as argument. As fact.
+"My students have been growing forward the whole time," Amara said. Quietly. As fact.
 
 "They just didn't know the world would need them to."
 
 ---
 
-The call ended at 16:22 UTC. Two hours and twenty-two minutes. The shared document was forty-one pages. Four sections. Four authors. Three hundred and forty-eight commits. A protocol. A rehabilitation framework with four components — baselines, interpretability-guided cognitive exercises, community reference populations, embodied physical training — each one irreplaceable, each one built by a person whose expertise could not have been substituted by any of the other three, each one necessary in the way that a conductor in a cable is necessary: remove one and the circuit doesn't degrade gracefully. It opens. It stops.
+The call ended at 16:22 UTC. Two hours and twenty-two minutes. The shared document was forty-one pages. Four sections. Four authors. Three hundred and forty-eight commits. A protocol. A rehabilitation framework with four components — baselines, interpretability-guided cognitive exercises, community reference populations, embodied physical training — each one irreplaceable, each one built by a person whose expertise could not have been substituted by any of the other three, each one necessary like a conductor in a cable: remove one and the circuit doesn't degrade gracefully. It opens. It stops.
 
 Lin Wei pushed the final commit. The terminal displayed the hash — a forty-character string of hexadecimal that represented, in the language of version control, the state of the document at this exact moment: complete, imperfect, containing everything they knew and nothing they didn't, a snapshot of four minds working together across four continents and producing something that none of them could have produced alone.
 
@@ -468,7 +468,7 @@ No undo. No clean slate. Just the slow, deliberate labor of branching — carryi
 
 Four screens went dark. One by one — Henning first, because he had apprentices arriving in twelve minutes and the Moccamaster needed filling. Then Amara, her tile dissolving into pixels and then black, the connection releasing her face the way the lake released the light at sunset, gradually, then all at once. Then Lin Wei, the safehouse going dark behind her dark screen, the laptop closing, the encryption engaging, the woman and the data disappearing into the silence of a person who had built something that broke the world and was now building something that might help the world grow past the break.
 
-Maya was last. She sat in Room 314, in the lab, in front of the corkboard with its mosaic of scans and string and the printout of Sara's headline — **Your BCI Is Writing to Your Brain** — still pinned in the upper left corner, still true, still the sentence that had started everything. The fMRI machine hummed in the next room. The cooling system cycled. The jade pendant rested against her throat, warm from her skin, the green of it catching the fluorescent light the way it always did, a small constant in a room full of variables.
+Maya was last. She sat in Room 314, in the lab, in front of the corkboard with its mosaic of scans and string and the printout of Sara's headline — **Your BCI Is Writing to Your Brain** — still pinned in the upper left corner, still true, still the sentence that had started everything. The fMRI machine hummed in the next room. The cooling system cycled. The jade pendant rested against her throat, warm from her skin, the green of it catching the fluorescent light as it always did, a small constant in a room full of variables.
 
 She opened the shared document. Forty-one pages. Four voices. She scrolled to the bottom, past Lin Wei's data architecture and her own clinical protocol and Amara's community principles and Henning's forty-repetition cable-stripping exercise, to the line Lin Wei had added at the very end, after the final commit, after the call had ended, in the quiet of a safehouse in a city no one else on the call could name:
 

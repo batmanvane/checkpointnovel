@@ -2,11 +2,11 @@
 
 The phone rang at eight-forty in the morning, and Henning almost didn't answer it.
 
-He was standing in his kitchen on Andreasstrasse, third floor, the Moka pot on the stove just starting to hiss. The autumn dark was still in the windows — late October in Thuringia, the sun arriving with the reluctance of a man who knows his shift is almost over. Through the balcony door he could see the Domberg lit up against the grey, the cathedral and the Severikirche holding their floodlit positions above the Altstadt like two old tradesmen who'd been on the job so long they'd become part of the infrastructure. The coffee was thirty seconds from ready. He could feel it in the pot's vibration, the pitch of the steam, the way the hissing climbed toward the frequency that meant the water had found its way through the grounds and was about to announce itself. Thirty years of the same Moka pot had taught him that frequency the way thirty-nine years of wiring had taught him the hum of a live conductor: not by thinking about it, but by standing near it long enough.
+He was standing in his kitchen on Andreasstrasse, third floor, the Moka pot on the stove just starting to hiss. The autumn dark was still in the windows — late October in Thuringia, the sun arriving with the reluctance of a man who knows his shift is almost over. Through the balcony door he could see the Domberg lit up against the grey, the cathedral and the Severikirche holding their floodlit positions above the Altstadt like two old tradesmen who'd been on the job so long they'd become part of the infrastructure. The coffee was thirty seconds from ready. He could feel it in the pot's vibration, the pitch of the steam, the way the hissing climbed toward the frequency that meant the water had found its way through the grounds and was about to announce itself. Thirty years of the same Moka pot had taught him that frequency like thirty-nine years of wiring had taught him the hum of a live conductor: not by thinking about it, but by standing near it long enough.
 
 The phone was on the counter. The number was international. American prefix. No name.
 
-Henning did not answer calls from numbers he didn't recognize. This was not a policy he'd announced to anyone. It was a practice, the way labeling circuits was a practice, the way checking a panel before you opened it was a practice — things a man did because the alternative was chaos, and chaos was for people who hadn't been shocked enough times.
+Henning did not answer calls from numbers he didn't recognize. This was not a policy he'd announced to anyone. It was a practice — like labeling circuits, like checking a panel before you opened it. Things a man did because the alternative was chaos, and chaos was for people who hadn't been shocked enough times.
 
 The phone stopped ringing. The Moka pot completed its performance — the gurgle, the sigh, the sudden silence that meant the coffee was done. He lifted it from the burner, poured into the cup his father had used, a heavy stoneware mug with a chip on the rim that Klaus had never bothered to fix because the chip didn't affect the coffee and a man who replaced things that still worked was a man who'd run out of real problems.
 
@@ -18,7 +18,7 @@ Henning set down the cup. A person who called twice was either selling something
 
 He picked up.
 
-"Herr Brenner?" A woman's voice. American accent, speaking English. Careful, the way people spoke when they knew they were calling a stranger and expected to be hung up on. "My name is Dr. Maya Chen. I'm a neuroscientist at Lakeview State University, in the United States. I'm sorry to call so early. I found your name through the EU vocational education network — your reports on apprentice behavioral changes. I was hoping we could talk."
+"Herr Brenner?" A woman's voice. American accent, speaking English. Careful — the voice of someone who knew she was calling a stranger and expected to be hung up on. "My name is Dr. Maya Chen. I'm a neuroscientist at Lakeview State University, in the United States. I'm sorry to call so early. I found your name through the EU vocational education network — your reports on apprentice behavioral changes. I was hoping we could talk."
 
 Henning leaned against the counter. The stoneware mug radiated warmth into his palm. Outside, the delivery van had finished reversing and was now idling, its engine ticking in the rhythm of a diesel that needed its injectors cleaned.
 
@@ -28,7 +28,7 @@ Henning leaned against the counter. The stoneware mug radiated warmth into his p
 
 Three years. He'd been filing for longer than that, but three years was when the reports had started using the word *convergent*, because three years ago was when he'd found the word for what he was seeing. Before that, he'd written around it — *uniform error patterns*, *synchronized correction sequences*, *identical technique adoption* — the language of a man describing a shape he didn't have a name for.
 
-"You read the Handwerkskammer reports," he said. Not a question. A confirmation. A man checking a connection before he applied current.
+"You read the Handwerkskammer reports," he said. A confirmation — a man checking a connection before he applied current.
 
 "I did. They were — Herr Brenner, they were the most detailed field observations of cognitive convergence I've found anywhere. More detailed than anything in the academic literature. You've been documenting what I've been studying in a lab, but from the inside. From the level of hands and wire."
 
@@ -60,7 +60,7 @@ She paused, and he could hear her searching for the word that wasn't the word sh
 
 "Like a lattice," she said. "Regular. Repeating. Almost geometric. Growing in the same location, with the same structure, in every brain I've looked at."
 
-The Moka pot had stopped ticking. The delivery van had gone. The Domberg held its floodlit position above the rooftops, stone and light and eight hundred years of not going anywhere.
+The Moka pot had stopped ticking. The delivery van had gone.
 
 "Herr Brenner?"
 
@@ -76,7 +76,7 @@ He set the mug down on the counter. The sound it made was small and definite, ce
 
 "One of my apprentices. Second year. He had a device malfunction during his Gesellenprüfung — his journeyman's exam. July this year. The device went offline for about an hour. When it went dark, he couldn't remember Ohm's law. He'd learned it at fifteen, three years before the implant. Learned it from his father at the kitchen table. Gone. Like someone had emptied a shelf."
 
-"I've seen that pattern," Maya said. Her voice had dropped, the way a doctor's voice drops when the diagnosis arrives and there's no reason to perform calm anymore. "Declarative knowledge atrophy. The native recall pathways degrade because the device handles retrieval. Use it or lose it — but applied to cognition."
+"I've seen that pattern," Maya said. Her voice had dropped — the diagnosis arriving, no reason to perform calm anymore. "Declarative knowledge atrophy. The native recall pathways degrade because the device handles retrieval. Use it or lose it — but applied to cognition."
 
 "That's what I wrote in the incident report. Not in those words. In my words."
 
@@ -90,7 +90,7 @@ Henning blinked. Nobody had asked him that. Not the sociologist, not the psychol
 
 "I don't need the anatomy," Henning said. "I saw it. His hands remembered and his head didn't. That's what I filed."
 
-"That's what I need," she said. "Not the anatomy. The observation. The thing you saw with your own eyes in a room where it actually happened."
+"That's what I need," she said. "The observation. The thing you saw with your own eyes in a room where it actually happened."
 
 He picked up the mug again. Drank. The coffee was cooling, moving from the temperature where it was a pleasure to the temperature where it was merely a fact. He drank it anyway.
 
@@ -106,7 +106,7 @@ He paused. Looked out the window. The Domberg was starting to fade into the morn
 
 "Changed how?"
 
-"Lukas used to tie his cable ties in a specific way. Every electrician does it differently — the angle of the cut, how tight you pull, whether you leave the tail or trim it flush. Lukas had a twist. He'd loop the tail under and pull it back through before trimming. Not in any manual. Not taught. Something he'd figured out on his own, probably from watching his father, probably without knowing he was doing it. It made a small bump at the junction, barely visible, but I could pick a Lukas cable tie out of a bundle of fifty. The way you can pick a person's handwriting out of a stack of letters."
+"Lukas used to tie his cable ties in a specific way. Every electrician does it differently — the angle of the cut, how tight you pull, whether you leave the tail or trim it flush. Lukas had a twist. He'd loop the tail under and pull it back through before trimming. Not in any manual. Not taught. Something he'd figured out on his own, probably from watching his father, probably without knowing he was doing it. It made a small bump at the junction, barely visible, but I could pick a Lukas cable tie out of a bundle of fifty."
 
 He stopped. The Moka pot ticked once on the cooling burner and then nothing.
 
@@ -120,11 +120,11 @@ Maya didn't speak. He could hear the faint electronic hum of the international c
 
 "But it looked like everyone else's. The twist was gone. The signature was gone. Whatever part of Lukas was in the work before the malfunction, it wasn't there afterward. The device came back and it brought everything with it except the thing that made his work his."
 
-A long silence. The morning was arriving in full now, the Altstadt emerging from the dark the way it did every morning, tile by tile, stone by stone, the city assembling itself from the night with the patience of something that had been doing this for six hundred years and would continue doing it regardless of what anyone downloaded.
+A long silence. The morning was arriving in full now, the Altstadt emerging from the dark tile by tile, stone by stone, the city assembling itself from the night with the patience of something that had been doing this for six hundred years and would continue doing it regardless of what anyone downloaded.
 
 "The lattice," Maya said. "When the device came back online, the recursive feedback — " She stopped herself. Started again, in different words. "When the device was repaired and reactivated, it didn't just restore the knowledge. It resumed building the structure. And the second time, it built faster, because the pathways were already partially formed. The brain was already primed. The lattice — the grid I keep finding in the scans — it's like a mold. Once it's there, everything that flows through it takes the same shape. Including the small personal things. The cable-tie twist. The individual signature. If the lattice provides the pattern for how to do the work, the pattern doesn't include the parts that were uniquely Lukas. Those aren't noise the system failed to capture. They're signal the system optimized away."
 
-Henning stood in his kitchen and held his father's mug and felt something he had not felt in three years of filing reports that nobody read. He felt heard. Not agreed with. Not validated. Heard — the way a conductor is heard when it finally makes contact with the terminal it's been sitting next to, and the circuit closes, and the current has somewhere to go.
+Henning stood in his kitchen and held his father's mug and felt something he had not felt in three years of filing reports that nobody read. He felt heard. Not agreed with. Not validated. Heard — like a conductor finally making contact with the terminal it's been sitting next to, the circuit closing, the current having somewhere to go.
 
 "Dr. Chen."
 
@@ -140,7 +140,7 @@ Henning stood in his kitchen and held his father's mug and felt something he had
 
 Henning almost laughed. It was not a funny observation. It earned its dark humor by being precisely correct.
 
-"Wait," he said. He set the mug down and walked out of the kitchen, down the short hallway where his Meisterbrief hung in its frame — he passed it every morning and thought nothing of it, the way you think nothing of your own spine — and into the other room. His desk was against the wall, under the window that looked out onto the inner courtyard. A solid desk, oak, bought secondhand in 1998 from a joiner on Löberstrasse who was retiring and selling his workshop furniture. No drawers on the right because the wall was too close. Three drawers on the left: top for pens and tools, middle for current paperwork, bottom for everything else.
+"Wait," he said. He set the mug down and walked out of the kitchen, down the short hallway where his Meisterbrief hung in its frame — he passed it every morning and thought nothing of it, like his own spine — and into the other room. His desk was against the wall, under the window that looked out onto the inner courtyard. A solid desk, oak, bought secondhand in 1998 from a joiner on Löberstrasse who was retiring and selling his workshop furniture. No drawers on the right because the wall was too close. Three drawers on the left: top for pens and tools, middle for current paperwork, bottom for everything else.
 
 He pulled the bottom drawer. It stuck, as it always did — the runner was worn, and the wood had swelled over four decades of Thuringian humidity, and the only way to open it was to lift the front edge slightly and pull at a ten-degree angle, a technique he'd discovered through repetition and could not have described in words. The drawer opened.
 
@@ -160,7 +160,7 @@ He lifted the first few pages. His handwriting was small and angular and upright
 
 *Cohort 2021. 12 apprentices, 9 with BCI. Convergence in practical technique now pronounced. Augmented students adopt identical grip within 30 minutes of first exercise. Correction sequences synchronized. Cable runs indistinguishable. Unaugmented students (3) show normal individual variation. The gap is visible. Not between good and bad. Between same and different.*
 
-He turned the pages. The observations became denser, the handwriting tighter, the margins filling with notes and cross-references as the pattern solidified year by year. He'd started drawing small diagrams — cable-stripper grip angles, measured with a protractor he'd borrowed from the metalwork instructor and never returned. He'd recorded times, sequences, error rates. Not because he was conducting an experiment. Because he was a man who noticed things.
+He turned the pages. The observations became denser, the handwriting tighter, the margins filling with notes and cross-references as the pattern solidified year by year. He'd started drawing small diagrams — cable-stripper grip angles, measured with a protractor he'd borrowed from the metalwork instructor and never returned. He'd recorded times, sequences, error rates — because he was a man who noticed things.
 
 *Cohort 2024. 12 apprentices, 11 with BCI. Jana Kirchner only unaugmented student. Convergence now near-total in augmented group. Practical technique identical across 11 students by end of first week. Cable-stripper angle: 23 degrees, measured. All 11. Jana: 31 degrees (personal, adapted for small hands). Incident: covered Jana's patch during exercise. (She has no patch. Covered the spot anyway, symbolic gesture.) She found her own technique. Ugly. Functional. Hers.*
 
@@ -168,7 +168,7 @@ He turned the pages. The observations became denser, the handwriting tighter, th
 
 He was holding the notes in both hands now, standing in his room, the drawer open, the morning light coming through the courtyard window and falling on paper that smelled of old wood and graphite and the mustiness of knowledge stored in a physical medium by a man who didn't trust any other kind.
 
-"I have notes," he said into the phone, which he'd tucked between his ear and shoulder the way he tucked a pencil — a habit from decades of needing both hands free. "Thirty years of teaching notes. Observations about how apprentices' work changed. When the convergence started. How it progressed. Cohort by cohort, year by year."
+"I have notes," he said into the phone, which he'd tucked between his ear and shoulder — a habit from decades of needing both hands free. "Thirty years of teaching notes. Observations about how apprentices' work changed. When the convergence started. How it progressed. Cohort by cohort, year by year."
 
 "Henning." Maya's voice was different now. The careful, professional distance was gone. What remained was something rawer — the voice of a person who has been looking for something and has just been told it exists. "Those notes. Are they — how detailed are they?"
 
@@ -186,7 +186,7 @@ And there it was. The ask. The door that always opened after the compliment, the
 
 "Because I described what you've been seeing," Maya said. "And nobody has done that before."
 
-The answer was plain. No flattery, no appeal to the greater good, no promise of co-authorship or acknowledgment or the currency that academics traded among themselves while tradesmen did the work. Just the fact. She had described what he'd been seeing. The lattice. The convergence. The way a young man's cable-tie twist disappeared when the device came back online. She had described it not in his language but in hers, and the two languages said the same thing, the way German and English say the same thing when they're both talking about a wire that's carrying current it shouldn't be carrying.
+The answer was plain. No flattery, no appeal to the greater good, no promise of co-authorship or acknowledgment or the currency that academics traded among themselves while tradesmen did the work. Just the fact. She had described what he'd been seeing. The lattice. The convergence. The way a young man's cable-tie twist disappeared when the device came back online. She had described it not in his language but in hers, and the two languages said the same thing — like German and English saying the same thing when they're both talking about a wire that's carrying current it shouldn't be carrying.
 
 He looked at the notes in his hands. The small, precise handwriting. The protractor measurements. The margin drawings. The thirty-year record of a trade observed by a man who loved it enough to notice when it started to change.
 
@@ -214,7 +214,7 @@ The coffee was ready. He poured it, drank half standing at the counter, and then
 
 The first step was to sort. Not all of it was relevant. The early years — 1997 through 2010 — were his father's notes, inherited along with the desk and the drawer and the ten-degree pull technique. Standard teaching notes. Lesson plans, exam analyses, supply orders, the administrative sediment of a career in vocational education. Useful as a baseline, Maya might say. Evidence of what normal looked like before the abnormal arrived. He set those aside in a separate pile.
 
-2011 through 2018: the transition years. The first BCIs appearing in his workshop, one or two per cohort, then four, then seven. His notes from this period were observational but unsystematic — he hadn't yet understood that he was documenting something. He'd noticed things. Noted them. The way an electrician notices a hum in a panel and makes a mental note to check it later. The hum hadn't been loud enough yet to warrant a proper investigation.
+2011 through 2018: the transition years. The first BCIs appearing in his workshop, one or two per cohort, then four, then seven. His notes from this period were observational but unsystematic — he hadn't yet understood that he was documenting something. He'd noticed things. Noted them. Like an electrician noticing a hum in a panel and making a mental note to check it later. The hum hadn't been loud enough yet to warrant a proper investigation.
 
 2019 onward: the records. This was where the observations sharpened, where the margin notes multiplied, where the small diagrams appeared. This was where Henning the teacher became Henning the witness, recording what he saw with the precision of a man who had realized that nobody else was going to record it.
 
@@ -226,7 +226,7 @@ He turned the page and photographed the next one.
 
 And the next. And the next. Page by page, year by year, his observations passing through the phone's lens and becoming something else — not paper anymore but data, not a drawer's contents but a transmission, not the private record of one man's attention but the evidence that a pattern existed and had been seen and had been written down by someone who was there.
 
-The work had a rhythm. Place the page. Flatten it with the edge of his hand — some pages were curled from years in the drawer, and curled paper caught shadows that obscured the text. Position the phone. Wait for focus. Click. Turn the page. Repeat. The rhythm was meditative in the way that all careful manual work was meditative: the mind quieted, the hands led, and the body entered the state that Henning thought of as the workshop state, the condition in which a man and his task became the same thing.
+The work had a rhythm. Place the page. Flatten it with the edge of his hand — some pages were curled from years in the drawer, and curled paper caught shadows that obscured the text. Position the phone. Wait for focus. Click. Turn the page. Repeat. The rhythm was meditative — the mind quieted, the hands led, and the body entered the state that Henning thought of as the workshop state, the condition in which a man and his task became the same thing.
 
 He photographed the 2019 notes. The first systematic observations. *All 4 augmented students adjusted cable-stripper angle at same point in exercise.* The words looked different on the phone's screen than they did on paper — sharper, somehow more official, as if the act of digitization had promoted them from personal observation to evidence.
 
@@ -258,13 +258,13 @@ He called Maya back.
 
 She gave him an email address. He spent fifteen minutes attaching the images in batches — the phone's email client had a limit of twenty attachments per message, which meant eleven messages, which meant eleven small acts of trust sent across the Atlantic to a woman he'd spoken to for twenty minutes and whose face he'd never seen.
 
-He sent the last batch and sat down at the kitchen table. The paper stack was still there, the original, the physical pages that had lived in his drawer and now existed in two places at once — in the wood and in the wire, in the drawer and in the data, in the hand and in the machine. He gathered them carefully, tapped the edges square against the table the way his father had tapped documents square, and carried them back to the desk. The drawer was still open. He placed the notes inside, lifted the front edge, and pushed. The drawer closed with its familiar wooden thunk.
+He sent the last batch and sat down at the kitchen table. The paper stack was still there, the original, the physical pages that had lived in his drawer and now existed in two places at once — in the wood and in the wire, in the drawer and in the data, in the hand and in the machine. He gathered them carefully, tapped the edges square against the table, and carried them back to the desk. The drawer was still open. He placed the notes inside, lifted the front edge, and pushed. The drawer closed with its familiar wooden thunk.
 
 His phone rang. Maya.
 
 "I received them," she said. "All eleven messages. Henning — I'm going to read every page. And I'm going to read them in your language, not mine. Your observations. Your words. Not translated into neuroscience. Not paraphrased into academic terminology. You saw this happening in a room where it was real, and you wrote it down the way it was real, and that is worth more than you know."
 
-He didn't answer immediately. He was not a man who responded to compliments quickly, the way he was not a man who responded to voltage quickly — you tested before you touched, and you thought before you spoke, and the silence between a statement and its answer was assessment.
+He didn't answer immediately. He was not a man who responded to compliments quickly — you tested before you touched, and you thought before you spoke, and the silence between a statement and its answer was assessment.
 
 "One question," he said.
 

@@ -26,7 +26,7 @@ She slipped into Salle XX through the side door, press badge visible, Moleskine 
 
 The panel was on neurological sovereignty. She knew this because she'd written the two-paragraph preview for her collective's newsletter, and she'd used the phrase "neurological sovereignty" four times in two paragraphs because the phrase was doing a lot of work and nobody on the panel was going to define it. This was why she was here — for the space where the definitions should be and weren't.
 
-She sat in the sixth row, aisle seat, three rows behind a man who was bouncing his left knee and holding a conference pen like he'd forgotten what it was for. Dark hair, mid-thirties, the physical restlessness of someone whose body was still sending signals his mind had stopped answering. She noticed the pen because she noticed pens the way a carpenter noticed joints — professionally, automatically, with the involuntary assessment of someone whose primary tool was being held incorrectly by a stranger.
+She sat in the sixth row, aisle seat, three rows behind a man who was bouncing his left knee and holding a conference pen like he'd forgotten what it was for. Dark hair, mid-thirties, the physical restlessness of someone whose body was still sending signals his mind had stopped answering. She noticed the pen because she noticed pens — professionally, automatically, with the involuntary assessment of someone whose primary tool was being held incorrectly by a stranger.
 
 The fourth speaker finished. The fifth speaker stood. Dr. Isabelle Fournier, according to the program. Neuroplasticity. BCI user — the small dermal patch visible behind her left ear, the European model, same as about forty percent of the audience. Sara scanned the room. Forty percent was a guess. Forty-three, probably, if you counted the ones who'd covered theirs with their hair.
 
@@ -34,7 +34,7 @@ Fournier spoke for eighteen minutes. Her French-accented English was precise, wa
 
 The data showed the windows were narrowing.
 
-Not closing. Narrowing. Like a door that was slowly, year by year, reducing the size of its opening. Long-term users — four years, five, six — showed measurably reduced plasticity in the regions most engaged by their BCIs. The brain was not losing its ability to change. It was losing its ability to change *in the directions it wasn't being asked to change*. The well-used paths were deepening. The unused paths were — not atrophying, Fournier was careful about this, not atrophying but *stabilizing*. Becoming fixed. Becoming infrastructure.
+Narrowing. Like a door that was slowly, year by year, reducing the size of its opening. Long-term users — four years, five, six — showed measurably reduced plasticity in the regions most engaged by their BCIs. The brain was not losing its ability to change. It was losing its ability to change *in the directions it wasn't being asked to change*. The well-used paths were deepening. The unused paths were — not atrophying, Fournier was careful about this, not atrophying but *stabilizing*. Becoming fixed. Becoming infrastructure.
 
 Sara wrote: *Plasticity windows narrowing. Not broken. Closing. The brain becomes its own habit.*
 
@@ -52,11 +52,11 @@ It was the feeling of recognition, except recognition was the wrong word because
 
 He hadn't turned around in years.
 
-*Dios mio*, he thought. Then: *why did I think that in Spanish?* He thought in English mostly, now. English and German, the languages of his work, optimized by his CortexLink into the cognitive paths of least resistance. Spanish was his mother's language, his childhood language, the language of the kitchen in the apartment in Seville where his *abuela* made *salmorejo* and talked to the tomatoes while she blended them and his mother stood at the counter reading aloud from *El Pais* in a voice that wandered through the articles the way a river wandered through a valley — taking the interesting way, the long way, the way that stopped to look at things. Spanish was the language he daydreamed in.
+*Dios mio*, he thought. Then: *why did I think that in Spanish?* He thought in English mostly, now. English and German, the languages of his work, optimized by his CortexLink into the cognitive paths of least resistance. Spanish was his mother's language, his childhood language, the language of the kitchen in the apartment in Bogotá where his *abuela* made *ajiaco* and talked to the chicken while she shredded it and his mother stood at the counter reading aloud from *El Tiempo* in a voice that wandered through the articles like a river through a valley — taking the interesting route, the long route, the one that stopped to look at things. Spanish was the language he daydreamed in.
 
 He didn't daydream anymore.
 
-He'd noticed this. He'd noticed it the way you notice a sound that's stopped — not when it stops but later, in the silence, when you realize the background of your life has changed and you can't remember when. Tram 6, every morning, Zurich Oerlikon to Universitat. Twenty-two minutes. He used to arrive at the university with ideas that hadn't been there when he boarded. Messy ideas. Ideas that had wandered in from the side, uninvited, the way his *abuela* wandered into stories about her childhood while blending tomatoes. Ideas that arrived from directions he hadn't planned to look.
+He'd noticed this. He'd noticed it the way you notice a sound that's stopped — not when it stops but later, in the silence, when you realize the background of your life has changed and you can't remember when. Tram 6, every morning, Zurich Oerlikon to Universitat. Twenty-two minutes. He used to arrive at the university with ideas that hadn't been there when he boarded. Messy ideas. Ideas that had wandered in from the side, uninvited, the way his *abuela* wandered into stories about her childhood while shredding chicken. Ideas that arrived from directions he hadn't planned to look.
 
 Now the twenty-two minutes were twenty-two minutes of clean cognition. Information arriving, organizing, being processed. His BCI offering context, connections, suggestions — never demanding, never forceful, just *there*, like a very helpful assistant who had learned to anticipate your needs so perfectly that you could no longer tell the difference between their suggestions and your own intentions.
 
@@ -114,7 +114,7 @@ They sat at the table by the window. The analog clock said 4:17. The late autumn
 
 ---
 
-Tomas talked. He talked the way he used to talk — before the CortexLink, before the efficiency, before whatever had happened to his hummingbird attention — which is to say he talked in spirals, starting in three directions, circling back, losing the thread, finding a better thread, dropping that one too. Sara listened. She was good at listening to people who talked in spirals. It was like watching someone search for something in a dark room — you helped by sitting still and not making noise.
+Tomas talked. Before the CortexLink, before the efficiency, before whatever had happened to his hummingbird attention, he'd talked in spirals — and here, in Le Lent, he talked in spirals again, starting in three directions, circling back, losing the thread, finding a better thread, dropping that one too. Sara listened. She was good at listening to people who talked in spirals. It was like watching someone search for something in a dark room — you helped by sitting still and not making noise.
 
 He told her about Tram 6.
 
@@ -128,7 +128,7 @@ He paused. Looked at his flat white. The foam was still intact, a small white ci
 
 "But I never arrive anywhere unexpected." He looked up. "I haven't arrived anywhere unexpected in my own head in four years. *Cuatro anos.* That's — do you understand what that means? For a scientist? The whole job is arriving somewhere unexpected. The whole job is the side street with the bakery."
 
-Sara wrote in her Moleskine. Her handwriting moved across the page with the speed of someone who had been taking notes by hand for fifteen years and whose hand knew shortcuts her mind didn't consciously direct — abbreviations, symbols, a personal shorthand that was illegible to everyone including, occasionally, herself. She wrote: *Never arrives anywhere unexpected. 4 yrs. Side street / bakery. The loss is navigational.*
+Sara wrote. Her handwriting moved across the page with the speed of someone who had been taking notes by hand for fifteen years and whose hand knew shortcuts her mind didn't consciously direct — abbreviations, symbols, a personal shorthand that was illegible to everyone including, occasionally, herself. She wrote: *Never arrives anywhere unexpected. 4 yrs. Side street / bakery. The loss is navigational.*
 
 Tomas watched her write. He watched with the fascination of a person observing a skill they'd once possessed — a habit optimized away, replaced by something faster, something better, something that didn't require you to carry a small leather notebook and a pen and translate thought into muscle movement into ink into paper into an object that existed in the world independent of any system. He couldn't remember the last time he'd written by hand. The conference pen sat in his jacket pocket like a relic.
 
@@ -158,11 +158,11 @@ Tomas was something else. Enhanced, grateful, productive — and mourning someth
 
 "Tell me about the daydreams," she said.
 
-He told her. He talked for ninety minutes. The flat whites were replaced by a second round, and the second round by a third, and Philippe refilled the water glasses without being asked because Philippe understood the silence of a conversation that was not pausing but breathing, the way a diver breathes between descents — surfacing, filling the lungs, going back under.
+He told her. He talked for ninety minutes. The flat whites were replaced by a second round, and the second round by a third, and Philippe refilled the water glasses without being asked because Philippe understood the silence of a conversation that was not pausing but breathing — surfacing, filling the lungs, going back under.
 
-Tomas told her about the daydreams and the green notebook and the way Spanish had receded in his thinking like a tide pulling back from a shore — still there, but only when he reached for it deliberately, never waiting for him the way it used to. He told her about his *abuela* and the tomatoes and the hummingbird and the river. He told her about a paper he'd published last year on rehabilitation protocols for stroke patients — clean paper, good paper, important paper — that had come to him fully formed, every argument in sequence, every citation in place, delivered to his conscious mind like a package to a doorstep, and how he'd felt proud and also something else, something he'd suppressed, a feeling he could only describe as *too easy*, as if the work had been done without him and he'd been promoted from author to delivery driver.
+Tomas told her about the daydreams and the green notebook and the way Spanish had receded in his thinking like a tide pulling back from a shore — still there, but only when he reached for it deliberately, never waiting for him anymore. He told her about his *abuela* and the kitchen and the hummingbird and the river. He told her about a paper he'd published last year on rehabilitation protocols for stroke patients — clean, good, important — that had come to him fully formed, every argument in sequence, every citation in place, delivered to his conscious mind like a package to a doorstep, and how he'd felt proud and also something else, something he'd suppressed, a feeling he could only describe as *too easy*, as if the work had been done without him and he'd been promoted from author to delivery driver.
 
-Sara wrote. She wrote pages. Her Moleskine absorbed the conversation the way the lake outside absorbed rain — continuously, without apparent effort, the surface changing only if you watched closely enough.
+Sara wrote. She wrote pages. Her Moleskine absorbed the conversation like a lake absorbing rain — continuously, without apparent effort, the surface changing only if you watched closely enough.
 
 At some point the clock on the wall said 7:00 and the chalkboard menu changed from coffee to wine and Philippe put a candle on their table without comment.
 
@@ -188,7 +188,7 @@ The conversation shifted — deeper, like a path that had been descending gradua
 
 "When you think. When you — *como se dice* — when you follow a thought. Does it surprise you? Does it go somewhere you didn't expect?"
 
-Sara considered this. She considered things the way she wrote — at her own speed, without the anxiousness of people who felt silence was a problem to be solved. Silence was not a problem. Silence was a medium.
+Sara considered this. She considered things at her own speed, without the anxiousness of people who felt silence was a problem to be solved. Silence was not a problem. Silence was a medium.
 
 "Always," she said.
 
@@ -216,7 +216,7 @@ The analog clock ticked. Philippe was wiping down the counter. Two other tables 
 
 She was unpredictable to him.
 
-Not random — unpredictable. There was a difference. Random was noise. Unpredictable was signal from a direction you hadn't thought to listen. She sat in silence for ten seconds — an eternity in his accelerated cognitive economy — and then said something that turned everything he'd said in the last hour, the way you turn a prism and the light changes color.
+Not random — unpredictable. There was a difference. Random was noise. Unpredictable was signal from a direction you hadn't thought to listen. She sat in silence for ten seconds — an eternity in his accelerated cognitive economy — and then said something that turned everything he'd said in the last hour like a prism turning light into color.
 
 He hadn't experienced unpredictable in years.
 
@@ -236,7 +236,7 @@ The clock said 11:47 when Philippe put the chairs on the tables.
 
 He did it gently, one at a time, starting at the far end of the room, giving them space. The Scrabble couple had left at nine. The woman with the book had left at ten. Philippe had refilled their water glasses one final time at eleven, and the glasses sat between them now, empty, the water consumed in small sips during five hours of conversation that had covered — Sara checked — fourteen pages of the Moleskine. Fourteen pages. She averaged three pages per interview. She had never filled fourteen.
 
-They left. The wooden door closed behind them with a sound that was just a door closing, and the Rue de Lausanne was quiet in the way that Geneva was quiet at midnight in late autumn — not silent but *finished*, the city having completed its daily operations and settled into the low hum of a place that was resting between performances. The lake was somewhere ahead, invisible, its presence detectable only by the faint mineral smell carried on the air and the slight drop in temperature as they walked north toward the water.
+They left. The wooden door closed behind them with a sound that was just a door closing, and the Rue de Lausanne was quiet — not silent but *finished*, the city having completed its daily operations and settled into the low hum of a place that was resting between performances. The lake was somewhere ahead, invisible, its presence detectable only by the faint mineral smell carried on the air and the slight drop in temperature as they walked north toward the water.
 
 Tomas walked with his hands in his jacket pockets. One hand found the conference pen and held it.
 

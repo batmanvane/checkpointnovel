@@ -6,7 +6,7 @@ Amara heard them before she saw them. The engine had a diesel authority, the sou
 
 Dr. Mwangi met them at the gate. She could see him from her classroom window, shaking hands, gesturing toward the buildings with the pride of a man showing his house to guests who might decide its value. He had ironed his shirt. She had never seen him iron his shirt for a Tuesday staff meeting. He had also, she noticed, positioned himself so that the school garden was behind him rather than the storage shed, where the roof had been leaking since February and the wall bore a water stain in the shape of something Joseph Odhiambo insisted was a map of Tanzania.
 
-She turned back to her students. They were restless. Thirty-six children could sense a disruption in the school's routine the way animals sensed a change in barometric pressure — by instinct, immediately, without anyone saying a word. Otieno was already craning his neck toward the window.
+She turned back to her students. They were restless. Thirty-six children could sense a disruption in the school's routine by instinct, immediately, without anyone saying a word. Otieno was already craning his neck toward the window.
 
 "Sit," Amara said.
 
@@ -26,7 +26,7 @@ Dr. Mwangi brought them to her classroom at ten-fifteen, during the break betwee
 
 "Mrs. Osei," Dr. Mwangi said, and she could hear the formality he'd put on like his ironed shirt, "these are our visitors from the African Union's Education Technology Assessment Programme. Dr. Onyango, Mr. Kimathi, and Ms. Abara. They're evaluating schools in the Lake Region for the BCI Readiness Initiative."
 
-She shook their hands. Dr. Onyango's grip was firm, professional, the handshake of a man who shook many hands and had optimized the gesture. Mr. Kimathi was younger, perhaps thirty, with earnest eyes behind fashionable glasses and a tablet that he held the way some people held a clipboard — as a shield between himself and the world. Ms. Abara smiled with genuine warmth and said something about the bougainvillea being beautiful, and Amara decided she liked her, provisionally, the way you liked someone who noticed flowers before buildings.
+She shook their hands. Dr. Onyango's grip was firm, professional, the handshake of a man who shook many hands and had optimized the gesture. Mr. Kimathi was younger, perhaps thirty, with earnest eyes behind fashionable glasses and a tablet held like a clipboard — a shield between himself and the world. Ms. Abara smiled with genuine warmth and said something about the bougainvillea being beautiful, and Amara decided she liked her, provisionally, the way you liked someone who noticed flowers before buildings.
 
 "We'd love to hear about your outcomes," Dr. Onyango said. He had taken a seat — her chair, the one behind her desk, which she had not offered but which he occupied with the unselfconscious authority of a man accustomed to sitting wherever the best vantage point was. She stood. It didn't bother her. She was used to standing. Standing was how she taught.
 
@@ -90,7 +90,7 @@ Dr. Onyango uncrossed his legs and leaned forward. "Mrs. Osei, we appreciate the
 
 The classroom technology. She looked at it: the chalkboard, the three textbooks with their cracked spines, the donated tablet on its fraying cable, the solar battery under the window. The pen-pal wall — Year One on the left, Year Three on the right, the letters pinned chronologically, the strip of cereal-box card between them reading *What Changed*. She wondered if they would look at the wall. She wondered what they would see.
 
-They looked at the tablet. Mr. Kimathi photographed it — the screen, the cable, the solar battery — with the methodical attention of an insurance adjuster documenting a claim. He photographed the single electrical outlet on the east wall. He noted the generator, which was coughing its way through the morning with the respiratory reluctance of an animal that wanted to lie down. He noted the absence of a projector, a smartboard, a computer lab, a server room, a reliable power grid. He noted these absences the way a doctor notes symptoms — each one a deficit, each one a distance from health.
+They looked at the tablet. Mr. Kimathi photographed it — the screen, the cable, the solar battery — with the methodical attention of an insurance adjuster documenting a claim. He photographed the single electrical outlet on the east wall. He noted the generator, which was coughing its way through the morning with the respiratory reluctance of an animal that wanted to lie down. He noted the absence of a projector, a smartboard, a computer lab, a server room, a reliable power grid. He noted each absence as a deficit, a distance from health.
 
 Dr. Onyango stood at the window, looking out over the compound toward the lake. From here you could see the water through the gaps between the buildings, a strip of silver-blue that shimmered and shifted as the clouds moved. The fishing boats were out. Somewhere in the compound, the football game had ended and a new argument had begun — about whether the goal had counted, probably, the kind of argument that could sustain itself for the rest of the morning on conviction alone.
 
@@ -118,7 +118,7 @@ He was kind. That was the thing she would remember later, lying in bed, turning 
 
 "Otieno measured water temperatures with a kitchen thermometer in a plastic bag," she said. "He walked the lakeshore for three Saturdays. He drew every fish by hand because he wanted to understand their bodies, not just their names. What he produced is not charming. It is science."
 
-He was not arguing. He agreed with her, she realized — agreed that Otieno was remarkable, agreed that the work was genuine, agreed the way a doctor agrees that a patient's constitution is strong while still prescribing the medicine. His agreement did not change the prescription.
+He was not arguing. He agreed with her, she realized — agreed that Otieno was remarkable, agreed that the work was genuine, and still prescribing the medicine. His agreement did not change the prescription.
 
 "I understand," he said. "I do. But the metrics —"
 
@@ -134,7 +134,7 @@ He left his card. She held it in her hand as they drove away — the white Land 
 
 The children went home at three. The generator surrendered at three-fifteen, its final cough echoing across the compound like a full stop. The silence that followed was a place returning to itself, the way a pond stills after a stone. The weaver birds resumed their arguments in the fever trees along the fence. A boda-boda buzzed past on the road below. From the direction of the lake came the smell of the evening beginning to assemble: wood smoke from the first cooking fires in Nyalenda, the ozone-and-algae breath of the water as the afternoon heat released the molecules the morning had held down, and beneath everything the mineral coolness that was Victoria's signature, the smell of a body of water so vast it had its own weather, its own moods, its own slow geological patience.
 
-Amara sat at her desk. The classroom held the day's residue: chalk dust in the air, the faint sweetness of children's sweat, red mud tracked across the concrete floor in patterns that recorded the morning's traffic — the stampede to the door at break time, the slower return, the cluster near the window where students had gathered to watch the Land Cruiser leave. Otieno's bean plant, the one he'd dug up two weeks ago to prove his theory about root-mouths, had been replanted in a pot on the windowsill, where it was recovering with the indifferent persistence of something that wanted to grow and did not care who had uprooted it or why.
+Amara sat at her desk. The classroom held the day's residue — chalk dust, the faint sweetness of children's sweat, red mud tracked across the floor in patterns that recorded the morning's traffic. Otieno's bean plant, the one he'd dug up two weeks ago to prove his theory about root-mouths, had been replanted in a pot on the windowsill, where it was recovering with the indifferent persistence of something that wanted to grow and did not care who had uprooted it or why.
 
 The sun was going down.
 
@@ -146,7 +146,7 @@ She turned to the clean page. The paper was smooth under her pen. She wrote the 
 
 *The AU delegation visited today. Three officials. They measured our bandwidth. They counted our devices. They photographed our tablet. They did not photograph Otieno's research proposal. They did not sit in on the debate club. They did not look at the bean experiment. They did not ask what my students argue about or how they argue or why the arguing matters.*
 
-She paused. Outside, the lake was darkening from gold to bronze, the colors deepening the way a bruise deepens, the beauty inseparable from the ache.
+She paused. Outside, the lake was darkening from gold to bronze, the colors deepening like a bruise, the beauty inseparable from the ache.
 
 *They say our students are behind. Behind what? Behind whom? The Stuttgart students who all write the same letter?*
 
@@ -176,7 +176,7 @@ She wrote the words in the notebook and underlined them. The pen pressed hard en
 
 She did not write what. She did not have the word for it yet — did not have the framework, the data, the precise language that would make someone in Nairobi or Addis Ababa or Shenzhen stop and listen. She had only the letters on the wall and the notebook in her hand and the unarticulated certainty that something was being lost on the other side of the gap, something that the metrics could not see because the metrics were not designed to look for it, the way a net designed for tilapia cannot catch the current.
 
-The last light left the lake. It went the way it always went — not gradually but in a final pulse, the horizon swallowing the sun in one slow exhalation, and then the water was dark and the sky was dark and the only light was the cooking fires of Nyalenda, scattered across the hillside below the school like earthbound stars, each one a family, a meal, an arrangement of hands and food and fire that had never been assembled in quite that way before and would not be again.
+The last light left the lake. It went not gradually but in a final pulse, the horizon swallowing the sun in one slow exhalation, and then the water was dark and the sky was dark and the only light was the cooking fires of Nyalenda, scattered across the hillside below the school like earthbound stars, each one a family, a meal, an arrangement of hands and food and fire that had never been assembled in quite that way before and would not be again.
 
 *Mwangi wants BCI for the school. He is not wrong about the gap. He is wrong about what closes it.*
 

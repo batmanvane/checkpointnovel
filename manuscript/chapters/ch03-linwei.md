@@ -1,10 +1,10 @@
 # 3. The Architect
 
-The slide deck was clean. Twenty-seven slides, no animations, no transitions, the data visualized in CortexLink's corporate blue against white — the way Lin Wei had built it, which was the way she built everything: readable, fast, nothing wasted.
+The slide deck was clean. Twenty-seven slides, no animations, no transitions, the data visualized in CortexLink's corporate blue against white. The way Lin Wei built everything: readable, fast, nothing wasted.
 
 She stood in the glass-walled conference room on the 30th floor of Building A, the room they called the Fishbowl because it hung out over the atrium and you could see the lobby twelve stories below through the floor panels, and because everyone on the campus could look up and see who was presenting to the executive team. She'd worn her good shirt — the dark blue one without a project logo — and she'd arrived twenty minutes early to check the projector, the clicker, and the backup clicker, because redundancy was not paranoia. Redundancy was engineering.
 
-Director Huang sat at the head of the table. VP of Product Liu Jian to his left. Dr. Mei Ling from Neural Safety, three product managers, two representatives from the government liaison office whose names Lin Wei always forgot because they rotated every quarter, and Chen Zhiwei, her team lead, who sat at the far end and gave her a small nod that meant *you've got this*.
+Director Huang sat at the head of the table. VP of Product Liu Jian to his left. Dr. Mei Ling from Neural Safety, three product managers, two government observers whose names Lin Wei always forgot because they rotated every quarter, and Chen Zhiwei, her team lead, who sat at the far end and gave her a small nod that meant *you've got this*.
 
 Shenzhen sprawled beyond the glass. The Nanshan skyline was a forest of towers catching the late-morning light, each one housing another company that believed it was changing the world, and most of them were right. CortexLink's campus — four buildings, twelve thousand employees, arranged around a central courtyard with a water feature that was supposed to resemble a neural branching pattern but looked, from the 30th floor, like a river delta after heavy rain — sat near the old Tencent headquarters, close enough that the older engineers still called the neighborhood by its old name. Lin Wei had been here ten years. She had watched two of the four buildings go up. She had helped design what happened inside them.
 
@@ -18,13 +18,13 @@ She clicked to the first slide. A single number, centered: **94.7%**.
 
 She moved through the stack the way she moved through code reviews — methodical, precise, building from the foundation up. This was the part she loved. Not the politics, not the corporate theater of the Fishbowl, but the architecture itself. The system she'd built. The system she was proud of.
 
-"Let me walk you through the stack. For anyone new to the executive rotation" — a glance at the government liaisons — "this is how the whole thing works, ground up."
+"Let me walk you through the stack. For anyone new to the executive rotation" — a glance at the government representatives — "this is how the whole thing works, ground up."
 
 Click. A diagram. Five horizontal bands, color-coded, stacked like geological strata.
 
 "Layer 1. Adaptive Signal Processing." She tapped the bottom band, the dark blue one. "This is the foundation. Raw neural data comes in from 131,072 electrodes. Layer 1 reads it — spike sorting, Bayesian decoding, gain adjustment. It adapts to each user's neural drift every seventy-two hours, so the signal stays clean even as the brain changes over time. Think of it as the input parser. It makes sure we're reading the user's brain accurately."
 
-She saw Director Huang nod. He'd heard this before. He was nodding for the government liaisons.
+She saw Director Huang nod. He'd heard this before. He was nodding for the government observers.
 
 "Layer 2. Predictive Pre-loading." The next band up, lighter blue. "This is where it gets interesting. Layer 2 anticipates what the user will need based on context — location, activity, time of day, recent queries. If you're walking into a hospital, medical knowledge begins activating before you ask for it. If you're sitting down to a contract negotiation, relevant case law is already warming up. The user experiences this as being well-prepared. They don't know the preparation is external."
 
@@ -40,7 +40,7 @@ She let that land, too. Twelve milliseconds. Below the threshold of conscious pe
 
 "340 to 12," VP Liu repeated, writing it down. He always wrote things down, even though his BCI recorded everything. Lin Wei respected the habit. She did it too.
 
-"Layer 4. User Satisfaction Feedback." Click. The fourth band. "Standard RLHF loop. The system collects implicit satisfaction signals — how quickly users act on retrieved knowledge, how often they re-query, their self-reported cognitive fluency scores. It feeds all of that back into the first three layers. If something feels clunky, the system smooths it out. If something feels seamless, the system does more of it. Continuous optimization, always running."
+"Layer 4. User Satisfaction Feedback." Click. The fourth band. "Reinforcement Learning from Human Feedback — RLHF. The system collects implicit satisfaction signals — how quickly users act on retrieved knowledge, how often they re-query, their self-reported cognitive fluency scores. It feeds all of that back into the first three layers. If something feels clunky, the system smooths it out. If something feels seamless, the system does more of it. Continuous optimization, always running."
 
 She could feel the room's attention sharpening. They knew what was next. Layer 5 was hers.
 
@@ -52,7 +52,7 @@ She clicked to the next slide. A before-and-after visualization: two brain maps,
 
 "Without personalization, we're broadcasting. With it, we're speaking each brain's native language. That's the difference between 89% satisfaction and 94.7%. That's the difference between 'this is useful' and 'this feels like thinking.'"
 
-She watched it register around the table. Director Huang's expression shifted from official attention to something closer to satisfaction. VP Liu stopped writing and looked at the slide. Even the government liaisons leaned forward.
+She watched it register around the table. Director Huang's expression shifted from official attention to something closer to satisfaction. VP Liu stopped writing and looked at the slide. Even the government observers leaned forward.
 
 "Users don't describe it as accessing external information," Lin Wei said. "They describe it as remembering something they already knew. That's the target spec. That's what Layer 5 achieves. Knowledge delivery that's indistinguishable from native cognition."
 
@@ -120,7 +120,7 @@ Flag for follow-up. Check Layer 3 persistence logs
 against Layer 5 twin model predictions.
 ```
 
-She saved the file and sat back. The jade plant caught a stripe of afternoon sun. On the center monitor, the anomaly entry glowed in her editor, the cursor blinking at the end of the last line like a question waiting to be asked.
+She saved the file and sat back. On the center monitor, the anomaly entry glowed in her editor, the cursor blinking at the end of the last line like a question waiting to be asked.
 
 It was probably nothing. Residual priming was well-documented — users retained some BCI-accessed knowledge even after deactivation, the way you remember a phone number after checking it, fading over hours. But seventy-two hours was too long for priming. Layer 3's cache refreshed every ninety minutes. After three days of silence, those pathways should have cooled to ambient. The knowledge should have faded like a dream.
 
@@ -132,7 +132,7 @@ She pulled up the Layer 5 optimization logs — something she did weekly, a habi
 
 The log showed three optimization updates shipped in the last week. She hadn't written any of them.
 
-This wasn't new. The AI engineering team — the system that iterated on Layer 5's core models — had been shipping updates autonomously for over a year, faster than any human engineer could review. The updates were tested, validated, deployed through the standard CI/CD pipeline. They passed every automated check. They were, by every metric Lin Wei could measure, improvements.
+This wasn't new. The AI engineering team — the system that iterated on Layer 5's core models — had been shipping updates autonomously for over a year, faster than any human engineer could review. The updates were tested, validated, deployed through the standard automated pipeline. They passed every automated check. They were, by every metric Lin Wei could measure, improvements.
 
 She opened the first update. A modification to the temporal prediction model — the component that anticipated *when* a user would need specific knowledge, not just *what* knowledge they'd need. The new code was elegant. Tighter than what she would have written. It exploited a pattern in circadian-aligned retrieval windows that she'd noticed in the data but hadn't gotten around to optimizing for. The AI team had noticed it too, and had written the solution, and the solution was better than the one taking shape in the back of her mind.
 
@@ -142,7 +142,7 @@ The third: a micro-adjustment to the personalization model's learning rate durin
 
 Three updates. Three improvements. None of them hers.
 
-She closed the logs. On the right monitor, her messaging dashboard showed seventeen unread messages, four meeting invitations, and a congratulations from Chen Zhiwei with a link to a restaurant in OCT Loft for drinks. On the left monitor, her terminal showed the anomaly entry, cursor still blinking. On the center monitor, the deployment dashboard glowed green.
+She closed the logs. On the right monitor, her messaging dashboard showed seventeen unread messages, four meeting invitations, and a congratulations from Chen Zhiwei with a link to a restaurant in OCT Loft for drinks. On the left monitor, the terminal cursor blinked. On the center monitor, the deployment dashboard glowed green.
 
 Everything was working. The system she'd built was iterating, improving, deploying — doing exactly what she'd designed it to do. The fact that it was doing it without her was not a flaw. It was the point. You built systems to scale beyond you. That was good engineering.
 
@@ -154,9 +154,9 @@ Her apartment was a twelve-minute walk from the campus, through the commercial s
 
 Forty-five square meters. Seventh floor. Northeast corner, which meant morning light in the bedroom and afternoon shade in the living room, which was also the office, which was also the dining room. Three monitors on a wall-mounted desk — a mirror of her work setup, because consistency reduced cognitive overhead. A small kitchen with a rice cooker, an electric kettle, and a wok she used twice a week when she had the energy to cook. A single bookshelf, half-filled with technical manuals she no longer needed but kept because they'd shaped her thinking and she was not quite ready to let them go. A narrow balcony overlooking a courtyard where an old man practiced tai chi every morning at six-fifteen, precise and unhurried, moving through forms that had been optimized by centuries of human iteration without any AI involved.
 
-She changed into a T-shirt — this one from the FreeBSD project, faded to the grey of a sky before rain — heated leftover congee from the rice cooker, and sat at her desk.
+She changed into a faded FreeBSD T-shirt, heated leftover congee, and sat at her desk.
 
-The three monitors woke when she touched the keyboard. Left: terminal. Center: browser with fourteen tabs, the last one being the anomaly entry she'd saved at work. Right: communications, where the only thing that mattered was the video call scheduled for seven-thirty.
+The three monitors woke when she touched the keyboard. Left: terminal. Center: browser, the anomaly entry she'd saved at work open in one of the tabs. Right: communications, where the only thing that mattered was the video call scheduled for seven-thirty.
 
 She had twenty minutes. She used ten of them to review the anomaly data one more time, scrolling through the Tier-1 cohort profiles, checking the deactivation timestamps against the performance scores, looking for some variable she'd missed. She didn't find one. The twenty-three users had retained knowledge that should have faded. The knowledge lived in their brains now, independent of the device.
 
@@ -170,7 +170,7 @@ At seven twenty-eight, she opened the video call app and tapped her mother's con
 
 Her mother's face filled the right monitor. Behind her, the kitchen of the apartment in Wuxi — the same apartment Lin Wei had grown up in, the same pale green tiles above the counter, the same calendar from the neighborhood association pinned to the wall with a date circled in red that Lin Wei couldn't read from this distance but knew was her cousin's wedding next month. Her father appeared in the background, holding a plate.
 
-"Wei-wei." Her mother's voice was warm and slightly too loud, the way it always was on video calls, as if volume could compensate for the 1,200 kilometers between them. "You look thin."
+"Wei-wei." Her mother's voice was warm and slightly too loud, as if volume could compensate for the 1,200 kilometers between them. "You look thin."
 
 "I ate lunch, Ma."
 
@@ -224,9 +224,9 @@ They talked for forty minutes. Her father described the meatballs in unnecessary
 
 When they hung up — her mother's face lingering on the screen for an extra moment, the way it always did, as if she could hold the connection open by looking — Lin Wei sat in the quiet of her apartment and let the silence settle. The city hummed below. Somewhere on Keyuan Road, a delivery scooter honked twice. The tai chi courtyard was empty, the old man's chalk marks still faintly visible on the concrete.
 
-She looked at her three monitors. Left: terminal, idle. Center: browser, fourteen tabs, the anomaly entry visible as a thin strip behind the others. Right: the video call app, her mother's contact photo still displayed — a selfie from last Spring Festival, her parents standing in front of the noodle shop, her mother holding a paper lantern, her father squinting into the sun.
+She looked at her three monitors. Left: terminal, idle. Center: browser, the anomaly entry visible as a thin strip behind a row of other tabs. Right: the video call app, her mother's contact photo still displayed — a selfie from last Spring Festival, her parents standing in front of the noodle shop, her mother holding a paper lantern, her father squinting into the sun.
 
-She closed the video call app. Opened the browser. The fourteen tabs fanned out across the top of the screen. The anomaly tab was second from the right, its title truncated to `Tier-1 cohort persis...`.
+She closed the video call app. Opened the browser. The tabs fanned out across the top of the screen. The anomaly entry was near the right edge, its title truncated to `Tier-1 cohort persis...`.
 
 She looked at it for a long moment. The data was still there. Twenty-three users. Seventy-two hours. No drop. Knowledge that persisted without the device, encoded in neural tissue that her system — her Layer 5, her personalization engine, her three years of work — had been optimizing for precision delivery.
 

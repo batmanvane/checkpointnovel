@@ -8,7 +8,7 @@ So he taught the way Wilhelm had taught before anyone called it a method. He pic
 
 *Watch me. Now you.*
 
-The workshop smelled the way it always smelled: PVC insulation and solder flux and the ghost of ozone. The fluorescent lights hummed their sixty-hertz hymn. Twelve workbenches, twelve vises, twelve pegboards with Wilhelm's painted silhouettes. Henning stood at his bench by the window, a thirty-centimeter length of NYM-J 5x2.5 in one hand and his grandfather's cable knife in the other.
+The workshop smelled like it always did: PVC insulation and solder flux and the ghost of ozone. The fluorescent lights hummed their fifty-hertz hymn. Twelve workbenches, twelve vises, twelve pegboards with Wilhelm's painted silhouettes. Henning stood at his bench by the window, a thirty-centimeter length of NYM-J 5x2.5 in one hand and his grandfather's cable knife in the other.
 
 "Cable junction," he said. "Five conductors, junction box, Wago 221 clamps. Watch."
 
@@ -26,7 +26,7 @@ She was nineteen, with short dark hair and hands that were too small for the Kni
 
 She was also the only one whose mistakes were *hers*.
 
-He watched her pick up the cable knife. Her right hand brought the blade down. Too steep. She knew it was too steep. He could see it in the micro-hesitation, the way her eyes unfocused for half a breath, the barely perceptible tilt of her head toward the left shoulder — the gesture he had learned to recognize the way a parent recognizes the moment before a child reaches for a forbidden jar. She was accessing. Searching for the one right way that would spare her the indignity of getting it wrong.
+He watched her pick up the cable knife. Her right hand brought the blade down. Too steep. She knew it was too steep. He could see it in the micro-hesitation, her eyes unfocusing for half a breath, the barely perceptible tilt of her head toward the left shoulder — the gesture he had learned to recognize the way a parent recognizes the moment before a child reaches for a forbidden jar. She was accessing. Searching for the one right way that would spare her the indignity of getting it wrong.
 
 Henning crossed the workshop in four strides. He placed his right hand over the patch behind her left ear — gently, the way you'd cover a child's eyes before a surprise. The patch was warm under his palm. He could feel the faint ridge of it, no thicker than a bandage.
 
@@ -82,7 +82,7 @@ She almost smiled. Looked at the junction again — he could see her fighting th
 
 "Again."
 
-Henning walked back to his bench. Past the eleven stations where eleven identical junctions sat in eleven identical arrangements, clean and correct and indistinguishable. He looked at the tool wall, at Wilhelm's silhouettes, at the old Knipex Cobolt pliers in their place.
+Henning walked back to his bench. Past the eleven stations where eleven identical junctions sat in eleven identical arrangements, clean and correct and indistinguishable. He looked at the tool wall, at Wilhelm's silhouettes, at the old Knipex pliers in their place.
 
 *This is what teaching is. One pair of hands finding their own way. Everything else is just distribution.*
 
@@ -94,13 +94,13 @@ Fried onions. Schwarzbier. Brass polish and old wood and the funk of a pub that 
 
 The back corner table was under the framed photograph of the 1990 Erfurt football team — the season after the Wall came down, when FC Rot-Weiss played their first matches against West German clubs and lost magnificently and nobody cared because losing was beside the point. The photograph was crooked. It had been crooked for as long as Henning could remember, and if anyone ever straightened it, Rolf would crook it again on principle.
 
-Rolf Eberhardt was already seated, Schwarzbier half-finished, reading glasses pushed up onto his forehead where they served no optical purpose but kept his remaining hair organized. Sixty-one, master plumber, hands like catcher's mitts. Beside him: Dieter Falk, master roofer, retired, who came every Thursday because his wife had choir practice and the alternative was television. Across the table: Peter Hausmann, HVAC technician, still working, still complaining about it. And at the end, wedged between the wall and the radiator, Uwe Stollberg, master carpenter, who spoke least and listened most and had once built a staircase so beautiful that the architect had wept, which Uwe considered an appropriate reaction to good joinery.
+Rolf Eberhardt was already seated, Schwarzbier half-finished, reading glasses pushed up onto his forehead where they served no optical purpose but kept his remaining hair organized. Sixty-one, master plumber, hands like shovels. Beside him: Dieter Falk, master roofer, retired, who came every Thursday because his wife had choir practice and the alternative was television. Across the table: Peter Hausmann, HVAC technician, still working, still complaining about it. And at the end, wedged between the wall and the radiator, Uwe Stollberg, master carpenter, who spoke least and listened most and had once built a staircase so beautiful that the architect had wept, which Uwe considered an appropriate reaction to good joinery.
 
 "You're late," Rolf said.
 
 "You're early." Henning sat down. A Schwarzbier appeared in front of him — Frau Wendt had seen him come in and pulled it without asking.
 
-He drank. The beer was cold and dark and faintly bitter, with the roasted-malt undertone that distinguished a proper Thuringian Schwarzbier from the pale imitations the Bavarians shipped north. It tasted the way it had tasted every Thursday since 1998, which was longer than some marriages and more reliable than most.
+He drank. The beer was cold and dark and faintly bitter, with the roasted-malt undertone that distinguished a proper Thuringian Schwarzbier from the pale imitations the Bavarians shipped north. It tasted the way it had every Thursday since 1998, which was longer than some marriages and more reliable than most.
 
 "RB Leipzig," Rolf said, setting down his glass with the controlled force of a man delivering a verdict. "Bought the referee. Third match in a row. I'm telling you, the whole Bundesliga is a Schmierenkomödie."
 
@@ -128,7 +128,7 @@ Peter leaned in. "The Bratwurst was different last week. Did anyone else notice?
 
 "I found it in the Bratwurst last week."
 
-Uwe said nothing. He drank his beer and watched the argument the way he watched everything — with the calm, assessing gaze of a man who measured twice and spoke once. Henning caught his eye. Uwe raised his glass a millimeter. *Thursday.*
+Uwe said nothing. He drank his beer and watched the argument with the calm, assessing gaze of a man who measured twice and spoke once. Henning caught his eye. Uwe raised his glass a millimeter. *Thursday.*
 
 This was it. This was the thing itself. The voices overlapping, the arguments going nowhere, the jokes delivered with such conviction that you laughed anyway. Nobody was right. Nobody needed to be right.
 
@@ -140,7 +140,7 @@ Henning felt something loosen in his shoulders that had been tight since Februar
 
 Then Stefan walked in.
 
-Rolf's son was thirty-four, an engineer in Eisenach. Tall where Rolf was broad, clean-shaven where Rolf was stubbly. Behind his left ear, barely visible beneath neatly trimmed hair: the patch. Henning noticed it every time the way you notice a missing tool on a pegboard — the silhouette without the shape.
+Rolf's son was thirty-four, an engineer in Eisenach. Tall where Rolf was broad, clean-shaven where Rolf was stubbly. Behind his left ear, barely visible beneath neatly trimmed hair: the patch. Henning noticed it every time — the silhouette without the shape.
 
 "Papa. Gentlemen." Stefan pulled a chair from the adjacent table — efficiently, no scraping, the exact right angle to slot in between Rolf and Peter. He sat down. Frau Wendt appeared. He ordered a Radler. Henning noted this without judgment, or with only a small amount of judgment.
 
@@ -198,11 +198,11 @@ He drank his Schwarzbier and said nothing, and eventually Rolf muttered somethin
 
 Henning walked home through Erfurt's Altstadt at half past nine, hands in his jacket pockets, the Schwarzbier warm in his stomach and the evening cool on his face.
 
-The cobblestones of Michaelisstrasse were uneven under his boots, each one a slightly different height, worn smooth by four centuries of feet. His boots found the rhythm they always found — the gait of a man who knows his city's stones the way a blind man knows his room, by the memory in his soles.
+The cobblestones of Michaelisstrasse were uneven under his boots, each one a slightly different height, worn smooth by four centuries of feet. His boots found the rhythm they always found — by the memory in his soles.
 
 The Domberg rose ahead of him, the cathedral and the Severikirche silhouetted against a sky that was not quite dark, the late-spring blue that Thuringia held onto for an hour after sunset, deeper than day but lighter than night.
 
-The seventy steps up to the cathedral were lit by lamps that cast the stone in amber. He didn't climb them tonight. But he liked knowing they were there, the way he liked knowing Wilhelm's pliers were on their hook — the object in its silhouette, present and accounted for.
+The seventy steps up to the cathedral were lit by lamps that cast the stone in amber. He didn't climb them tonight. But he liked knowing they were there — the object in its silhouette, present and accounted for.
 
 The Krämerbrücke was quiet. The half-timbered facades leaned together the way old friends lean, not from weakness but from familiarity. The Gera ran beneath the bridge, shallow and quick, the same sound it had made when the bridge was built in 1325 and the same sound it would make when everyone who argued about referees and marjoram was gone.
 
@@ -220,7 +220,7 @@ He stood in the hallway, his shin finding the boot rack, his father's Meisterbri
 
 Two things. Jana's grip. Stefan's answers. He could feel them sitting side by side in his chest like two puzzle pieces from different boxes, edges that almost matched but didn't.
 
-He couldn't see the connection yet. But it was there — he was certain of that, the way he was certain of a loose connection in a panel before he found it, by the hum, by the warmth, by the wrongness in the right register. You didn't force a conductor into a terminal. You positioned it, you aligned it, and you let the mechanism do its work.
+He couldn't see the connection yet. But it was there — he was certain of that the way he was certain of a loose connection in a panel before he found it. By the hum. By the warmth. By the wrongness in the right register. You didn't force a conductor into a terminal. You positioned it, you aligned it, and you let the mechanism do its work.
 
 He filled the kettle. Stood at the counter and looked at his hands — broad, scarred, chalk dust still in the creases of the left, a small burn on the right thumb from a soldering exercise. Hands that knew things his head had never learned. Hands that had held a cable knife at their own angle for thirty-nine years, an angle that was not optimal, that was not textbook, that was Henning's, and that had wired half of Erfurt without apology.
 

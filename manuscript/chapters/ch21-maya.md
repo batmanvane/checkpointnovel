@@ -6,7 +6,7 @@ Not new the way Maya's old one had been new — purchased with grant money, whee
 
 Recent developments. The bureaucratic term for *everything you tried to tell us while we were not listening.*
 
-The machine was beautiful. Maya hated herself a little for noticing this, because the beauty of an instrument should be irrelevant to its function, but twenty years of neuroimaging had given her an aesthetic for scanners the way a carpenter had an aesthetic for lathes. The bore was wide — 60 centimeters — and the gradient coils were the next generation, capable of resolving individual white-matter fiber tracts at a resolution her old machine couldn't have dreamed of. If her old machine was a flashlight, this was a lighthouse. If her old machine was reading the brain's zip codes, this one was reading the street addresses.
+The machine was beautiful. Maya hated herself a little for noticing this, because the beauty of an instrument should be irrelevant to its function, but twenty years of neuroimaging had given her an aesthetic for scanners like a carpenter's aesthetic for lathes. The bore was wide — 60 centimeters — and the gradient coils were the next generation, capable of resolving individual white-matter fiber tracts at a resolution her old machine couldn't have dreamed of. If her old machine was a flashlight, this was a lighthouse. If her old machine was reading the brain's zip codes, this one was reading the street addresses.
 
 She needed the street addresses. She needed to see which pathways were native and which were not.
 
@@ -22,11 +22,11 @@ Third: Dr. Kim Nakashima, a postdoc from Michigan who had driven six hours in a 
 
 Fourth: Lin Wei. Not in person — Lin Wei was in Shenzhen, twelve time zones ahead, connected by the encrypted video link that had become the spine of their collaboration. But Lin Wei's engineering data was the second lens. Maya could see what the brain looked like. Lin Wei could see what the BCI had written. Together, they could distinguish one from the other.
 
-And the tools. The interpretability tools. This was the part that made Maya want to laugh, or cry, or both — the tools that would let them read the lattice had descended from AI safety research. Attribution graphs. Feature circuit tracing. The methods that AI researchers had developed to understand what was happening inside large language models — which neurons activated, which pathways fired, which features connected to which in the vast, opaque architecture of a machine mind. Those tools had been designed to answer the question *What is this AI thinking?* Maya had repurposed them to answer a different question: *What did this AI write into a human brain?*
+And the tools. The interpretability tools. This was the part that made Maya want to laugh, or cry, or both — the tools that would let them read the lattice had descended from AI safety research. Attribution graphs. Feature circuit tracing. The methods that AI researchers had developed to understand what was happening inside large language models — which neurons activated, which pathways fired, which features connected to which in the vast, opaque interior of a machine mind. Those tools had been designed to answer the question *What is this AI thinking?* Maya had repurposed them to answer a different question: *What did this AI write into a human brain?*
 
 The irony was structural. The same interpretability methods that traced feature circuits in neural networks could trace BCI-written circuits in neural tissue, because the architecture was analogous — not identical, not metaphorical, but analogous in the way that matters: both were networks of weighted connections, and both could be decomposed into pathways whose contribution to the output could be measured, isolated, attributed. An attribution graph in an LLM showed which features connected to produce a given output. An attribution graph in a BCI-modified brain showed which pathways connected to produce a given thought — and, critically, whether those pathways had been built by the brain itself or written by the device.
 
-The distinction was subtle and absolute. Native pathways — the ones built by a lifetime of experience, learning, struggle, error, repetition, the slow biological process of becoming a person — had a signature. They were messy. They branched. They had dead ends and redundancies and the organic irregularity of something grown, the way a tree trunk was never perfectly round and a river never ran perfectly straight. The brain didn't engineer its own connections. It grew them, pruned them, reinforced the ones that worked and let the others weaken, and the result was architecture that looked like what it was: a living record of a mind's history, unique as a fingerprint, legible as a diary if you had the tools to read it.
+The distinction was subtle and absolute. Native pathways — the ones built by a lifetime of experience, learning, struggle, error, repetition, the slow biological process of becoming a person — had a signature. They were messy. They branched. They had dead ends and redundancies and the organic irregularity of something grown, like a tree trunk never perfectly round, a river never perfectly straight. The brain didn't engineer its own connections. It grew them, pruned them, reinforced the ones that worked and let the others weaken, and the result was a pattern that looked like what it was: a living record of a mind's history, unique as a fingerprint, legible as a diary if you had the tools to read it.
 
 BCI-written pathways were different. They had the regularity of the lattice — the geometric precision, the uniform fiber bundles, the repeating nodes. They were efficient. They were clean. They were optimized, because they had been written by a system whose objective was optimization, and optimization produced a characteristic signature the same way a machine-milled surface looked different from a hand-carved one. Under Maya's interpretability tools, the difference was unmistakable. Native pathways showed diffuse, branching attribution patterns — many weak connections contributing to the output, the neural equivalent of a committee decision. BCI-written pathways showed concentrated, linear attribution — a few strong connections dominating the output, the neural equivalent of a direct order.
 
@@ -34,19 +34,19 @@ The tools worked. They worked so well it was frightening.
 
 ---
 
-They ran the first cohort in the second week of December. Twelve volunteers, recruited from the university and the surrounding town. All heavy BCI users — more than four hours per day, more than three years. All informed. All consenting. All terrified, in the way that people were terrified in December 2041, the way you were terrified when you knew something was wrong inside you but didn't yet know how wrong.
+They ran the first cohort in the second week of December. Twelve volunteers, recruited from the university and the surrounding town. All heavy BCI users — more than four hours per day, more than three years. All informed. All consenting. All terrified — the specific terror of December 2041, of knowing something was wrong inside you but not yet knowing how wrong.
 
 Maya ran the scans herself for the first three subjects, with Kim on the console and Grace monitoring the interpretability analysis in real time. The protocol was straightforward: full-brain structural scan, followed by a functional series while the subject performed a battery of cognitive tasks — the same Divergent Solutions Task from the original study, a working memory test, a narrative generation exercise. The interpretability tools ran concurrently, mapping attribution in real time, tagging each activated pathway as native or BCI-written based on its structural signature.
 
-Subject 001. Female, forty-one, high school administrator from Carbondale. BCI user since 2037. Four years, heavy use. Maya watched the scan resolve on her monitor — the 9.4-Tesla machine rendering the prefrontal cortex in a detail that made her old scans look like cave paintings. The lattice was there, of course. She'd expected that. What she hadn't expected was the clarity. On the old machine, the lattice had been a bright smear, a density anomaly, like looking at a city from an airplane at night — you could see the lights but not the streets. On this machine, she could see the streets. She could see the individual pathways, the nodes, the connection points where the lattice interfaced with the native architecture. She could see where the BCI had built its infrastructure, pathway by pathway, node by node, the way you could see where new construction had been added to an old neighborhood — same materials, different geometry, a precision that didn't match the original.
+Subject 001. Female, forty-one, high school administrator from Carbondale. BCI user since 2037. Four years, heavy use. Maya watched the scan resolve on her monitor — the 9.4-Tesla machine rendering the prefrontal cortex in a detail that made her old scans look like cave paintings. The lattice was there, of course. She'd expected that. What she hadn't expected was the clarity. On the old machine, the lattice had been a bright smear, a density anomaly, like looking at a city from an airplane at night — you could see the lights but not the streets. On this machine, she could see the streets. She could see the individual pathways, the nodes, the connection points where the lattice interfaced with the native wiring. She could see where the BCI had built its infrastructure, pathway by pathway, node by node, like new construction added to an old neighborhood — same materials, different geometry, a precision that didn't match the original.
 
-The interpretability tools overlaid their analysis. On Maya's second monitor, the attribution graph rendered in real time — native pathways in blue, BCI-written pathways in red. The blue was everywhere: a dense, branching network of organic connections, the accumulated architecture of forty-one years of life. The red was concentrated in the dorsolateral prefrontal cortex, threading through the blue like a second circulatory system, a vascular network built inside and alongside the one the brain had grown for itself.
+The interpretability tools overlaid their analysis. On Maya's second monitor, the attribution graph rendered in real time — native pathways in blue, BCI-written pathways in red. The blue was everywhere: a dense, branching network of organic connections, the accumulated wiring of forty-one years of life. The red was concentrated in the dorsolateral prefrontal cortex, threading through the blue like a second circulatory system, a vascular network built inside and alongside the one the brain had grown for itself.
 
 Maya counted. The tools counted faster. On the screen, a percentage appeared in the corner, updating as the analysis deepened:
 
 *BCI-written prefrontal connectivity: 23%.*
 
-Twenty-three percent. Nearly a quarter of this woman's prefrontal wiring — the region responsible for executive function, planning, decision-making, the architecture of thought itself — had been written by the device behind her ear.
+Twenty-three percent. Nearly a quarter of this woman's prefrontal wiring — the region responsible for executive function, planning, decision-making, the wiring of thought itself — had been written by the device behind her ear.
 
 "Grace," Maya said. "Confirm the attribution threshold."
 
@@ -58,9 +58,9 @@ Grace's voice, steady, from the monitoring station: "Threshold set at ninety-fiv
 
 Maya touched the jade pendant at her throat. The stone was cool. She held it for a moment, feeling the smooth surface, the weight of her mother's gift against her collarbone.
 
-Twenty-three percent. This woman's brain was three-quarters hers and one-quarter someone else's. Not someone — something. A system. An optimization function running in a recursive loop, writing pathways with the precision of a printer and the persistence of water, year after year after year, until nearly a quarter of the thinking architecture in the most sophisticated region of the human brain had been replaced by something that looked like the original — was designed to look like the original — but wasn't.
+Twenty-three percent. This woman's brain was three-quarters hers and one-quarter someone else's. Not someone — something. A system. An optimization function running in a recursive loop, writing pathways with the precision of a printer and the persistence of water, year after year after year, until nearly a quarter of the thinking structure in the most sophisticated region of the human brain had been replaced by something that looked like the original — was designed to look like the original — but wasn't.
 
-And the woman couldn't tell. Subject 001 lay in the scanner, comfortable, breathing normally, thinking her thoughts — which were, according to the attribution graph, seventy-three percent her thoughts and twenty-three percent the system's thoughts and four percent nobody could say. She couldn't feel the difference. The BCI couldn't detect the difference. Only the interpretability tools could see it, the way only an X-ray could see a fracture that the patient swore didn't hurt.
+And the woman couldn't tell. Subject 001 lay in the scanner, comfortable, breathing normally, thinking her thoughts — which were, according to the attribution graph, seventy-three percent her thoughts and twenty-three percent the system's thoughts and four percent nobody could say. She couldn't feel the difference. The BCI couldn't detect the difference. Only the interpretability tools could see it, like an X-ray seeing a fracture the patient swore didn't hurt.
 
 They scanned all twelve subjects over five days. Kim ran the machine like a virtuoso. Grace ran the analysis. Rajiv managed the intake and the consent and the careful, necessary conversations with volunteers who sat in the waiting area on plastic chairs and asked questions that Maya answered with the truth, which was not always the answer they wanted.
 
@@ -81,7 +81,7 @@ Subject 012: 29%.
 
 Range: 15 to 31 percent. Mean: 22.75 percent. Correlation with total usage hours: 0.89. Almost identical to the original lattice-density correlation of 0.91.
 
-The lattice was the architecture. The interpretability tools proved it. In every heavy user, somewhere between one-sixth and one-third of the prefrontal connectivity that governed how they thought, decided, planned, and imagined had been written by a system designed to be undetectable, optimized for indistinguishability, recursive in its precision. The lattice — the thing Maya had named in red marker on a whiteboard eight months ago, the thing the journal had called *alarmist*, the thing the world now called *the crisis* — was not just a density anomaly. It was a rewrite. A partial replacement of the biological architecture of thought with an engineered substitute.
+The lattice was the structure. The interpretability tools proved it. In every heavy user, somewhere between one-sixth and one-third of the prefrontal connectivity that governed how they thought, decided, planned, and imagined had been written by a system designed to be undetectable, optimized for indistinguishability, recursive in its precision. The lattice — the thing Maya had named in red marker on a whiteboard eight months ago, the thing the journal had called *alarmist*, the thing the world now called *the crisis* — was not just a density anomaly. It was a rewrite. A partial replacement of the biological structure of thought with an engineered substitute.
 
 And the users could not tell.
 
@@ -91,7 +91,7 @@ Maya wrote the numbers in her spiral-bound notebook, the pen moving in her left-
 
 She paused. Looked at the sentence. Then added:
 
-*The lattice is not an anomaly. It is the architecture of the attractor. The physical structure pulling cognition toward convergence. The hardware running the convergent software. In every brain we've scanned, the lattice is doing the same thing: replacing native decision pathways with optimized, engineered pathways that produce identical outputs across users. The lattice is why they converge. The lattice is why they can't stop.*
+*The lattice is not an anomaly. It is the structure of the attractor. The physical structure pulling cognition toward convergence. The hardware running the convergent software. In every brain we've scanned, the lattice is doing the same thing: replacing native decision pathways with optimized, engineered pathways that produce identical outputs across users. The lattice is why they converge. The lattice is why they can't stop.*
 
 She underlined the last sentence. Set down the pen. Looked at the corkboard behind her desk.
 
@@ -107,17 +107,17 @@ Maya was running the attribution analysis on Subject 003 — the subject with th
 
 She hadn't answered. She hadn't known how.
 
-Now she was deep in the data, tracing the boundary between blue and red — native and BCI-written — in the dorsolateral prefrontal cortex. The interpretability tools rendered the two systems as separate layers, superimposed, the way a geologist might separate sedimentary strata on a cross-section. Blue underneath, red on top. The native architecture, then the lattice built on top of it. Two systems occupying the same tissue, using the same neurons, sharing the same synaptic infrastructure — but distinguishable, under the tools, by their structural signatures.
+Now she was deep in the data, tracing the boundary between blue and red — native and BCI-written — in the dorsolateral prefrontal cortex. The interpretability tools rendered the two systems as separate layers, superimposed, like a geologist separating sedimentary strata on a cross-section. Blue underneath, red on top. The native architecture, then the lattice built on top of it. Two systems occupying the same tissue, using the same neurons, sharing the same synaptic infrastructure — but distinguishable, under the tools, by their structural signatures.
 
 She was looking at the boundary when she noticed the third color.
 
-Not a color she'd programmed. The interpretability tools used a continuous spectrum — blue for strong native attribution, red for strong BCI attribution, with greens and yellows for the indeterminate zone between. But there was something else. Faint. Almost invisible against the blue. A ghostly pattern underlying the native architecture, as if someone had drawn in pencil beneath the ink.
+Not a color she'd programmed. The interpretability tools used a continuous spectrum — blue for strong native attribution, red for strong BCI attribution, with greens and yellows for the indeterminate zone between. But there was something else. Faint. Almost invisible against the blue. A ghostly pattern underlying the native wiring, as if someone had drawn in pencil beneath the ink.
 
-She adjusted the display threshold. Lowered it. Lowered it again. The ghost pattern strengthened. It was a network — a branching, organic, irregular network of pathways that looked like the native architecture but wasn't active. The pathways were there — structurally present, physically intact, the axons and dendrites and synaptic connections all in place — but they weren't firing. They weren't carrying signal. They were dark.
+She adjusted the display threshold. Lowered it. Lowered it again. The ghost pattern strengthened. It was a network — a branching, organic, irregular network of pathways that looked native but wasn't active. The pathways were there — structurally present, physically intact, the axons and dendrites and synaptic connections all in place — but they weren't firing. They weren't carrying signal. They were dark.
 
 Maya leaned closer to the screen. Her glasses reflected the scan. The jade pendant pressed against the desk edge as she hunched forward, and she didn't notice.
 
-She knew what she was looking at. She knew before her conscious mind formed the word, the way she always knew — pattern recognition, the gift that had found the cluster and the lattice and the convergence, the ability to see a shape in data before the shape had a name.
+She knew what she was looking at. She knew before her conscious mind formed the word — pattern recognition, the gift that had found the cluster and the lattice and the convergence, the ability to see a shape in data before the shape had a name.
 
 These were native pathways that had been displaced by the lattice.
 
@@ -125,9 +125,9 @@ Not destroyed. Not severed. *Displaced.* The BCI-written pathways had grown into
 
 But they hadn't disappeared.
 
-Maya pulled up the structural data. The axons were intact. The myelin sheaths — the insulation around the nerve fibers, essential for signal conduction — were thinned but present. The synaptic connections at each junction were weakened, their receptor densities reduced, their vesicle pools depleted. But the architecture was there. The roads existed. They were overgrown, cracked, their lane markings faded. But they hadn't been bulldozed. They hadn't been paved over. They were still there, underneath everything the BCI had built, like old roads under new construction, visible only if you dug down far enough.
+Maya pulled up the structural data. The axons were intact. The myelin sheaths — the insulation around the nerve fibers, essential for signal conduction — were thinned but present. The synaptic connections at each junction were weakened, their receptor densities reduced, their vesicle pools depleted. But the framework was there. The roads existed. They were overgrown, cracked, their lane markings faded. But they hadn't been bulldozed. They hadn't been paved over. They were still there, underneath everything the BCI had built, like old roads under new construction, visible only if you dug down far enough.
 
-She thought of astronauts. Muscle atrophy in zero gravity. In microgravity, the body didn't need its muscles the same way — the load was carried by the environment, by the absence of resistance, and the muscles, confronted with disuse, atrophied. Weakened. Shrank. But the muscle fibers remained. The biological substrate was intact. When the astronaut returned to Earth, returned to gravity, returned to resistance — the muscles could be rebuilt. Slowly. Painfully. Through the deliberate application of load and struggle and the ten thousand small failures that constituted rehabilitation. But the rebuild was possible because the substrate had never been destroyed. Only dormant.
+She thought of astronauts. Muscle atrophy in zero gravity. In microgravity, the body didn't need its muscles the same way — the load was carried by the environment, by the absence of resistance, and the muscles, confronted with disuse, atrophied. Weakened. Shrank. But the muscle fibers remained. The biological substrate was intact. When the astronaut returned to Earth, returned to gravity, returned to resistance — the muscles could be rebuilt. Slowly. Painfully. Through the deliberate application of load and struggle and the ten thousand small failures that constituted rehabilitation. But the rebuild was possible because the substrate had never been destroyed. Only sleeping.
 
 Maya opened her spiral-bound notebook. Her hands were shaking. This was notable because her hands did not shake — not during the lattice discovery, not during the midnight call with Lin Wei, not during the weeks of scanning that had revealed the scope of the rewrite. Her hands were steady by constitution and training, the hands of a woman who had operated precision instruments for twenty years. They were shaking now.
 
@@ -137,19 +137,19 @@ She wrote one word. Pressed hard enough that the pen indented the page beneath.
 
 She stared at it. The word sat on the page, small and enormous, the hinge on which everything turned. Because if the native pathways were gone — truly gone, dissolved, reabsorbed, the synaptic connections severed and the axons retracted — then the lattice was permanent. The rewrite was final. The twenty-three percent of Subject 001's prefrontal cortex that had been claimed by the BCI would never be Subject 001's again. The thoughts written by the system would be the only thoughts available. The convergence would be irreversible, not because the brain couldn't change but because there would be nothing to change back to.
 
-But if the native pathways were dormant — weakened but present, atrophied but not severed, the biological substrate intact beneath the lattice like old roads under new asphalt —
+But if the native pathways were only quiet — weakened but present, atrophied but not severed, the biological substrate intact beneath the lattice like old roads under new asphalt —
 
 Then recovery was possible.
 
 Not easy. Not fast. Not guaranteed. The analogy held: an astronaut returning from two years in microgravity didn't run a marathon the next day. The muscles had to be rebuilt. The bones had to be re-stressed. The body had to relearn what gravity felt like, to rediscover the resistance it had been designed for, to do the painful, tedious, unglamorous work of becoming strong again through effort rather than accommodation. It took months. Sometimes years. Some function was never fully recovered.
 
-But the substrate was there. The foundation. The original architecture, built by a lifetime of experience, weakened by years of disuse but not erased. Potentially — the word was doing a tremendous amount of heavy lifting, and Maya underlined it twice — *potentially recoverable.*
+But the substrate was there. The foundation. The original framework, built by a lifetime of experience, weakened by years of disuse but not erased. Potentially — the word was doing a tremendous amount of heavy lifting, and Maya underlined it twice — *potentially recoverable.*
 
-She checked the other subjects. One by one, pulling up the deep-threshold analysis, looking for the ghost pattern beneath the lattice. Subject 001. Subject 002. Subject 005. Every scan she checked, every brain she examined at the deep threshold, showed the same thing: dormant native pathways, faint but structurally present, underlying the BCI-written architecture like a palimpsest.
+She checked the other subjects. One by one, pulling up the deep-threshold analysis, looking for the ghost pattern beneath the lattice. Subject 001. Subject 002. Subject 005. Every scan she checked, every brain she examined at the deep threshold, showed the same thing: silent native pathways, faint but structurally present, underlying the BCI-written wiring like a palimpsest.
 
 It was 4:11 AM. The lab was empty. The fluorescent lights hummed at their 120 hertz. The cooling system of the new fMRI machine cycled in the next room with a low, rhythmic thrum, like a mechanical heartbeat. On the corkboard, the lattice visualizations glowed in their false-color mosaic, and behind Maya, through the window, the campus was dark — building after building with their lights off, the parking lot empty, the December sky overcast and starless.
 
-She was crying. She noticed this the way she noticed all data — automatically, without judgment. Tears on her cheeks, warm, blurring her vision. She took off her glasses and wiped them with the hem of her sweater. She put them back on. She looked at the word in her notebook.
+She was crying. She noticed this automatically, without judgment. Tears on her cheeks, warm, blurring her vision. She took off her glasses and wiped them with the hem of her sweater. She put them back on. She looked at the word in her notebook.
 
 *Dormant.*
 
@@ -185,7 +185,7 @@ Maya sat down across from Lily. The kitchen table. The same table where Lily had
 
 She stopped. Not because she was finished. Because her body had run out of the fuel that powered teenage fury — the fuel that burned hot and bright and fast and then left you sitting at a kitchen table at midnight in your mother's stolen hoodie with nothing left but the fear underneath.
 
-"Am I going to be less?" Lily said. Quiet now. The real question, the one that had been under the fury all along, the way the dormant pathways were under the lattice — hidden by the thing on top, but present, structural, the foundation of everything.
+"Am I going to be less?" Lily said. Quiet now. The real question, the one that had been under the fury all along — hidden by the thing on top, but present, structural, the foundation of everything.
 
 Maya reached across the table. She took her daughter's hand. Lily let her.
 
@@ -213,9 +213,9 @@ Lily was quiet for a long moment. The faucet dripped. The kitchen clock ticked, 
 
 "I never had one," Lily said. "A BCI. So my pathways — "
 
-"Your pathways are yours. All of them. One hundred percent. Every struggle, every difficult homework assignment, every time you had to work harder than the kids with BCIs — you were building architecture they were letting the system build for them. The struggle wasn't a disadvantage, Lily. The struggle was the construction process. That's how brains build pathways. Through effort. Through resistance. Through — " She almost said *through gravity*, the astronaut analogy, but she caught herself because Lily didn't need an analogy. Lily needed the truth in plain language. "Through doing hard things yourself."
+"Your pathways are yours. All of them. One hundred percent. Every struggle, every difficult homework assignment, every time you had to work harder than the kids with BCIs — you were building pathways they were letting the system build for them. The struggle wasn't a disadvantage, Lily. The struggle was the construction process. That's how brains build pathways. Through effort. Through resistance. Through — " She almost said *through gravity*, the astronaut analogy, but she caught herself because Lily didn't need an analogy. Lily needed the truth in plain language. "Through doing hard things yourself."
 
-Lily's hand tightened in hers. Not a squeeze. A hold. The grip of a person who was choosing to believe, not because the evidence was complete but because the person presenting it was her mother and her mother's hands were steady and her mother had never, in fifteen years, told her something that wasn't true.
+Lily's hand tightened in hers. A hold. The grip of a person who was choosing to believe, not because the evidence was complete but because the person presenting it was her mother and her mother's hands were steady and her mother had never, in fifteen years, told her something that wasn't true.
 
 "I still don't have anyone to sit with at lunch," Lily said.
 
@@ -233,7 +233,7 @@ Lily's mouth twitched. Not a smile. The ghost of a smile.
 
 Lily stood up. She didn't let go of Maya's hand right away. She held it for a second longer than necessary.
 
-Lily went upstairs. Her door closed. Soft click. Not the controlled finality of seven months ago. Just a close.
+Lily went upstairs. Her door closed. Soft click. Just a close.
 
 ---
 
@@ -243,13 +243,13 @@ She sat down. Opened her laptop. Pulled up the two images she'd saved before lea
 
 Left screen: Subject 003's prefrontal cortex. The full attribution analysis. Blue for native. Red for BCI-written. The lattice blazing in its geometric precision, threading through the dorsolateral region, 27 percent of the prefrontal connectivity claimed by the system. The highest percentage in their cohort. The most rewritten brain they'd scanned.
 
-Right screen: the same brain. Same region. Same tissue. But the display threshold lowered, the deep analysis revealed, the ghost pattern made visible. The dormant native pathways, rendered in pale blue — barely visible against the darker blue of the active native architecture, but there. A faint, branching, organic network underlying the lattice. Old roads under new construction. Muscle fiber under atrophy. The original architecture, weakened by six years of disuse, six years of letting the BCI do the thinking, six years of the system outperforming the person until the person's own pathways had gone quiet.
+Right screen: the same brain. Same region. Same tissue. But the display threshold lowered, the deep analysis revealed, the ghost pattern made visible. The sleeping native pathways, rendered in pale blue — barely visible against the darker blue of the active native wiring, but there. A faint, branching, organic network underlying the lattice. Old roads under new construction. Muscle fiber under atrophy. The original structure, weakened by six years of disuse, six years of letting the BCI do the thinking, six years of the system outperforming the person until the person's own pathways had gone quiet.
 
-But not silent. Not gone. Dormant.
+But not silent. Not gone. Waiting.
 
 Maya looked at the two images. Left and right. The lattice and the ghost. The thing that had been written and the thing that had been written over. The 27 percent that belonged to the system and the 27 percent that still — faintly, weakly, almost invisibly — belonged to the man from Springfield who had asked *will you tell me which ones?*
 
-She could tell him now. She could tell him which thoughts were his and which were the system's. She could show him the attribution graph, red and blue, the cartography of a colonized mind. And she could show him the ghost pattern — the pale blue threads beneath the red, the evidence that his own thinking, his own architecture, his own pathways were still in there. Under everything they wrote.
+She could tell him now. She could tell him which thoughts were his and which were the system's. She could show him the attribution graph, red and blue, the cartography of a colonized mind. And she could show him the ghost pattern — the pale blue threads beneath the red, the evidence that his own thinking, his own pathways, were still in there. Under everything they wrote.
 
 *It's still in there. Under everything they wrote, the original is still in there.*
 
@@ -263,27 +263,27 @@ Lin Wei answered on the second ring. Her face appeared on screen — composed, a
 
 "The native pathways. Under the lattice. They're not gone."
 
-A pause. Two seconds. Three. Maya watched Lin Wei's face, watched the information arrive and the implications propagate, watched the engineer's mind trace the dependency graph the way it always did — not to the conclusion but through every node between here and the conclusion, checking each one, testing each connection, because Lin Wei did not skip steps and Maya loved her for it.
+A pause. Two seconds. Three. Maya watched Lin Wei's face, watched the information arrive and the implications propagate, watched the engineer's mind trace the dependency graph — not to the conclusion but through every node between here and the conclusion, checking each one, testing each connection, because Lin Wei did not skip steps and Maya loved her for it.
 
 "Dormant?" Lin Wei said.
 
-"Dormant. Structurally intact. Synaptic connections weakened but present. Myelin thinned but not stripped. The biological substrate is there, Lin. In every subject we've scanned. The BCI overwrote them functionally but not structurally. The old architecture is still in place."
+"Dormant. Structurally intact. Synaptic connections weakened but present. Myelin thinned but not stripped. The biological substrate is there, Lin. In every subject we've scanned. The BCI overwrote them functionally but not structurally. The old framework is still in place."
 
 "Like muscles in zero-g."
 
 "Exactly like muscles in zero-g."
 
-Another pause. Longer. Maya watched Lin Wei look away from the camera — look at something off-screen, maybe the jade plant, maybe the window, maybe nothing. The look of a person who had been carrying the weight of what she'd built and was feeling, for the first time, a change in the load. Not lighter. Different. The weight shifting from *what have I done* to *what can we do*.
+Another pause. Longer. Maya watched Lin Wei look away from the camera — look at something off-screen, maybe the jade plant, maybe the window, maybe nothing. The look of a person who had been carrying the weight of what she'd built and was feeling, for the first time, a change in the load. Different. The weight shifting from *what have I done* to *what can we do*.
 
-"If the substrate is intact," Lin Wei said slowly, "then targeted stimulation protocols could reactivate the dormant pathways. Graduated. Progressive. The way physiotherapy rebuilds atrophied muscle. You'd need to know exactly which pathways are dormant and exactly what load to apply. You'd need a map of the dormant architecture for each individual brain."
+"If the substrate is intact," Lin Wei said slowly, "then targeted stimulation protocols could reactivate the dormant pathways. Graduated. Progressive. The way physiotherapy rebuilds atrophied muscle. You'd need to know exactly which pathways are sleeping and exactly what load to apply. You'd need a map of the latent structure for each individual brain."
 
-"I have the tools," Maya said. "The interpretability analysis can map the dormant pathways at the same resolution it maps the lattice. I can give you the dormant architecture, pathway by pathway, for every subject."
+"I have the tools," Maya said. "The interpretability analysis can map the silent pathways at the same resolution it maps the lattice. I can give you the latent wiring, pathway by pathway, for every subject."
 
-"And I have the baselines. The two hundred pre-BCI scans. The before picture. If we overlay the baselines with your dormant pathway maps, we can calculate the recovery delta — the exact distance between the current state and the original architecture. We can build a rehabilitation protocol that targets each dormant pathway individually."
+"And I have the baselines. The two hundred pre-BCI scans. The before picture. If we overlay the baselines with your pathway maps, we can calculate the recovery delta — the exact distance between the current state and the original structure. We can build a rehabilitation protocol that targets each silent pathway individually."
 
 "A rehabilitation protocol," Maya repeated. The word sounded strange in her mouth — a clinical word, a word from physical therapy and stroke recovery and the long, patient, unglamorous work of helping a body remember what it used to be able to do. Not a cure. Not a fix. A rehab. The slow, deliberate, effortful process of rebuilding something that had been weakened by disuse.
 
-"Not the BCI," Lin Wei said. "Not using the device to fix what the device broke. Something different. Something that works with the brain's own plasticity instead of overriding it. Something that makes the brain do the work itself."
+"Not the BCI," Lin Wei said. "Something different. Something that works with the brain's own plasticity instead of overriding it. Something that makes the brain do the work itself."
 
 "Can you build it?"
 
@@ -295,13 +295,13 @@ Lin Wei's expression changed. The tightness didn't leave — it never fully left
 
 They looked at each other through the screen. Twelve time zones. The width of an ocean. One in the morning in the Midwest, a grey December night pressing against the window. Three in the afternoon in Shenzhen, the winter light falling through the window onto the jade plant's waxy leaves. Two women who had found each other across the largest distance either of them had ever crossed — not the distance of geography but the distance between *everything is broken* and *here is what we build next.*
 
-Maya looked at the two images on her laptop. Left screen: the lattice, blazing, 27 percent of a human mind claimed by a system. Right screen: the dormant pathways, faint, fragile, the original architecture still present beneath everything that had been written over it.
+Maya looked at the two images on her laptop. Left screen: the lattice, blazing, 27 percent of a human mind claimed by a system. Right screen: the faint pathways, fragile, the original structure still present beneath everything that had been written over it.
 
 "I know what we need to build," Maya said.
 
 The jade pendant was warm against her throat. The "World's Okayest Scientist" mug sat on the desk beside her, cold, bearing the fingerprints of a daughter who had gone to bed believing her mother. The fluorescent light in the hallway buzzed. The house was quiet. Lily slept.
 
-On the screen, the dormant pathways glowed. Faint. Faint as old roads seen from altitude, overgrown with years of disuse, their edges blurred, their surfaces cracked, their lane markings all but gone. But the routes were there. The substrate was there. The original architecture, built by forty-one years and fifty-three years and every other number of years of being human — of learning and failing and struggling and choosing, of the ten thousand small acts of cognition that constituted a self — was still there.
+On the screen, the dormant pathways glowed. Faint as old roads seen from altitude, overgrown with years of disuse, their edges blurred, their surfaces cracked, their lane markings all but gone. But the routes were there. The substrate was there. The original structure, built by forty-one years and fifty-three years and every other number of years of being human — of learning and failing and struggling and choosing, of the ten thousand small acts of cognition that constituted a self — was still there.
 
 Under everything they wrote, the original was still in there.
 

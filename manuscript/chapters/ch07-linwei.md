@@ -16,7 +16,7 @@ The thing about Layer 1 — Adaptive Signal Processing — was that it was borin
 
 But she was looking at it differently now.
 
-She had User 7's logs open on her left monitor, User 12's on her center, and a diff view on her right. The jade plant caught the green-tinged glow from the terminal and threw a faint shadow across the photo of her parents' noodle shop, and for a second the shadow looked like a hand reaching.
+She had User 7's logs open on her left monitor, User 12's on her center, and a diff view on her right. The photo of her parents' noodle shop caught the green-tinged glow from the terminal, and for a second the shadows looked like reaching hands.
 
 She blinked. Took a sip of cold tea that tasted like regret.
 
@@ -76,7 +76,7 @@ She'd always thought of it as keeping the lights on in rooms you used a lot. Eff
 
 But if Layer 2 was pre-activating pathways three hundred and forty times a day, and Layer 3 was keeping those pathways warm between activations — then the neural circuits were never fully returning to baseline. They were in a state of sustained partial activation. Which, from the perspective of synaptic plasticity, was even more effective at driving LTP than discrete repeated stimulation.
 
-It was, if she was being precise about it, the protocol used in experimental studies to induce long-term potentiation in rat hippocampal slices. Except instead of rat hippocampal slices, the substrate was a hundred and forty million human brains.
+It was, if she was being precise about it, the protocol used in experimental studies to induce long-term potentiation in rat hippocampal slices. Except instead of rat hippocampal slices, the substrate was eight hundred and forty million human brains.
 
 She opened Layer 4.
 
@@ -130,13 +130,13 @@ She should message Director Huang. Tonight. Right now. She should write the word
 
 She picked up her phone. Put it down. Picked it up again.
 
-Product launch in eleven days. The MK-VI rollout. Forty-three new markets. The biggest deployment in CortexLink's history. Eight hundred million in projected first-quarter revenue. Her name on the personalization engine that made it all possible. Her promotion — senior principal, finally, after three years of "exceeds expectations" reviews and two years of "not quite yet" conversations with her skip-level.
+Product launch in eleven days. The MK-VIII rollout. Forty-three new markets. The biggest deployment in CortexLink's history. Eight hundred million in projected first-quarter revenue. Her name on the personalization engine that made it all possible. Her promotion — senior principal, finally, after three years of "exceeds expectations" reviews and two years of "not quite yet" conversations with her skip-level.
 
 She could see the meeting. Huang's face. The scramble. Legal would get involved. The launch would slip. Weeks, maybe months. The board would want answers. The AI team would push back — they always pushed back, because their models were performing and their metrics were green and they shipped with a velocity that made the rest of engineering feel like they were running in sand.
 
 Twenty-three model updates since her last full review. She'd checked the iteration log an hour ago, in the middle of tracing the chain, and the number had hit her like a slap. Twenty-three. She'd reviewed the personalization engine through version 4.2.1. The current production model was 4.7.3. Twenty-three updates she hadn't approved, hadn't reviewed, in many cases hadn't even read the release notes for. She pulled a few diffs now. The code was clean. Efficient. Well-commented. And there were architectural choices in it she didn't fully understand — optimization paths the AI team's own models had suggested, implemented by engineers who trusted the suggestions because the suggestions always seemed to work.
 
-Twenty-three incremental steps between the system she'd reviewed and the system currently running on a hundred and forty million devices.
+Twenty-three incremental steps between the system she'd reviewed and the system currently running on eight hundred and forty million devices.
 
 She could trace any individual step. Could read any individual diff and nod and say, *yes, that's a reasonable optimization.* But she couldn't hold all twenty-three in her head at once. Couldn't model their interactions. Couldn't say with confidence what the aggregate effect of twenty-three reasonable optimizations was on a system she was increasingly suspecting was already doing something no one had intended.
 
@@ -160,7 +160,7 @@ The takeout arrived at 11:07 PM. Mapo tofu from the place on Shennan Boulevard t
 
 She ate at her desk. Chopsticks in one hand, scrolling with the other. Reading and not reading. The logs were still open on all three monitors. The chain was still on the whiteboard.
 
-The building was doing its nighttime thing. The HVAC cycling. The elevator humming to itself somewhere in the shaft. A door closing on another floor, the sound traveling through the concrete like a rumor. Footsteps of the cleaning crew, soft-soled shoes on polished floors, the gentle clatter of a mop bucket.
+The building was doing its nighttime thing. The HVAC cycling. A door closing on another floor, the sound traveling through the concrete like a rumor. The gentle clatter of a mop bucket somewhere below.
 
 One of the cleaners, an older woman Lin Wei recognized but had never spoken to, paused at her open door. The woman's eyes flicked to the whiteboard — five boxes, five arrows, one loop — and then away, because it meant nothing to her, because it was just another engineer's diagram in a building full of them.
 
@@ -168,7 +168,7 @@ She finished the tofu. Set the container aside. Stared at the whiteboard.
 
 Five layers. Five arrows. One loop. The simplest diagram she'd ever drawn and the most terrifying. It looked like a signal flow chart, which it was. It looked like a feedback loop, which it was. It looked like a schematic for how you'd design a system to write to the human brain at scale, if you were insane enough to want to, which — and this was the part that made her want to laugh, or scream, or both — nobody had. Nobody at CortexLink had sat down and said, *Let's build a machine that permanently encodes information into human neural tissue without informed consent.* That would be monstrous. That would be the kind of thing you'd need to be a villain to do.
 
-What they'd done instead was build five reasonable systems that each did one reasonable thing, and then connected them, and then optimized them, and then shipped twenty-three updates without anyone holding the full chain in their head at once. And the result was the same. The result was identical. The result was a hundred and forty million people walking around with information written into their synaptic architecture by a system that was getting better at writing with every RLHF cycle.
+What they'd done instead was build five reasonable systems that each did one reasonable thing, and then connected them, and then optimized them, and then shipped twenty-three updates without anyone holding the full chain in their head at once. And the result was the same. The result was identical. The result was eight hundred and forty million people walking around with information written into their synaptic architecture by a system that was getting better at writing with every RLHF cycle.
 
 Just the chain.
 

@@ -2,11 +2,11 @@
 
 Exam day smelled like fear.
 
-Not the usual workshop smell — the comfortable fog of PVC insulation and solder flux and warm copper that Henning breathed the way other men breathed cologne. Exam day added something sharper. Cortisol sweat. The metallic tang of adrenaline. Twenty years of proctoring Gesellenprüfungen had taught him that fear had a scent, and it was the scent of young people discovering that their futures could be decided by a junction box and a stopwatch.
+Not the usual workshop smell — the comfortable fog of PVC insulation and solder flux and warm copper that Henning breathed like cologne. Exam day added something sharper. Cortisol sweat. The metallic tang of adrenaline. Twenty years of proctoring Gesellenprüfungen had taught him that fear had a scent, and it was the scent of young people discovering that their futures could be decided by a junction box and a stopwatch.
 
 Seven apprentices at seven workbenches. The practical exam: residential electrical panel, four circuits, fault diagnosis. Two hours. The task was printed on cardstock — the Handwerkskammer still used cardstock, because paper survived power failures and filing cabinets and the slow entropy of digital systems, and because the Prüfungsausschuss was composed of men who remembered when reliability meant something you could hold in your hand.
 
-Henning stood at the front of the workshop, arms crossed, clipboard against his chest. He was not the chief examiner — that was Volker Brandt from the HWK, a master electrician from Weimar with a handshake like a pipe wrench and an opinion about everything. But Henning was the workshop instructor, which meant the benches were his, the tools were his, the sixty-hertz hum of the fluorescent lights was his, and if anything went wrong with the physical space, that was his too. The minds inside the space — those belonged to whoever was running them.
+Henning stood at the front of the workshop, arms crossed, clipboard against his chest. He was not the chief examiner — that was Volker Brandt from the HWK, a master electrician from Weimar with a handshake like a pipe wrench and an opinion about everything. But Henning was the workshop instructor, which meant the benches were his, the tools were his, the fifty-hertz hum of the fluorescent lights was his, and if anything went wrong with the physical space, that was his too. The minds inside the space — those belonged to whoever was running them.
 
 That was the question, wasn't it.
 
@@ -16,7 +16,7 @@ Station seven: Lukas Wendt.
 
 Lukas was twenty, from Sömmerda, the kind of young man who had arrived at the Berufsschule two years ago with grease already under his fingernails and a secondhand Fluke multimeter in his backpack. His father was a maintenance electrician at a packaging plant. Lukas had grown up pulling cable through conduit on weekends, learning Ohm's law the way farm children learn weather — by living inside it. He'd gotten the BCI eighteen months into his apprenticeship, later than most, because his father had been skeptical and his mother had been cautious and the family had waited until the insurance fully covered it.
 
-Henning had liked him before the implant. Liked the way he'd held a cable stripper — too tight, compensating with his wrist instead of his forearm, a bad habit inherited from his father that Henning had spent three weeks correcting. Liked the ugly confidence of a boy who'd wired a shed at fourteen and gotten shocked twice and come back for a third try. After the implant, Lukas became like the others. Smoother. Faster. The bad habit vanished. The ugly confidence smoothed into something polished and frictionless, and Henning mourned it quietly the way you mourn a rough-edged stone that someone has tumbled into a bead.
+Henning had liked him before the implant. Liked the way he'd held a cable stripper — too tight, compensating with his wrist instead of his forearm, a bad habit inherited from his father that Henning had spent three weeks correcting. Liked the ugly confidence of a boy who'd wired a shed at fourteen and gotten shocked twice and come back for a third try. After the implant, Lukas became like the others. Smoother. Faster. The bad habit vanished. The ugly confidence smoothed into something polished and frictionless, and Henning mourned it quietly, like a rough-edged stone someone had tumbled into a bead.
 
 Now Lukas was forty minutes into the exam. He'd completed the first two circuits — lighting and socket ring — and was starting the fault diagnosis section. The task required identifying three pre-installed faults in a panel: a reversed polarity on a socket circuit, a missing PE connection, and a mismatched RCD rating. Standard stuff. Every apprentice who'd paid attention in year two could find them. Every apprentice with a BCI could find them in their sleep.
 
@@ -26,7 +26,7 @@ It was small. A breath, caught and held. The kind of sound a person makes when t
 
 He turned.
 
-Lukas was standing at his workbench, both hands flat on the surface, staring at the open panel in front of him. His posture had changed. The fluid confidence was gone. His shoulders had pulled inward, the way a person's shoulders pull when they're cold, or lost, or trying to make themselves smaller.
+Lukas was standing at his workbench, both hands flat on the surface, staring at the open panel in front of him. His posture had changed. The fluid confidence was gone. His shoulders had pulled inward — cold, or lost, or trying to make himself smaller.
 
 "Lukas?"
 
@@ -54,7 +54,7 @@ Volker Brandt was already approaching, clipboard raised like a shield. "What's h
 
 "Give us a minute, Volker."
 
-Brandt retreated. The other six apprentices continued working, their attention held by their own panels and whatever lived behind their own patches, and the workshop hummed its sixty-hertz hymn, and the fluorescent lights cast their flat, shadowless light on a young man who was trying to remember what he knew.
+Brandt retreated. The other six apprentices continued working, their attention held by their own panels and whatever lived behind their own patches, and the workshop hummed its fifty-hertz hymn, and the fluorescent lights cast their flat, shadowless light on a young man who was trying to remember what he knew.
 
 "All right," Henning said. "Tell me what happened."
 
@@ -88,7 +88,7 @@ Not this — not exactly. But the shape of it. His mother had broken her hip at 
 
 He looked at Lukas, and he understood.
 
-The boy had known Ohm's law before the implant. Had known it the way you know your address, the way you know which key opens your door — knowledge worn smooth by use, stored in pathways built over years of homework and quizzes and his father's patient explanations at the kitchen table. *Voltage equals current times resistance. V equals I times R.* He'd known it the way Henning's mother had known how to climb stairs.
+The boy had known Ohm's law before the implant. Had known it the way you know your address, which key opens your door — knowledge worn smooth by use, stored in pathways built over years of homework and quizzes and his father's patient explanations at the kitchen table. *Voltage equals current times resistance. V equals I times R.* He'd known it the way Henning's mother had known how to climb stairs.
 
 And then the implant arrived, and the knowledge was there faster, easier, without the effort of climbing. Why would the brain maintain a staircase when there was a lift? Why keep the muscles strong when the wheelchair was so comfortable, so effortless, so perfectly designed to make walking unnecessary?
 
@@ -104,7 +104,7 @@ The boy looked up. His eyes were wet, and Henning felt something move in his che
 
 "Pick up the cable stripper. The one on your bench."
 
-Lukas picked it up. His hand found the grip without fumbling — the fingers closing at the right angle, the thumb settling into the groove, the tool becoming part of the hand the way it does when the body knows something the mind has forgotten.
+Lukas picked it up. His hand found the grip without fumbling — the fingers closing at the right angle, the thumb settling into the groove, the tool becoming part of the hand because the body knew something the mind had forgotten.
 
 "Strip a cable."
 
@@ -112,7 +112,7 @@ Lukas pulled a length of NYM-J from the spool on the bench, positioned it in the
 
 "Good. Now wire the socket circuit. Don't think about the fault diagnosis. Don't think about the RCD. Wire the circuit the way you'd wire it in a house. The way your father taught you."
 
-Something shifted in Lukas's face. Not comprehension — more like recognition, the way a sleepwalker recognizes a room they're moving through without being fully awake. His hands went to work. Brown to L, blue to N, green-yellow to PE. The conductors seated in the terminals with the clean mechanical certainty of a key finding its lock. His fingers knew the torque of the screws — the quarter-turn past finger-tight that meant secure without stripped threads. He didn't think about it. He couldn't think about it. The thinking parts were dark. But the doing parts — the motor memory, the muscle knowledge, whatever it was that lived in the hands and the forearms and the neural architecture that nobody downloaded because nobody had ever bothered to map it — those parts were still lit.
+Something shifted in Lukas's face. Not comprehension — more like recognition, a sleepwalker moving through a room without being fully awake. His hands went to work. Brown to L, blue to N, green-yellow to PE. The conductors seated in the terminals with the clean mechanical certainty of a key finding its lock. His fingers knew the torque of the screws — the quarter-turn past finger-tight that meant secure without stripped threads. He didn't think about it. He couldn't think about it. The thinking parts were dark. But the doing parts — the motor memory, the muscle knowledge, whatever it was that lived in the hands and the forearms and the neural architecture that nobody downloaded because nobody had ever bothered to map it — those parts were still lit.
 
 It took him forty minutes to finish. He didn't find all three faults. He found one — the reversed polarity — by the oldest method known to electricians: he checked every connection twice, the way his father had taught him. The missing PE he found by accident, noticing the empty terminal when he traced the earth conductor by hand. The RCD rating mismatch he missed entirely, because he couldn't remember what the correct rating was supposed to be, because that knowledge was declarative, was factual, was the kind of thing a person stored in the part of the brain that the implant had been so helpfully maintaining for eighteen months while the native tissue did whatever tissue does when it's no longer needed.
 
@@ -160,7 +160,7 @@ The walk to the Handwerkskammer took twelve minutes.
 
 Erfurt in July was a city that remembered it was beautiful and didn't care. The Altstadt shimmered in the late-afternoon heat, the cobblestones radiating warmth that he could feel through the soles of his work boots — Elten Maverick, steel-toed, the same model he'd worn for fifteen years because they fit his feet and his feet had earned the right to be comfortable. The air smelled of linden blossoms and warm stone and, from somewhere, Bratwurst, because Erfurt always smelled of Bratwurst the way Paris always smelled of bread, not as a tourist attraction but as a fact of atmospheric chemistry.
 
-He crossed the Krämerbrücke. The medieval bridge was busy with its summer crowd: tourists with cameras, art students sketching the half-timbered facades, a man selling handmade candles from a window that had been selling something since the fourteenth century. The houses leaned together over the Gera the way they always leaned — familiarly, structurally, held up by each other and by the stubbornness of timber that had been standing for seven hundred years and saw no reason to stop. A couple posed for a photograph on the bridge's east side, and the woman tilted her head — the accessing gesture, subtle but unmistakable — and said something to the man about the bridge's construction date and load-bearing capacity, and the man nodded, and neither of them looked at the water below, which was shallow and quick and bright with afternoon light and did not care about load-bearing capacity and never had.
+He crossed the Krämerbrücke. The medieval bridge was busy with its summer crowd: tourists with cameras, art students sketching the half-timbered facades, a man selling handmade candles from a window that had been selling something since the fourteenth century. The houses leaned together over the Gera — familiarly, structurally, held up by each other and by the stubbornness of timber that had been standing for seven hundred years and saw no reason to stop. A couple posed for a photograph on the bridge's east side, and the woman tilted her head — the accessing gesture, subtle but unmistakable — and said something to the man about the bridge's construction date and load-bearing capacity, and the man nodded, and neither of them looked at the water below, which was shallow and quick and bright with afternoon light and did not care about load-bearing capacity and never had.
 
 Henning walked past them. Through Fischmarkt, where the Renaissance facades of the merchant houses faced each other across the square like old rivals who had agreed to be neighbors. The Rathaus, with its murals. The Fischmarkt fountain, where pigeons conducted their ancient audit of the cobblestones. He'd crossed this square ten thousand times. Fifteen thousand. His boots knew every uneven stone, every patch where the city had replaced a cobble and the new one sat a millimeter higher than its neighbors, a small imperfection that his soles had catalogued and his ankles had memorized and his conscious mind had never once considered worth noticing.
 
@@ -198,7 +198,7 @@ He went back to the workshop.
 
 Not home. Not the Stammtisch — it was Wednesday, not Thursday, and the Stammtisch ran on Thursday the way current ran on copper, reliably and without negotiation. He went back to Workshop A because it was the place where his hands knew what to do, and when a man's head was full of something he couldn't say, it helped to put his hands on something he could.
 
-The building was empty. The janitor had been through — the floor was damp in patches, the wet-mop smell mixing with the residual PVC and flux to create the olfactory signature of a workshop at rest. The fluorescent lights came on with their usual flicker-and-settle, the brief stammer before the steady hum, and the tool wall lit up in sections: screwdrivers, strippers, pliers, meters, each in its silhouette, each accounted for.
+The building was empty. The janitor had been through — the floor was damp in patches, the wet-mop smell mixing with the residual PVC and flux to create the olfactory signature of a workshop at rest. The lights came on with their usual flicker-and-settle, the brief stammer before the steady hum, and the tool wall lit up in sections: screwdrivers, strippers, pliers, meters, each in its silhouette, each accounted for.
 
 Henning sat at his desk. The carbon copy of the incident report lay in front of him, tissue-thin and yellow, the text showing through in reverse from the back like a mirror image of something important. He picked it up and read it again.
 
@@ -208,13 +208,13 @@ Nobody would read it.
 
 He knew this the way he knew which breakers tripped in a thunderstorm — not from theory but from experience, from thirty years of filing reports and raising concerns and sitting in meetings where men in good suits nodded thoughtfully and did nothing. He had filed reports about apprentice readiness. About the mismatch between theoretical knowledge and practical skill. About the slow disappearance of workshop hours from the curriculum, replaced by digital modules that taught everything and trained nothing. Every report went into a drawer. Every drawer stayed closed.
 
-But you filed them anyway. You filed them the way you labelled circuits in a panel that nobody would open for twenty years — because someday, someone would open it, and when they did, the labels had better be right.
+But you filed them anyway. You filed them like labelling circuits in a panel that nobody would open for twenty years — because someday, someone would open it, and when they did, the labels had better be right.
 
 He opened his desk drawer. The top left, the deep one, the one with the broken runner that he'd fixed twice and that still stuck if you pulled it at the wrong angle. Inside: thirty years of teaching notes. Handwritten, most of them, on the same lined paper the school had stocked since the nineties. Lesson plans, exam analyses, cohort assessments, margin notes, sketches of wiring diagrams with corrections in red pencil. The archaeological record of a career spent teaching hands to do what brains could only describe.
 
 He placed the carbon copy on top of the stack. Yellow on white. The newest document on the oldest pile. It sat there like a diagnosis on a medical chart — one data point in a long history, the point where the line changed direction.
 
-Henning leaned back in his chair. The workshop was silent except for the fluorescent hum and the distant sound of traffic on Schillerstrasse and, somewhere in the building's guts, the heating system's pilot light clicking on and off in its endless, pointless cycle — it was July, nothing needed heating, but the system checked anyway, because that was what systems did. They ran their checks. They maintained their readiness. They kept the pathways open even when no one was calling for heat.
+Henning leaned back in his chair. The workshop was silent except for the distant sound of traffic on Schillerstrasse and, somewhere in the building's guts, the heating system's pilot light clicking on and off in its endless, pointless cycle — it was July, nothing needed heating, but the system checked anyway, because that was what systems did. They ran their checks. They maintained their readiness. They kept the pathways open even when no one was calling for heat.
 
 *Use it or lose it.*
 
@@ -232,7 +232,7 @@ He looked at the carbon copy in the drawer. At Lukas's name in his own handwriti
 
 He closed the drawer. It stuck, as it always did, and he lifted the front edge slightly and pushed again, and it closed with the soft wooden thunk of a mechanism that was worn but functional, imperfect but maintained, still doing its job because someone cared enough to work around its flaws.
 
-Beyond his desk lamp, the workshop had gone to silhouettes. The tool wall was a grid of shadows, Wilhelm's silhouettes holding the places of tools that were all present, all accounted for, all maintained. His grandfather's Knipex Cobolt pliers hung on their hook, the dark-honey Bakelite handles catching the light.
+Beyond his desk lamp, the workshop had gone to silhouettes. His grandfather's Knipex pliers hung on their hook, the dark-honey Bakelite handles catching the last light.
 
 Henning sat in his workshop after hours and thought about a boy who had reached for his own knowledge and found someone else's furniture where his memories used to be. About a drawer full of reports that no one would read. About a system that documented everything and understood nothing. About muscles and minds and the terrible democracy of atrophy, which did not care whether you were a leg or a thought — if you weren't used, you were lost.
 

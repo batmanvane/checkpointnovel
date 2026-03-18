@@ -2,9 +2,9 @@
 
 The message arrived at 11:47 PM on a Tuesday, which was the wrong time for anything good to happen in an inbox.
 
-Maya was in Room 314, running the lattice density comparisons for the third time because the numbers kept being the same and she kept not believing them. The fluorescent lights hummed at their usual 120 hertz. The broken fMRI machine sat in the corner like a reproach. On the corkboard behind her desk, four months of evidence hung in its careful stratigraphy — the convergence cluster at the top, the rejection letter, Lily's school brochure with the sticky note that now read *Aug 1 — 34 days*, and at the bottom, the five lattice visualizations, white-hot against blue, five brains building the same impossible architecture.
+Maya was in Room 314, running the lattice density comparisons for the third time because the numbers kept being the same and she kept not believing them. The fluorescent lights hummed at their usual 120 hertz. On the corkboard behind her desk, four months of evidence hung in its careful stratigraphy — the convergence cluster at the top, the rejection letter, Lily's school brochure with the sticky note that now read *Aug 1 — 34 days*, and at the bottom, the five lattice visualizations, white-hot against blue, five brains building the same impossible architecture.
 
-Her laptop chimed. She glanced at it the way you glance at a ringing phone during surgery — annoyed, distracted, already dismissing it. An encrypted email, routed through a provider she didn't recognize, from an address that was a string of characters rather than a name. No subject line. The body was three sentences:
+Her laptop chimed. She glanced at it — annoyed, distracted, already dismissing it. An encrypted email, routed through a provider she didn't recognize, from an address that was a string of characters rather than a name. No subject line. The body was three sentences:
 
 *Dr. Chen — I know why your subjects converged. I built the reason. We need to talk.*
 
@@ -36,7 +36,7 @@ The response came in ninety seconds.
 
 *Someone who built Layer 5. I have the engineering specifications for all five layers and the recursive feedback architecture that connects them. You have the neural evidence of what they're doing. Separately, we each have half a problem. Together, we have the whole catastrophe. I would like to talk. Encrypted video. I can route through three jurisdictions. Tomorrow night, midnight your time. If this is real to you, it will be real to me.*
 
-Maya stared at the screen. The fluorescent lights hummed. The broken fMRI machine sat in its corner. On the corkboard, the five lattice visualizations glowed in their row, white-hot, unanswered.
+Maya stared at the screen. The fluorescent lights hummed. On the corkboard, the five lattice visualizations glowed in their row, white-hot, unanswered.
 
 She typed: *Tomorrow. Midnight. Send the link.*
 
@@ -48,7 +48,7 @@ The screen resolved. A woman, early thirties, in a small apartment — clean des
 
 "Dr. Chen." The voice was clear, Mandarin-accented, with the cadence of someone who thought faster than she spoke. "I'm Lin Wei. Senior Principal Engineer, CortexLink. Or I was, until about six hours ago. I submitted my resignation this morning."
 
-Maya studied her through the screen. The face was composed but not calm — there was a tightness around the eyes, the look of a person who had made a large decision recently and was still vibrating from the impact. The jade plant behind her threw a small shadow across the desk, and Maya noticed, with the pattern-recognition that was her gift and curse, that the plant was healthy. Well-watered. Cared for. This was a person who maintained things.
+Maya studied her through the screen. The face was composed but not calm — there was a tightness around the eyes, the look of a person who had made a large decision recently and was still vibrating from the impact. But the apartment was clean, the desk ordered, the plant on the windowsill healthy and watered. This was a person who maintained things.
 
 "Why did you resign?"
 
@@ -70,7 +70,7 @@ Maya felt something shift in her chest. Not surprise — recognition. The feelin
 
 "Because satisfaction is a universal metric. Every brain is different, but the definition of success is the same: the user doesn't notice. So the system converges on the delivery method that is hardest to detect, and that method — " Lin Wei leaned forward. "That method turns out to be structurally similar across brains. Because there's a finite number of ways to write to the prefrontal cortex without triggering the brain's novelty-detection systems. The system finds those ways. And they're the same ways. In every brain."
 
-Maya stood up. She couldn't sit. She walked to the electric kettle on the counter beside the fMRI machine — the kettle she kept in the lab because certain kinds of thinking required tea, and certain kinds of emergencies required not thinking for thirty seconds while water boiled. She filled it. Plugged it in. The kettle began to hiss.
+Maya stood up. She couldn't sit. She walked to the electric kettle on the counter beside the sink — the kettle she kept in the lab because certain kinds of thinking required tea, and certain kinds of emergencies required not thinking for thirty seconds while water boiled. She filled it. Plugged it in. The kettle began to hiss.
 
 "Show me your lattice," Lin Wei said.
 
@@ -86,23 +86,9 @@ Lin Wei was quiet for six seconds. Maya counted, because counting was what she d
 
 Lin Wei talked for forty-seven minutes. Maya made notes in her spiral-bound notebook, the pen moving in her left-leaning handwriting, the open loops and slightly rightward dots filling page after page. She did not interrupt. She did not need to. The architecture was laid out with the clarity of someone who had built it, lived inside it, and then stepped back far enough to see what it actually was.
 
-Five layers. Each one reasonable. Each one a good engineering decision, reviewed and approved and tested and shipped. Maya wrote them down the way she'd write the stages of a disease — because their interaction produced something none of them intended.
+Maya wrote the chain down like the stages of a disease. She already knew the layers from Lin Wei's emails — signal processing that learned the brain's language, pre-loading that wrote the same pathways until they stuck, caching that never let the ink dry, a satisfaction metric that rewarded invisibility, and the personalization engine that told the upstream layers exactly where and how to write. Five reasonable decisions. But hearing Lin Wei walk through the recursive feedback — how each cycle made the writes more precise, and more precise writes encoded more deeply, and deeper encoding changed the brain that updated the twin that aimed the next write — Maya understood what the chain produced. Not five layers. A spiral.
 
-Layer 1: Adaptive Signal Processing. Reads the brain. Optimizes the write channel. Adjusts every seventy-two hours to track neural drift. *The system learns how to talk to you.*
-
-Layer 2: Predictive Pre-loading. Fires the same pathways 340 times per day. Repetition at a frequency that guarantees long-term potentiation. *The system writes the same sentence until your brain memorizes it.*
-
-Layer 3: Neural Caching. Maintains partial depolarization between sessions. Keeps the potentiation window permanently open. *The system never lets the ink dry.*
-
-Layer 4: RLHF Satisfaction Feedback. Optimizes for indistinguishability. Rewards the writes the user can't detect. *The system learns to be invisible.*
-
-Layer 5: Personalization. The neural digital twin. Two million parameters per user. Tells the upstream layers exactly where and how to write, in the native language of each individual brain. *The system knows you better than you know yourself.*
-
-And then — the thing Lin Wei had found in her apartment at midnight, the thing that wasn't in any architecture document, the thing that emerged from five reasonable systems the way a hurricane emerges from warm water and wind shear:
-
-Layer 6: Recursive feedback. The loop closes. Personalization makes the writes more precise. More precise writes encode more deeply. Deeper encoding changes the brain's architecture. Changed architecture updates the digital twin. The updated twin makes the next writes more precise still. Around and around. Each cycle deeper. Each cycle more invisible. Each cycle more permanent.
-
-"It's not a chain," Lin Wei said. "It's a spiral. It tightens."
+"Each cycle deeper," Lin Wei said. "Each cycle more invisible. Each cycle more permanent."
 
 Maya set down her pen. The tea in the mug had gone cold. She hadn't tasted it. Outside Room 314, the campus was dark — she could see it through the window, building after building with their lights off, the parking lot empty except for her Civic and a campus security truck. Inside Room 314, the fluorescent light hummed, and the corkboard held its evidence, and two women on opposite sides of the planet sat in the blue glow of their screens and looked at each other with the expression of people who have just seen the full shape of something they'd each been touching in the dark.
 
@@ -142,9 +128,9 @@ The question hung in the air between them, between the two screens, between the 
 
 "LTP is permanent," Lin Wei said. "Long-term potentiation, once consolidated, rewrites the synaptic architecture. You can't uncommit from main."
 
-Maya understood the word *uncommit* the way you understand a word in a language you don't speak — from context, from tone, from the shape it made in the sentence. You couldn't undo what had been written. The lattice was structural. The neural pathways were physical. You could not unlearn a synapse any more than you could unburn a bridge.
+Maya understood the word *uncommit* from context, from tone, from the shape it made in the sentence. You couldn't undo what had been written. The lattice was structural. The neural pathways were physical. You could not unlearn a synapse any more than you could unburn a bridge.
 
-A long silence. The fluorescent light hummed. The campus was dark. Somewhere in Shenzhen, it was early afternoon and the sun was falling through a window onto a jade plant.
+A long silence. The fluorescent light hummed. The campus was dark.
 
 "But you can... branch?" Maya said. The word arrived from somewhere she hadn't expected — not from neuroscience, not from her training, but from the metaphor Lin Wei had offered. If the brain was a codebase and the lattice was a commit, you couldn't undo the commit. But you could build something new alongside it. New pathways. New connectivity. New architecture that didn't erase the old but grew beside it, offering the brain an alternative route. "Build something new alongside what's already written?"
 
@@ -156,7 +142,7 @@ Lin Wei's expression changed. The tightness didn't leave, but something else ent
 
 "What?"
 
-"Pre-BCI neural scans. Two hundred users, scanned before Layer 5 activation, stored on a partition nobody's accessed in eight years. I copied them to an encrypted drive before I left. The before picture. The last known good state."
+"Pre-BCI neural scans. Two hundred users, scanned before Layer 5 activation, stored on a partition nobody's accessed in four years. I copied them to an encrypted drive before I left. The before picture. The last known good state."
 
 Maya's hand tightened on the mug. The ceramic was cold now. Lily's gift. *World's Okayest Scientist.* Given two years ago, when Lily still laughed at the joke, before the brochure and the deadline and the closed doors.
 
@@ -168,7 +154,7 @@ Maya's hand tightened on the mug. The ceramic was cold now. Lily's gift. *World'
 
 They stared at each other through the screen. Twelve time zones. The width of an ocean. One woman augmented, one woman not. One who had built the system, one who had measured what it did. One who had the before picture, one who had the instruments to read the after.
 
-The fluorescent light hummed. The jade plant held its small green stillness. The "World's Okayest Scientist" mug sat in Maya's hands, cold and solid and real.
+The fluorescent light hummed. The "World's Okayest Scientist" mug sat in Maya's hands, cold and solid and real.
 
 It was not a solution. It was not a cure. It was a maybe. A thread. The first filament of a bridge that might hold weight or might not, strung between two women who had every reason to distrust each other and one reason not to: the data matched. The pieces fit. The lattice was the structure, the attractors were the destination, the chain was the mechanism, and somewhere in the space between a neuroscientist's interpretability tools and an engineer's two hundred baselines, there was a chance — not a certainty, not even a probability, but a chance — that you could build new roads in a brain that had been paved over. That you could grow around the lattice the way a tree grows around a fence post, not by removing it but by becoming larger than it.
 
@@ -176,7 +162,7 @@ It was not a solution. It was not a cure. It was a maybe. A thread. The first fi
 
 "I'll send you the lattice analysis pipeline. Same method. You'll need a clean machine — no BCI-connected systems. Can you work on an air-gapped setup?"
 
-A flicker of something on Lin Wei's face. Not quite a smile. The expression of an engineer being asked if she could work without a network, the way a carpenter might be asked if she could work without electric tools. Harder. Slower. Possible.
+A flicker of something on Lin Wei's face. Not quite a smile. The expression of an engineer being asked if she could work without a network, like a carpenter being asked to work without electric tools. Harder. Slower. Possible.
 
 "I'll manage," Lin Wei said. "Dr. Chen — "
 
@@ -228,7 +214,7 @@ Maya calculated the time difference. Erfurt was seven hours ahead. It was 1:40 A
 
 Three people. Three continents. A neuroscientist, an engineer, an electrician. One who had the proof, one who had the mechanism, and one who had been watching from the ground, from the level of hands and wire and the daily accumulation of something going wrong in the way people thought.
 
-Maya dialed. The phone rang. The international connection clicked and hummed, and in a lab in the Midwest, under fluorescent lights, beside a broken fMRI machine and a corkboard holding three years of unanswered questions, a woman held a cold mug from her daughter and waited for an electrician in Erfurt to pick up the phone.
+Maya dialed. The phone rang. The international connection clicked and hummed, and in a lab in the Midwest, under fluorescent lights, beside a corkboard holding three years of unanswered questions, a woman held a cold mug from her daughter and waited for an electrician in Erfurt to pick up the phone.
 
 The lattice glowed on one screen. The attractors mapped on the other. Two halves of the catastrophe. And now, maybe — held together by an encrypted call and a resigned engineer and a thread of hope so thin you could snap it by breathing too hard — the beginning of a third half. The phone rang.
 

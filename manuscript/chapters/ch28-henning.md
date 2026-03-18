@@ -1,6 +1,6 @@
 # 28. The Workshop
 
-The fluorescent lights still hummed at sixty hertz.
+The fluorescent lights still hummed at fifty hertz.
 
 Henning had meant to replace them every year for the last ten, and every year the budget went to something else, and every year the lights kept humming, and after a decade of failed intentions he'd come to understand that the hum was not a deficiency but a feature. It was the sound of the workshop being the workshop. A room without its hum would be like a man without his heartbeat — technically improvable, practically fine.
 
@@ -10,7 +10,7 @@ He filled the reservoir. Measured the grounds by feel — four scoops from the R
 
 Six months since the protocols went live. The Deceleration Protocols, they called them. Henning had attended one of the meetings, in Brussels, because Maya had asked and because a man who had filed forty-seven reports into a system that never called back owed it to himself to see the system when it finally picked up the phone. He'd worn his good trousers and his work boots and sat in a room with simultaneous translation and adjustable lighting and chairs that cost more than his workbench, and he'd said what he'd always said: the wire doesn't care what you downloaded. The wire cares what your hands can do.
 
-They'd applauded. He'd found the applause unnecessary but not unpleasant, the way he found a well-labeled panel unnecessary but not unpleasant — it wasn't the label that made the panel work, but it meant someone had taken the trouble.
+They'd applauded. He'd found the applause unnecessary but not unpleasant, like a well-labeled panel — it wasn't the label that made the panel work, but it meant someone had taken the trouble.
 
 Then he'd come home to Erfurt and gone back to the workshop and the world had continued being the world, which was what worlds did.
 
@@ -18,11 +18,11 @@ Then he'd come home to Erfurt and gone back to the workshop and the world had co
 
 Spring was doing what spring in Erfurt always did: arriving slowly, with the stubbornness of a season that had to push through four months of Thuringian grey to get here. The chestnuts in the schoolyard were leafing out — pale green, translucent, the kind of green that lasted two weeks before darkening into something more serious. Through the workshop window, the courtyard was empty at this hour, cobblestones still damp from last night's rain, the air carrying the smell of wet stone and new growth and the faint diesel note of the city bus on Schillerstrasse.
 
-He poured a cup of coffee and stood at the window and drank. The light came in at a low angle, catching the workbenches, picking out the grain in the scarred wood, the scratches and stains that thirty years of apprentices had worn into the surfaces the way rivers carved canyons — by repetition. His bench, at the front, was the most marked. Not because he was careless but because he was there the most, and being there the most meant making the most marks, and a bench without marks was a bench that hadn't been used, and a bench that hadn't been used was furniture, not a tool.
+He poured a cup of coffee and stood at the window and drank. The light came in at a low angle, catching the workbenches, picking out the grain in the scarred wood, the scratches and stains that thirty years of apprentices had worn into the surfaces like rivers carving canyons — by repetition. His bench, at the front, was the most marked. Not because he was careless but because he was there the most, and being there the most meant making the most marks, and a bench without marks was a bench that hadn't been used, and a bench that hadn't been used was furniture, not a tool.
 
 The Moccamaster's brew was at the right temperature — the narrow window between too hot to taste and too cool to enjoy, calibrated by the warmth of the cup against his palm.
 
-He looked at the tool wall. Wilhelm's system. Every tool in its silhouette, outlines painted in the same grey his grandfather had mixed from leftover primer in 1962. Screwdrivers by size and type. Cable strippers by gauge. The Knipex Cobolt pliers — Bakelite handles that had been red once and were now the color of dark honey, the left handle still carrying the slight bend from when Wilhelm dropped them from a ladder in 1978. They hung in their place, in their silhouette, where they had hung for longer than most of the apprentices who passed through this room had been alive.
+He looked at the tool wall. Wilhelm's system. Every tool in its silhouette, outlines painted in the same grey his grandfather had mixed from leftover primer in 1962. Screwdrivers by size and type. Cable strippers by gauge. The Knipex pliers — Bakelite handles that had been red once and were now the color of dark honey, the left handle still carrying the slight bend from when Wilhelm dropped them from a ladder in 1978. They hung in their place, in their silhouette, where they had hung for longer than most of the apprentices who passed through this room had been alive.
 
 The coffee machine clicked off. Its thermal switch, making its small mechanical decision.
 
@@ -32,7 +32,7 @@ At seven forty-five, the door opened.
 
 Her name was Lena Berger, and she was eighteen, and she was from Ilmenau.
 
-She came through the door the way all first-day apprentices came through the door — with the self-conscious alertness of a person entering a room that might change their life and trying not to let that show. She was tall for her age, with dark blonde hair pulled back in the kind of practical braid that suggested a household where hair was not a project but a problem to be solved. Her hands were large. Henning noticed this the way he noticed all hands — automatically, the way a carpenter notices grain in a door frame. Large hands, with broad palms and long fingers, the kind of hands that would fit a cable stripper without the compensating grip that smaller-handed apprentices had to develop. Good hands. Unformed hands.
+She came through the door like every first-day apprentice before her — with the self-conscious alertness of a person entering a room that might change their life and trying not to let that show. She was tall for her age, with dark blonde hair pulled back in the kind of practical braid that suggested a household where hair was not a project but a problem to be solved. Her hands were large. Henning noticed this the way he noticed all hands — automatically, like a carpenter noticing grain in a door frame. Large hands, with broad palms and long fingers, the kind of hands that would fit a cable stripper without the compensating grip that smaller-handed apprentices had to develop. Good hands. Unformed hands.
 
 She was carrying a canvas bag — not a backpack, a bag, the kind with handles and a single pocket — and a paper folder.
 
@@ -80,7 +80,7 @@ He set the finished junction on the bench.
 
 Lena picked up the cable stripper.
 
-She held it the way everyone held it the first time — too high on the handles, fingers bunched, the grip of someone who knows that a tool should be held firmly but doesn't yet know where firmly lives in the hand. She positioned the cable in the jaws. Pressed. Pulled.
+She held it too high on the handles, fingers bunched — the grip of someone who knows that a tool should be held firmly but doesn't yet know where firmly lives in the hand. She positioned the cable in the jaws. Pressed. Pulled.
 
 The insulation tore. Not a clean separation but a ragged rip, PVC shredding at an angle, exposing copper with a bright scar where the blade had bitten too deep. One conductor had a nick in its insulation. Not dangerous in a training exercise. Fatal in a house.
 
@@ -118,7 +118,7 @@ It happened the way such things always happened — not as a decision but as an 
 
 An angle that was hers.
 
-She didn't know it yet. The conscious mind was still fumbling, still cataloguing errors. But the hands knew. The hands had found the grip, the way water finds the crack, the way current finds the path — by flowing, by doing, again and again until the doing became the knowing and the knowing became the body and the body became the skill.
+She didn't know it yet. The conscious mind was still fumbling, still cataloguing errors. But the hands knew. The hands had found the grip — like water finding the crack, like current finding the path — by flowing, by doing, again and again until the doing became the knowing and the knowing became the body and the body became the skill.
 
 ---
 
@@ -157,7 +157,7 @@ They'd been standing in a hallway in Brussels — the protocol meeting had broke
 
 He hadn't understood the technical part. He didn't need to. He understood the human part the way a good metaphor lands — not because you grasp the mechanism but because you recognize the truth. An empty space. Everything still to be written. No inherited structure, no pre-loaded knowledge, no invisible lattice shaping the work before the work began. Just the hands and the tool and the morning and the wire, and whatever happened next would be what the hands made happen, for better or worse, ugly or clean, efficient or not.
 
-The printout hung between Wilhelm's Knipex Cobolt pliers and a voltage tester from 1991 that still worked. Exactly where it belonged — between the oldest tool and the most stubborn one, in the company of things that had lasted because they did what they did and didn't pretend to do anything else.
+The printout hung between Wilhelm's Knipex pliers and a voltage tester from 1991 that still worked. Exactly where it belonged — between the oldest tool and the most stubborn one, in the company of things that had lasted because they did what they did and didn't pretend to do anything else.
 
 ---
 
@@ -169,13 +169,13 @@ He nodded.
 
 That was all. The oldest assessment in the history of teaching — one person watching another person do a thing and confirming with a motion of the head that the thing had been done. No score. No metric. No algorithmic evaluation. A nod, from a man who had nodded at ten thousand junction boxes and whose nod meant: this will hold.
 
-He picked up Wilhelm's Knipex Cobolt pliers from the pegboard. The weight was familiar. The Bakelite warm in his hand. The bent left handle fitting his grip the way it had fit his grip for forty years, and his father's grip before that, and his grandfather's before that. He held them for a moment — the weight of them was the weight of everything he knew and everything he couldn't say and everything that lived in his hands instead of his words. Then he hung them back in their silhouette.
+He picked up Wilhelm's Knipex pliers from the pegboard. The weight was familiar. The Bakelite warm in his hand. The bent left handle fitting his grip as it had fit his grip for forty years, and his father's grip before that, and his grandfather's before that. He held them for a moment — the weight of them was the weight of everything he knew and everything he couldn't say and everything that lived in his hands instead of his words. Then he hung them back in their silhouette.
 
 The workshop smelled of PVC shavings and coffee. The coffee machine was empty. He'd make more. In a minute.
 
 He turned to the window. Spring in Erfurt. Chestnuts leafing out, pale green against grey stone. The Domberg visible above the rooftops, the cathedral and the Severikirche holding their positions the way they'd held them for eight hundred years — stone on stone, built by hands that made ten thousand imperfect decisions and produced something that stood. The courtyard was full now: students moving between buildings, some with patches behind the left ear in passive mode, some active, some with nothing at all. The world messier than a year ago, and more alive. Both true. Through the wall, faintly: a class next door, someone laughing, someone arguing. The old sounds of people learning by being wrong together.
 
-Behind him, Lena began her eleventh strip. She'd found her grip now — she didn't know it yet, but her body knew. The slight rotation, the forearm's quiet authority, the angle that was nobody's but hers. The cable stripper whispered through the PVC. The fluorescent lights hummed their sixty-hertz hymn. The concrete floor held its cracks and its epoxy and its sixty years of dust. The tool wall held its silhouettes, every ghost filled by its body, every tool accounted for.
+Behind him, Lena began her eleventh strip. She'd found her grip now — she didn't know it yet, but her body knew. The slight rotation, the forearm's quiet authority, the angle that was nobody's but hers. The cable stripper whispered through the PVC. The fluorescent lights hummed their fifty-hertz hymn. The concrete floor held its cracks and its epoxy and its sixty years of dust. The tool wall held its silhouettes, every ghost filled by its body, every tool accounted for.
 
 He looked at the `git init` printout on the wall. His grandfather's tools. Lena's hands on the wire.
 

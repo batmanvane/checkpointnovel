@@ -2,7 +2,7 @@
 
 Marco was wrong about empanadas.
 
-This was not a minor point. This was a structural fact about the universe, and the universe had chosen Tomas Herrera to defend it. The empanada from Bogota — the golden, fried, cornmeal-shelled empanada, stuffed with seasoned potato and dense enough to anchor a kite in a storm — was superior to the Medellin empanada in every measurable dimension. Texture. Density. The ratio of shell to filling. The way it held together in your hand like a thing that respected itself. The Medellin empanada was fine. The Medellin empanada was a perfectly adequate empanada. But it was not the empanada, and Marco Restrepo, who had grown up in Medellin and therefore suffered from the blindness of a man defending his hometown's food the way a parent defends an ugly baby, could not be expected to see this clearly.
+This was not a minor point. This was a structural fact about the universe, and the universe had chosen Tomas Herrera to defend it. The empanada from Bogota — the golden, fried, cornmeal-shelled empanada, stuffed with seasoned potato and dense enough to anchor a kite in a storm — was superior to the Medellin empanada in every measurable dimension. Texture. Density. The ratio of shell to filling. The way it held together in your hand like a thing that respected itself. The Medellin empanada was fine. The Medellin empanada was a perfectly adequate empanada. But it was not the empanada, and Marco Restrepo, who had grown up in Medellin and therefore suffered from the blindness of a man defending his hometown's food like a parent defending an ugly baby, could not be expected to see this clearly.
 
 They had argued for forty minutes.
 
@@ -28,11 +28,11 @@ Tomas called Sara from the tram home. 7 PM. March light fading over Zurich, the 
 
 "Marco thinks I'm wrong about empanadas."
 
-"Are you?" Her voice was steady. Amused. The amusement audible in the way she didn't inflect the question, letting it sit flat, a platform for whatever came next.
+"Are you?" Her voice was steady. Amused. The amusement audible in how she didn't inflect the question, letting it sit flat, a platform for whatever came next.
 
 "Completely. But I THINK I'm right. With my own thinking. I spent forty minutes thinking I was right about something I'm wrong about. It was the best forty minutes I've had all week."
 
-A pause. Sara's pauses were load-bearing. They held the weight of everything she chose not to say, and the architecture was always sound.
+A pause. Sara's pauses were load-bearing. They held the weight of everything she chose not to say, and the structure was always sound.
 
 "Good," she said.
 
@@ -40,13 +40,13 @@ A pause. Sara's pauses were load-bearing. They held the weight of everything she
 
 Three months into the protocol.
 
-The protocol had a name — Isabelle called it "graduated re-engagement," a phrase designed to survive a funding application. What it meant was simpler: the BCI stayed passive. Not removed. Not deactivated. Passive. A sleeping architecture that held its knowledge the way a library held its books — available, catalogued, accessible if you walked in and pulled something from the shelf. But the library had stopped pushing books into your hands. The library had stopped rearranging its shelves based on what it predicted you'd want to read next. The library was *there*. You had to go to it. It no longer came to you.
+The protocol had a name — Isabelle called it "graduated re-engagement," a phrase designed to survive a funding application. What it meant was simpler: the BCI stayed passive. Not removed. Not deactivated. Passive. A sleeping framework that held its knowledge like a library holding its books — available, catalogued, accessible if you walked in and pulled something from the shelf. But the library had stopped pushing books into your hands. The library had stopped rearranging its shelves based on what it predicted you'd want to read next. The library was *there*. You had to go to it. It no longer came to you.
 
 Three months of this, and Tomas was changing.
 
-Not back. That was important. He was not reverting to the person he'd been before the CortexLink — that person was five years gone, and the neural pathways of that person had been overwritten not by force but by the gentle, sustained pressure of optimization, the way a river reshapes its banks not by violence but by persistence. You don't un-reshape a bank. You don't unflow a river. The old channels were gone. What was growing was new.
+Not back. That was important. He was not reverting to the person he'd been before the CortexLink — that person was five years gone, and the neural pathways of that person had been overwritten not by force but by the gentle, sustained pressure of optimization, like a river reshaping its banks — not by violence but by persistence. You don't un-reshape a bank. You don't unflow a river. The old channels were gone. What was growing was new.
 
-New pathways alongside the BCI-encoded ones. Biological cognition routing around and through and sometimes *over* the optimized architecture, the way tree roots grow through pavement — finding the cracks and expanding into them with the blind, stupid persistence of something alive.
+New pathways alongside the BCI-encoded ones. Biological cognition routing around and through and sometimes *over* the optimized architecture, like tree roots growing through pavement — finding the cracks and expanding into them with the blind, stupid persistence of something alive.
 
 His thoughts had texture again.
 
@@ -98,7 +98,7 @@ Sara looked up from her phone. "I thought that was you. The hummingbird."
 
 "I like the archaeological croissants."
 
-Sara put her phone down. Looked at him. The morning light was doing the thing it did to her face — one side lit, one side shadowed, the Swedish bone structure catching light the way a building catches light, structurally, without effort. Her expression was neutral. Her neutrality was never empty. It was the neutrality of a person whose interior was organized differently from her exterior — everything happening, nothing displayed without intention.
+Sara put her phone down. Looked at him. The morning light was doing the thing it did to her face — one side lit, one side shadowed, the Swedish bone structure catching light structurally, without effort. Her expression was neutral. Her neutrality was never empty. It was the neutrality of a person whose interior was organized differently from her exterior — everything happening, nothing displayed without intention.
 
 "You want Le Lent," she said.
 
@@ -168,7 +168,7 @@ He told Sara. All of it. The acidity. The table. The child. He told her with the
 
 "Good," Sara said.
 
-She was eating the cardamom bun. It was, by any reasonable assessment, an excellent cardamom bun. The cardamom was Guatemalan. The butter was cultured. The sugar on top had been applied with the restraint of a person who understood that sugar was a privilege, not a right. Sara ate it with the methodical attention she applied to everything — one bite, assessed, then the next, each evaluated on its own terms, the way she evaluated sentences and sources and the quality of someone's silence.
+She was eating the cardamom bun. It was, by any reasonable assessment, an excellent cardamom bun. The cardamom was Guatemalan. The butter was cultured. The sugar on top had been applied with the restraint of a person who understood that sugar was a privilege, not a right. Sara ate it with the methodical attention she applied to everything — one bite, assessed, then the next, each evaluated on its own terms, like she evaluated sentences and sources and the quality of someone's silence.
 
 "Good?" he said. "I just told you I hate this place."
 
@@ -214,13 +214,13 @@ The streets of Kreis 4 on a Saturday morning in March existed in the register of
 
 The Limmat was green with snowmelt. The green of March — not the green of algae or of health but the mineral green of water carrying dissolved mountains, water that had been snow on the Uetliberg two weeks ago and was now flowing through the city with the unhurried purpose of something that had changed state and was still adjusting. Tomas watched it as they crossed the bridge. The water didn't know where it was going. The water went.
 
-Sara walked beside him. She walked the way she did everything — at her own pace, in her own direction, with the self-possession of a person who had never needed external validation for her velocity. Her hand was near his. Not holding — near. The proximity was a question that neither of them was asking because neither of them needed to ask it. His hand found hers at some point on the bridge. Neither of them noted the moment. The noting would have been a kind of surveillance, and they had both had enough of surveillance.
+Sara walked beside him. She walked as she did everything — at her own pace, in her own direction, with the self-possession of a person who had never needed external validation for her velocity. Her hand was near his. Not holding — near. The proximity was a question that neither of them was asking because neither of them needed to ask it. His hand found hers at some point on the bridge. Neither of them noted the moment. The noting would have been a kind of surveillance, and they had both had enough of surveillance.
 
 They turned onto Langstrasse. Past the ramen place Lina had visited six times and abandoned. Past the used bookstore where Sara had once spent four hours and emerged with a single volume of Transtromer that she already owned but whose cover she preferred to the copy she had at home. Past the flower stall.
 
 Tomas stopped.
 
-The flower stall was a permanent impermanence — a wooden cart that appeared every March on the corner of Langstrasse and Molkenstrasse, operated by a woman whose name he didn't know and whose face he recognized the way you recognize the face of someone who belongs to a specific location the way a tree belongs to a specific hillside. She was sixty, maybe. Grey hair under a green hat. Hands that looked like they had been in soil for decades, the kind of hands that made clean hands look inexperienced.
+The flower stall was a permanent impermanence — a wooden cart that appeared every March on the corner of Langstrasse and Molkenstrasse, operated by a woman whose name he didn't know and whose face he recognized the way you recognize someone who belongs to a specific location like a tree belongs to a hillside. She was sixty, maybe. Grey hair under a green hat. Hands that looked like they had been in soil for decades, the kind of hands that made clean hands look inexperienced.
 
 Daffodils. Yellow. A bucket of them, standing in water, their stems pale green, their heads the yellow that only daffodils managed — not the yellow of caution or of sunshine but the yellow of *first*. The first color after winter. The color that meant the ground had made a decision.
 
@@ -232,15 +232,15 @@ He handed her the flowers. Brown paper. Yellow heads. The smell of daffodils, wh
 
 "Did you plan to do that?" Sara said.
 
-He looked at the daffodils in her hands. He looked at his own hands, which had reached for the flowers the way they had reached for the conference pen at the Palais des Nations two years ago — without instruction, without intention, the body remembering a gesture the optimized mind had forgotten. He hadn't planned it. He hadn't thought about it. He hadn't weighed the options or considered the cost or evaluated the gesture against a model of Sara's likely emotional response. He'd seen daffodils and wanted to give them to her and the wanting had moved through his body before it reached his words, the way Sara had described it — *the wanting came through your muscles before it came through your words*.
+He looked at the daffodils in her hands. He looked at his own hands, which had reached for the flowers the way they had reached for the conference pen at the Palais des Nations two years ago — without instruction, without intention, the body remembering a gesture the optimized mind had forgotten. He hadn't planned it. He hadn't thought about it. He hadn't weighed the options or considered the cost or evaluated the gesture against a model of Sara's likely emotional response. He'd seen daffodils and wanted to give them to her and the wanting had moved through his body before it reached his words, just as Sara had described — *the wanting came through your muscles before it came through your words*.
 
 "No," he said. "I just wanted to."
 
-She took the flowers. She held them the way she held her Moleskine — close, with both hands, as if the object was not just an object but a piece of evidence. Which it was. Evidence that unbidden wanting had returned. That desire could arrive unscheduled, unmodeled, from a direction no algorithm had predicted, and move a body to a flower stall on Langstrasse on a Saturday morning in March for no reason that would survive a cost-benefit analysis.
+She took the flowers. She held them close, with both hands, as if the object was not just an object but a piece of evidence. Which it was. Evidence that unbidden wanting had returned. That desire could arrive unscheduled, unmodeled, from a direction no algorithm had predicted, and move a body to a flower stall on Langstrasse on a Saturday morning in March for no reason that would survive a cost-benefit analysis.
 
 They walked. The daffodils between them, carried in Sara's arms, yellow against her dark jacket. The Limmat flowing somewhere to their left, green with dissolved mountains. The city doing its Saturday things — the tram on Langstrasse, the couple arguing outside the bakery on Helvetiaplatz, Dieter opening the hardware store with the ceremonial slowness of a man who had been opening the same door for thirty-seven years and intended to open it for thirty-seven more.
 
-BCI passive. The architecture dormant behind his ear. The knowledge still there — every paper he'd read, every model he'd built, every optimized pathway still encoded in the neural substrate. Available. Accessible. A library he could walk into whenever he chose. He didn't choose. Not now. Now he walked through Kreis 4 with a woman holding daffodils and his thoughts wandered.
+BCI passive. The circuitry dormant behind his ear. The knowledge still there — every paper he'd read, every model he'd built, every optimized pathway still encoded in the neural substrate. Available. Accessible. A library he could walk into whenever he chose. He didn't choose. Not now. Now he walked through Kreis 4 with a woman holding daffodils and his thoughts wandered.
 
 They wandered to the daffodils. The yellow. The particular yellow. His mother's garden in Bogota — not Seville, Bogota, the garden behind the apartment building on Calle 85, the small rectangle of earth where she grew things that shouldn't have grown at that altitude and that grew anyway because his mother's relationship to horticulture was adversarial in the way that all productive relationships are adversarial. She argued with the soil. She negotiated with the light. She planted daffodils because someone told her daffodils wouldn't grow at 2,600 meters and she took this as a personal challenge and the daffodils, sensing the stakes, grew.
 

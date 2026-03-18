@@ -20,7 +20,7 @@ They had. Four days ago. A call from Munich, routed through the Handwerkskammer 
 
 The coffee machine was a Moccamaster from 2019, purchased with workshop funds after the old Melitta finally died — from the accumulated mineral deposits of twenty-two years of Thuringian water, which was hard enough to leave a white crust on anything that stood still. The Moccamaster was orange, because that was the color they had in stock, and Henning had long ago stopped caring what color a tool was as long as it worked. It worked. Six minutes from cold water to a full pot, brewing at ninety-three degrees, which was within the optimal range and which Henning knew not because he'd read the manual but because he'd held his hand over the steam on the first morning and calibrated by feel.
 
-He poured four cups. Set them on the workbench he used as a meeting table when meetings couldn't be avoided. Dr. Voss wrapped her hands around the cup the way people did in early winter — December in Erfurt, the heating system doing its honest best against stone walls and single-glazed windows that dated from a renovation the city had started in 2004 and never quite finished.
+He poured four cups. Set them on the workbench he used as a meeting table when meetings couldn't be avoided. Dr. Voss wrapped her hands around the cup — December in Erfurt, the heating system doing its honest best against stone walls and single-glazed windows that dated from a renovation the city had started in 2004 and never quite finished.
 
 "Thank you for seeing us," she said. "I know this is short notice."
 
@@ -30,7 +30,7 @@ He poured four cups. Set them on the workbench he used as a meeting table when m
 
 "Why?"
 
-Dr. Voss set down her coffee. She had the look of a person choosing her words the way Henning chose a fuse — with full awareness that the wrong rating could blow something important.
+Dr. Voss set down her coffee. She had the look of a person choosing her words with full awareness that the wrong one could blow something important.
 
 "Meister Brenner, are you familiar with what happened three weeks ago? The publication — the CortexLink data?"
 
@@ -48,7 +48,7 @@ Henning looked at the headset. "You want to scan them while they wire."
 
 "Why mine?"
 
-Dr. Voss exchanged a glance with Dr. Hoffmann, who was unpacking the second case — a duplicate setup, Henning noted, because scientists apparently believed in redundancy the way electricians did. Good.
+Dr. Voss exchanged a glance with Dr. Hoffmann, who was unpacking the second case — a duplicate setup, Henning noted, because scientists apparently believed in redundancy too. Good.
 
 "Because of your reports," she said. "And because of Dr. Chen's paper."
 
@@ -58,13 +58,13 @@ Maya's paper. Published three weeks after the CortexLink data dropped, in *Natur
 
 "Dr. Chen's findings suggest that BCI-mediated learning writes almost exclusively to the declarative memory system," Voss said. "Hippocampus. Prefrontal cortex. The brain's filing cabinet, if you like. But there's another system — the procedural system. Cerebellum. Basal ganglia. Motor cortex. That's where embodied skills live. The how-to, not the what-is."
 
-She was talking the way Maya talked when she was translating: carefully, watching his face for the moment when the wire met the terminal.
+She was translating: carefully, watching his face for the moment when the wire met the terminal.
 
 "The BCI's electrodes sit on the cortical surface," she continued. "They have strong contact with the prefrontal cortex and reasonable access to the hippocampus. Some limited reach into the basal ganglia — partial, inconsistent. But the cerebellum?" She shook her head. "The cerebellum sits at the base of the brain, underneath everything else. Tucked behind the brainstem like a — "
 
 "Like a junction box behind a panel," Henning said.
 
-She stopped. Blinked. Then something that was almost a smile. "Yes. Exactly like that. Behind the panel. The BCI can't reach it. The electrodes are on the wrong side of the architecture. It's a physical limitation — not a design flaw, not something they chose to skip. The cerebellum is simply *unreachable* from where the device sits."
+She stopped. Blinked. Then something that was almost a smile. "Yes. Exactly like that. Behind the panel. The BCI can't reach it. The electrodes are on the wrong side of the structure. It's a physical limitation — not a design flaw, not something they chose to skip. The cerebellum is simply *unreachable* from where the device sits."
 
 Henning drank his coffee. The Moccamaster's brew was at the right temperature — the narrow window between too hot to taste and too cool to enjoy, the window his hands knew by the warmth of the cup. He thought about what she was saying. Not in her language. In his.
 
@@ -94,11 +94,11 @@ He explained nothing about the scientists' purpose. An apprentice who knew they 
 
 "Cable junction," Henning said. "Five conductors, Wago 221. Standard exercise. Begin."
 
-They began. And Dr. Voss fitted the fNIRS headset onto the first apprentice — Tomas Richter, twenty, from Gotha, no BCI, one of Henning's hand-trained students from the start — and watched his brain while his hands did what his hands had learned to do.
+They began. And Dr. Voss fitted the fNIRS headset onto the first apprentice — Nils Richter, twenty, from Gotha, no BCI, one of Henning's hand-trained students from the start — and watched his brain while his hands did what his hands had learned to do.
 
 Henning stood at his bench and watched the watchers.
 
-The scan took twelve minutes per apprentice. Each one wired a junction while wearing the headset, and each junction was different — Henning could see that from across the room, the way he'd always seen it, the way a man who has watched ten thousand junctions being wired can spot the signature in the work the way a typographer spots the font. Tomas held his cable knife low, wrist cocked, a grip he'd developed to compensate for a stiff right thumb from a cycling accident. Maren Dietz stripped with two quick pulls rather than one long draw, a technique she'd invented in her second week and never abandoned. Florian Beck made his Wago connections left to right, always left to right, because his workbench at home was against a right-side wall and the habit had migrated.
+The scan took twelve minutes per apprentice. Each one wired a junction while wearing the headset, and each junction was different — Henning could see that from across the room, the way a man who has watched ten thousand junctions being wired can spot the signature in the work like a typographer spotting a font. Tomas held his cable knife low, wrist cocked, a grip he'd developed to compensate for a stiff right thumb from a cycling accident. Maren Dietz stripped with two quick pulls rather than one long draw, a technique she'd invented in her second week and never abandoned. Florian Beck made his Wago connections left to right, always left to right, because his workbench at home was against a right-side wall and the habit had migrated.
 
 Three apprentices. Three techniques. Three signatures.
 
@@ -106,13 +106,13 @@ Then the BCI-trained apprentices. Same task. Same headset. And their junctions w
 
 By noon, all eight had been scanned. Dr. Voss and her colleagues huddled around their laptops, speaking in the low murmur of people who were looking at something they had expected to find and were still startled by. Henning sent the apprentices to lunch. He made more coffee.
 
-He brought Voss a cup. She took it without looking up from the screen, the way a person takes a tool from a colleague's hand — by feel, by trust, by the assumption that the thing being offered is the thing that's needed.
+He brought Voss a cup. She took it without looking up from the screen — by feel, by trust, by the assumption that the thing being offered was the thing that was needed.
 
 "Show me," he said.
 
-She turned the laptop. On the screen: two brain images, side by side. Not photographs — maps. Color-coded heat maps, red and orange and yellow, showing which regions of the brain had been active during the wiring exercise. Even Henning, who did not read brain scans the way he read circuit diagrams, could see the difference.
+She turned the laptop. On the screen: two brain images, side by side. Not photographs — maps. Color-coded heat maps, red and orange and yellow, showing which regions of the brain had been active during the wiring exercise. Even Henning, who did not read brain scans like circuit diagrams, could see the difference.
 
-The left image — Tomas Richter, hand-trained — was lit up in the back and the base. Deep colors, concentrated, a dense knot of activity in regions that Henning could not name but could locate: low, posterior, tucked behind the brainstem. The junction box behind the panel.
+The left image — Nils Richter, hand-trained — was lit up in the back and the base. Deep colors, concentrated, a dense knot of activity in regions that Henning could not name but could locate: low, posterior, tucked behind the brainstem. The junction box behind the panel.
 
 The right image — one of the BCI-trained apprentices — was lit up in the front. High, forward, the broad expanse behind the forehead. The filing cabinet. The room the device could reach.
 
@@ -130,7 +130,7 @@ Not similar. The same. The prefrontal cortex lit up in identical patterns, the s
 
 "The device writes the skill as declarative knowledge," Voss said. "It tells the brain *what to do*, and the brain executes it — but through the wrong system. Like reading the instructions aloud while you assemble the furniture, instead of knowing in your hands how the pieces fit. It works. It produces clean junctions. But the procedural system — the system that would normally encode the skill through repetition, through error, through the body's own negotiation with the material — that system barely activates. Because it doesn't need to. The device is handling the job from the other room."
 
-Henning stared at the five identical scans. Five brains. Five people. One pattern. He had seen this in the wire — the identical cable-stripper angles, the synchronized corrections, the convergent technique that erased the individual signature from the work. Now he was seeing it in the organ that produced the wire. The lattice. The grid. The same architecture in every brain that had outsourced its learning to the device.
+Henning stared at the five identical scans. Five brains. Five people. One pattern. He had seen this in the wire — the identical cable-stripper angles, the synchronized corrections, the convergent technique that erased the individual signature from the work. Now he was seeing it in the organ that produced the wire. The lattice. The grid. The same pattern in every brain that had outsourced its learning to the device.
 
 "And my three," he said. "The ones I trained."
 
@@ -146,7 +146,7 @@ She paused. Looked at him the way Maya had looked at him — not with the carefu
 
 "Your teaching method didn't resist the technology, Meister Brenner. It built knowledge in a place the technology cannot reach. That's not resistance. That's a firewall. A physical, anatomical firewall. And you've been building it for thirty years."
 
-The fluorescent lights hummed their sixty-hertz hymn. The tool wall held its silhouettes. The Moccamaster clicked off — it had a thermal switch that cut power when the hotplate reached temperature, a small mechanical decision made without consultation, without firmware, without anyone's permission.
+The fluorescent lights hummed their fifty-hertz hymn. The tool wall held its silhouettes. The Moccamaster clicked off — it had a thermal switch that cut power when the hotplate reached temperature, a small mechanical decision made without consultation, without firmware, without anyone's permission.
 
 Henning picked up his coffee. Drank. Set it down.
 
@@ -178,7 +178,7 @@ A pause. The pause of a man recalculating.
 
 "Yes. That's — yes. That's what I mean."
 
-Henning ended the call. He went back to the workshop, where Dr. Voss and her team were packing their equipment with the careful efficiency of people who had more workshops to visit and a dataset to build. He helped Dr. Okonkwo carry the larger case to their rental car — a Volkswagen, naturally, because Munich researchers visiting Thuringia drove Volkswagens the way electricians wore steel-toed boots, by convention and common sense.
+Henning ended the call. He went back to the workshop, where Dr. Voss and her team were packing their equipment with the careful efficiency of people who had more workshops to visit and a dataset to build. He helped Dr. Okonkwo carry the larger case to their rental car — a Volkswagen, naturally, because Munich researchers visiting Thuringia drove Volkswagens by convention and common sense.
 
 The second call came at three o'clock. The Bundesministerium für Bildung und Forschung. Federal Ministry of Education and Research. Berlin.
 
@@ -192,17 +192,17 @@ The woman from the Ministry paused. Recalculated. The same pause Seidel had made
 
 "That would be fine. I'll make coffee."
 
-The third call came at five o'clock, as he was sweeping the workshop floor. The push broom made its steady sound — bristle on concrete, the rasp of grit being moved from where it shouldn't be to where it didn't matter, the sound of a man maintaining his space the way his father had maintained it and his grandfather before that. The phone vibrated in his trouser pocket. He finished the row before answering, because a job half-done was worse than a job not started.
+The third call came at five o'clock, as he was sweeping the workshop floor. The push broom made its steady sound — bristle on concrete, the rasp of grit being moved from where it shouldn't be to where it didn't matter, the sound of a man maintaining his space as his father had maintained it and his grandfather before that. The phone vibrated in his trouser pocket. He finished the row before answering, because a job half-done was worse than a job not started.
 
 The number was Belgian. Brussels.
 
 "Meister Brenner? This is the office of Commissioner Delacroix. EU Commissioner for Innovation, Research, and Education. The Commissioner has asked me to reach out personally."
 
-Henning leaned on the broom. Through the workshop window, the December dark had arrived — Erfurt's early winter sunset, the sky a deep Prussian blue behind the Domberg, the cathedral and the Severikirche holding their floodlit positions above the Altstadt like two old tradesmen who'd been on the job so long they'd become part of the infrastructure. The same view. The same two churches. The same man, holding a broom, in the same workshop where he'd held a broom for thirty years.
+Henning leaned on the broom. Through the workshop window, the December dark had arrived — Erfurt's early winter sunset, the sky a deep Prussian blue behind the Domberg, the cathedral and the Severikirche lit up against the winter sky, immovable, unbothered, as stone was unbothered by everything that wasn't stone. The same view. The same two churches. The same man, holding a broom, in the same workshop where he'd held a broom for thirty years.
 
 "The Commissioner has reviewed the preliminary findings from the Max Planck Institute. We understand that your pedagogical approach — your specific method of embodied, hands-on instruction — has produced results that are directly relevant to the EU's emergency review of BCI cognitive safety. The Commissioner would like to invite you to address the European Education Council."
 
-Henning said nothing. Not the receiving pause, not the thinking pause. The pause of a man who has filed forty-seven reports into a system that never called back and is now being told that the system would like him to address its governing body.
+Henning said nothing. The pause of a man who has filed forty-seven reports into a system that never called back and is now being told that the system would like him to address its governing body.
 
 "Meister Brenner?"
 
@@ -220,7 +220,7 @@ He gave the man the address of the Berufsschule — Schillerstrasse 12, 99086 Er
 
 He finished sweeping. The grit collected in the dustpan with a sound like fine gravel. He emptied it into the bin. He rinsed the dustpan under the workshop sink, because a tool put away dirty was a tool disrespected, and disrespected tools had a way of failing when you needed them. He hung the broom in its corner. He hung the dustpan on its hook.
 
-The workshop was clean. The benches were clear. The tool wall held its silhouettes, every tool accounted for, every ghost filled by its body. Wilhelm's Knipex Cobolt pliers hung in their place, the dark-honey Bakelite catching the fluorescent light.
+The workshop was clean. The benches were clear. The tool wall held its silhouettes, every tool accounted for, every ghost filled by its body. Wilhelm's Knipex pliers hung in their place, the dark-honey Bakelite catching the fluorescent light.
 
 Henning's phone buzzed again. He looked at the screen. Maya.
 
@@ -308,7 +308,7 @@ He thought about Jana Kirchner. Her ragged sheath. Her scraping grip. The five g
 
 He thought about Lukas's cable-tie twist — the loop pulled back through, the small bump at the junction. Gone after the device repair. The fingerprint lost. But the fingerprint in the procedural system, the one built by hands and not by the device — that one was still there, wasn't it? The hands had still been his, even when the knowledge behind them became everyone's. The device had overwritten the declarative. It had never touched the procedural. It had taken Lukas's *what* but not his *how*. The twist was gone because the twist had lived at the border between the two systems — part habit, part choice, part the way a young man's hands had decided to loop the tail. Some of it was in the reachable room. Some of it was in the room behind the panel.
 
-The part behind the panel was still there. The firewall had held. It had held in Tomas Richter's cocked wrist and Maren Dietz's double pull and Florian Beck's left-to-right sequence. It had held in every apprentice who had stood at a bench in this workshop and stripped a cable while Henning watched, correcting by hand, teaching by repetition, building knowledge in a place he hadn't known was a fortress because he hadn't known there was a war.
+The part behind the panel was still there. The firewall had held. It had held in Nils Richter's cocked wrist and Maren Dietz's double pull and Florian Beck's left-to-right sequence. It had held in every apprentice who had stood at a bench in this workshop and stripped a cable while Henning watched, correcting by hand, teaching by repetition, building knowledge in a place he hadn't known was a fortress because he hadn't known there was a war.
 
 He stood up. Put on his jacket. Turned off the desk lamp. The workshop went dark, and in the darkness the tool wall was a grid of shadows, and the silhouettes were invisible, and the tools were hanging in their places where no one could see them, which didn't matter, because they were there whether anyone looked or not.
 

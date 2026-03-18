@@ -1,20 +1,20 @@
 # 2. The Cluster
 
-The conference room on the fourth floor of Whitfield Hall seated forty, but Dean Alvarez had pulled the chairs into a tight semicircle of fourteen, the way people rearrange furniture to make an emptying room feel deliberate rather than abandoned. Maya Chen noticed this because noticing was what she did. Patterns in data, patterns in behavior, patterns in the way an institution arranged its chairs when it was trying not to look like it was dying.
+The conference room on the fourth floor of Whitfield Hall seated forty, but Dean Alvarez had pulled the chairs into a tight semicircle of fourteen — making an emptying room feel deliberate rather than abandoned. Maya Chen noticed this because noticing was what she did. Patterns in data, patterns in behavior, patterns in the way an institution arranged its chairs when it was trying not to look like it was dying.
 
 "Thank you all for coming," Alvarez said, clicking to the first slide. A bar chart. Five bars, each one shorter than the last, descending left to right like a staircase leading underground. "Enrollment trends, 2036 to 2041."
 
 Maya already knew the numbers. She'd watched them arrive semester by semester, the way you watch a slow leak in a basement wall — first a stain, then a drip, then the quiet understanding that the foundation was compromised. Twenty-two thousand students five years ago. Eight thousand eight hundred now. A sixty-percent decline rendered in blue rectangles on a white screen, each bar casting a little shadow, as if the numbers themselves had weight.
 
-"The Board of Regents has asked us to present a sustainability plan by June," Alvarez continued. He was a decent man, Alvarez. An economist by training, which meant he understood the budget the way Maya understood a brain scan — structurally, without sentiment. He clicked to the next slide. "Proposed departmental consolidations."
+"The Board of Regents has asked us to present a sustainability plan by June," Alvarez continued. He was a decent man. An economist by training, which meant he understood the budget the way Maya understood a brain scan — structurally, without sentiment. He clicked to the next slide. "Proposed departmental consolidations."
 
 There it was. Third line down, in the same neutral font the university used for everything from commencement programs to parking citations: *Cognitive Neuroscience — merge with Computer Science. Effective Fall 2042.*
 
-Rajiv Patel, seated two chairs to Maya's left, shifted in his seat. As department chair, he'd known this was coming — she could tell by the way he didn't react, the careful stillness of a man who had already processed his shock in private. His BCI patch was barely visible behind his left ear, a small square of skin-colored polymer that she'd learned to stop noticing years ago, the way you stop noticing a colleague's glasses. He'd been an early adopter, back in 2033, when the devices were still expensive enough to signal ambition rather than normalcy.
+Rajiv Patel, seated two chairs to Maya's left, shifted in his seat. As department chair, he'd known this was coming — she could tell by his non-reaction, the careful stillness of a man who had already processed his shock in private. His BCI patch was barely visible behind his left ear, a small square of skin-colored polymer that she'd learned to stop noticing years ago, like a colleague's glasses. He'd been an early adopter, back in 2033, when the devices were still expensive enough to signal ambition rather than normalcy.
 
 "The merger doesn't eliminate cognitive neuroscience," Alvarez said, preempting the question Maya hadn't asked yet. "It restructures it within a broader computational framework."
 
-"It eliminates it," Maya said. Not angry. Just precise. The way you correct a measurement that's been reported with the wrong unit. "You're folding a research department into a service department. We stop asking questions and start optimizing products."
+"It eliminates it," Maya said. Not angry. Just precise — correcting a measurement reported with the wrong unit. "You're folding a research department into a service department. We stop asking questions and start optimizing products."
 
 Alvarez looked at her with the expression she'd come to recognize in administrators over the last five years — sympathetic, tired, already past the argument. "Maya, your research is exactly the kind of work that thrives in a computational context. BCI-adjacent neuroscience is where the funding is."
 
@@ -22,7 +22,7 @@ Alvarez looked at her with the expression she'd come to recognize in administrat
 
 A silence. The kind of silence that falls in a room where everyone agrees with the person speaking but no one can afford to say so. Outside the window, the April sky was the pale grey of a Midwest spring that hadn't committed to warmth yet, and Maya could see the south parking lot, half empty at ten in the morning on a Tuesday. It used to be full by eight.
 
-Alvarez moved on. Tenure re-evaluation criteria. Space allocation. The library — already converted to a "Learning Commons" three years ago, the books moved to storage or digitized, the reading rooms now filled with modular furniture and screens that nobody used because everyone carried their information behind their ears — would absorb the vacated offices in Whitfield's east wing. Three buildings on campus were dark. Not closed, officially. Just dark. The lights off, the hallways locked, the bulletin boards still covered in flyers for events from two semesters ago: a psychology study seeking participants, a bake sale for the now-defunct French club, a campus 5K that had been canceled and never rescheduled.
+Alvarez moved on. Tenure re-evaluation criteria. Space allocation. The library — already converted to a "Learning Commons" three years ago, the books moved to storage or digitized, the reading rooms now filled with modular furniture and screens that nobody used because everyone carried their information behind their ears — would absorb the vacated offices in Whitfield's east wing. Three buildings on campus were dark. Not closed, officially. Just dark. The lights off, the hallways locked, the bulletin boards still covered in flyers for events from two semesters ago: a psychology study seeking participants, a bake sale for the now-defunct French club, a charity run that had been canceled and never rescheduled.
 
 Maya sat through the rest of the meeting the way she sat through MRI scans — still, patient, recording. When it ended, Rajiv caught her eye and gave a small nod that meant *my office, later*. She nodded back. They had been doing this for years, the silent language of colleagues who understood each other's constraints. He couldn't protect her research forever. She couldn't stop doing it.
 
@@ -40,7 +40,7 @@ She almost missed it.
 
 The Divergent Solutions Task scores for Q1 2041 were unremarkable in aggregate. BCI users scored higher on speed and accuracy, as expected. Controls showed wider variance, as expected. The effect sizes were consistent with previous quarters. Nothing publishable, nothing alarming, nothing that would make anyone at the NIH sit up in their chair.
 
-But Maya didn't read aggregates the way most researchers did. She read them the way her mother had read recipes — checking the ingredients before trusting the dish. She pulled up the individual response profiles, sorting by solution path rather than by score, and that was when the pattern surfaced.
+But Maya didn't read aggregates the way most researchers did. She read them like her mother had read recipes — checking the ingredients before trusting the dish. She pulled up the individual response profiles, sorting by solution path rather than by score, and that was when the pattern surfaced.
 
 Five subjects. BCI users, all from the experimental cohort. Subject 0047, Subject 0112, Subject 0158, Subject 0203, Subject 0341. On the open-ended engineering problem — design a water purification system using only locally available materials — they had produced identical solution paths. Not similar. Not convergent-within-normal-parameters. Identical.
 
@@ -80,7 +80,7 @@ Grace studied the profiles. Maya watched her — the slight narrowing of the eye
 
 "I think it's interesting. Which is what a scientist says when she doesn't have enough data to say what she actually thinks."
 
-Grace left the office. Maya turned back to the corkboard, to the five profiles connected by red string, and stared at them the way she stared at all anomalies — patiently, without expectation, the way you watch a horizon for weather.
+Grace left the office. Maya turned back to the corkboard, to the five profiles connected by red string, and stared at them the way she stared at all anomalies — patiently, without expectation, watching for weather.
 
 ---
 
@@ -132,7 +132,7 @@ Maya opened her mouth to explain — to talk about longitudinal studies and effe
 
 "Kayla stopped talking to me." Lily said it flat, the way you say something you've been carrying for weeks and are tired of holding. "She said I make her feel weird. Because I'm slow. Because I have to actually *think* about things and it takes me longer and she can tell. She said it's like talking to someone on dial-up."
 
-The word hit Maya in the amygdala.
+The word landed like a slap.
 
 "I'm sorry," Maya said. And she was. She was sorry in a way that had no protocol, no confidence interval.
 
@@ -142,15 +142,13 @@ Maya did not say: *I know exactly what it's like. I study the people who have th
 
 She said: "I know, sweetheart. I know it's hard."
 
-They finished dinner in the kind of silence that is not peaceful but is at least not war. Lily cleared her plate and went to her room. Maya heard the door close — not a slam, just a close, which was somehow worse — and stood at the kitchen sink, looking at the refrigerator. The purple elephant. The lion self-portrait. The Lake Michigan watercolor, its blues bleeding into the yellows at the edges where Lily had used too much water and hadn't cared, because she was ten and the painting was alive and imperfect and hers.
-
-The glass of water Lily had poured sat on the table, still full. She'd forgotten it was there.
+They finished dinner in a silence that was at least not war. Lily cleared her plate and went to her room. Maya heard the door close — not a slam, just a close, which was somehow worse — and stood at the kitchen sink, looking at the refrigerator. The purple elephant. The lion self-portrait. The Lake Michigan watercolor, its blues bleeding into the yellows at the edges where Lily had used too much water and hadn't cared, because she was ten and the painting was alive and imperfect and hers.
 
 ---
 
 Maya's home office was the third bedroom, stacked journals and two monitors and a desk chair with a broken armrest she kept meaning to replace. She sat down at eleven-fifteen, after Lily's light went off, and opened the study database on her laptop.
 
-She pulled up the demographic data for the cluster. Subject 0047: female, 52, civil engineer, Detroit. Subject 0112: male, 38, high school teacher, Columbus. Subject 0158: female, 67, retired pharmacist, Duluth. Subject 0203: non-binary, 29, graphic designer, Indianapolis. Subject 0341: male, 24, graduate student, Madison. BCI activation dates spanning 2034 to 2039 — two years of use to seven.
+She pulled up the demographic data for the cluster. Subject 0047: female, 52, civil engineer, Detroit. Subject 0112: male, 38, high school teacher, Columbus. Subject 0158: female, 67, retired pharmacist, Duluth. Subject 0203: non-binary, 29, graphic designer, Indianapolis. Subject 0341: male, 24, graduate student, Madison. BCI activation dates spanning 2034 to 2039 — seven years of use down to two.
 
 Five people who had never met. Five different cities, five different professions, five different ages. They had nothing in common that would explain convergence on this scale. Nothing except the platform — CortexLink US-I — and the general knowledge domains they'd accessed for the task.
 
@@ -164,7 +162,7 @@ She reached for her lab notebook — the physical one, clothbound, the thirty-ei
 
 She uncapped her pen and wrote the date. Then, below it, in handwriting that was distinctly hers — the left-leaning slant, the open loops, the habit of dotting her *i*s slightly to the right — she wrote:
 
-*Convergent cognition in independent subjects. Five BCI users, same platform, different demographics, different usage durations. Identical solution paths on divergent thinking task. Same approach, same errors, same correction sequence. Probability of chance occurrence: ~$10^{-17}$.*
+*Convergent cognition in independent subjects. Five BCI users, same platform, different demographics, different usage durations. Identical solution paths on divergent thinking task. Same approach, same errors, same correction sequence. Probability of chance occurrence: less than one in a hundred quadrillion.*
 
 She paused. The pen hovered over the page.
 

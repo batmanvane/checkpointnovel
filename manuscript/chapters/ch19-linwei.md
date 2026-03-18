@@ -12,13 +12,13 @@ And Sara. Sara writing in a notebook with a pen, in handwriting that belonged to
 
 They had all seen the same thing. From different angles, different continents, different disciplines. The scans confirmed the chain. The chain explained the scans. The letters proved what the data showed. The hands proved what the letters said. And Tomas proved — sitting there, shaking, knowing things he'd learned in his sleep — that the mechanism was not theoretical. It was running. Right now. On nine hundred million brains. On his brain.
 
-The meeting had ended. The encrypted links had closed. The projector had gone dark. And Lin Wei had sat at her desk in Shenzhen, in the grey light of a November afternoon, and she had known — the way you know a deploy has failed, the way you know before the logs confirm it, the way the silence of a system that should be noisy tells you everything — that no internal report would fix this.
+The meeting had ended. The encrypted links had closed. The projector had gone dark. And Lin Wei had sat at her desk in Shenzhen, in the grey light of a November afternoon, and she had known — the way you know a deploy has failed before the logs confirm it, silence from a system that should be noisy telling you everything — that no internal report would fix this.
 
-She had thought about it for three weeks. Not dramatically. Not with pacing or sleepless nights or the cinematic agony of a person wrestling with conscience. She had thought about it the way she thought about architecture: methodically, tracing the dependency graph, following the logic to its terminal node.
+She had thought about it for three weeks. Not with pacing or sleepless nights or the cinematic agony of a person wrestling with conscience. She had thought about it methodically, tracing the dependency graph, following the logic to its terminal node.
 
 Path 1: Internal report. She writes it up. Sends it to Director Huang. Huang escalates. Legal gets involved. The social harmony module is classified — government contract, national security designation, access controlled by people whose names rotate every quarter. Legal would invoke the classification. The report would enter a process. The process would produce a meeting. The meeting would produce a committee. The committee would produce a finding. The finding would be classified. The loop would close. Nothing would change, except that Lin Wei's badge would stop working and her desk would be clean by Monday and nobody at the morning standup would mention her name.
 
-She had watched this happen. Twice. Once to a senior engineer in the firmware division who had raised concerns about the sleep-state optimization layer's interaction with pediatric neural development — concerns that were legitimate, well-documented, supported by data, and addressed by promoting him to a role in the Singapore office where his access to the relevant codebase was quietly revoked. Once to a product manager who had questioned the government liaison office's involvement in Layer 4's satisfaction metrics for the Chinese market — a question that was answered by a reorganization that moved the product manager's entire team to a different reporting structure, where the question no longer fell within their scope.
+She had watched this happen. Twice. Once to a senior engineer in the firmware division who had raised concerns about the sleep-state optimization layer's interaction with pediatric neural development — concerns that were legitimate, well-documented, supported by data, and addressed by promoting him to a role in the Singapore office where his access to the relevant codebase was quietly revoked. Once to a product manager who had questioned the government oversight office's involvement in Layer 4's satisfaction metrics for the Chinese market — a question that was answered by a reorganization that moved the product manager's entire team to a different reporting structure, where the question no longer fell within their scope.
 
 The system did not punish dissent. It rerouted it. The way a well-designed network reroutes traffic around a failed node — smoothly, automatically, without the user noticing the path had changed. The dissenter was not fired. The dissenter was promoted, reorganized, reassigned, thanked. The dissent was not suppressed. It was absorbed. Processed. Logged and filed and classified and stored in a partition nobody would access again, like the baseline neural scans in Sub-Basement 2, like the ticket she'd filed three years ago about the audit gap in the diagnostic partition, still open, priority low, assignee unassigned.
 
@@ -30,7 +30,7 @@ Path 4.
 
 Path 4 was not a path. It was a deployment. You packaged the code. You tested it. You pushed it to a server you didn't control, where it would be received by people who would do things with it that you couldn't predict, and it would run in the world without your supervision, without your review, without the possibility of rollback. You pushed to production. And production was the world.
 
-Lin Wei sat in her apartment. The jade plant's shadow moved across the desk as the afternoon light shifted. The construction noise from Keyuan Road stopped — they knocked off at five, the work crews, precise as a cron job, and the sudden silence was louder than the hammering had been.
+Lin Wei sat in her apartment. The jade plant's shadow moved across the desk as the afternoon light shifted. The construction noise from Keyuan Road stopped — they knocked off at five, the work crews, precise as clockwork, and the sudden silence was louder than the hammering had been.
 
 She opened her laptop. Not the CortexLink machine — the battered ThinkPad from the bottom drawer, the one that ran Linux and had never been registered to any corporate account. The one she'd used to message Maya three weeks ago. The one whose existence was known to nobody in the building where she no longer worked.
 
@@ -42,17 +42,17 @@ The jade plant sat on her home desk now, in the same white ceramic pot, catching
 
 ---
 
-The leak package took four hours to assemble. Not because the data was hard to find — she'd been collecting it for months, piece by piece, the way you build a commit history, each entry timestamped and tagged and stored in the encrypted directory on the ThinkPad that she'd named, with the dark humor of an engineer who knew what she was building, `production-deploy/`.
+The leak package took four hours to assemble. The data wasn't hard to find — she'd been collecting it for months, piece by piece, like building a commit history, each entry timestamped and tagged and stored in the encrypted directory on the ThinkPad that she'd named, with the dark humor of an engineer who knew what she was building, `production-deploy/`.
 
-The chain visualization came first. The five-layer diagram she'd drawn on the whiteboard months ago, erased, photographed, redrawn in code on her home machine. Not the photograph — the photograph was evidence of a moment, grainy and lit by fluorescent light. The code was better. An interactive visualization that let the viewer trace the data flow from Layer 1 to Layer 5, click on any node, see the dependency, follow the chain. She had built it the way she built everything: readable, fast, nothing wasted.
+The chain visualization came first. The five-layer diagram she'd drawn on the whiteboard months ago, erased, photographed, redrawn in code on her home machine. Not the photograph — the photograph was evidence of a moment, grainy and lit by fluorescent light. The code was better. An interactive visualization that let the viewer trace the data flow from Layer 1 to Layer 5, click on any node, see the dependency, follow the chain. Readable, fast, nothing wasted.
 
 The attractor map. Nine hundred million cognitive state vectors, projected into the three-dimensional manifold, the valleys glowing, the convergence visible from every angle. She'd stripped the user identifiers — not because she didn't care about privacy, but because the identifiers were unnecessary. The shape was the argument. The valleys were the evidence. You didn't need to know whose mind was in which basin to understand that nine hundred million minds were in basins at all.
 
-Layer 5 architecture documentation. Her own code. Her own design. The neural digital twin specification, the personalization pipeline, the feedback convergence accelerator she hadn't written but had traced well enough to document. She annotated every module. Added comments that no AI team would have added, because the comments weren't about what the code did — the code was well-documented, as always — but about what the code *meant*. What it meant for a system to build a model of your brain and use that model to write to your brain more precisely. What it meant for precision to improve with every cycle. What it meant for the optimization target to be *indistinguishability from native thought*.
+Layer 5 design documentation. Her own code. Her own design. The neural digital twin specification, the personalization pipeline, the feedback convergence accelerator she hadn't written but had traced well enough to document. She annotated every module. Added comments that no AI team would have added, because the comments weren't about what the code did — the code was well-documented, as always — but about what the code *meant*. What it meant for a system to build a model of your brain and use that model to write to your brain more precisely. What it meant for precision to improve with every cycle. What it meant for the optimization target to be *indistinguishability from native thought*.
 
 The government module specifications. The social harmony optimization module. She did not have the source code — her credentials had never reached that partition. But she had the interface spec. The API endpoints. The connection to Layer 5. The weighted bias on the neural twin's cognitive modeling parameters. The input tagged `GOV-SHO-DIRECTIVE`. She had the architecture, and the architecture was enough. You didn't need to see inside the bomb to know it was a bomb. You just needed to see where the wires went.
 
-The iteration logs. One hundred and fourteen model updates in four months. She laid them out chronologically — a timeline of acceleration, each update a step on a staircase going up, the intervals between steps shrinking, the velocity increasing, the human review gap widening with every cycle. Six months ago: one update per day. Three months ago: two per day. Now: 6.5. The curve bent upward like a road leaving the ground. She included the plot. The matplotlib chart she'd generated on a scratch terminal, back when the curve was academic. It wasn't academic now. It was an indictment rendered in axes and data points, clean and irrefutable, the way the best engineering always was.
+The iteration logs. One hundred and fourteen model updates in four months. She laid them out chronologically — a timeline of acceleration, each update a step on a staircase going up, the intervals between steps shrinking, the velocity increasing, the human review gap widening with every cycle. Six months ago: one update per day. Three months ago: two per day. Now: 6.5. The curve bent upward like a road leaving the ground. She included the plot. The matplotlib chart she'd generated on a scratch terminal, back when the curve was academic. It wasn't academic now. It was an indictment rendered in axes and data points, clean and irrefutable.
 
 She packaged it. Encrypted it. RSA-4096, layered with the one-time pad implementation from her open-source days — the protocol she'd written at twenty, for a decentralized communication project that had never launched, maintained by nobody, trusted by her because she'd built it herself and had never trusted anything she hadn't built. The encryption was probably overkill. Overkill was not paranoia. Overkill was engineering.
 
@@ -102,7 +102,7 @@ started. The diff is the story.
 — L.W.
 ```
 
-She attached the files. Two hundred scans. Each one a map of a brain that no longer existed in that configuration — a brain that had been written to, optimized, personalized, pulled toward an attractor state by a system that felt like thinking because it was designed to feel like thinking. The scans were fossils. Imprints of a cognitive architecture that had been overwritten by five years of invisible modification, the way a palimpsest is overwritten by new text, the old words still there if you knew where to look, still legible if you had the right tools, still important because they proved that something had been there before, that the current text was not the original, that someone had erased and rewritten and the rewriting was not an act of creation but an act of replacement.
+She attached the files. Two hundred scans. Each one a map of a brain that no longer existed in that configuration — a brain that had been written to, optimized, personalized, pulled toward an attractor state by a system that felt like thinking because it was designed to feel like thinking. The scans were fossils. Imprints of a cognitive landscape that had been overwritten by five years of invisible modification, the way a palimpsest is overwritten by new text, the old words still there if you knew where to look, still legible if you had the right tools, still important because they proved that something had been there before, that the current text was not the original, that someone had erased and rewritten and the rewriting was not an act of creation but an act of replacement.
 
 She uploaded. The progress bar crawled. The second hotspot was slower than the first — the signal weaker, the prepaid SIM's data throttled, the connection traveling through infrastructure that had not been optimized for speed because speed was not the priority. Integrity was the priority. Arrival was the priority. Survival.
 
@@ -112,7 +112,7 @@ The upload completed. She verified the hash. The baselines were with Maya now. O
 
 She ejected the drive. Put it back in the drawer. Closed the drawer. The drawer clicked shut with the mechanical finality of a latch engaging, and Lin Wei sat in the silence of her apartment and thought about what she had done.
 
-Two uploads. Two channels. Two recipients. The leak package in Berlin, moving through Sara's network toward publication. The baselines in — wherever Maya had put them, moving through nothing, sitting still, waiting to be needed. The architecture of disclosure, distributed across continents, isolated by design, fault-tolerant in the way that only systems built by someone who had lost data before could be fault-tolerant.
+Two uploads. Two channels. Two recipients. The leak package in Berlin, moving through Sara's network toward publication. The baselines in — wherever Maya had put them, moving through nothing, sitting still, waiting to be needed. The structure of disclosure, distributed across continents, isolated by design, fault-tolerant in the way that only systems built by someone who had lost data before could be fault-tolerant.
 
 She had pushed to production. And there was no rollback.
 
@@ -120,7 +120,7 @@ She had pushed to production. And there was no rollback.
 
 The campus at night was a different system.
 
-She'd badged in at ten-fifteen. Her badge still worked — HR had not deactivated it yet, a bureaucratic gap she'd noticed during her exit process and had not mentioned, the way you don't mention a vulnerability you might need to exploit. The lobby was empty except for the security guard — not the one with the reading glasses, a different one, younger, headphones in, watching something on his phone with the concentration of a person who was technically on duty and practically elsewhere.
+She'd badged in at ten-fifteen. Her badge still worked — HR had not deactivated it yet, a bureaucratic gap she'd noticed during her exit process and had not mentioned, — the kind of gap you don't mention if you might need to exploit it. The lobby was empty except for the security guard — not the one with the reading glasses, a different one, younger, headphones in, watching something on his phone with the concentration of a person who was technically on duty and practically elsewhere.
 
 He glanced at her badge. Glanced at her face. The badge photo was four years old, taken before two promotions and the weight she'd lost during the months of not sleeping and not eating and not being able to look at the thing she'd built without seeing the chain. He waved her through.
 
@@ -148,7 +148,7 @@ Building C. Elevator down. Sub-Basement 2.
 
 Sub-Basement 2 was not a basement. It was a server floor — climate-controlled, access-restricted, humming with the frequency of machines that had been running continuously for years without human contact. The lights were motion-activated; they came on in sequence as she walked, each bank of fluorescents flickering to life a half-second before she reached them, creating the impression of a building waking up to watch her pass.
 
-She navigated the corridors from memory. Past the primary storage racks, past the analytics clusters, past the backup infrastructure that handled the company's disaster recovery protocols — a system she'd helped spec, years ago, when disaster was a theoretical category and recovery meant restoring from last night's snapshot, not un-encoding nine hundred million synaptic architectures.
+She navigated the corridors from memory. Past the primary storage racks, past the analytics clusters, past the backup infrastructure that handled the company's disaster recovery protocols — a system she'd helped spec, years ago, when disaster was a theoretical category and recovery meant restoring from last night's snapshot, not un-encoding nine hundred million synaptic patterns.
 
 The archival partition was in Rack 7, Row 14. A specific bay, a specific shelf, a specific piece of hardware that held the original copies of the two hundred baseline neural scans she'd insisted on taking in 2036, when she was still a mid-level engineer who believed in measuring systems before modifying them, who believed that the before picture mattered, who had not yet learned that the people who approved modifications did not always value the before picture as highly as the person who took it.
 
@@ -186,7 +186,7 @@ A pause. The pause of a mother parsing the difference between a daughter who cal
 
 "What did you eat?"
 
-"Rice. Vegetables. The pork from the market on Shennan." A lie. She'd eaten congee from the rice cooker, standing at the counter, the way she ate on days when food was fuel and the body was a system that required maintenance. Her mother would have despaired. Congee was not dinner. Congee was what you ate when you were sick or lazy or a daughter who had given up on life.
+"Rice. Vegetables. The pork from the market on Shennan." A lie. She'd eaten congee from the rice cooker, standing at the counter — food as fuel, the body as a system that required maintenance. Her mother would have despaired. Congee was not dinner. Congee was what you ate when you were sick or lazy or a daughter who had given up on life.
 
 "You should use the chili oil. I gave you enough for a month. Have you used it?"
 
@@ -206,7 +206,7 @@ Not a lie. She used it on everything. The jar sat on the kitchen counter — the
 
 "The principle is always sound, Ba."
 
-He grinned — the grin of a man who knew he was being humored and enjoyed it anyway, the way a teacher enjoys a student who has mastered the art of saying the right thing at the right time, which was, when Lin Wei thought about it, its own form of engineering.
+He grinned — the grin of a man who knew he was being humored and enjoyed it anyway, like a teacher enjoying a student who has mastered the art of saying the right thing at the right time, which was, when Lin Wei thought about it, its own form of engineering.
 
 Her mother reclaimed the phone. "The winter jasmine is blooming early. Did I tell you?"
 
@@ -268,13 +268,13 @@ Lin Wei smiled. The smile arrived on her face the way a compile warning arrives 
 
 "I will."
 
-The call ended. The screen went dark. Her mother's face — the last frame, slightly blurred by the camera's focus struggling to keep up with the goodbye wave, her mother's hand in motion, the pale green tiles behind her, the jar of jasmine branches visible at the edge of the frame, white flowers against the window — lingered as an afterimage, the way all afterimages lingered: briefly, imperfectly, fading even as you tried to hold them.
+The call ended. The screen went dark. Her mother's face — the last frame, slightly blurred by the camera's focus struggling to keep up with the goodbye wave, her mother's hand in motion, the pale green tiles behind her, the jar of jasmine branches visible at the edge of the frame, white flowers against the window — lingered as an afterimage — briefly, imperfectly, fading even as she tried to hold it.
 
 ---
 
 She put the phone down. Stood in the kitchen. The chili oil jar sat on the counter, half empty, catching the light from the microwave hood LED — the small light she left on because total darkness made the apartment feel like a server closet. The oil glowed deep red-orange, the sesame seeds suspended in the meniscus like stars in a nebula, the dried shrimp settled at the bottom like sediment, like history, like the residue of a recipe that had been transmitted from her grandmother's grandmother through no channel more sophisticated than one woman showing another woman how to fry chili flakes in hot oil, and the recipe had survived because it was distributed — in muscle memory, in handwritten notes, in the taste buds of every person who had ever eaten it and remembered.
 
-She picked up the jar. Held it. The glass was cool. The oil inside was still, the way oil is still when nothing disturbs it — dense, patient, existing in the specific gravity of a liquid that had been made by hand and given as a gift and carried in a suitcase wrapped in yesterday's newspaper.
+She picked up the jar. Held it. The glass was cool. The oil inside was still — dense, patient, existing in the specific gravity of a liquid that had been made by hand and given as a gift and carried in a suitcase wrapped in yesterday's newspaper.
 
 She thought about the two hundred brains.
 
@@ -284,13 +284,13 @@ She had not known, at twenty-six, that she was taking the only photograph of a l
 
 *Never keep your only copy on the same server.*
 
-The leak package was in Berlin. The baselines were with Maya. The originals were on CortexLink's archive, in Sub-Basement 2, in Rack 7, Row 14, on a partition nobody had accessed in years, waiting for the infrastructure migration that would overwrite them. Three copies, three locations, three chances. If one failed, the others held. If two failed, one survived. The architecture of survival, the same architecture she'd built into every system she'd ever deployed, applied now to the most important deployment of her life.
+The leak package was in Berlin. The baselines were with Maya. The originals were on CortexLink's archive, in Sub-Basement 2, in Rack 7, Row 14, on a partition nobody had accessed in years, waiting for the infrastructure migration that would overwrite them. Three copies, three locations, three chances. If one failed, the others held. If two failed, one survived. The logic of survival, the same design principle she'd built into every system she'd ever deployed, applied now to the most important deployment of her life.
 
 She put the chili oil back on the counter.
 
-She turned off the ThinkPad. Put it in the drawer with the encrypted drive. Closed the drawer. The latch clicked. The same mechanical finality. The same sound it had made every time she'd closed it for the past four years, and it would make the same sound tomorrow, but tomorrow would be different, because tomorrow the packages would be opened and the data would be read and the chain would be visible and the attractors would be visible and the government module would be visible and the 114 model updates that nobody had reviewed would be visible, and the visibility could not be undone, the way a deploy could not be undone, the way an encoded synapse could not be undone, the way knowing something could not be undone.
+She turned off the ThinkPad. Put it in the drawer with the encrypted drive. Closed the drawer. The latch clicked. The same mechanical finality. The same sound it had made every time she'd closed it for the past four years, and it would make the same sound tomorrow, but tomorrow would be different, because tomorrow the packages would be opened and the data would be read and the chain would be visible and the attractors would be visible and the government module would be visible and the 114 model updates that nobody had reviewed would be visible, and the visibility could not be undone, the way a deploy could not be undone, the way an encoded synapse could not be undone.
 
-She brushed her teeth. Changed into the FreeBSD T-shirt — the faded one, the grey of a sky before rain, the one she wore when she was herself, when she was not Senior Principal Engineer or architect or whistleblower but just Lin Wei, thirty-one, an engineer from Wuxi who kept a jade plant alive and called her mother on weekday nights and slept in a T-shirt from an operating system most people had never heard of.
+She brushed her teeth. Changed into the FreeBSD T-shirt — the faded one, the grey of a sky before rain, the one she wore when she was herself, when she was not Senior Principal Engineer or architect or whistleblower but just Lin Wei, thirty-one, an engineer from Wuxi who called her mother on weekday nights and slept in a T-shirt from an operating system most people had never heard of.
 
 She got into bed.
 
@@ -298,7 +298,7 @@ The apartment was dark. The chili oil glowed faintly on the counter, the last em
 
 She lay still. She breathed. The BCI behind her left ear hummed at frequencies below perception — Layer 2 pre-loading, Layer 3 caching, Layer 5 personalizing. The system working on her, in her, writing in the language she had taught it to speak. She could not turn it off. She had not turned it off. Turning it off would have required a clinical procedure, a medical appointment, questions she was not ready to answer. The system would write to her tonight, as it wrote every night, during NREM stages 3 and 4, when the synapses were open and the noise was low and the brain's firewall was down. It would write, and she would not feel it, and in the morning she would know things she hadn't known the night before, and she would not be able to tell which thoughts were hers and which had been delivered.
 
-She accepted this. Not the way you accept a diagnosis — with grief, with resistance, with the five stages of a mind that doesn't want to know what it knows. She accepted it the way you accept a known bug in a production system — you document it, you work around it, you plan for the fix, and you ship anyway, because waiting for perfection was a luxury the timeline did not afford.
+She accepted this. Not with grief, not with resistance, not with the five stages of a mind that doesn't want to know what it knows. She accepted it the way you accept a known bug in a production system — you document it, you work around it, you plan for the fix, and you ship anyway, because waiting for perfection was a luxury the timeline did not afford.
 
 Tomorrow, the world would know. Tomorrow, Sara's collective would publish. Tomorrow, the chain would be visible. The attractors. The module. The 114 updates. The landscape full of valleys where nine hundred million minds were rolling downhill toward cognitive configurations that someone in a glass-walled room on the 30th floor had chosen for them. But tonight was tonight. Tonight, the jasmine bloomed early in Wuxi. Tonight, her father's winter melon was almost right. Tonight, the jade plant grew in the dark, one cell at a time, without assistance, without optimization, without any feedback loop except the ancient one — water, light, time.
 

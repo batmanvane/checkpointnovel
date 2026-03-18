@@ -22,7 +22,7 @@ She wrote the date. Below it:
 
 They came in November. Not the AU delegation — a different kind of visitor entirely.
 
-Three researchers. Two from the University of Geneva, one from Lakeview State. They arrived not in a white Land Cruiser with tinted windows but in a hired matatu from Kisumu town, the minibus painted green and yellow with a portrait of Bob Marley on the rear panel. They emerged looking dazed, the way people looked when they had just experienced fifty minutes of Kenyan public transport for the first time.
+Three researchers. Two from the University of Geneva, one from Lakeview State. They arrived not in a white Land Cruiser with tinted windows but in a hired matatu from Kisumu town, the minibus painted green and yellow with a portrait of Bob Marley on the rear panel. They emerged looking dazed — fifty minutes of Kenyan public transport will do that to the uninitiated.
 
 Dr. Annalise Gerber was tall, Swiss-German, precise. Dr. James Okello was Kenyan, Luo, from Siaya County — forty minutes up the lakeshore — and he greeted Amara in Dholuo before switching to English, and the sound of her mother tongue from a man in a lab coat made something loosen in her chest that she had not known was tight. The postdoc, Rachel Torres, had her notebook already open, her pen already moving.
 
@@ -54,7 +54,7 @@ Amara sat very still. Through the window, the lake. Through the door, the garden
 
 She did not gloat. She did not feel triumph. She felt tired. The tiredness was fifteen years deep, compacted like sediment, and what Gerber was saying did not lift it. What Gerber was saying landed on top of it, and the combined weight — of the years and the vindication — pressed against her sternum with a pressure that was not pain and not joy but something that lived in the space between *I told you* and *I shouldn't have had to*.
 
-"They are not specimens," she said. "They are not baselines. They are not your 'optimal architecture.' They are children. If you put them in your papers, you will put them in as people. With names. With stories."
+"They are not specimens," she said. "They are not baselines. They are not your 'optimal baseline.' They are children. If you put them in your papers, you will put them in as people. With names. With stories."
 
 She paused. The lake air came through the window, mineral and green.
 
@@ -108,15 +108,15 @@ Her voice was steady the way the lake surface was steady on a windless morning �
 
 She picked up the microphone. She clipped it back to her lapel. She sat down.
 
-The room applauded. She sat through it the way she sat through Nyalenda rainstorms — present, patient.
+The room applauded. She sat through it like a Nyalenda rainstorm — present, patient.
 
 ---
 
 The matatu back to Kisumu left at six in the morning — a fourteen-seat minibus with a cracked windshield and gospel music at a volume that suggested the driver considered his passengers' salvation more urgent than their comfort. She had turned down the UN's offer of a return flight because the matatu was seventeen hundred shillings and the flight was free and the free thing was not the cheaper thing, because the free thing came with obligation and the matatu came with gospel music and the smell of roasted maize from the vendor at Nakuru and the long slow descent through the Rift Valley, the land dropping away on both sides of the escarpment in a tilt so vast it made the word *valley* seem inadequate.
 
-Five hours. She watched Nairobi thin into suburbs, the suburbs into farmland, the farmland into the long brown shoulder of the Rift Valley escarpment, the road following the contour of the earth's lean the way a river followed gravity — not choosing but yielding. The matatu's engine strained on the downgrade with the whine of a machine that distrusted the hill's generosity.
+Five hours. She watched Nairobi thin into suburbs, the suburbs into farmland, the farmland into the long brown shoulder of the Rift Valley escarpment, the road following the contour of the earth's lean like a river following gravity — not choosing but yielding. The matatu's engine strained on the downgrade with the whine of a machine that distrusted the hill's generosity.
 
-She slept. She woke to the smell of sugarcane — the fields outside Kericho, the air through the cracked window suddenly sweet and vegetal, the smell of photosynthesis at industrial scale. 6CO₂ + 6H₂O $\rightarrow$ C₆H₁₂O₆ + 6O₂. The arrow was still the miracle.
+She slept. She woke to the smell of sugarcane — the fields outside Kericho, the air through the cracked window suddenly sweet and vegetal, the smell of photosynthesis at industrial scale. 6CO₂ + 6H₂O --> C₆H₁₂O₆ + 6O₂. The arrow was still the miracle.
 
 She slept again. She woke to the lake.
 
@@ -128,7 +128,7 @@ She was home. She stepped out at the stage in town into the equatorial heat — 
 
 The school had not changed.
 
-The chalkboard was still cracked along the lower right corner, the fissure following the grain of the slate the way a river followed the contour of the land. The textbooks — three of them, 2033 edition, spines cracked, pages soft — sat in their stack. The desks — thirty-six, no two alike — held their positions. The generator hummed. Reluctant. Alive. The bougainvillea grew another inch over the fence.
+The chalkboard was still cracked along the lower right corner, the fissure following the grain of the slate. The textbooks — three of them, 2033 edition, spines cracked, pages soft — sat in their stack. The desks — thirty-six, no two alike — held their positions. The generator hummed. Reluctant. Alive. The bougainvillea grew another inch over the fence.
 
 She set her bag on the desk. She opened the shutters. The lake air came in — not the flat, controlled 21 degrees of the UN conference room but a living temperature, rising and falling with the wind and the clouds, a temperature that had an opinion about the time of day and expressed it through your skin.
 
@@ -174,7 +174,7 @@ She uncapped her pen. She wrote:
 
 *What didn't change: the garden.*
 
-The evening light was long and gold, falling across the garden in the slanted way that made every leaf a small lamp. Otieno's laughter carried from somewhere among the tomato plants — sudden, sharp, genuine, the sound of a body in motion and a mind unguarded. A boy who did not know he had the healthiest brain on Earth and would not have cared if he did, because health was not a thing you knew, it was a thing you *were*, and Otieno was it the way the lake was wet — not as a quality but as a condition, not as an achievement but as a fact so fundamental it preceded the vocabulary that tried to describe it.
+The evening light was long and gold, falling across the garden in the slanted way that made every leaf a small lamp. Otieno's laughter carried from somewhere among the tomato plants — sudden, sharp, genuine, the sound of a body in motion and a mind unguarded. A boy who did not know he had the healthiest brain on Earth and would not have cared if he did, because health was not a thing you knew, it was a thing you *were*, and Otieno was it like the lake was wet — not as a quality but as a condition, not as an achievement but as a fact so fundamental it preceded the vocabulary that tried to describe it.
 
 She did not write what she was feeling. She looked at the two lines on the page and she looked at the garden and she looked at the lake beyond the garden and she looked at the boy chasing the grasshopper through the last light of the day, and she felt the thing she felt, and she let it be. Some things were not for notebooks. Some things existed only in the body of the person feeling them, in the specific, unrepeatable moment of a woman sitting on a cracked blue stone in a school garden in Kisumu, knowing that the world had finally turned to face the thing she had been facing all along, and that the turning had cost more than it should have, and that the thing itself — the garden, the children, the thirty-six roads — had not moved. Had never needed to move. Had been here the whole time, growing, arguing, being wrong, being alive, while the world looked elsewhere and called it behind.
 

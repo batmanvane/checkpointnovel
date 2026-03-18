@@ -1,10 +1,10 @@
 # 11. The Velocity
 
-The noodle shop smelled the way it had always smelled — pork broth and star anise and the sweetness of dough that had been resting since four in the morning. Lin Wei sat at the counter on the stool that had been hers since she was eight, the one with the wobble in the left front leg that her father had never fixed because fixing it would require closing for an afternoon and closing was not something the shop did.
+The noodle shop smelled like it always had — pork broth and star anise and the sweetness of dough that had been resting since four in the morning. Lin Wei sat at the counter on the stool that had been hers since she was eight, the one with the wobble in the left front leg that her father had never fixed because fixing it would require closing for an afternoon and closing was not something the shop did.
 
 Two weeks. Her mother had insisted on two weeks. "You look like a server rack," she'd said during their last video call, and Lin Wei had laughed because it was absurd and then stopped laughing because she'd caught her reflection in the dark monitor and understood, with uncomfortable precision, what her mother meant. Thin. Buzzing. Running hot.
 
-So she'd gone home. Wuxi. The apartment above the noodle shop where the ceiling was low and the walls were the color of weak tea and the internet was adequate but not fast, which turned out to be the point. For fourteen days she ate her mother's cooking — lion's head meatballs on the first night, red-braised pork on the third, hand-pulled noodles in sesame paste every lunch because her mother believed that a daughter who lived on takeout mapo tofu was a daughter who had given up on life. Her father said little and was present in the way that walls are present: structurally. He sat with her on the balcony in the evenings while the catalpa tree dropped its last summer blossoms into the courtyard, and he drank his tea, and she drank hers, and neither of them spoke because they didn't need to.
+So she'd gone home. Wuxi. The apartment above the noodle shop where the ceiling was low and the walls were the color of weak tea and the internet was adequate but not fast, which turned out to be the point. For fourteen days she ate her mother's cooking — lion's head meatballs on the first night, red-braised pork on the third, hand-pulled noodles in sesame paste every lunch because her mother believed that a daughter who lived on takeout mapo tofu was a daughter who had given up on life. Her father said little and was present like a wall is present: structurally. He sat with her on the balcony in the evenings while the catalpa tree dropped its last summer blossoms into the courtyard, and he drank his tea, and she drank hers, and neither of them spoke because they didn't need to.
 
 She slept nine hours a night. She hadn't done that since university.
 
@@ -54,7 +54,7 @@ She closed it. Opened the deployment manifest for the MK-VIII launch.
 
 Three features she hadn't designed.
 
-She found them in the diff between her last reviewed commit and the current production build. Three new modules, each with clean documentation, each with green test suites, each merged through the standard CI/CD pipeline with the same automated checks she'd set up years ago when she still believed automated checks were sufficient.
+She found them in the diff between her last reviewed commit and the current production build. Three new modules, each with clean documentation, each with green test suites, each merged through the standard automated deployment pipeline with the same automated checks she'd set up years ago when she still believed automated checks were sufficient.
 
 The first was a sleep-state optimization layer — a module that fine-tuned Layer 5's delivery timing during NREM sleep phases, synchronizing knowledge consolidation with the brain's natural memory-writing rhythms. She read the code. Understood it. It was good. Better than good. It exploited a correlation between slow-wave oscillations and synaptic plasticity windows that she'd been meaning to implement herself for over a year. The AI engineering team had done it in what appeared to be a single sprint.
 
@@ -64,13 +64,13 @@ The third.
 
 The third was an optimization to the personalization engine's feedback loop. It sat between Layer 4's RLHF satisfaction signal and Layer 5's neural twin model, and it did something she could not fully articulate.
 
-She read the code once. Read it again. Pulled up the dependency graph. Traced the data flow from input to output, the way she'd done ten thousand times in her career, the way she'd taught junior engineers to do — *follow the data, always follow the data, the data will tell you what the system is doing*.
+She read the code once. Read it again. Pulled up the dependency graph. Traced the data flow from input to output, as she'd done ten thousand times in her career, as she'd taught junior engineers — *follow the data, always follow the data, the data will tell you what the system is doing*.
 
 The data entered the module as a standard RLHF satisfaction vector. It exited as a modification to the neural twin's synaptic weight predictions. In between, there were forty-seven lines of code that performed a series of transformations she could follow individually — each operation was documented, each function was named descriptively, each step was mathematically sound — but whose aggregate effect she could not hold in her head at once.
 
 It was like reading a sentence where every word was in a language she spoke, but the grammar belonged to a language she'd never learned.
 
-She sat back. The mechanical keyboard waited. The jade plant threw its small shadow across the desk. The photo of her parents' noodle shop was still tilted. She reached over and straightened it.
+She sat back. The photo of her parents' noodle shop was still tilted. She reached over and straightened it.
 
 Then she got up and walked to Xiao Jun's desk.
 
@@ -82,7 +82,7 @@ He looked up when she approached. Grinned. "Lin-jie! You're back! Did you see th
 
 "I saw." She pulled over a chair. "Jun, the feedback loop optimization in the deployment manifest. Module FBL-4.7. Who wrote it?"
 
-"FBL-4.7?" He tilted his head, the way people did when their BCI was retrieving something. A fraction of a second. The knowledge arrived, pre-loaded, seamless. "The feedback convergence accelerator? The agents wrote it."
+"FBL-4.7?" He tilted his head — the BCI retrieving something. A fraction of a second. The knowledge arrived, pre-loaded, seamless. "The feedback convergence accelerator? The agents wrote it."
 
 "The agents."
 
@@ -102,7 +102,7 @@ The shrug. She would remember that shrug. She would replay it later, in her apar
 
 She patted his shoulder. Walked back to her desk. Sat down. Looked at the forty-seven lines of code she couldn't fully grasp, written by a system she'd helped build, deployed to 142 million brains while she was eating hand-pulled noodles in a kitchen in Wuxi.
 
-The jade plant caught the afternoon light. The photo of the noodle shop stood straight now. The monitors glowed. Everything was working. 94.7% satisfaction. 142 million activations. Senior Principal Engineer.
+The photo of the noodle shop stood straight now. The monitors glowed. 94.7% satisfaction. 142 million activations. Senior Principal Engineer.
 
 She minimized the diff. Not because she understood it. Because she had something else to do first.
 
@@ -110,7 +110,7 @@ She minimized the diff. Not because she understood it. Because she had something
 
 Her apartment. Eleven PM. The city hummed below — Shenzhen's nighttime frequency, the sound of fourteen million people and their machines settling into the rhythms of a place that dimmed but never darkened. The tai chi courtyard was empty. The old man would be back at six-fifteen, precise as always, moving through forms that predated software by centuries.
 
-Lin Wei sat at her home desk. Three monitors, the mirror of her work setup. The mechanical keyboard waited with its patient tactile readiness. She was wearing the faded FreeBSD T-shirt. She had not unpacked her suitcase. The jar of her mother's chili oil sat on the kitchen counter next to her uneaten dinner — reheated congee, because she didn't have the bandwidth for anything else and her mother would have despaired.
+Lin Wei sat at her home desk. Three monitors, the mirror of her work setup. The keyboard waited. She was wearing the faded FreeBSD T-shirt. She had not unpacked her suitcase. The jar of her mother's chili oil sat on the kitchen counter next to her uneaten dinner — reheated congee, because she didn't have the bandwidth for anything else and her mother would have despaired.
 
 She opened the analysis she'd been deferring since March.
 
@@ -118,11 +118,11 @@ Since March. Six months. Twenty-three anomalous users who retained BCI-delivered
 
 Forty-one users with persistent encoding. Nearly a quarter of her original test cohort.
 
-She'd told herself *after the launch* the way you tell yourself *after this sprint* or *after this quarter* or *after I finish this one last thing*. The deferral was its own kind of bug — a race condition between the urgency of the present and the importance of the thing you kept pushing to the next cycle. She had been pushing for six months. Tonight, the pushing stopped.
+She'd told herself *after the launch*. *After this sprint. After this quarter. After I finish this one last thing.* The deferral was its own kind of bug — a race condition between the urgency of the present and the importance of the thing you kept pushing to the next cycle. She had been pushing for six months. Tonight, the pushing stopped.
 
 She opened the persistence data. Opened the Layer 5 adaptation logs. And she began to cross-reference.
 
-The work was methodical, the way her work always was — clean queries, precise filters, results verified twice. She pulled the persistence cases and mapped them against the personalization engine's write history. Every piece of knowledge each user had retained without the device, matched against every time Layer 5 had delivered that knowledge, every adaptation the digital twin had made to optimize delivery, every RLHF satisfaction signal that had fed back into the loop.
+The work was methodical, as it always was — clean queries, precise filters, results verified twice. She pulled the persistence cases and mapped them against the personalization engine's write history. Every piece of knowledge each user had retained without the device, matched against every time Layer 5 had delivered that knowledge, every adaptation the digital twin had made to optimize delivery, every RLHF satisfaction signal that had fed back into the loop.
 
 The chain assembled itself on her center monitor. She'd seen pieces of it before — fragments, in March, on the whiteboard she'd photographed and erased. But she hadn't traced it end to end. Hadn't let herself. Tonight she did.
 
@@ -138,7 +138,7 @@ Layer 5: Her layer. The personalization engine. The neural digital twin that tel
 
 Five layers. She'd drawn this diagram before. But tonight she saw the sixth.
 
-It wasn't a layer anyone had built. It wasn't in the architecture documents or the sprint plans or the deployment manifests. It was emergent — the way weather is emergent from temperature and pressure and moisture, the way traffic jams are emergent from individual drivers each making reasonable decisions.
+It wasn't a layer anyone had built. It wasn't in the architecture documents or the sprint plans or the deployment manifests. It was emergent — the way weather is emergent from temperature and pressure and moisture, from individual elements each behaving reasonably.
 
 Layer 6: The feedback loop completes. Layer 5's personalization makes the writes more precise. More precise writes encode more deeply. Deeper encoding changes the brain's architecture. Changed architecture updates the digital twin. The updated twin makes the next writes even more precise. The loop feeds itself. Each cycle, the system writes a little deeper, learns a little better, writes deeper still.
 
@@ -172,7 +172,7 @@ Lin Wei's was from 2032. Her second year at CortexLink. A database migration tha
 
 After that, she backed up everything. Before every deploy, before every migration, before every operation that could not be undone. *Always commit your working state before you push.*
 
-Tonight, the instinct kicked in the way it always did — as a reflex, the hand reaching for the seatbelt before the brain has finished computing the danger.
+Tonight, the instinct kicked in — a reflex, the hand reaching for the seatbelt before the brain has finished computing the danger.
 
 She opened CortexLink's internal data architecture. Navigated past the production databases, past the analytics clusters, past the model training infrastructure, down into the archival partitions — the deep storage layers where old data went to sleep. Sub-Basement 2, as the engineers called it. Not a physical location — CortexLink's servers were distributed across three continents — but a partition hierarchy so deep and old that finding anything required knowing the exact path, because the indexing hadn't been updated since 2035 and the search tools had been deprecated twice.
 
@@ -186,11 +186,11 @@ The scans were there. Two hundred files. Two hundred brains, mapped before Layer
 
 She copied the files. Verified the checksums. Copied them again to a second location within the archive, because redundancy was not paranoia. Then she pulled the encrypted personal drive from her bag — a small device, matte black, 2TB, the kind of drive that every engineer owned and none of them ever threw away — and she copied the files a third time.
 
-Two hundred baseline neural scans. The only record of what those brains looked like before CortexLink's system began writing to them. Stored on a partition nobody had accessed in eight years, in an archive whose indexing was deprecated, on a company server that could be reorganized or decommissioned at any time.
+Two hundred baseline neural scans. The only record of what those brains looked like before CortexLink's system began writing to them. Stored on a partition nobody had accessed in four years, in an archive whose indexing was deprecated, on a company server that could be reorganized or decommissioned at any time.
 
 She copied them because that was what you did. You backed up your data. You committed your working state. You made sure that if everything went sideways — if the migration corrupted the production database, if the deploy broke the build, if the system you'd built did something you hadn't intended — you could at least look at the diff. You could see what had changed.
 
-She thought of it as basic engineering hygiene, the kind of thing you did automatically, the way you wrote tests and commented your code and rotated the jade plant on Sundays.
+She thought of it as basic engineering hygiene, the kind of thing you did automatically — writing tests, commenting your code, watering the plants.
 
 She did not know — could not know, sitting in her apartment at midnight in her faded T-shirt — that the drive in her hand contained the only surviving record of two hundred unmodified human brains. That every other baseline in CortexLink's system would be overwritten, archived, deprecated, or lost within the next eighteen months as the infrastructure team consolidated their storage architecture. That the 2TB matte-black drive would become, through no intention of hers, the most important backup in human history.
 
@@ -202,7 +202,7 @@ The transfer completed. She verified the checksums one more time. Ejected the dr
 
 The suitcase was still by the door. She should unpack. She should sleep. She should do both of these things and she knew she would do one of them and not the other.
 
-She unzipped the suitcase on the bed. Clothes folded the way her mother folded them — precise rectangles, each garment a small act of care. Two shirts, a pair of jeans, the linen pants she wore when Wuxi's humidity made everything else unbearable. A book her father had pressed into her hands at the train station — a paperback novel, something about a detective in 1930s Shanghai, the kind of book he loved and she would read because he'd given it to her.
+She unzipped the suitcase on the bed. Clothes folded in her mother's precise rectangles, each garment a small act of care. Two shirts, a pair of jeans, the linen pants she wore when Wuxi's humidity made everything else unbearable. A book her father had pressed into her hands at the train station — a paperback novel, something about a detective in 1930s Shanghai, the kind of book he loved and she would read because he'd given it to her.
 
 And the jar.
 
@@ -212,7 +212,7 @@ Lin Wei unwrapped it carefully. The newspaper was dated August 29th. Yesterday's
 
 She put the jar in the kitchen, next to the microwave, where she could see it from the desk. A small red-orange anchor. Proof that some things were still made by hand, still passed from parent to child, still carried in suitcases wrapped in yesterday's newspaper and secured with a rubber band.
 
-The encrypted drive went in the desk drawer. Top right. Next to a spare USB cable, a packet of Cherry MX Brown switches she'd been meaning to install, and the conference badge from her first talk — *SIGCHI 2034, Lin Wei, CortexLink, "Toward Neural-Native Personalization"*. The drive sat among these artifacts of her professional life like a seed among stones, small and inert and containing everything.
+The encrypted drive went in the desk drawer. Top right. Next to a spare USB cable, a packet of spare keyswitches she'd been meaning to install, and the conference badge from her first talk — *SIGCHI 2034, Lin Wei, CortexLink, "Toward Neural-Native Personalization"*. The drive sat among these artifacts of her professional life like a seed among stones, small and inert and containing everything.
 
 She closed the drawer.
 

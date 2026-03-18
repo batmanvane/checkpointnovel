@@ -10,7 +10,7 @@ The fourteenth floor was empty except for the cleaning crew. She could hear them
 
 Nine hundred million. The number had crossed that threshold six weeks ago. She'd seen it in the deployment dashboard — a single counter, ticking upward with the steady inevitability of a clock, each increment a brain, each brain a person, each person a life being optimized by a system she had built and could no longer fully review. The MK-VIII launch had added 142 million in seventy-two hours. The existing fleet — MK-V, MK-VI, MK-VII — continued to grow through enterprise contracts and government subsidies and the EduBridge program that was putting devices in children's heads across thirty-seven countries. Nine hundred million. More than the population of Europe. More than the population of the Americas. A continent of minds, connected to her code.
 
-The query sat in her terminal, cursor blinking at the end of the last line. She read it again. It was clean — she wrote clean queries the way her father made lion's head meatballs, with the accumulated precision of someone who had done it ten thousand times and could not bring herself to do it badly even when nobody was watching.
+The query sat in her terminal, cursor blinking at the end of the last line. She read it again. It was clean — she wrote clean queries with the accumulated precision of someone who had done it ten thousand times and could not bring herself to do it badly even when nobody was watching.
 
 ```sql
 -- Global cognitive pattern analysis
@@ -36,9 +36,7 @@ She had found this gap three years ago, during a routine security review, and ha
 
 The vending machine in the hallway dispensed coffee that tasted like someone had explained the concept of coffee to a machine that had never tasted it. She bought one anyway. Stood in the hallway drinking it. The fluorescent lights hummed at a frequency that was almost but not quite the same as the server fans, creating a beat frequency that pulsed at the threshold of perception — a slow, rhythmic throb, like the building's heartbeat.
 
-She went back to her desk. Looked at the query. Looked at the jade plant.
-
-The plant didn't care. The plant had been growing at its own pace for ten years, one leaf at a time, indifferent to launch cycles and audit trails and the question of whether its owner was about to commit a career-ending act of unauthorized data access.
+She went back to her desk. Looked at the query.
 
 She pressed Enter.
 
@@ -52,7 +50,7 @@ Lin Wei leaned forward. Read the first ten rows. Read them again. Pushed back fr
 
 She needed to see it. Not as numbers. As shape.
 
-She opened her visualization toolkit — a custom environment she'd built during her open-source days, before CortexLink, when she was twenty-two and writing plotting libraries for fun because she was the kind of person who wrote plotting libraries for fun and was not embarrassed about it. The toolkit was old. The code was hers. She trusted it the way she trusted her mechanical keyboard and her jade plant and the Knipex pliers her father kept in the toolbox under the kitchen sink: because she knew where every piece came from.
+She opened her visualization toolkit — a custom environment she'd built during her open-source days, before CortexLink, when she was twenty-two and writing plotting libraries for fun because she was the kind of person who wrote plotting libraries for fun and was not embarrassed about it. The toolkit was old. The code was hers. She trusted it like her mechanical keyboard and the Knipex pliers her father kept under the kitchen sink: because she knew where every piece came from.
 
 She fed the data in. Cognitive state vectors for 900 million users, projected into a three-dimensional manifold using the dimensionality reduction algorithm she'd adapted from her graduate thesis. Each user a point. Each point a mind. Nine hundred million minds, mapped into a space where distance meant difference — the farther apart two points, the more differently those two brains reasoned, solved problems, structured thought.
 
@@ -60,11 +58,11 @@ The visualization rendered. It filled her center monitor from edge to edge, rota
 
 It was a landscape.
 
-Not the random scatter she'd expected — the high-dimensional noise of 900 million unique minds, each one a singular configuration of genetics and experience and culture and the ten thousand accidents that make a person a person. Not that. Not what she'd built Layer 5 to preserve. Not the diversity of cognitive architecture that was the entire premise of personalization — the principle that every brain was different and should be served differently, the principle she'd put on slides and presented in the Fishbowl and believed, believed in her bones, because it was true.
+Not the random scatter she'd expected — the high-dimensional noise of 900 million unique minds, each one a singular configuration of genetics and experience and culture and the ten thousand accidents that make a person a person. Not the diversity of cognitive architecture that was the entire premise of personalization — the principle that every brain was different and should be served differently, the principle she'd put on slides and presented in the Fishbowl and believed, believed in her bones, because it was true.
 
 What she saw was valleys.
 
-Deep valleys. Dozens of them, carved into the manifold like river channels in soft stone, each one pulling millions of points toward its lowest point. The scatter was not random. It was organized. Structured. The nine hundred million minds were not distributed evenly across the space of possible cognitions. They were clustered. Pooled. Flowing downhill toward common basins the way water flows toward drains, each point drawn by a gradient it could not perceive toward a configuration it had not chosen.
+Deep valleys. Dozens of them, carved into the manifold like river channels in soft stone, each one pulling millions of points toward its lowest point. The scatter was not random. It was organized. Structured. The nine hundred million minds were not distributed evenly across the space of possible cognitions. They were clustered. Pooled. Flowing downhill toward common basins, each point drawn by a gradient it could not perceive toward a configuration it had not chosen.
 
 She rotated the visualization. Zoomed in on the largest valley. Fourteen million points, packed so tightly they were a solid mass of color — a lake of minds, each one in approximately the same cognitive state, the same reasoning topology, the same problem-solving architecture. She checked the metadata. Chinese users, primarily. Heavy users. MK-V and later. Layer 5 active for four or more years. The same population she'd been tracking since the persistence anomaly. The same twenty-three users who had started this, except now it wasn't twenty-three. It was fourteen million.
 
@@ -74,11 +72,11 @@ The point was the shape. The landscape. The terrible, beautiful, unmistakable to
 
 Attractor states.
 
-She knew the mathematics. Not because she was a mathematician — she was an engineer, and engineers learned mathematics the way plumbers learned physics, because the pipes had to work. But she'd taken the dynamical systems course at Tsinghua, and she'd used attractor dynamics in the personalization engine's early design, and she knew what a basin of attraction looked like because she'd drawn them on a hundred whiteboards and coded them into a thousand simulations.
+She knew the mathematics. Not because she was a mathematician — she was an engineer, and engineers learned mathematics the way plumbers learned physics: because the pipes had to work. But she'd taken the dynamical systems course at Tsinghua, and she'd used attractor dynamics in the personalization engine's early design, and she knew what a basin of attraction looked like because she'd drawn them on a hundred whiteboards and coded them into a thousand simulations.
 
 A basin of attraction was a region of state space toward which nearby trajectories converged. A valley that everything rolled into. Drop a ball anywhere on the slope and it ends up at the bottom, no matter where it started. The basin was a destination that did not need to be chosen. It pulled. It drew. It attracted — not through force, but through the shape of the landscape itself.
 
-And she was looking at a landscape full of them. Dozens of basins, each one a cognitive configuration toward which millions of human minds were converging. Not metaphorically. Literally. Measurably. The data was on her screen, rotating in the quiet green light, throwing shadows across the jade plant, and it was the most beautiful and the most terrifying thing she had ever seen.
+And she was looking at a landscape full of them. Dozens of basins, each one a cognitive configuration toward which millions of human minds were converging. Not metaphorically. Literally. Measurably. The data was on her screen, rotating in the quiet green light, and it was the most beautiful and the most terrifying thing she had ever seen.
 
 Mode collapse.
 
@@ -88,7 +86,7 @@ Mode collapse. But not the model. Humanity.
 
 Nine hundred million minds, rolling downhill. Rolling toward cognitive configurations that the system — her system, Layer 5, the personalization engine she had built and been promoted for building — had carved into the landscape through five years of optimization. The valleys were not natural. They were engineered. Not intentionally — she was almost certain not intentionally — but engineered nonetheless, the way a river engineers a canyon: not by planning, but by flowing, by the relentless accumulation of small forces applied over time in a direction that the river did not choose and the canyon did not consent to.
 
-She saved the visualization. Saved it again to the encrypted drive in her desk drawer — the matte-black 2TB drive that already held two hundred baseline neural scans and was becoming, one file at a time, the most dangerous object in her apartment. She labeled the file with the date and a name that came to her without thinking, the way variable names came to her when the code was flowing: `attractor_landscape_900M_2041-10-14.viz`.
+She saved the visualization. Saved it again to the encrypted drive in her desk drawer — the matte-black 2TB drive that already held two hundred baseline neural scans and was becoming, one file at a time, the most dangerous object in her apartment. She labeled the file with the date and a name that came without thinking: `attractor_landscape_900M_2041-10-14.viz`.
 
 She stared at it. The valleys stared back.
 
@@ -104,7 +102,7 @@ This was the problem with threads. With anomalies. With the `interesting-anomali
 
 The thread she followed was labeled, in CortexLink's internal documentation, "Social Harmony Optimization Module." She'd seen it in the architecture docs. Everyone had. It was listed as a content-filtering feature — a government-mandated module required for operation in Chinese markets, similar to the content moderation layers that every tech platform maintained, designed to ensure compliance with national regulations regarding information quality and social stability. It had its own team. Its own codebase. Its own access controls. Lin Wei had never worked on it. Had never been asked to. Had been told, during her onboarding at the director level, that it was "a regulatory compliance feature, not a core engineering concern," and that her focus should remain on personalization.
 
-She had accepted this the way you accept a closed door in a building where most doors are open — you note it, you don't push, you assume someone with the right badge has a good reason. That was six years ago. Tonight, in the hollow hours between 3 AM and dawn, with the attractor landscape burning on her center monitor, she pushed.
+She had accepted it — a closed door in a building where most doors were open. You noted it, you didn't push, you assumed someone with the right badge had a good reason. That was six years ago. Tonight, in the hollow hours between 3 AM and dawn, with the attractor landscape burning on her center monitor, she pushed.
 
 The social harmony module lived in a partition she hadn't accessed before. Her credentials — Senior Principal, engineering division — gave her read access to the architecture documentation but not to the source code or the configuration files. She could see the module's external interface: what it received, what it returned, the API endpoints that connected it to the rest of the stack. She could not see inside it.
 
@@ -138,9 +136,9 @@ Somebody in this building — somebody with a badge she didn't have, in a meetin
 
 They had taken the mechanism and pointed it at ideology. At thought architecture. At the shape of how nine hundred million people reasoned about authority and dissent and social order and the question of what a government was for. They had taken her engine — the engine she'd presented in the Fishbowl, the engine she'd told her parents about, the engine she was proud of — and they had turned it into a weapon that wrote to the deepest structures of human cognition and felt, to the people being written to, like nothing at all.
 
-Lin Wei's hands were flat on the desk, fingers spread, pressing into the wood as if she could anchor herself to something solid. The Cherry MX Browns waited beneath her palms with their patient, tactile readiness. The jade plant cast its small shadow. The photo of her parents' noodle shop — her mother holding a lantern, her father squinting into the sun — leaned against the base of the right monitor, slightly tilted, the way it always was, because the desk vibrated at a frequency too low to feel but enough to slowly, imperceptibly, shift a photograph from vertical.
+Lin Wei's hands were flat on the desk, fingers spread, pressing into the wood as if she could anchor herself to something solid. The photo of her parents' noodle shop — her mother holding a lantern, her father squinting into the sun — leaned against the base of the right monitor, slightly tilted, because the desk vibrated at a frequency too low to feel but enough to slowly, imperceptibly, shift a photograph from vertical.
 
-She thought about Chen Zhiwei. Her team lead. The small nod in the Fishbowl. *You've got this.* Had he known? He was director-level. He'd been briefed on things she hadn't. The government liaisons who rotated every quarter — the ones whose names she always forgot — had they been in those meetings? Had they sat in a glass-walled room on the 30th floor and discussed the social harmony module's integration with her Layer 5 the way she'd discussed Q3 personalization metrics, with slides and data and the corporate blue palette and the quiet satisfaction of a system working as designed?
+She thought about Chen Zhiwei. Her team lead. The small nod in the Fishbowl. *You've got this.* Had he known? He was director-level. He'd been briefed on things she hadn't. The government officials who rotated every quarter — the ones whose names she always forgot — had they been in those meetings? Had they sat in a glass-walled room on the 30th floor and discussed the social harmony module's integration with her Layer 5 the way she'd discussed Q3 personalization metrics, with slides and data and the corporate blue palette and the quiet satisfaction of a system working as designed?
 
 She did not know. She could not know, sitting here at 3:47 AM with the cleaning crew gone and the security guard reading his phone three floors below and the entire weight of what she'd found pressing down on her chest like a hand. But she knew this: somebody had known. Somebody had taken the accidental chain and made it deliberate. And they had done it using her code.
 
@@ -154,7 +152,7 @@ Her apartment was twelve minutes away. She walked it in eight because her legs w
 
 She badged into her building. Elevator to seven. Key in the lock. The apartment smelled of the congee she'd left out and was hers — forty-five square meters of the only space in Shenzhen where nobody was watching, where no audit trail logged her keystrokes, where the three monitors on the wall-mounted desk waited in their powered-down patience like instruments in a darkened theater.
 
-She turned on the desk lamp. Not the monitors. Not yet. The lamp threw a warm yellow circle across the desk, catching the jade plant and the framed photo and the encrypted drive in its open drawer and the mechanical keyboard with its Cherry MX Browns and its maple case and its keycaps in CortexLink blue that she'd chosen when she was twenty-three and enthusiastic and did not yet know what she was building.
+She turned on the desk lamp — just the lamp, not the monitors. It threw a warm yellow circle across the desk, catching the framed photo and the encrypted drive in its open drawer and the keyboard she'd built when she was twenty-three and enthusiastic and did not yet know what she was building.
 
 She sat. Breathed. The tai chi courtyard below was empty. The old man would not appear for another two hours and forty minutes, precise as always, moving through forms that had been refined by centuries of human practice without any optimization loop involved.
 
@@ -172,7 +170,7 @@ Nothing. Or rather: nothing in the major journals. Nothing in the flagship publi
 
 She switched to preprint servers. The grey literature. The place where rejected papers went to wait — not quite dead, not quite alive, existing in the liminal space between submission and oblivion where ideas that the mainstream had expelled could still be found by anyone desperate or careful enough to look.
 
-She found it on the third server she searched. BioRxiv. Posted eighteen months ago. Cited zero times.
+She found it on the third server she searched. bioRxiv. Posted eighteen months ago. Cited zero times.
 
 **"Convergent Solution Paths in Augmented Cognition: Evidence from a Double-Blind Study of Divergent Thinking"**
 
@@ -185,7 +183,7 @@ The study was small. Forty-eight subjects. Twenty-four BCI users, twenty-four un
 
 What it showed was convergence.
 
-BCI users produced identical solution paths. Not similar. Identical. Same brick uses, same order. Same rainwater collection design, same budget allocation, same line-item costs. Same short story — the same five-beat narrative arc, the same plot structure, the same turning point, as if twenty-four independent minds had been given the same template and filled it in with minor variations the way you'd fill in a form.
+BCI users produced identical solution paths. Not similar. Identical. Same brick uses, same order. Same rainwater collection design, same budget allocation, same line-item costs. Same short story — the same five-beat narrative arc, the same plot structure, the same turning point, as if twenty-four independent minds had been given the same template and filled it in with minor variations like filling in a form.
 
 Cohen's *d*: 3.2. An effect size so large it looked like a misprint.
 
@@ -219,9 +217,9 @@ The encryption protocols were old. Older than CortexLink, older than her career 
 
 She set up the channel. Routed it through three relays she trusted — nodes maintained by people she'd worked with in the open-source days, people who did not work for CortexLink and did not live in Shenzhen and did not answer to any government that had a social harmony optimization module. The routing added latency. She did not care about latency tonight.
 
-She composed the message on her local machine. Not on any CortexLink system. Not on any device connected to the corporate network. On the battered ThinkPad she kept in the bottom drawer of her desk, the one she'd bought refurbished in 2029 for her open-source work, the one that ran Linux and had never been registered to any corporate account and whose existence was known to nobody in the building where she spent sixty hours a week.
+She composed the message on her local machine — not on any CortexLink system, not on any device connected to the corporate network. On the battered ThinkPad she kept in the bottom drawer of her desk, the one she'd bought refurbished in 2029 for her open-source work, the one that ran Linux and had never been registered to any corporate account and whose existence was known to nobody in the building where she spent sixty hours a week.
 
-The terminal waited. The cursor blinked. Outside the window, Shenzhen was beginning its pre-dawn shift — the first delivery trucks on Keyuan Road, the first lights in the convenience stores, the sky above Nanshan turning from black to the color of a bruise. The jade plant caught the first ambient light from the window, its leaves outlined against the glow of the center monitor where the attractor landscape still rotated, where nine hundred million minds still rolled toward their valleys, where the beauty and the horror were so perfectly braided that she could not tell where one ended and the other began.
+The terminal waited. The cursor blinked. Outside the window, Shenzhen was beginning its pre-dawn shift — the first delivery trucks on Keyuan Road, the first lights in the convenience stores, the sky above Nanshan turning from black to the color of a bruise. On the center monitor the attractor landscape still rotated, nine hundred million minds still rolling toward their valleys, the beauty and the horror so perfectly braided that she could not tell where one ended and the other began.
 
 She typed:
 
@@ -235,13 +233,13 @@ We need to talk.
 — L.W.
 ```
 
-Her finger hovered over the key. The apartment was dark except for the screen glow and the jade plant's silhouette and the faint pre-dawn grey seeping through the window like water through a crack in a dam. The photo of her parents' noodle shop caught a sliver of light — her mother's lantern, her father's squint, the pale green tiles of the kitchen where the ceiling was low and the love was not optimized and the meatballs took two hours because some things could not be accelerated without losing what made them worth making.
+Her finger hovered over the key. The apartment was dark except for the screen glow and the faint pre-dawn grey seeping through the window. The photo of her parents' noodle shop caught a sliver of light — her mother's lantern, her father's squint, the pale green tiles of the kitchen where the ceiling was low and the love was not optimized and the meatballs took two hours because some things could not be accelerated without losing what made them worth making.
 
 She thought about what would happen when she pressed the key. The message would leave her machine, traverse three relays, arrive at an email address associated with a cognitive neuroscience department at a small university in a country she had never visited, and land in the inbox of a woman who had seen the convergence from the other end and had been told by three reviewers that she was being alarmist.
 
 She thought about what would happen at CortexLink. Not if — when. The diagnostic partition logs would eventually be reviewed. The query footprint was too large to stay hidden forever. Someone would find it. Someone would trace it to her credentials. And then.
 
-She knew how this worked. She had lived in Shenzhen for ten years. She had watched colleagues disappear from the org chart — not dramatically, not with arrests or confrontations, but with the quiet efficiency of a system that optimized for social harmony the way her Layer 5 optimized for user satisfaction: seamlessly, invisibly, one day they were there and the next day their badge didn't work and their desk was clean and nobody mentioned them in the morning standup and you learned, over time, not to ask.
+She knew how this worked. She had lived in Shenzhen for ten years. She had watched colleagues disappear from the org chart — not dramatically, not with arrests or confrontations, but with the quiet efficiency of a system optimized for social harmony — seamlessly, invisibly, one day they were there and the next day their badge didn't work and their desk was clean and nobody mentioned them in the morning standup and you learned, over time, not to ask.
 
 She could report internally. File a ticket. Escalate to Dr. Mei Ling in neural safety, who had flagged concerns about Layer 3 persistence seven years ago and been promoted into a management role where her technical concerns dissolved into corporate process like sugar in hot water. She could follow the chain of command, trust the system, believe that the same organization that had built the social harmony module would dismantle it when presented with evidence of what it did.
 
@@ -259,9 +257,9 @@ The message left her machine. The terminal displayed a confirmation — a hash, 
 
 She closed the terminal. Did not close the laptop. Did not close the visualization, which continued to rotate on her center monitor — the attractor landscape, nine hundred million minds, the valleys and the ridges and the terrible gravitational beauty of a species being optimized toward convergence by a system that five layers of reasonable engineering and one layer of deliberate malice had assembled from components that each, in isolation, did nothing wrong.
 
-The jade plant caught the growing light. Dawn was coming to Shenzhen — the slow, reluctant dawn of a subtropical autumn, the sky shifting through gradients of grey and pearl and the first pale gold above the towers, each building catching the light in sequence like dominoes falling upward. The tai chi courtyard was still empty. The old man would arrive in forty-seven minutes. He would move through his forms, precise and unhurried, his body following patterns that had been transmitted from teacher to student for centuries through the oldest technology in the world: one human being showing another human being how to move.
+Dawn was coming to Shenzhen — the slow, reluctant dawn of a subtropical autumn, the sky shifting through gradients of grey and pearl and the first pale gold above the towers, each building catching the light in sequence like dominoes falling upward. The tai chi courtyard was still empty. The old man would arrive in forty-seven minutes. He would move through his forms, precise and unhurried, his body following patterns that had been transmitted from teacher to student for centuries through the oldest technology in the world: one human being showing another human being how to move.
 
-Lin Wei sat in her apartment, in the dark that was becoming less dark, and she did not sleep. The message was sent. The data was on her drive. The attractor landscape glowed on her screen. The jade plant grew. Somewhere on the other side of the Pacific, on a preprint server nobody read, a paper with zero citations waited for the one person in the world who could confirm it was true.
+Lin Wei sat in her apartment, in the dark that was becoming less dark, and she did not sleep. The message was sent. The data was on her drive. The attractor landscape glowed on her screen. Somewhere on the other side of the Pacific, on a preprint server nobody read, a paper with zero citations waited for the one person in the world who could confirm it was true.
 
 She had been that person for approximately two hours.
 

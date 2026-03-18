@@ -20,7 +20,7 @@ They ran the study over three weeks in late April and early May. Room 314, fluor
 
 Maya observed through the one-way mirror from the adjacent room, taking notes in her notebook. The controls were a pleasure to watch. They fidgeted. They crossed things out. They stared at the ceiling, tapped their pens, wrote in bursts and pauses that reflected the uneven, lurching rhythm of a mind working without assistance. One woman laughed out loud at her own answer on the brick task — she'd written *tiny coffin for a hamster* and apparently surprised herself.
 
-The BCI users were different. Not in any way that would show up on video review as abnormal — they sat, they wrote, they paused. But the pauses were uniform. The writing was steady. There was no visible struggle, no crossed-out false starts, no moments of surprise. They worked the way well-maintained machines work: smoothly, reliably, without waste.
+The BCI users were different. Not in any way that would show up on video review as abnormal — they sat, they wrote, they paused. But the pauses were uniform. The writing was steady. There was no visible struggle, no crossed-out false starts, no moments of surprise. They worked like well-maintained machines: smoothly, reliably, without waste.
 
 Maya scored the responses on a Saturday, alone in Room 314, with a cup of coffee that went cold and stayed cold for three hours. She'd blinded herself to group membership, so she was reading sixty-odd brick lists and engineering schematics and short stories without knowing who was augmented and who wasn't. She didn't need to know. By the fourteenth response, she could sort them by feel.
 
@@ -108,7 +108,7 @@ Maya stared at that second testimonial. David R. David. Her ex-husband's name wa
 
 She put the brochure back on the table. The testimonial was almost certainly not from her David. But the voice — *I was skeptical at first* — sounded like the voice she'd argued with across this same table four years ago, when he'd said those exact words about the BCI and she'd said *skepticism is the beginning of the process, not the end*, and he'd looked at her with the expression of a man who had realized his wife would never change her mind, and she'd looked at him with the expression of a woman who had realized the same thing about her husband.
 
-She cooked dinner. Grilled cheese and tomato soup, because it was Thursday and she was tired and there was comfort in melting butter in a cast iron pan, the way there was comfort in any task that required attention and rewarded it with something warm. The cheese was sharp cheddar from the co-op. The bread was sourdough she'd bought three days ago, stale, which was better for grilling anyway — more structure, crisper crust. These were the kinds of things a BCI could not teach you. The things you knew because you'd burned enough bread to learn.
+She cooked dinner. Grilled cheese and tomato soup, because it was Thursday and she was tired and there was comfort in melting butter in a cast iron pan, in any task that required attention and rewarded it with something warm. The cheese was sharp cheddar from the co-op. The bread was sourdough she'd bought three days ago, stale, which was better for grilling anyway — more structure, crisper crust. These were the kinds of things a BCI could not teach you. The things you knew because you'd burned enough bread to learn.
 
 "Lily. Dinner."
 
@@ -124,7 +124,7 @@ Maya waited. The soup steamed between them. The kitchen faucet dripped — she n
 
 "And you?"
 
-"I sat there." Lily's voice was flat and precise, the way Maya's voice got when she was presenting data that hurt. "I sat there and watched them do it. I tried to contribute. I said I could do the section on cellular respiration because I actually studied it last night, and Priya said, 'It's okay, I already did that part.' She wasn't being mean. She was being efficient. She just — already had it. All of it. And better than what I would have done."
+"I sat there." Lily's voice was flat and precise, a tone Maya recognized as her own when presenting data that hurt. "I sat there and watched them do it. I tried to contribute. I said I could do the section on cellular respiration because I actually studied it last night, and Priya said, 'It's okay, I already did that part.' She wasn't being mean. She was being efficient. She just — already had it. All of it. And better than what I would have done."
 
 Maya reached across the table and put her hand on Lily's. Lily didn't pull away.
 
@@ -140,7 +140,7 @@ The word landed in the kitchen like a stone in still water. *Accommodation.* A w
 
 "Ninety days. That's what the letter says. Enrollment closes August first. After that it's full price and we can't afford it and you know it."
 
-Maya knew it. The subsidized program was the only way Lily would get a BCI before college, if she got one at all. Full retail was eleven thousand dollars, and Maya's salary, already frozen for two years, did not include eleven thousand dollars of discretionary spending. The subsidy made it free. Free. The two most dangerous words.
+Maya knew it. The subsidized program was the only way Lily would get a BCI before college, if she got one at all. Full retail was eleven thousand dollars, and Maya's salary, already frozen for two years, did not include eleven thousand dollars of discretionary spending. The subsidy made it free. Free.
 
 "I need time," Maya said. "I need to — I'm working on something. Research. That might change how we think about —"
 
