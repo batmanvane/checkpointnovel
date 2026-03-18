@@ -108,33 +108,26 @@ function generateEEG(x, t, style, seed) {
 }
 
 // --- TIMING MODEL ---
-// 9 text milestones, equally spaced.
-// Each milestone is at screen center (peak visibility) exactly when its year shows.
-// Linear scroll through text → uniform speed for all milestones.
-// Short eased ending for convergence + title.
-
-const MS = 1000; // spacing between milestones (scroll units)
-const Y0 = 600;  // first milestone position
+// Milestones fade in and out at a fixed screen position.
+// Each gets ~5.5s: 1s fade in, 3.5s hold, 1s fade out.
 
 const milestones = [
-  { y: Y0 + MS * 0, year: '1924', label: 'Jena, Germany',      sub: 'Hans Berger connects electrodes\nto an open skull.', eeg: -1 },
-  { y: Y0 + MS * 1, year: '1929', label: 'First publication',   sub: 'Alpha waves.\n10 cycles per second.\nNo one believes him.', eeg: 0.1 },
-  { y: Y0 + MS * 2, year: '2021', label: 'First BCI trials',    sub: 'Reading the brain\nis no longer enough.', eeg: 0.2 },
-  { y: Y0 + MS * 3, year: '2031', label: 'CortexLink MK-I',     sub: 'A skin-colored patch\nbehind the left ear.\nIt reads. It also writes.', eeg: 0.35 },
-  { y: Y0 + MS * 4, year: '2035', label: '100 million users',   sub: 'The updates are seamless.\nYou barely notice them.', eeg: 0.5 },
-  { y: Y0 + MS * 5, year: '2038', label: '500 million',          sub: 'You barely notice the updates.\nBut the updates notice you.', eeg: 0.7 },
-  { y: Y0 + MS * 6, year: '2041', label: '900 million',          sub: 'The thoughts come cleaner now.\nMore efficient. More... similar.', eeg: 0.85 },
-  { y: Y0 + MS * 7, year: '',     label: '',                      sub: '', question: true, eeg: 0.95 },
-  { y: Y0 + MS * 8, year: '',     label: '',                      sub: '', cliffhanger: true, eeg: 0.98 },
-  { y: Y0 + MS * 9 + 200, year: '', label: '',                    sub: '', convergence: true, eeg: 1.0 },
-  { y: Y0 + MS * 9 + 1400, year: '', label: '',                   sub: '', title: true, eeg: 1.0 },
+  { t: 2,  year: '1924', label: 'Jena, Germany',      sub: 'Hans Berger connects electrodes\nto an open skull.', eeg: -1 },
+  { t: 8,  year: '1929', label: 'First publication',   sub: 'Alpha waves.\n10 cycles per second.\nNo one believes him.', eeg: 0.1 },
+  { t: 14, year: '2021', label: 'First BCI trials',    sub: 'Reading the brain\nis no longer enough.', eeg: 0.2 },
+  { t: 20, year: '2031', label: 'CortexLink MK-I',     sub: 'A skin-colored patch\nbehind the left ear.\nIt reads. It also writes.', eeg: 0.35 },
+  { t: 26, year: '2035', label: '100 million users',   sub: 'The updates are seamless.\nYou barely notice them.', eeg: 0.5 },
+  { t: 32, year: '2038', label: '500 million',          sub: 'You barely notice the updates.\nBut the updates notice you.', eeg: 0.7 },
+  { t: 38, year: '2041', label: '900 million',          sub: 'The thoughts come cleaner now.\nMore efficient. More... similar.', eeg: 0.85 },
+  { t: 44, year: '',     label: '',                      sub: '', question: true, eeg: 0.95 },
+  { t: 50, year: '',     label: '',                      sub: '', cliffhanger: true, eeg: 0.98 },
+  { t: 55, year: '',     label: '',                      sub: '', convergence: true, eeg: 1.0 },
+  { t: 60, year: '',     label: '',                      sub: '', title: true, eeg: 1.0 },
 ];
 
-// Key positions
-const TEXT_END_Y = Y0 + MS * 8 + 500;  // after cliffhanger fades
-const TITLE_Y = milestones[milestones.length - 1].y;
-const CONTENT_HEIGHT = TITLE_Y + H;
-const SCROLL_MAX = CONTENT_HEIGHT - H;
+const FADE_IN = 1.0;   // seconds to fade in
+const FADE_OUT = 1.0;  // seconds to fade out
+const TEXT_Y = H * 0.48; // fixed vertical position for text
 
 // Convergence lines
 const convLines = [];
@@ -151,77 +144,67 @@ for (let i = 0; i < 40; i++) {
   });
 }
 
-// Scroll: linear with 5-second hold at end for title card
-const HOLD_TIME = 5; // seconds the title stays fully visible
-const SCROLL_FRAMES = (66 - HOLD_TIME) * 60; // frames spent scrolling
-
-function getScrollY(progress) {
-  const scrollProgress = Math.min(1, frame / SCROLL_FRAMES);
-  return scrollProgress * SCROLL_MAX;
+// Get milestone opacity based on current time
+function getMilestoneOpacity(m, time) {
+  const nextIdx = milestones.indexOf(m) + 1;
+  const duration = nextIdx < milestones.length ? milestones[nextIdx].t - m.t : 6;
+  const holdEnd = m.t + duration - FADE_OUT;
+  if (time < m.t) return 0;
+  if (time < m.t + FADE_IN) return (time - m.t) / FADE_IN; // fade in
+  if (time < holdEnd) return 1; // hold
+  if (time < m.t + duration) return 1 - (time - holdEnd) / FADE_OUT; // fade out
+  return 0;
 }
 
-function getCurrentEEGStyle(scrollY) {
+// EEG style interpolated by time
+function getCurrentEEGStyle(time) {
   for (let i = 0; i < milestones.length - 1; i++) {
-    if (scrollY <= milestones[i + 1].y) {
-      const t = (scrollY - milestones[i].y) / (milestones[i + 1].y - milestones[i].y);
+    if (time <= milestones[i + 1].t) {
+      const t = (time - milestones[i].t) / (milestones[i + 1].t - milestones[i].t);
       return milestones[i].eeg + (milestones[i + 1].eeg - milestones[i].eeg) * Math.max(0, Math.min(1, t));
     }
   }
   return 1.0;
 }
 
-function getUserCount(scrollY) {
-  const start = Y0 + MS * 3; // 2031
-  const end = Y0 + MS * 6;   // 2041
-  if (scrollY < start) return 0;
-  if (scrollY > end) return 900000000;
-  return Math.floor(((scrollY - start) / (end - start)) * 900000000);
+// User count interpolated by time (2031=20s to 2041=38s)
+function getUserCount(time) {
+  if (time < 20) return 0;
+  if (time > 38) return 900000000;
+  return Math.floor(((time - 20) / 18) * 900000000);
 }
 
-// Year counter — pauses at each milestone while text is readable, counts between
-// Pause zone: ±MS*0.3 around each milestone (year holds while text is near center)
-// Count zone: between pause zones (year ticks up smoothly)
-const PAUSE_R = MS * 0.45;
-
-function getCurrentYear(scrollY) {
-  const ym = milestones.filter(m => m.year).map(m => ({ y: m.y, year: parseInt(m.year) }));
-  if (ym.length === 0 || scrollY < ym[0].y - PAUSE_R) return null;
+// Year counter — interpolated by time between year-milestones
+function getCurrentYear(time) {
+  const ym = milestones.filter(m => m.year).map(m => ({ t: m.t, year: parseInt(m.year) }));
+  if (ym.length === 0 || time < ym[0].t - 1) return null;
 
   for (let i = 0; i < ym.length; i++) {
     const m = ym[i];
-    // In pause zone — hold this year
-    if (scrollY >= m.y - PAUSE_R && scrollY <= m.y + PAUSE_R) {
-      return m.year;
-    }
-    // In count zone between this and next milestone
+    // Near a milestone — hold year
+    if (time >= m.t - 1 && time <= m.t + 3) return m.year;
+    // Between milestones — interpolate
     if (i < ym.length - 1) {
       const next = ym[i + 1];
-      const countStart = m.y + PAUSE_R;
-      const countEnd = next.y - PAUSE_R;
-      if (scrollY > countStart && scrollY < countEnd) {
-        const t = (scrollY - countStart) / (countEnd - countStart);
+      if (time > m.t + 3 && time < next.t - 1) {
+        const t = (time - (m.t + 3)) / ((next.t - 1) - (m.t + 3));
         return Math.round(m.year + (next.year - m.year) * t);
       }
     }
   }
-
-  // After last year milestone
   return ym[ym.length - 1].year;
 }
 
 function drawFrame() {
-  const progress = frame / TOTAL_FRAMES;
-  const scrollY = getScrollY(progress);
   const time = frame / 60;
-  const eegStyle = getCurrentEEGStyle(scrollY);
+  const eegStyle = getCurrentEEGStyle(time);
 
   ctx.fillStyle = BG;
   ctx.fillRect(0, 0, W, H);
 
   // --- Year counter (top-left) ---
-  const questionY = Y0 + MS * 7;
-  const currentYear = getCurrentYear(scrollY);
-  if (currentYear !== null && scrollY < questionY) {
+  const currentYear = getCurrentYear(time);
+  if (currentYear !== null && time < 44) {
     const isFuture = currentYear >= 2027;
     let yearOpacity = 0.85;
 
@@ -247,16 +230,10 @@ function drawFrame() {
   const numTraces = 4;
   const traceSpacing = eegBandHeight / (numTraces + 1);
 
-  let eegOpacity = 1;
-  const cliffY = Y0 + MS * 8;
-  if (scrollY > cliffY) {
-    eegOpacity = Math.max(0, 1 - (scrollY - cliffY) / 1500);
-  }
+  let eegOpacity = time < 55 ? 1 : Math.max(0, 1 - (time - 55) / 3);
 
-  // Impulse sweep
-  const sweepStart = Y0 + MS * 0.8;
-  const sweepEnd = Y0 + MS * 2;
-  const sweepProgress = Math.min(1, Math.max(0, (scrollY - sweepStart) / (sweepEnd - sweepStart)));
+  // Impulse sweep (first few seconds)
+  const sweepProgress = Math.min(1, Math.max(0, (time - 1) / 5));
 
   if (eegOpacity > 0) {
     for (let tr = 0; tr < numTraces; tr++) {
@@ -292,16 +269,16 @@ function drawFrame() {
   }
   ctx.globalAlpha = 1;
 
-  // --- Timeline rail ---
+  // --- Timeline rail (visible during year milestones) ---
   const railX = 160;
   const railTop = 560;
   const railBottom = 1800;
 
-  const firstViewY = milestones[0].y - scrollY + H * 0.5;
-  if (firstViewY < H + 100 && scrollY < questionY) {
-    const railFadeIn = Math.min(0.25, Math.max(0, (scrollY - 100) / 600));
+  if (time > 1 && time < 44) {
+    const railFadeIn = Math.min(0.25, (time - 1) / 4);
+    const railFadeOut = time > 40 ? Math.max(0, 1 - (time - 40) / 4) : 1;
     ctx.strokeStyle = BORDER;
-    ctx.globalAlpha = railFadeIn;
+    ctx.globalAlpha = railFadeIn * railFadeOut;
     ctx.lineWidth = 1;
     ctx.setLineDash([3, 8]);
     ctx.beginPath();
@@ -312,94 +289,76 @@ function drawFrame() {
     ctx.globalAlpha = 1;
   }
 
-  // --- Milestone content ---
-  // Reference point: milestone is at screen center (H * 0.5) when scrollY = m.y
-  // This aligns with the year counter showing that year at that moment
-  const REF_Y = H * 0.5;
+  // --- Milestone content (fade in/out at fixed position) ---
+  const textX = 220;
 
   for (const m of milestones) {
-    const viewY = m.y - scrollY + REF_Y;
-    if (viewY < -300 || viewY > H + 300) continue;
-
-    const centerDist = Math.abs(viewY - REF_Y);
-    const fadeZone = H * 0.55; // text visible across 55% of viewport — starts early
-    let opacity = Math.max(0, 1 - centerDist / fadeZone);
-    // Plateau: full brightness for middle 60%, fade at edges
-    opacity = Math.min(1, opacity * 2.0);
-    opacity = Math.sqrt(opacity); // gentle curve, not harsh quadratic
-
+    const opacity = getMilestoneOpacity(m, time);
     if (opacity < 0.01) continue;
-    ctx.globalAlpha = opacity;
 
-    const textX = 220;
+    // Smooth the opacity with an ease curve
+    const easedOpacity = opacity * opacity * (3 - 2 * opacity);
+    ctx.globalAlpha = easedOpacity;
     ctx.textAlign = 'left';
 
     if (m.question) {
       ctx.font = '26px "JetBrains Mono"';
       ctx.fillStyle = TEXT;
-      ctx.fillText('Where does the patch stop', textX, viewY);
+      ctx.fillText('Where does the patch stop', textX, TEXT_Y);
       ctx.fillStyle = ACCENT;
-      ctx.fillText('and the you begin?', textX, viewY + 44);
+      ctx.fillText('and the you begin?', textX, TEXT_Y + 44);
     }
     else if (m.cliffhanger) {
       ctx.font = '22px "JetBrains Mono"';
       ctx.fillStyle = DIM;
-      ctx.fillText('Four people find out.', textX, viewY);
+      ctx.fillText('Four people find out.', textX, TEXT_Y);
       ctx.fillStyle = TEXT;
-      ctx.fillText('Not all of them wanted to.', textX, viewY + 44);
+      ctx.fillText('Not all of them wanted to.', textX, TEXT_Y + 44);
     }
     else if (m.convergence) {
-      // skip — title card stands alone
+      // convergence lines drawn separately
     }
     else if (m.title) {
-      const convEnd = milestones[milestones.length - 2].y;
-      const titleFade = Math.min(1, Math.max(0, (scrollY - (convEnd + 800)) / 600));
-      if (titleFade > 0) {
-        ctx.globalAlpha = titleFade;
-        ctx.textAlign = 'center';
+      ctx.textAlign = 'center';
+      const titleBaseY = 280;
 
-        // Position title card in upper third, leaving room for convergence below
-        const titleBaseY = 280;
+      ctx.font = 'bold 64px "JetBrains Mono"';
+      ctx.fillStyle = ACCENT;
+      ctx.fillText('CHECKPOINT', W / 2, titleBaseY);
 
-        ctx.font = 'bold 64px "JetBrains Mono"';
-        ctx.fillStyle = ACCENT;
-        ctx.fillText('CHECKPOINT', W / 2, titleBaseY);
+      ctx.font = '20px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.fillText('A Novel.', W / 2, titleBaseY + 50);
 
-        ctx.font = '20px "JetBrains Mono"';
-        ctx.fillStyle = DIM;
-        ctx.fillText('A Novel.', W / 2, titleBaseY + 50);
+      ctx.font = '22px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.fillText('How we optimized into the void.', W / 2, titleBaseY + 110);
 
-        ctx.font = '22px "JetBrains Mono"';
-        ctx.fillStyle = DIM;
-        ctx.fillText('How we optimized into the void.', W / 2, titleBaseY + 110);
+      ctx.font = '20px "JetBrains Mono"';
+      ctx.fillStyle = TEXT;
+      ctx.fillText('checkpoin.de', W / 2, titleBaseY + 190);
 
-        ctx.font = '20px "JetBrains Mono"';
-        ctx.fillStyle = TEXT;
-        ctx.fillText('checkpoin.de', W / 2, titleBaseY + 190);
+      ctx.font = '16px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.fillText('Free under CC BY-NC-SA 4.0', W / 2, titleBaseY + 240);
 
-        ctx.font = '16px "JetBrains Mono"';
-        ctx.fillStyle = DIM;
-        ctx.fillText('Free under CC BY-NC-SA 4.0', W / 2, titleBaseY + 240);
-
-        ctx.font = '14px "JetBrains Mono"';
-        ctx.fillStyle = DIM;
-        ctx.fillText('Music: "Ambient Piano" by Light Cut', W / 2, titleBaseY + 290);
-      }
+      ctx.font = '14px "JetBrains Mono"';
+      ctx.fillStyle = DIM;
+      ctx.fillText('Music: "Ambient Piano" by Light Cut', W / 2, titleBaseY + 290);
     }
     else {
-      // Standard milestone: label + sub, anchored so text block center ≈ viewY
-      const blockTop = viewY - 20; // shift up slightly so multi-line subs stay centered
+      // Standard milestone: label + sub at fixed position
       if (m.label) {
         ctx.font = 'bold 26px "JetBrains Mono"';
         ctx.fillStyle = TEXT;
-        ctx.fillText(m.label, textX, blockTop);
+        ctx.fillText(m.label, textX, TEXT_Y);
       }
       if (m.sub) {
         ctx.font = '20px "JetBrains Mono"';
         ctx.fillStyle = DIM;
         const lines = m.sub.split('\n');
         lines.forEach((line, idx) => {
-          ctx.fillText(line, textX, blockTop + 40 + idx * 32);
+          ctx.fillText(line, textX, TEXT_Y + 40 + idx * 32);
         });
       }
     }
@@ -407,9 +366,9 @@ function drawFrame() {
   ctx.globalAlpha = 1;
 
   // --- User count ---
-  const count = getUserCount(scrollY);
-  if (count > 0 && scrollY < questionY) {
-    const countFade = Math.min(1, count / 50000000) * Math.max(0, 1 - (scrollY - (Y0 + MS * 6)) / (MS * 0.8));
+  const count = getUserCount(time);
+  if (count > 0 && time < 44) {
+    const countFade = Math.min(1, count / 50000000) * (time > 40 ? Math.max(0, 1 - (time - 40) / 4) : 1);
     if (countFade > 0) {
       ctx.font = '16px "JetBrains Mono"';
       ctx.fillStyle = DIM;
@@ -421,10 +380,10 @@ function drawFrame() {
   }
 }
 
-function drawConvergence(opacity, scrollY) {
+function drawConvergence(opacity, time) {
   const cx = W / 2, cy = H * 0.6;
-  const convY = milestones[milestones.length - 2].y; // convergence milestone
-  const convProgress = Math.min(1, Math.max(0, (scrollY - convY + 200) / 2000));
+  const convT = milestones[milestones.length - 2].t; // convergence milestone time
+  const convProgress = Math.min(1, Math.max(0, (time - convT + 1) / 8));
 
   if (convProgress <= 0) return;
 
@@ -470,7 +429,13 @@ function drawConvergence(opacity, scrollY) {
 
 function animate() {
   if (!running) return;
+  const time = frame / 60;
   drawFrame();
+  // Draw convergence lines during convergence + title milestones
+  if (time > 53) {
+    const convOpacity = Math.min(1, (time - 53) / 2);
+    drawConvergence(convOpacity, time);
+  }
   frame++;
   if (frame <= TOTAL_FRAMES) {
     requestAnimationFrame(animate);
