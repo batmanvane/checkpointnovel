@@ -291,6 +291,14 @@ function drawFrame() {
 
   // --- Milestone content (fade in/out at fixed position) ---
   const textX = 220;
+  const textPad = 16; // padding around text background
+
+  // Draw a semi-transparent background behind text
+  function drawTextBG(x, y, w, h, alpha) {
+    ctx.fillStyle = 'rgba(26, 26, 46, 0.75)'; // BG color with transparency
+    ctx.globalAlpha = alpha;
+    ctx.fillRect(x - textPad, y - textPad, w + textPad * 2, h + textPad * 2);
+  }
 
   for (const m of milestones) {
     const opacity = getMilestoneOpacity(m, time);
@@ -298,10 +306,11 @@ function drawFrame() {
 
     // Smooth the opacity with an ease curve
     const easedOpacity = opacity * opacity * (3 - 2 * opacity);
-    ctx.globalAlpha = easedOpacity;
     ctx.textAlign = 'left';
 
     if (m.question) {
+      drawTextBG(textX, TEXT_Y - 26, 620, 70, easedOpacity);
+      ctx.globalAlpha = easedOpacity;
       ctx.font = '26px "JetBrains Mono"';
       ctx.fillStyle = TEXT;
       ctx.fillText('Where does the patch stop', textX, TEXT_Y);
@@ -309,6 +318,8 @@ function drawFrame() {
       ctx.fillText('and the you begin?', textX, TEXT_Y + 44);
     }
     else if (m.cliffhanger) {
+      drawTextBG(textX, TEXT_Y - 22, 600, 66, easedOpacity);
+      ctx.globalAlpha = easedOpacity;
       ctx.font = '22px "JetBrains Mono"';
       ctx.fillStyle = DIM;
       ctx.fillText('Four people find out.', textX, TEXT_Y);
@@ -319,6 +330,8 @@ function drawFrame() {
       // convergence lines drawn separately
     }
     else if (m.title) {
+      drawTextBG(W / 2 - 320, 280 - 50, 640, 340, easedOpacity);
+      ctx.globalAlpha = easedOpacity;
       ctx.textAlign = 'center';
       const titleBaseY = 280;
 
@@ -348,6 +361,10 @@ function drawFrame() {
     }
     else {
       // Standard milestone: label + sub at fixed position
+      const numLines = m.sub ? m.sub.split('\n').length : 0;
+      const blockH = 30 + numLines * 32;
+      drawTextBG(textX, TEXT_Y - 26, 700, blockH, easedOpacity);
+      ctx.globalAlpha = easedOpacity;
       if (m.label) {
         ctx.font = 'bold 26px "JetBrains Mono"';
         ctx.fillStyle = TEXT;
