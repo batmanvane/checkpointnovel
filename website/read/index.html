@@ -636,22 +636,22 @@
 </p>
 <p>She created a new entry:
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">## 2041-03-17: Tier-1 cohort persistence anomaly</div>
+<div class="ch-pre">72h device deactivation during FW update cycle.</div>
+<div class="ch-pre">23/200 users showed NO cognitive performance drop.</div>
+<div class="ch-pre">Domain-specific knowledge persisted without BCI.</div>
+<div class="ch-pre">All 23: heavy users, MK-V+, 4+ years continuous.</div>
+<div class="ch-pre">All 23: Layer 5 active since initial deployment.</div>
+<div class="ch-pre">Expected: degraded retrieval (est. 15-30% accuracy drop)</div>
+<div class="ch-pre">Observed: <2% deviation from BCI-active baseline</div>
+<div class="ch-pre">Hypothesis: residual priming? Extended neural caching?</div>
+<div class="ch-pre">But 72h exceeds any known priming window.</div>
+<div class="ch-pre">Layer 3 cache refresh cycle: 90 min.</div>
+<div class="ch-pre">After 72h, all cached pathways should be cold.</div>
+<div class="ch-pre">This shouldn't be possible unless the knowledge</div>
+<div class="ch-pre">isn't being cached. Unless it's being <em>encoded</em>.</div>
+<div class="ch-pre">Flag for follow-up. Check Layer 3 persistence logs</div>
+<div class="ch-pre">against Layer 5 twin model predictions.</div>
 <p>She saved the file and sat back. On the center monitor, the anomaly entry glowed in her editor, the cursor blinking at the end of the last line like a question waiting to be asked.
 </p>
 <p>It was probably nothing. Residual priming was well-documented — users retained some BCI-accessed knowledge even after deactivation, the way you remember a phone number after checking it, fading over hours. But seventy-two hours was too long for priming. Layer 3's cache refreshed every ninety minutes. After three days of silence, those pathways should have cooled to ambient. The knowledge should have faded like a dream.
@@ -2713,19 +2713,19 @@
 </p>
 <p>The query sat in her terminal, cursor blinking at the end of the last line. She read it again. It was clean — she wrote clean queries with the accumulated precision of someone who had done it ten thousand times and could not bring herself to do it badly even when nobody was watching.
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">-- Global cognitive pattern analysis</div>
+<div class="ch-pre">-- Diagnostic partition routing: dp-7 (maintenance window)</div>
+<div class="ch-pre">-- Timestamp: 2041-10-14T02:51:00+08</div>
+<div class="ch-pre">SELECT user_cohort, cognitive_state_vector,</div>
+<div class="ch-pre">       reasoning_topology, problem_solving_path,</div>
+<div class="ch-pre">       temporal_pattern_signature</div>
+<div class="ch-pre">FROM neural_telemetry.global_aggregate</div>
+<div class="ch-pre">WHERE activation_duration > 720  -- days</div>
+<div class="ch-pre">  AND layer5_version >= '4.2.1'</div>
+<div class="ch-pre">  AND telemetry_consent = TRUE</div>
+<div class="ch-pre">GROUP BY cognitive_state_vector</div>
+<div class="ch-pre">HAVING cluster_density(cognitive_state_vector) > 0.87</div>
+<div class="ch-pre">ORDER BY cluster_size DESC;</div>
 <p>She was not authorized to run this query. She was Senior Principal Engineer, which gave her access to the personalization engine's codebase, its test environments, its staging clusters, and a carefully circumscribed slice of production telemetry limited to her team's specific domains. What she did not have — what nobody below the VP level had, and possibly nobody at all — was access to run a global analysis across the entire user base. A query that touched all nine hundred million cognitive profiles simultaneously. A query that would, if the audit system caught it, generate an alert that would reach Director Huang's inbox before she finished her next cup of vending machine coffee.
 </p>
 <p>The diagnostic partition was her solution. DP-7 was a maintenance channel — a parallel processing route used by the infrastructure team during firmware updates, designed to handle large-scale reads without impacting production performance. It existed for legitimate operational purposes. It was also, by a quirk of the access control architecture she'd helped design six years ago, not covered by the standard audit pipeline. The audit system monitored production queries. DP-7 was classified as maintenance. Maintenance queries were logged but not flagged.
@@ -2917,11 +2917,11 @@
 </p>
 <p>She typed:
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">Dr. Chen —</div>
+<div class="ch-pre">I know why your subjects converged.</div>
+<div class="ch-pre">I built the reason.</div>
+<div class="ch-pre">We need to talk.</div>
+<div class="ch-pre">— L.W.</div>
 <p>Her finger hovered over the key. The apartment was dark except for the screen glow and the faint pre-dawn grey seeping through the window. The photo of her parents' noodle shop caught a sliver of light — her mother's lantern, her father's squint, the pale green tiles of the kitchen where the ceiling was low and the love was not optimized and the meatballs took two hours because some things could not be accelerated without losing what made them worth making.
 </p>
 <p>She thought about what would happen when she pressed the key. The message would leave her machine, traverse three relays, arrive at an email address associated with a cognitive neuroscience department at a small university in a country she had never visited, and land in the inbox of a woman who had seen the convergence from the other end and had been told by three reviewers that she was being alarmist.
@@ -4298,20 +4298,20 @@
 </p>
 <p>She composed the manifest:
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">Baseline neural scans — MK-V test cohort</div>
+<div class="ch-pre">200 subjects, pre-activation</div>
+<div class="ch-pre">Scanned 2036-Q2, CortexLink Research Division</div>
+<div class="ch-pre">Format: proprietary (.ctx), conversion tools included</div>
+<div class="ch-pre">Checksums attached</div>
+<div class="ch-pre">These are the only surviving copies of the</div>
+<div class="ch-pre">pre-BCI neural architecture for this cohort.</div>
+<div class="ch-pre">CortexLink's archival partition will be</div>
+<div class="ch-pre">consolidated in the next infrastructure cycle.</div>
+<div class="ch-pre">After that, the originals are gone.</div>
+<div class="ch-pre">The attractor landscape shows where 900M minds</div>
+<div class="ch-pre">are now. These scans show where 200 of them</div>
+<div class="ch-pre">started. The diff is the story.</div>
+<div class="ch-pre">— L.W.</div>
 <p>She attached the files. Two hundred scans. Each one a map of a brain that no longer existed in that configuration — a brain that had been written to, optimized, personalized, pulled toward an attractor state by a system that felt like thinking because it was designed to feel like thinking. The scans were fossils. Imprints of a cognitive landscape that had been overwritten by five years of invisible modification, the way a palimpsest is overwritten by new text, the old words still there if you knew where to look, still legible if you had the right tools, still important because they proved that something had been there before, that the current text was not the original, that someone had erased and rewritten and the rewriting was not an act of creation but an act of replacement.
 </p>
 <p>She uploaded. The progress bar crawled. The second hotspot was slower than the first — the signal weaker, the prepaid SIM's data throttled, the connection traveling through infrastructure that had not been optimized for speed because speed was not the priority. Integrity was the priority. Arrival was the priority. Survival.
@@ -5569,13 +5569,13 @@
 </p>
 <p>Lin Wei's tile brightened fractionally — she had leaned closer to the screen, and the laptop light caught more of her face. She shared her own screen, and the display split: Maya's brain scans on the left, Lin Wei's terminal on the right. Green text on black background. A directory listing.
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">/baseline-archive/mri-pre-bci/</div>
+<div class="ch-pre">|-- subject_001_2036-03-14.nii.gz</div>
+<div class="ch-pre">|-- subject_002_2036-03-17.nii.gz</div>
+<div class="ch-pre">|-- subject_003_2036-03-21.nii.gz</div>
+<div class="ch-pre">...</div>
+<div class="ch-pre">|-- subject_200_2036-09-08.nii.gz</div>
+<div class="ch-pre">\-- manifest.sha256</div>
 <p>"Two hundred pre-BCI neural scans," Lin Wei said. "The original MK-V test cohort. Scanned in 2036, before Layer 5 was activated. Before the first write. This is the commit history. The last known good state of two hundred brains, preserved on an encrypted partition that CortexLink decommissioned three years ago because the data was classified as 'legacy diagnostic' and legacy diagnostic data is retained for seven years and then purged, and the purge was scheduled for January 2042, which is in five weeks, which means I copied these files at the last possible moment before they would have been destroyed by a retention policy that nobody wrote and nobody reviewed and nobody thought to question because retention policies are the kind of infrastructure that is invisible until the thing they're retaining turns out to be the most important dataset in the history of neuroscience."
 </p>
 <p>She stopped. Took a breath. Lin Wei did not usually speak in paragraphs. The paragraph meant something.
@@ -5643,8 +5643,8 @@
 </p>
 <p>"You can't revert to a previous commit on main. The history is written. LTP is a one-way operation. You can't uncommit what was committed. But you can branch." She typed something. On the shared screen, a terminal appeared:
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">$ git branch cognitive-diversity-restored</div>
+<div class="ch-pre">$ git checkout cognitive-diversity-restored</div>
 <p>"A branch carries everything forward. The full commit history. Every write. Every lattice pathway. Nothing is deleted. But from the branch point forward, new commits go to the new branch. New growth. New pathways. The branch diverges from main. It doesn't erase main. It grows past it."
 </p>
 <p>The room — the six-tiled, four-continent, half-buffering room — was quiet.
@@ -5899,9 +5899,9 @@
 </p>
 <p>Lin Wei typed something. On the shared screen, in the terminal window she'd kept open throughout the call, three lines appeared:
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">$ git branch cognitive-diversity-restored</div>
+<div class="ch-pre">$ git checkout cognitive-diversity-restored</div>
+<div class="ch-pre">Switched to a new branch 'cognitive-diversity-restored'</div>
 <p>"That is the name," she said. "The branch name. It says what the branch does. It restores what was lost. Cognitive diversity. The thing that was converged. The thing we are unconverging."
 </p>
 <p>"That's a lot of words for <em>starting over</em>," Henning said.
@@ -5925,8 +5925,8 @@
 </p>
 <p>She typed one more line:
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">$ git log --oneline -1</div>
+<div class="ch-pre">a4f7e2d cognitive-diversity-restored: initial protocol draft</div>
 <p>"Pushed," she said.
 </p>
 <p>"To where?" Henning asked.
@@ -7062,8 +7062,8 @@
 <div class="scene-break">***</div>
 <p>Behind his workbench, on the tool wall, among the silhouettes and the cable strippers and Wilhelm's system, there was something new. A small frame — black wood, plain glass, three euros from the stationery shop. Inside, a single sheet of white paper, printed in monospaced type:
 </p>
-<div class="ch-pre">0</div>
-<div class="ch-pre">0</div>
+<div class="ch-pre">$ git init</div>
+<div class="ch-pre">Initialized empty repository</div>
 <p>His granddaughter Mila had made it. She was twelve and had recently discovered irony and wielded it with the indiscriminate enthusiasm of someone who had just acquired a new tool and intended to use it on everything. She'd presented it at Christmas, wrapped in paper she'd decorated herself, and grinned: "It's you, Opa. You're always starting from zero."
 </p>
 <p>He'd hung it on the wall because Mila had made it and because a grandfather who didn't display his granddaughter's gifts was a grandfather who deserved the coal in his stocking. But it had stayed because of what Lin Wei said.

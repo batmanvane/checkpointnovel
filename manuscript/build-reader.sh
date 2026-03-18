@@ -250,7 +250,7 @@ for i in "${!CHAPTERS[@]}"; do
   # Convert markdown to HTML paragraphs
   # Skip the first line (# heading)
   tail -n +2 "$src" | sed -E \
-    -e '/^```/,/^```/{ s/^```.*//; /^$/d; s/.*/<div class="ch-pre">\0<\/div>/; }' \
+    -e '/^```/,/^```/{ s/^```.*//; /^$/d; s/.*/<div class="ch-pre">&<\/div>/; }' \
     -e 's/\*\*\*([^*]+)\*\*\*/<strong><em>\1<\/em><\/strong>/g' \
     -e 's/\*\*([^*]+)\*\*/<strong>\1<\/strong>/g' \
     -e 's/\*([^*]+)\*/<em>\1<\/em>/g' \
