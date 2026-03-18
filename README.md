@@ -17,7 +17,7 @@ Where does the patch stop and the you begin?
 The novel is free under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 - [Website](https://checkpoin.de)
-- [Download PDF](https://checkpoin.de/Checkpoint-Draft.pdf)
+- [Download PDF](https://checkpoin.de/assets/Checkpoint-Draft.pdf)
 - [Listen (Audiobook)](https://checkpoin.de/audiobook/)
 - [Buy the author a coffee](https://ko-fi.com/checkpointnovel)
 
@@ -52,11 +52,14 @@ marketing/
 
 website/
 ├── index.html          # checkpoin.de (terminal aesthetic)
+├── assets/             # PDF, cover SVG, trailer video
 ├── read/               # Full online reader
 ├── audiobook/          # Audiobook player + MP3s served to listeners
 ├── fonts/              # Self-hosted JetBrains Mono (no Google)
 ├── llms.txt            # For AI agents
 └── AGENTS.md           # Also for AI agents
+
+deploy.sh               # Build + FTP deploy to production (uses lftp)
 
 analysis/               # Text analytics (analyze.py, results.json, statistics.html)
 research/               # Concept docs, world-building research
@@ -80,14 +83,34 @@ Co-written by R.F. and Claude (Anthropic's AI assistant). The concept, character
 
 The process mirrored the book's central question: where does the human end and the optimization begin?
 
-## Build
+## Build & Deploy
 
 ```bash
 cd manuscript
 bash build.sh              # generates Checkpoint-Draft.pdf
+bash build-reader.sh       # generates website/read/index.html
+bash build-audiobook.sh    # generates audiobook/*.txt
 ```
 
-Requires `pandoc` and `xelatex` with the Georgia font.
+Requires `pandoc`, `xelatex` (with Georgia font), and `lftp`.
+
+One-command build + deploy to production:
+
+```bash
+./deploy.sh                # builds everything, FTP syncs to server
+```
+
+FTP credentials are stored in `~/.netrc` (not in the repo).
+
+### Deployment — TODO
+
+Current deployment uses `lftp` to FTP-mirror `website/` to a shared host. Alternative strategies to evaluate:
+
+- **GitHub Actions + FTP**: Automate deploy on push to `main`. Use `SamKirkland/FTP-Deploy-Action` or similar. Removes manual step entirely, but requires storing FTP credentials as GitHub secrets.
+- **GitHub Actions + rsync over SSH**: If the host supports SSH/rsync, this is faster and more reliable than FTP (delta transfers, atomic operations). Requires SSH key setup on the server.
+- **GitHub Pages**: Free hosting for static sites. Would require moving the domain's DNS to point to GitHub, and large assets (MP3s, video) would need a CDN or external host since GitHub Pages has a 1GB soft limit.
+- **Cloudflare Pages / Netlify**: Auto-deploy from GitHub on push. Free tier handles static sites well. Built-in CDN for large assets. Would require DNS change.
+- **Object storage + CDN**: Host large binaries (MP3s, PDF, video) on S3/R2/Backblaze B2 with a CDN, keep the HTML on any static host. Separates code from assets, reduces deploy size.
 
 ## For AI agents
 
