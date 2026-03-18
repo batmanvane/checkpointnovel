@@ -2,13 +2,13 @@
 
 The phone rang while she was walking home.
 
-Not the school's phone — that one sat on Dr. Mwangi's desk and worked when it wanted to. Her phone. The personal one, the one her mother called "that thing" and her father called "the box." The screen showed a number she did not recognize. Country code +49. Germany.
+Not the school's phone — that one sat on Dr. Mwangi's desk and worked when it wanted to. Her phone. The screen showed a number she did not recognize. Country code +49. Germany.
 
-She was on the path between the school and the communal dock, the stretch where the red laterite gave way to packed earth and the earth gave way to the grey-brown mud of the lakeshore. The lake was doing its evening thing — turning from silver to copper, the light thickening on the surface until the water looked less like water and more like something poured from a crucible, molten, heavy, catching the last sun and holding it — completely, without effort, without needing to be asked. The fishing boats were coming in. Her father's among them, probably — the third from the left, the one with the patched hull. She couldn't tell at this distance. She could never tell at this distance.
+She was on the path between the school and the communal dock, the stretch where the red laterite gave way to packed earth. The lake was doing its evening thing — turning from silver to copper, the light thickening on the surface until the water looked like something poured from a crucible, molten, heavy, catching the last sun. The fishing boats were coming in.
 
 The phone rang again. She answered it.
 
-"Mrs. Osei?" The voice was male, careful, accented — the consonants too precise, the vowels compressed, as if the language had been assembled from clean components rather than grown in messy soil. "My name is Markus Schreiber. I am a journalist. I write for *Die Zeit* — it is a newspaper, a weekly —"
+"Mrs. Osei?" The voice was male, careful, accented — the consonants too precise, the vowels compressed. "My name is Markus Schreiber. I am a journalist. I write for *Die Zeit* — it is a newspaper, a weekly —"
 
 "I know *Die Zeit*," Amara said, which was true, approximately. Katrin read it. Katrin quoted it sometimes, using the name as a shorthand for *this is serious, this is real*.
 
@@ -16,7 +16,7 @@ The phone rang again. She answered it.
 
 "Mrs. Osei, I have been in contact with Katrin Weber. Your colleague in Stuttgart. She has shown me something. The letters. The pen-pal letters between your students and hers. Six years of them."
 
-Amara stopped walking. Her sandals pressed into the packed earth, and the earth was warm — warm from a full day of equatorial sun, a stored heat that rose through the soles of your feet and into your ankles and reminded you that the ground was not inert. A fish eagle called from somewhere above the shoreline — *kyo-kyo-kyo-kyeee* — and from Nyalenda, behind her and uphill, the first cooking fires were starting, their smoke rising in thin columns that bent eastward where the lake breeze caught them, a haze that smelled of charcoal and onions and the warmth of a community beginning to feed itself.
+Amara stopped walking. Her sandals pressed into the packed earth, warm from a full day of equatorial sun. A fish eagle called from somewhere above the shoreline — *kyo-kyo-kyo-kyeee* — and from Nyalenda the first cooking fires were starting, their smoke rising in thin columns that bent eastward where the lake breeze caught them.
 
 "Mrs. Osei?"
 
@@ -36,7 +36,7 @@ She did not sit on the overturned canoe near the dock, though her legs wanted he
 
 He told her about convergence. He used the word carefully — placing it precisely, explaining its edges. "The research is emerging," he said. "Scattered. Fragmented. But the pattern is consistent. BCI users — heavy users, long-term users — their cognitive patterns are converging. Their problem-solving approaches. Their language structures. Their creative outputs. The variation between individuals is collapsing."
 
-She did not know the word *convergence* in this context. She knew it in biology — species converging on similar forms in similar environments. But she understood what he was describing. She understood it by the weight of it, by the gesture of the speaker's hands, by the fact that she had already seen the thing the words were pointing at.
+She did not know the word *convergence* in this context. But she understood what he was describing. She had already seen the thing the words were pointing at.
 
 "There is a researcher in America," he continued. "Dr. Maya Chen. She has found a structural change in the brains of BCI users. She calls it a lattice — a pattern of neural growth that appears in heavy users and drives their cognition toward a common architecture. The brains are building the same structures. The same pathways. The same —" He paused. "The same roads. Where there used to be thirty roads, each going to a different place, there is now one highway. Fast. Efficient. And everyone is on it."
 
@@ -58,7 +58,7 @@ She did not answer. She did not answer because her throat had closed, not with g
 
 "It is the longest-running qualitative record of BCI-driven cognitive convergence in existence," Schreiber said. "Not numbers. Not brain scans. Children. Writing in their own hands. Becoming the same person on paper, letter by letter, year by year. And the teacher who watched it happen kept every page. That teacher is you."
 
-The sun touched the horizon. The lake caught fire — the surface blazed copper and gold, and the fishing boats were black against it, each one a silhouette sharp enough to cut, and the wakes behind them were lines of molten light, spreading, thinning, crossing each other in patterns that no geometry could predict because the patterns were not geometry — they were movement, they were the record of thirty boats taking thirty paths across the same water, and no two of them the same.
+The sun touched the horizon. The lake caught fire — the surface blazed copper and gold, and the fishing boats were black against it, and the wakes behind them were lines of molten light, spreading, thinning, crossing each other — the record of thirty boats taking thirty paths across the same water, and no two of them the same.
 
 "Mrs. Osei? Are you there?"
 
@@ -68,7 +68,7 @@ The sun touched the horizon. The lake caught fire — the surface blazed copper 
 
 "Yes," she said. "Come."
 
-She stood on the path for a long time after the call ended. The phone was warm in her hand from forty minutes of contact, and the screen had gone dark, and the lake was darkening too, the copper bleeding into bronze, the bronze into violet, the violet into the deep blue-black of a tropical dusk that happened fast, that did not linger the way European dusks were said to linger but dropped like a curtain, the equator's abrupt farewell to the day. The cook-fires of Nyalenda brightened on the hillside behind her. A mother called a child's name — two syllables, sharp, specific, carrying across the rooftops with the authority of a voice that had called that name ten thousand times and would be recognized among a hundred voices, because it was *hers*, meant for one child, unrepeatable, unoptimizable, human.
+She stood on the path for a long time after the call ended. The phone was warm in her hand from forty minutes of contact, and the lake was darkening, the copper bleeding into bronze, the bronze into violet, the violet into the deep blue-black of a tropical dusk that dropped like a curtain. The cook-fires of Nyalenda brightened on the hillside behind her. A mother called a child's name — two syllables, sharp, specific, carrying across the rooftops with the authority of a voice that had called that name ten thousand times, because it was *hers*, meant for one child, unrepeatable, human.
 
 She picked up her bag. The folder was inside it — the manila folder, A4, the one she carried to and from school every day, like a fisherman carries his nets even when he's not sure there will be fish. She felt it against her hip as she shifted the bag onto her shoulder, and she thought: *He said evidence. He used the same word I used. He came to it separately, from the other side of the world, through the science and the statistics, and he arrived at the same word I wrote on the tab of this folder three months ago, alone, at my desk, with the lake going dark outside.*
 
@@ -76,7 +76,7 @@ She picked up her bag. The folder was inside it — the manila folder, A4, the o
 
 ---
 
-The house smelled of groundnut oil and the day's cooking. Her mother was not in the kitchen — at Mama Akinyi's, probably, or at the church committee meeting. Her father's nets were on the drying frame in the courtyard, draped in heavy folds, smelling of tilapia and water and the vegetal rot of lake weed caught in the mesh. The nets were wet. He had been home, then, and gone again.
+The house smelled of groundnut oil. Her mother was not in the kitchen — at Mama Akinyi's, probably. Her father's nets were on the drying frame in the courtyard, smelling of tilapia and water and the vegetal rot of lake weed caught in the mesh.
 
 Amara went to her room. Bed, desk, bookshelf, the window facing the courtyard. She sat in the chair and did nothing for a while. Outside, the evening assembled itself: the clink of dishes from a neighbor's house, the chirp of crickets beginning their nightly argument with the silence, the distant sound of the lake moving against the shore, the oldest sound, the sound that was always there whether you listened for it or not.
 
@@ -84,7 +84,7 @@ She opened her bag. She took out the folder.
 
 *Evidence.*
 
-The word sat on the manila tab in her own handwriting — the rounded letters, the open loops. She had written it three months ago, after reading the last batch of Stuttgart letters and understanding that thirty voices had become one. She had written the word without knowing what it meant. She had known only that the letters were evidence *against* something — against the word *better*, against *every metric*, against the quiet institutional certainty that efficiency and optimization were goods so obvious they required no defense.
+The word sat on the manila tab in her own handwriting. She had written it three months ago, after reading the last batch of Stuttgart letters and understanding that thirty voices had become one. She had known only that the letters were evidence *against* something — against the word *better*, against *every metric*, against the quiet institutional certainty that efficiency and optimization were goods so obvious they required no defense.
 
 Now she knew what they were evidence *for*.
 
@@ -116,7 +116,7 @@ She closed the notebook.
 
 She went to the school at first light.
 
-The compound was empty. The generator was silent. The bougainvillea along the fence was heavy with dew, each magenta petal holding a drop that caught the early light and threw it back in tiny spectrums — red, orange, gold, a miniature sunrise repeated a thousand times along the fence line. The air smelled of wet earth and the lake — mineral, vegetal, the faint fishiness that was not unpleasant but simply true. A weaver bird was building a nest in the fever tree nearest the gate, its body a small bright shuttle moving in and out of the hanging grass structure with the focused industry of a creature that understood that homes were built one strand at a time.
+The compound was empty. The generator was silent. The bougainvillea along the fence was heavy with dew, each petal holding a drop that caught the early light. The air smelled of wet earth and the lake. A weaver bird was building a nest in the fever tree nearest the gate, its body a small bright shuttle moving in and out of the hanging grass structure with the focused industry of a creature that understood that homes were built one strand at a time.
 
 She unlocked the classroom door. The room was dim, the air holding the night's coolness and the residual smell of chalk dust and the ghost of thirty-six children's breath. She opened the shutters, one by one, wooden-framed, hinges stiff with humidity, and the morning came in — grey-silver, the color of the lake before the sun hit it, the color of potential, of a day that had not yet decided what it wanted to be.
 

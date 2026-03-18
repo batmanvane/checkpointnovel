@@ -4,11 +4,11 @@ The fluorescent lights still hummed at fifty hertz.
 
 Henning had meant to replace them every year for the last ten, and every year the budget went to something else, and every year the lights kept humming, and after a decade of failed intentions he'd come to understand that the hum was not a deficiency but a feature. It was the sound of the workshop being the workshop. A room without its hum would be like a man without his heartbeat — technically improvable, practically fine.
 
-He'd arrived at six-thirty, as he always did, because the morning belonged to whoever got there first, and what belonged to you, you maintained. The key turned in the lock the same way it had turned for thirty years. The door swung open with the same slight catch at the top hinge he'd been meaning to shim since 2038. The overhead tubes flickered twice, then caught, then settled into their hum, and the workshop assembled itself in the light: twelve workbenches, twelve vises, twelve pegboards with Wilhelm's painted silhouettes. Concrete floor, swept last evening, already collecting the fine dust that concrete produced regardless of sweeping, as if the building itself were slowly shedding its skin. The Moccamaster — still orange, still six minutes from cold water to full pot — waiting on the bench where the old Melitta had waited before it.
+He'd arrived at six-thirty, as he always did, because the morning belonged to whoever got there first. The key turned in the lock the same way it had turned for thirty years. The door swung open with the same slight catch at the top hinge. The overhead tubes flickered twice, then caught, then settled into their hum, and the workshop assembled itself in the light: twelve workbenches, twelve vises, twelve pegboards with Wilhelm's painted silhouettes. Concrete floor, already collecting the fine dust that concrete produced regardless of sweeping. The Moccamaster — still orange, still six minutes from cold water to full pot — waiting on the bench where the old Melitta had waited before it.
 
-He filled the reservoir. Measured the grounds by feel — four scoops from the Rösterei on Pergamentergasse, each leveled with the side of his index finger, a technique that produced exactly the right strength and that he could not have communicated in grams because grams were not how the knowledge lived in his hand. The machine began its work. The water began its climb.
+He filled the reservoir. Measured the grounds by feel — four scoops, each leveled with the side of his index finger, a technique that produced exactly the right strength and that he could not have communicated in grams because grams were not how the knowledge lived in his hand. The machine began its work.
 
-Six months since the protocols went live. The Deceleration Protocols, they called them. Henning had attended one of the meetings, in Brussels, because Maya had asked and because a man who had filed forty-seven reports into a system that never called back owed it to himself to see the system when it finally picked up the phone. He'd worn his good trousers and his work boots and sat in a room with simultaneous translation and adjustable lighting and chairs that cost more than his workbench, and he'd said what he'd always said: the wire doesn't care what you downloaded. The wire cares what your hands can do.
+Six months since the protocols went live. The Deceleration Protocols, they called them. Henning had attended one of the meetings, in Brussels, because Maya had asked and because a man who had filed forty-seven reports into a system that never called back owed it to himself to see the system when it finally picked up the phone. He'd sat in a room with simultaneous translation and chairs that cost more than his workbench, and he'd said what he'd always said: the wire doesn't care what you downloaded. The wire cares what your hands can do.
 
 They'd applauded. He'd found the applause unnecessary but not unpleasant, like a well-labeled panel — it wasn't the label that made the panel work, but it meant someone had taken the trouble.
 
@@ -16,9 +16,9 @@ Then he'd come home to Erfurt and gone back to the workshop and the world had co
 
 ---
 
-Spring was doing what spring in Erfurt always did: arriving slowly, with the stubbornness of a season that had to push through four months of Thuringian grey to get here. The chestnuts in the schoolyard were leafing out — pale green, translucent, the kind of green that lasted two weeks before darkening into something more serious. Through the workshop window, the courtyard was empty at this hour, cobblestones still damp from last night's rain, the air carrying the smell of wet stone and new growth and the faint diesel note of the city bus on Schillerstrasse.
+Spring was doing what spring in Erfurt always did: arriving slowly, with the stubbornness of a season that had to push through four months of Thuringian grey. The chestnuts in the schoolyard were leafing out — pale green, translucent. Through the workshop window, the courtyard was empty at this hour, cobblestones still damp from last night's rain, the air carrying the smell of wet stone and new growth.
 
-He poured a cup of coffee and stood at the window and drank. The light came in at a low angle, catching the workbenches, picking out the grain in the scarred wood, the scratches and stains that thirty years of apprentices had worn into the surfaces like rivers carving canyons — by repetition. His bench, at the front, was the most marked. Not because he was careless but because he was there the most, and being there the most meant making the most marks, and a bench without marks was a bench that hadn't been used, and a bench that hadn't been used was furniture, not a tool.
+He poured a cup of coffee and stood at the window and drank. The light came in at a low angle, catching the workbenches, picking out the scratches and stains that thirty years of apprentices had worn into the surfaces. His bench, at the front, was the most marked. A bench without marks was a bench that hadn't been used, and a bench that hadn't been used was furniture, not a tool.
 
 The Moccamaster's brew was at the right temperature — the narrow window between too hot to taste and too cool to enjoy, calibrated by the warmth of the cup against his palm.
 
@@ -32,7 +32,7 @@ At seven forty-five, the door opened.
 
 Her name was Lena Berger, and she was eighteen, and she was from Ilmenau.
 
-She came through the door like every first-day apprentice before her — with the self-conscious alertness of a person entering a room that might change their life and trying not to let that show. She was tall for her age, with dark blonde hair pulled back in the kind of practical braid that suggested a household where hair was not a project but a problem to be solved. Her hands were large. Henning noticed this the way he noticed all hands — automatically, like a carpenter noticing grain in a door frame. Large hands, with broad palms and long fingers, the kind of hands that would fit a cable stripper without the compensating grip that smaller-handed apprentices had to develop. Good hands. Unformed hands.
+She came through the door like every first-day apprentice before her — with the self-conscious alertness of a person entering a room that might change their life and trying not to let that show. She was tall for her age, with dark blonde hair pulled back in a practical braid. Her hands were large. Henning noticed this the way he noticed all hands — automatically. Large hands, with broad palms and long fingers, the kind that would fit a cable stripper without the compensating grip that smaller-handed apprentices had to develop. Good hands. Unformed hands.
 
 She was carrying a canvas bag — not a backpack, a bag, the kind with handles and a single pocket — and a paper folder.
 
@@ -44,11 +44,11 @@ She was carrying a canvas bag — not a backpack, a bag, the kind with handles a
 
 He knew this. The application had come the old way: a handwritten letter, neat and direct, three paragraphs, no flourishes. She wanted to learn the electrical trade. Her father was a carpenter in Ilmenau. She was good with her hands. She could start in May.
 
-No BCI. Not a refuser — not one of the ones who made a politics of it, who wore the absence like a badge. She simply didn't have one. Had never gotten one. Ilmenau was the kind of town where people got things when they needed them and didn't get things when they didn't, and the calculus of need was calibrated not by what the world was doing but by what the world required of you on a Tuesday morning when the wood needed cutting or the wiring needed pulling or the gutter needed fixing before the rain.
+No BCI. Not a refuser — not one of the ones who made a politics of it. She simply didn't have one. Ilmenau was the kind of town where people got things when they needed them and didn't get things when they didn't, and the calculus of need was calibrated by what the world required of you on a Tuesday morning when the wood needed cutting or the wiring needed pulling.
 
 "Come in," Henning said. "Coffee's on the bench."
 
-She came in. She looked at the floor — with assessment, not shyness. The way you looked at a floor to understand what kind of room you were in. Concrete. Sealed. Cracked in two places near bench six, where something heavy had been dropped years ago and Henning had filled the cracks with epoxy because a cracked floor near live equipment was not a philosophy of risk but a failure of care.
+She came in. She looked at the floor — with assessment, not shyness. Concrete. Sealed. Cracked in two places near bench six, where something heavy had been dropped years ago and Henning had filled the cracks with epoxy because a cracked floor near live equipment was a failure of care.
 
 She poured herself coffee without asking which cup. She took the plain one, the white ceramic, the one that didn't belong to anyone. Good instinct.
 
@@ -82,7 +82,7 @@ Lena picked up the cable stripper.
 
 She held it too high on the handles, fingers bunched — the grip of someone who knows that a tool should be held firmly but doesn't yet know where firmly lives in the hand. She positioned the cable in the jaws. Pressed. Pulled.
 
-The insulation tore. Not a clean separation but a ragged rip, PVC shredding at an angle, exposing copper with a bright scar where the blade had bitten too deep. One conductor had a nick in its insulation. Not dangerous in a training exercise. Fatal in a house.
+The insulation tore. A ragged rip, PVC shredding at an angle, exposing copper where the blade had bitten too deep. Not dangerous in a training exercise. Fatal in a house.
 
 She looked at the mess. She looked at him.
 
@@ -92,7 +92,7 @@ She swore. A single word, quiet but precise — *Scheiße* — delivered with th
 
 She picked up a fresh cable. Positioned it. Pressed. Pulled.
 
-Better. The sheath came away in a single piece, but the angle was wrong — too steep, the blade scoring the blue conductor's insulation. Not a nick but a weakness. A cable scored this way would pass inspection and fail in five years, and a failure in five years was worse than a failure today, because a failure today was visible and a failure in five years was a surprise, and surprises in electrical work were the kind that started fires.
+Better. The sheath came away in a single piece, but the angle was wrong — too steep, the blade scoring the blue conductor's insulation. A cable scored this way would pass inspection and fail in five years, and a failure in five years was worse than a failure today, because surprises in electrical work were the kind that started fires.
 
 She swore again. Louder. Adjusted her grip. Pulled.
 
@@ -122,7 +122,7 @@ She didn't know it yet. The conscious mind was still fumbling, still cataloguing
 
 ---
 
-He thought about his grandfather Wilhelm, who had taught his father Klaus, who had taught him, who was teaching Lena. Four pairs of hands in this workshop, each finding their own way to hold the tool. Wilhelm's grip had been narrow and quick — Henning remembered it from the feel of his grandfather's hand closing over his at age seven, guiding the pliers, the grip of a man who had learned his trade in a country that no longer existed and carried it into the country that replaced it without changing a single thing about the way he held the wire. Klaus's grip had been broader, steadier — the grip of a man who inherited his father's tools and made them his own by showing up every morning. Henning's own grip was what thirty-nine years had made it. The scarred thumb, the cable-knife callus on the index finger, the chalk dust in the creases. Not designed. Accumulated. Built by the ten thousand negotiations between a body and the physical world that no device could mediate and no algorithm could standardize.
+He thought about his grandfather Wilhelm, who had taught his father Klaus, who had taught him, who was teaching Lena. Four pairs of hands in this workshop. Wilhelm's grip had been narrow and quick — the grip of a man who had learned his trade in a country that no longer existed and carried it into the country that replaced it without changing a single thing about the way he held the wire. Klaus's grip had been broader, steadier. Henning's own was what thirty-nine years had made it. The scarred thumb, the cable-knife callus on the index finger. Not designed. Accumulated.
 
 And now Lena's grip. New. Awkward. Rotated in a way that no Brenner hand had ever rotated. Hers.
 

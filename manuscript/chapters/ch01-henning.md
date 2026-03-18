@@ -4,7 +4,7 @@ Henning Brenner had been teaching three-phase power systems for thirty years, an
 
 He stood at the chalkboard in Workshop A, ground floor of the Berufsschule für Elektrotechnik on Schillerstrasse, and drew the same diagram his father Klaus had drawn. Three sinusoidal waves, offset by 120 degrees, sharing a common neutral. The chalk was the good kind, dense and smooth, from a box he'd ordered six months ago because the school's supplier had started stocking the cheap stuff that crumbled mid-stroke. A man had standards or he didn't.
 
-The diagram was correct. He knew it was correct because he'd drawn it perhaps two thousand times, and because it described something real: the way current actually moved through a conductor, the way three phases danced around each other in a pattern so elegant that Henning sometimes thought whoever had designed alternating current must have played the waltz. His grandfather Wilhelm had drawn it, too, on this same chalkboard, back when the building was new and East German and smelled of fresh concrete instead of decades. His father Klaus had drawn it after reunification, when the West German inspectors came through and questioned everything about the school except the wiring, which was flawless. Three generations of Brenner hands, same diagram, same chalk dust settling on the same concrete floor.
+The diagram was correct. He knew it was correct because he'd drawn it perhaps two thousand times, and because it described something real: the way three phases danced around each other in a pattern so elegant that Henning sometimes thought whoever had designed alternating current must have played the waltz. His grandfather Wilhelm had drawn it, too, on this same chalkboard, back when the building was new and East German and smelled of fresh concrete instead of decades. His father Klaus had drawn it after reunification, when the West German inspectors came through and questioned everything about the school except the wiring, which was flawless.
 
 But that was this morning, before the new cohort arrived. That was when the day still made sense.
 
@@ -12,19 +12,19 @@ But that was this morning, before the new cohort arrived. That was when the day 
 
 The walk from Andreasstrasse to the Berufsschule took eleven minutes if Henning didn't stop, fourteen if the bakery on Schlossergasse had Pflaumenstreusel in the window. This morning it had, and he'd stopped, and the woman behind the counter had handed him his coffee and pastry without asking because he'd been coming every Monday for nine years. There were advantages to predictability.
 
-Erfurt in spring was the kind of city that forgot it was beautiful. The Domberg rose above the Altstadt like a stone shoulder shrugging off the morning fog, and the Krämerbrücke — the old merchants' bridge with its half-timbered houses — caught the early light in a way that tourists photographed and locals stepped around. Henning was a local. He stepped around it. But he noticed: the cobblestones under his boots, the smell of the Gera where it ran shallow and clear beneath the bridge, the quality of an April morning in Thuringia when the air was still cold enough to see your breath but warm enough to promise something better.
+Erfurt in spring was the kind of city that forgot it was beautiful. The Domberg rose above the Altstadt like a stone shoulder shrugging off the morning fog, and the Krämerbrücke caught the early light in a way that tourists photographed and locals stepped around. Henning was a local. He stepped around it. But he noticed: the cobblestones under his boots, the smell of the Gera where it ran shallow and clear beneath the bridge, the quality of an April morning when the air was still cold enough to see your breath but warm enough to promise something better.
 
 He passed three young people on Fischmarkt, standing in front of the old Handwerkskammer building. They were talking, but not the way people used to talk. There was a rhythm to it he'd started noticing in the last few years — a slight pause before someone answered a question, not the pause of thinking but the pause of receiving. The answer would come fluent and complete, as if the person had rehearsed it. No false starts. No verbal fumbling. No "wait, I think it's—" followed by the messy, human process of finding the right word. Just the pause, then certainty.
 
-He could see it on two of them: the small skin-colored patch behind the left ear, barely visible unless you knew where to look. The third had longer hair that covered the spot. Maybe she had one, maybe she didn't. It was getting harder to tell, and Henning wasn't sure whether that made him feel better or worse.
+He could see it on two of them: the small skin-colored patch behind the left ear, barely visible unless you knew where to look. The third had longer hair that covered the spot. It was getting harder to tell.
 
-He ate the last bite of Pflaumenstreusel, brushed the crumbs from his work trousers — the same style his grandfather had worn, pockets in the right places — and turned onto Schillerstrasse.
+He ate the last bite of Pflaumenstreusel, brushed the crumbs from his work trousers, and turned onto Schillerstrasse.
 
-The Berufsschule was a GDR-era block, three stories of socialist-functional architecture that forty years of renovation and neglect had softened into something almost charming. The electrical workshop was on the ground floor, where it had always been, because heavy equipment and concrete floors belonged together and nobody had ever improved on the logic. Henning unlocked the door, turned on the fluorescent lights he kept meaning to replace with LEDs, and breathed in.
+The Berufsschule was a GDR-era block, three stories of socialist-functional architecture that forty years of renovation and neglect had softened into something almost charming. The electrical workshop was on the ground floor, where it had always been, because heavy equipment and concrete floors belonged together. Henning unlocked the door, turned on the fluorescent lights he kept meaning to replace with LEDs, and breathed in.
 
-PVC insulation. Solder flux. Machine oil. The faint ozone ghost of electrical discharge from last Friday's demonstration. The workshop smelled the way it had always smelled, the way his grandfather's workshop had smelled — like every place, Henning supposed, where people made real things happen in the real world.
+PVC insulation. Solder flux. The faint ozone ghost of electrical discharge from last Friday's demonstration. The workshop smelled the way it had always smelled — like every place where people made real things happen in the real world.
 
-Twelve workbenches, each with a vise, a power strip, and a pegboard. His bench was at the front, closest to the window. Behind it, on the wall, hung the tool collection organized by Wilhelm's system: screwdrivers by size and type, cable strippers by gauge, everything in its place. Every tool had a silhouette painted on the pegboard behind it, so that if anything was missing, you saw the ghost of it. Wilhelm had started the system. Klaus had kept it. Henning kept it. The silhouettes were painted in the same shade of grey his grandfather had mixed from leftover primer in 1962.
+Twelve workbenches, each with a vise, a power strip, and a pegboard. His bench was at the front, closest to the window. Behind it, on the wall, hung the tool collection organized by Wilhelm's system: screwdrivers by size and type, cable strippers by gauge, everything in its place. Every tool had a silhouette painted on the pegboard behind it, so that if anything was missing, you saw the ghost of it. The silhouettes were painted in the same shade of grey his grandfather had mixed from leftover primer in 1962.
 
 His father's Meisterbrief hung framed beside the tool wall. Henning's own was at home, in the hallway of his apartment, where he saw it every morning and thought nothing of it. Having a Meisterbrief on the wall was like having a spine. You didn't admire it. You used it.
 
@@ -48,7 +48,7 @@ He pointed to the nearest apprentice, a young man with close-cropped hair and th
 
 "Four hundred volts between phases, two hundred and thirty volts phase to neutral," the young man said. "Defined in DIN EN 60038, with a permissible tolerance of plus or minus ten percent under normal operating conditions."
 
-The answer was perfect. Not just correct — perfect. Delivered without hesitation, without the small verbal scaffolding that usually came with a first-year apprentice trying to remember something they'd read in a textbook. No "I think it's" or "if I remember correctly." Just the fact, clean and complete, like water from a tap.
+The answer was perfect. Not just correct — perfect. Delivered without hesitation, without the small verbal scaffolding that usually came with a first-year apprentice. Just the fact, clean and complete, like water from a tap.
 
 "Good," Henning said. He turned back to the board. "Now. The wiring diagram for a three-phase consumer connection. Watch carefully."
 
@@ -62,11 +62,11 @@ He turned. A young woman with dark hair pulled into a practical braid. Behind he
 
 She was right.
 
-Henning looked at his diagram. He looked at the terminal layout. She was right. He had drawn it the way his father drew it, the way he had always drawn it, and it was not wrong — it met the standard — but it was not optimal. The girl was right, and she had cited the specific section of a standard that ran to 347 pages, and she had done it like reading the time off a clock.
+Henning looked at his diagram. He had drawn it the way his father drew it, the way he had always drawn it, and it was not wrong — it met the standard — but it was not optimal. She had cited the specific section of a standard that ran to 347 pages, and she had done it like reading the time off a clock.
 
 "Thank you," he said. He picked up the eraser and moved the PE connection to terminal six. The chalk dust fell like fine snow.
 
-He continued. The distribution layout. The circuit protection scheme. Each time he asked a question, all twelve hands went up. Each answer was complete, precise, fluent. One apprentice recited the entire testing protocol for residual-current devices — thirteen steps — without pausing for breath. Another corrected a simplification Henning had made in his description of selectivity in overcurrent protection, citing not just the standard but the specific technical commentary from the most recent VDE revision.
+He continued. The distribution layout. The circuit protection scheme. Each time he asked a question, all twelve hands went up. Each answer was complete, precise, fluent. One apprentice recited the entire testing protocol for residual-current devices — thirteen steps — without pausing for breath. Another corrected a simplification Henning had made in his description of selectivity, citing the specific technical commentary from the most recent VDE revision.
 
 Thirty years of teaching, and he'd never had a student correct his diagram on the first day. Let alone correctly. Let alone twice.
 
@@ -80,7 +80,7 @@ He put down the chalk.
 
 He gave them the simplest task he knew. The task his grandfather had given his father, and his father had given him, and he had given every first-year cohort for thirty years: wire a junction box.
 
-Three conductors into a junction box, connected via Wago lever clamps, tested with a continuity meter, and documented. A child's exercise. The foundation of everything. If you couldn't wire a junction box, you couldn't wire a house, and if you couldn't wire a house, the Meisterbrief was just a piece of paper in a frame.
+Three conductors into a junction box, connected via Wago lever clamps, tested with a continuity meter, and documented. The foundation of everything. If you couldn't wire a junction box, you couldn't wire a house, and if you couldn't wire a house, the Meisterbrief was just a piece of paper in a frame.
 
 He laid out the materials on each bench. NYM-J 3x1.5 cable, pre-cut to thirty-centimeter lengths. Wago 221-series lever clamps. A Spelsberg junction box, IP65 rated. Cable strippers — the school's Knipex 12-42-195 models, descendants of his grandfather's pair. A continuity meter. A pencil and documentation form.
 
@@ -94,15 +94,15 @@ The young woman who had corrected his diagram picked up the cable stripper and h
 
 The young man who had answered the voltage question did better, but not much. He stripped the cable cleanly enough, but his conductor lengths were inconsistent — one was twelve millimeters, another eighteen — and when he tried to insert them into the Wago clamp, the shorter one didn't seat properly and the lever wouldn't close. He stared at it with the expression of someone whose map doesn't match the terrain.
 
-All around the workshop, the same scene repeated. Twelve apprentices who could recite every standard, cite every regulation, calculate every load — and who could not strip a cable cleanly. Who held the strippers too tight or too loose. Who didn't know the right angle to approach the insulation, the right pressure, the exact twist of the wrist that peeled the sheath away in a clean spiral without nicking the copper underneath.
+All around the workshop, the same scene repeated. Twelve apprentices who could recite every standard, cite every regulation, calculate every load — and who could not strip a cable cleanly. Who didn't know the right angle to approach the insulation, the right pressure, the exact twist of the wrist that peeled the sheath away in a clean spiral without nicking the copper underneath.
 
-Henning watched them, and something released in his chest. A tension he hadn't known he was carrying, like a spring wound too tight for too long, suddenly let go. He breathed.
+Henning watched them, and something released in his chest. A tension he hadn't known he was carrying. He breathed.
 
 They still needed him.
 
-Not for the knowledge. The knowledge was — somewhere. Behind the small patches, in the slight pauses, in the fluent certainty that had made his lecture obsolete before it began. But the hands. The hands were still empty. The hands didn't know.
+Not for the knowledge. The knowledge was somewhere else now — behind the small patches, in the fluent certainty that had made his lecture obsolete before it began. But the hands were still empty. The hands didn't know.
 
-He moved between the benches. Showed one apprentice how to position the cable stripper — not the way the manual described, but the way that worked, blade angled slightly downward, pulling with the forearm rather than the wrist. Showed another how to gauge conductor length by feel, using the tip of the thumb as a measuring tool: first knuckle to nail edge was roughly fifteen millimeters, which was exactly right for a 221-series clamp. Showed a third how to listen to the Wago lever — the specific click that meant the conductor was seated versus the softer sound that meant it wasn't.
+He moved between the benches. Showed one apprentice how to position the cable stripper — not the way the manual described, but the way that worked, blade angled slightly downward, pulling with the forearm rather than the wrist. Showed another how to gauge conductor length by feel: first knuckle to nail edge was roughly fifteen millimeters, exactly right for a 221-series clamp. Showed a third how to listen to the Wago lever — the specific click that meant the conductor was seated versus the softer sound that meant it wasn't.
 
 He taught the way his grandfather had taught him. Without slides. Without manuals. Hand over hand, correction by correction, the knowledge passing through the air between two bodies like current through a conductor.
 
@@ -116,11 +116,11 @@ They were getting better. All twelve of them, improving at roughly the same rate
 
 They all held the cable stripper at the same angle.
 
-Not the angle he'd shown them. Not the textbook angle. Something in between — a compromise, an optimization, arrived at independently by twelve separate pairs of hands that had never held a cable stripper before. The same angle, the same grip pressure, the same slight rotation of the wrist at the end of the pull. He watched the young woman in the third row and the young man in the first row strip their cables in perfect unison without looking at each other, and the motion was identical. Not similar. Identical.
+Not the angle he'd shown them. Not the textbook angle. Something in between — arrived at independently by twelve separate pairs of hands that had never held a cable stripper before. The same angle, the same grip pressure, the same slight rotation of the wrist. He watched the young woman in the third row and the young man in the first row strip their cables in perfect unison without looking at each other, and the motion was identical. Not similar. Identical.
 
 When they made mistakes, they made the same mistakes. When they corrected, they corrected the same way, in the same sequence, at roughly the same moment.
 
-It was like watching twelve musicians play the same piece from the same score — except there was no score. There was no teacher they shared, no video they'd all watched, no instruction set they were following. They were supposed to be finding their own way, as every apprentice Henning had ever taught had found their own way, developing the small personal signature that marked a craftsperson's work as theirs.
+It was like watching twelve musicians play the same piece from the same score — except there was no score. They were supposed to be finding their own way, as every apprentice Henning had ever taught had found their own way, developing the small personal signature that marked a craftsperson's work as theirs.
 
 They were all good. But they were all the same good.
 
@@ -130,19 +130,19 @@ He didn't say anything. He didn't know what to say.
 
 ---
 
-The cohort left at four. They filed out with their backpacks and their polite goodbyes, and the workshop was empty, and the silence was the silence of a room that has been full of people and is now full of their absence. The fluorescent lights hummed. The heating system ticked. A cable offcut lay on the floor near bench seven, a perfect spiral of stripped insulation, and Henning bent to pick it up and held it in his fingers and thought about how his grandfather's offcuts had always been different lengths because Wilhelm stripped cable by feel, adjusting to the stiffness of each individual sheath, and how his father's offcuts had been different in a different way because Klaus preferred a longer initial strip and trimmed to length afterward, and how his own offcuts were different again because he'd learned a technique in his journeyman years from an old electrician in Leipzig who scored the sheath first with a knife and then pulled, leaving a clean break with almost no waste.
+The cohort left at four. They filed out with their backpacks and their polite goodbyes, and the workshop was empty. The fluorescent lights hummed. The heating system ticked. A cable offcut lay on the floor near bench seven, a perfect spiral of stripped insulation, and Henning bent to pick it up and thought about how his grandfather's offcuts had always been different lengths because Wilhelm stripped by feel, adjusting to the stiffness of each sheath, and how his father's had been different in a different way because Klaus preferred a longer initial strip and trimmed to length afterward, and how his own were different again because he'd learned a technique from an old electrician in Leipzig who scored the sheath first with a knife and then pulled, leaving a clean break with almost no waste.
 
 Three generations. Three techniques. Three signatures in the scrap.
 
 Twelve apprentices. One technique. No signature at all.
 
-He dropped the offcut into the waste bin and walked to his bench at the front of the workshop. The tool wall was behind him, Wilhelm's system, every tool in its silhouette. He reached up and lifted the oldest pair of pliers from their place: his grandfather's Knipex, the ones with the worn Bakelite handles that had been red once and were now the color of dark honey. The joint was smooth from sixty years of use. The cutting edges were still sharp because Wilhelm had maintained them with a fine stone every Friday afternoon, a ritual Klaus had continued and Henning continued still.
+He dropped the offcut into the waste bin and walked to his bench at the front of the workshop. The tool wall was behind him, Wilhelm's system, every tool in its silhouette. He reached up and lifted the oldest pair of pliers from their place: his grandfather's Knipex, the ones with the worn Bakelite handles that had been red once and were now the color of dark honey. The joint was smooth from sixty years of use. The cutting edges were still sharp because Wilhelm had maintained them with a fine stone every Friday afternoon, a ritual Henning continued still.
 
-He held them in his right hand. The weight was familiar. The balance was familiar. The slight asymmetry where the left handle had been bent and straightened after Wilhelm dropped them from a ladder in 1978 — that was familiar too. These pliers had wired half of Erfurt. They had survived the GDR and reunification and the Treuhand and the slow hollowing-out of the Handwerk and the Great Inversion and whatever this new thing was, this thing that gave young people all the knowledge in the world and none of the feel.
+He held them in his right hand. The weight was familiar. The slight asymmetry where the left handle had been bent and straightened after Wilhelm dropped them from a ladder in 1978 — that was familiar too. These pliers had wired half of Erfurt. They had survived the GDR and reunification and the Treuhand and whatever this new thing was, this thing that gave young people all the knowledge in the world and none of the feel.
 
 Henning sat on his stool and looked at the twelve workbenches. Twelve vises. Twelve power strips. Twelve pegboards, emptier than his because the school's budget didn't extend to a full set for every station. Twelve places where twelve apprentices had sat and learned and fumbled and improved, and every one of them had improved in exactly the same way.
 
-The same angle. The same motion. The same correction at the same moment. Like they learned it from the same teacher. But they didn't learn it from anyone. That was what he couldn't get past. He had shown them a technique, and they had not adopted his technique. They had adopted something else, something that emerged from wherever the knowledge lived now, behind the small patches and inside the slight pauses, and it was the same something for all of them.
+The same angle. The same motion. The same correction at the same moment. He had shown them a technique, and they had not adopted his technique. They had adopted something else, something that emerged from wherever the knowledge lived now, behind the small patches and inside the slight pauses, and it was the same something for all of them.
 
 He turned the Knipex pliers in his hands. The Bakelite was warm from his grip. Outside the window, the late-afternoon light caught the rooftops of the Altstadt and turned them the color of old copper, and the Domberg threw its long shadow across the school's car park, and Erfurt settled into the first cool of evening the way it had settled for six hundred years, which was slowly, and with the stubbornness of a city that had survived everything and intended to survive this too.
 

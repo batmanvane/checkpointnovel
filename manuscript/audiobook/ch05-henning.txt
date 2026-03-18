@@ -8,7 +8,7 @@ So he taught the way Wilhelm had taught before anyone called it a method. He pic
 
 Watch me. Now you.
 
-The workshop smelled like it always did: PVC insulation and solder flux and the ghost of ozone. The fluorescent lights hummed their fifty-hertz hymn. Twelve workbenches, twelve vises, twelve pegboards with Wilhelm's painted silhouettes. Henning stood at his bench by the window, a thirty-centimeter length of NYM-J 5x2.5 in one hand and his grandfather's cable knife in the other.
+The fluorescent lights hummed their fifty-hertz hymn. Twelve workbenches, twelve vises, twelve pegboards with Wilhelm's painted silhouettes. Henning stood at his bench by the window, a thirty-centimeter length of NYM-J 5x2.5 in one hand and his grandfather's cable knife in the other.
 
 "Cable junction," he said. "Five conductors, junction box, Wago 221 clamps. Watch."
 
@@ -26,7 +26,7 @@ She was nineteen, with short dark hair and hands that were too small for the Kni
 
 She was also the only one whose mistakes were hers.
 
-He watched her pick up the cable knife. Her right hand brought the blade down. Too steep. She knew it was too steep. He could see it in the micro-hesitation, her eyes unfocusing for half a breath, the barely perceptible tilt of her head toward the left shoulder — the gesture he had learned to recognize the way a parent recognizes the moment before a child reaches for a forbidden jar. She was accessing. Searching for the one right way that would spare her the indignity of getting it wrong.
+He watched her pick up the cable knife. Her right hand brought the blade down. Too steep. She knew it was too steep. He could see it in the micro-hesitation, the barely perceptible tilt of her head toward the left shoulder — the gesture he had learned to recognize. She was accessing. Searching for the one right way that would spare her the indignity of getting it wrong.
 
 Henning crossed the workshop in four strides. He placed his right hand over the patch behind her left ear — gently, the way you'd cover a child's eyes before a surprise. The patch was warm under his palm. He could feel the faint ridge of it, no thicker than a bandage.
 
@@ -34,7 +34,7 @@ Jana flinched.
 
 "Not today." His voice was quiet. The other eleven apprentices did not look up, deep in their synchronized work, orange levers clicking in near-perfect rhythm. "Today you find your way."
 
-Her eyes were wide and present in a way they rarely were — the accessing look gone, replaced by something rawer. Confusion. Then a flash of anger, quick and hot, the kind that comes from being caught.
+Her eyes were wide and present in a way they rarely were — the accessing look gone, replaced by something rawer. Then a flash of anger, the kind that comes from being caught.
 
 "I was just —"
 
@@ -88,17 +88,17 @@ This is what teaching is. One pair of hands finding their own way. Everything el
 ...
 Thursday evening, seven o'clock, and Henning pushed through the heavy wooden door of Zum Güldenen Rad into the smell of his second life.
 
-Fried onions. Schwarzbier. Brass polish and old wood and the funk of a pub that had been absorbing the exhalations of Thuringian tradesmen since before the Napoleonic wars. The floor was dark oak, scarred by boot heels. Beer mats from three decades papered the wall behind the bar in overlapping layers, a geological record of brands that had come and gone while the Schwarzbier remained.
+Fried onions. Schwarzbier. Brass polish and old wood and the funk of a pub that had been absorbing the exhalations of Thuringian tradesmen since before the Napoleonic wars. The floor was dark oak, scarred by boot heels.
 
 The back corner table was under the framed photograph of the 1990 Erfurt football team — the season after the Wall came down, when FC Rot-Weiss played their first matches against West German clubs and lost magnificently and nobody cared because losing was beside the point. The photograph was crooked. It had been crooked for as long as Henning could remember, and if anyone ever straightened it, Rolf would crook it again on principle.
 
-Rolf Eberhardt was already seated, Schwarzbier half-finished, reading glasses pushed up onto his forehead where they served no optical purpose but kept his remaining hair organized. Sixty-one, master plumber, hands like shovels. Beside him: Dieter Falk, master roofer, retired, who came every Thursday because his wife had choir practice and the alternative was television. Across the table: Peter Hausmann, HVAC technician, still working, still complaining about it. And at the end, wedged between the wall and the radiator, Uwe Stollberg, master carpenter, who spoke least and listened most and had once built a staircase so beautiful that the architect had wept, which Uwe considered an appropriate reaction to good joinery.
+Rolf Eberhardt was already seated, Schwarzbier half-finished, reading glasses pushed up onto his forehead where they served no optical purpose but kept his remaining hair organized. Sixty-one, master plumber, hands like shovels. Beside him: Dieter Falk, master roofer, retired. Across the table: Peter Hausmann, HVAC technician, still working, still complaining about it. And at the end, wedged between the wall and the radiator, Uwe Stollberg, master carpenter, who spoke least and listened most and had once built a staircase so beautiful that the architect had wept.
 
 "You're late," Rolf said.
 
 "You're early." Henning sat down. A Schwarzbier appeared in front of him — Frau Wendt had seen him come in and pulled it without asking.
 
-He drank. The beer was cold and dark and faintly bitter, with the roasted-malt undertone that distinguished a proper Thuringian Schwarzbier from the pale imitations the Bavarians shipped north. It tasted the way it had every Thursday since 1998, which was longer than some marriages and more reliable than most.
+He drank. The beer was cold and dark and faintly bitter. It tasted the way it had every Thursday since 1998, which was longer than some marriages and more reliable than most.
 
 "RB Leipzig," Rolf said, setting down his glass with the controlled force of a man delivering a verdict. "Bought the referee. Third match in a row. I'm telling you, the whole Bundesliga is a Schmierenkomödie."
 
@@ -132,15 +132,15 @@ This was it. This was the thing itself. The voices overlapping, the arguments go
 
 Henning ordered the Bratwurst. It came with mustard and Bratkartoffeln and a pickled gherkin that he ate first because he always ate it first. The Bratwurst was, as far as he could determine, exactly the same as last week. He did not mention this to Peter.
 
-They argued about the Krämerbrücke renovation, then about Rolf's theory that the city council was secretly controlled by former Stasi agents, which no one took seriously including Rolf but which generated twenty minutes of increasingly absurd speculation. Dieter told a joke about a plumber and a priest that was old when Bismarck was young and still somehow landed because Dieter's timing was better than his material.
+They argued about the Krämerbrücke renovation, then about Rolf's theory that the city council was secretly controlled by former Stasi agents, which no one took seriously including Rolf. Dieter told a joke about a plumber and a priest that was old when Bismarck was young and still somehow landed because Dieter's timing was better than his material.
 
-Henning felt something loosen in his shoulders that had been tight since February. The workshop was where he fought. The Stammtisch was where he rested. Same table, same crooked photograph, same Rolf insisting on things that weren't true with a passion that made truth seem overrated.
+Henning felt something loosen in his shoulders that had been tight since February. Same table, same crooked photograph, same Rolf insisting on things that weren't true with a passion that made truth seem overrated.
 
 Then Stefan walked in.
 
-Rolf's son was thirty-four, an engineer in Eisenach. Tall where Rolf was broad, clean-shaven where Rolf was stubbly. Behind his left ear, barely visible beneath neatly trimmed hair: the patch. Henning noticed it every time — the silhouette without the shape.
+Rolf's son was thirty-four, an engineer in Eisenach. Tall where Rolf was broad, clean-shaven where Rolf was stubbly. Behind his left ear, barely visible beneath neatly trimmed hair: the patch.
 
-"Papa. Gentlemen." Stefan pulled a chair from the adjacent table — efficiently, no scraping, the exact right angle to slot in between Rolf and Peter. He sat down. Frau Wendt appeared. He ordered a Radler. Henning noted this without judgment, or with only a small amount of judgment.
+"Papa. Gentlemen." Stefan pulled a chair from the adjacent table — efficiently, the exact right angle to slot in between Rolf and Peter. He sat down. He ordered a Radler. Henning noted this without judgment, or with only a small amount of judgment.
 
 "Stefan," Rolf said, the gruffness softening by one degree. "Tell these idiots that Leipzig bought the referee."
 
@@ -168,11 +168,11 @@ Peter looked at his plate. The Bratwurst sat there, anatomized, explained, robbe
 
 The conversation continued, but the temperature had changed. Rolf tried to restart the football argument, but the statistics hung in the air like a verdict. Dieter began a joke, then stopped, as if anticipating that the punchline would be fact-checked before he could deliver it.
 
-Stefan was polite. Stefan asked Dieter about his grandchildren and remembered their names. He asked Peter about the new HVAC regulations and provided context that was genuinely helpful. He complimented Uwe on a bookcase he'd built for the Stadtbibliothek and cited the specific joining technique, correctly.
+Stefan asked Dieter about his grandchildren and remembered their names. He asked Peter about the new HVAC regulations and provided context that was genuinely helpful. He complimented Uwe on a bookcase he'd built for the Stadtbibliothek and cited the specific joining technique, correctly.
 
 He was everything a good son should be at his father's table.
 
-He was also a sealed room. Every statement complete. Every answer terminal. No gap, no rough edge, no opening where another voice could wedge itself in and push the conversation somewhere unexpected. Talking to Stefan was like talking to a finished building — you could admire the architecture, but you couldn't add a room.
+He was also a sealed room. Every statement complete. Every answer terminal. No gap, no rough edge, no opening where another voice could wedge itself in. Talking to Stefan was like talking to a finished building — you could admire the architecture, but you couldn't add a room.
 
 After twenty minutes, he stood. "I should go. Early meeting." He clasped Rolf's shoulder. "Good to see you, Papa. Gentlemen." He left the way he'd arrived: efficiently, politely, leaving the exact right amount of money on the table for his Radler, including tip.
 
@@ -194,19 +194,19 @@ He drank his Schwarzbier and said nothing, and eventually Rolf muttered somethin
 ...
 Henning walked home through Erfurt's Altstadt at half past nine, hands in his jacket pockets, the Schwarzbier warm in his stomach and the evening cool on his face.
 
-The cobblestones of Michaelisstrasse were uneven under his boots, each one a slightly different height, worn smooth by four centuries of feet. His boots found the rhythm they always found — by the memory in his soles.
+The cobblestones of Michaelisstrasse were uneven under his boots, each one a slightly different height, worn smooth by four centuries of feet.
 
-The Domberg rose ahead of him, the cathedral and the Severikirche silhouetted against a sky that was not quite dark, the late-spring blue that Thuringia held onto for an hour after sunset, deeper than day but lighter than night.
+The Domberg rose ahead of him, the cathedral and the Severikirche silhouetted against a sky that was not quite dark, the late-spring blue that Thuringia held onto for an hour after sunset.
 
 The seventy steps up to the cathedral were lit by lamps that cast the stone in amber. He didn't climb them tonight. But he liked knowing they were there — the object in its silhouette, present and accounted for.
 
-The Krämerbrücke was quiet. The half-timbered facades leaned together the way old friends lean, not from weakness but from familiarity. The Gera ran beneath the bridge, shallow and quick, the same sound it had made when the bridge was built in 1325 and the same sound it would make when everyone who argued about referees and marjoram was gone.
+The Krämerbrücke was quiet. The half-timbered facades leaned together the way old friends lean. The Gera ran beneath the bridge, shallow and quick, the same sound it had made when the bridge was built in 1325 and the same sound it would make when everyone who argued about referees and marjoram was gone.
 
 He walked and he thought about two things.
 
-He thought about Jana's grip. The scraping, personal way she'd worked the cable knife, her small hands finding an angle that no manual recommended. The ragged sheath. The five green lights. The way she'd said Again? — a request for permission to keep struggling.
+He thought about Jana's grip. The scraping way she'd worked the cable knife, her small hands finding an angle that no manual recommended. The ragged sheath. The five green lights. The way she'd said Again?
 
-He thought about Stefan at the Stammtisch. The pleasant smile. The marjoram explanation that had taken Peter's complaint apart the way a technician takes apart a circuit — competently, completely, and without any understanding of why the circuit had been built that way in the first place. The way Rolf had stopped arguing, which was like watching a river stop running.
+He thought about Stefan at the Stammtisch. The marjoram explanation that had taken Peter's complaint apart the way a technician takes apart a circuit — competently, completely, and without any understanding of why the circuit had been built that way in the first place.
 
 Two images from the same Thursday. Jana's ugly, working junction. Stefan's beautiful, deadening precision. One had made Henning feel something he'd almost forgotten the name of. The other had made five men go silent in a pub that ran on noise.
 
@@ -216,8 +216,8 @@ He stood in the hallway, his shin finding the boot rack, his father's Meisterbri
 
 Two things. Jana's grip. Stefan's answers. He could feel them sitting side by side in his chest like two puzzle pieces from different boxes, edges that almost matched but didn't.
 
-He couldn't see the connection yet. But it was there — he was certain of that the way he was certain of a loose connection in a panel before he found it. By the hum. By the warmth. By the wrongness in the right register. You didn't force a conductor into a terminal. You positioned it, you aligned it, and you let the mechanism do its work.
+He couldn't see the connection yet. But it was there — he was certain of that the way he was certain of a loose connection in a panel before he found it. By the hum. By the warmth. By the wrongness in the right register.
 
-He filled the kettle. Stood at the counter and looked at his hands — broad, scarred, chalk dust still in the creases of the left, a small burn on the right thumb from a soldering exercise. Hands that knew things his head had never learned. Hands that had held a cable knife at their own angle for thirty-nine years, an angle that was not optimal, that was not textbook, that was Henning's, and that had wired half of Erfurt without apology.
+He filled the kettle. Stood at the counter and looked at his hands — broad, scarred, chalk dust still in the creases of the left. Hands that knew things his head had never learned. Hands that had held a cable knife at their own angle for thirty-nine years, an angle that was not optimal, that was not textbook, that was Henning's, and that had wired half of Erfurt without apology.
 
 The kettle clicked off. He made his tea. He drank it standing up, looking out the kitchen window at the rooftops and the Domberg, and he did not solve anything, and the two images sat in him like a chord he couldn't name — Jana's clumsy grip and Stefan's clean silence, one hand finding its way and another hand that had stopped searching — and the evening settled over Erfurt the way evenings do, which is slowly, and without asking permission, and with the patience of a city that has outlasted everything and will outlast this too.

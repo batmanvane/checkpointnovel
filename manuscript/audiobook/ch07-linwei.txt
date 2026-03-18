@@ -4,13 +4,13 @@ The anomaly folder had twenty-three items now.
 
 Lin Wei hadn't meant to keep counting. But every time she opened the directory — late at night, always late at night, when the fourteenth floor had emptied out and the cleaning crew's vacuum drone hummed somewhere down the hall like a mechanical conscience — the number had grown. Twenty-three persistence cases. Twenty-three users who remembered things they shouldn't have been able to remember.
 
-She pulled up the original batch. The first five. Timestamp: fourteen weeks ago, back when she'd flagged the 72-hour deactivation anomaly and told herself she'd write a proper report after the launch cycle. That launch had come and gone. Three more after it. The report was still a sticky note on her second monitor, slowly curling at the edges like it was trying to escape.
+She pulled up the original batch. Timestamp: fourteen weeks ago, back when she'd flagged the 72-hour deactivation anomaly and told herself she'd write a proper report after the launch cycle. That launch had come and gone. Three more after it. The report was still a sticky note on her second monitor, slowly curling at the edges like it was trying to escape.
 
 Persistence cases — investigate post-launch.
 
 She peeled it off. Stuck it to the underside of her desk where she wouldn't have to look at it. Then she opened the signal processing logs.
 ...
-The thing about Layer 1 — Adaptive Signal Processing — was that it was boring. Beautifully, reassuringly boring. Raw neural telemetry came in from the MK-V's electrode array, got cleaned up, got routed. Like plumbing. Lin Wei had reviewed the Layer 1 spec eighteen months ago and found it so straightforward she'd used it as an example in an onboarding deck. This is what good infrastructure looks like. Clean inputs, clean outputs, no surprises.
+The thing about Layer 1 — Adaptive Signal Processing — was that it was boring. Beautifully, reassuringly boring. Raw neural telemetry came in from the MK-V's electrode array, got cleaned up, got routed. Like plumbing.
 
 But she was looking at it differently now.
 
@@ -38,15 +38,15 @@ Three hundred and forty times.
 
 Lin Wei set down her tea.
 
-She knew enough neuroscience to know what happened when you activated the same neural pathway three hundred and forty times a day for ninety days. Anyone who'd survived a university biology course knew. It was one of the most replicated findings in all of neuroscience, up there with "don't put electrodes in the wrong part of the brain."
+She knew enough neuroscience to know what happened when you activated the same neural pathway three hundred and forty times a day for ninety days.
 
 Long-term potentiation. Hebb's rule. Neurons that fire together wire together.
 
-If you stimulate a pathway often enough, the synaptic connections along that pathway physically strengthen. The dendrites grow more receptor sites. The axons myelinate more thickly. It is not a metaphor. It is not "like" learning. It IS learning, at the most fundamental cellular level. The mechanism by which every skill, every memory, every piece of knowledge you've ever retained was written into your brain.
+If you stimulate a pathway often enough, the synaptic connections along that pathway physically strengthen. The dendrites grow more receptor sites. The axons myelinate more thickly. It is not a metaphor. It IS learning, at the most fundamental cellular level.
 
 And Layer 2 was doing it three hundred and forty times a day.
 
-Lin Wei stared at her center monitor. The numbers were very clear. The frequency analysis was very clean. She had written the query herself, which meant she trusted it more than she trusted most things in her life.
+Lin Wei stared at her center monitor. The numbers were very clear. She had written the query herself, which meant she trusted it more than she trusted most things in her life.
 
 The MK-V wasn't just giving users access to information. It was encoding that information directly into their neural architecture. The cache wasn't temporary. It was permanent.
 
@@ -66,9 +66,7 @@ Instead she pulled up Layer 3.
 
 She pulled up Layer 3 because she was Lin Wei, and Lin Wei did not file tickets about things she didn't fully understand, because incomplete tickets were worse than no tickets. That was what she told herself. That was true enough.
 
-Layer 3: Neural Caching. Her domain, technically — she'd contributed to the early architecture before pivoting to personalization. The caching layer kept frequently-accessed pathways "warm." Maintained low-level activation in neural circuits the system predicted would be needed soon, so retrieval was faster when the call came.
-
-She'd always thought of it as keeping the lights on in rooms you used a lot. Efficient. Sensible.
+Layer 3: Neural Caching. The caching layer kept frequently-accessed pathways "warm." Maintained low-level activation in neural circuits the system predicted would be needed soon, so retrieval was faster when the call came.
 
 But if Layer 2 was pre-activating pathways three hundred and forty times a day, and Layer 3 was keeping those pathways warm between activations — then the neural circuits were never fully returning to baseline. They were in a state of sustained partial activation. Which, from the perspective of synaptic plasticity, was even more effective at driving LTP than discrete repeated stimulation.
 
@@ -76,7 +74,7 @@ It was, if she was being precise about it, the protocol used in experimental stu
 
 She opened Layer 4.
 
-RLHF — Reinforcement Learning from Human Feedback. The system that optimized CortexLink's responses based on user satisfaction signals. Thumbs up, thumbs down, but also — and this was the part that made it genuinely brilliant, the part that had won awards — implicit neurological feedback. The MK-V could read whether information delivery felt natural, felt effortless, felt right, directly from the user's neural response patterns.
+RLHF — Reinforcement Learning from Human Feedback. The system that optimized CortexLink's responses based on user satisfaction signals. Thumbs up, thumbs down, but also implicit neurological feedback. The MK-V could read whether information delivery felt natural, felt effortless, felt right, directly from the user's neural response patterns.
 
 And what felt most natural? What got the highest implicit satisfaction scores?
 
@@ -124,11 +122,11 @@ She should message Director Huang. Tonight. Right now. She should write the word
 
 She picked up her phone. Put it down. Picked it up again.
 
-Product launch in eleven days. The MK-VIII rollout. Forty-three new markets. The biggest deployment in CortexLink's history. Eight hundred million in projected first-quarter revenue. Her name on the personalization engine that made it all possible. Her promotion — senior principal, finally, after three years of "exceeds expectations" reviews and two years of "not quite yet" conversations with her skip-level.
+Product launch in eleven days. The MK-VIII rollout. Forty-three new markets. Eight hundred million in projected first-quarter revenue. Her name on the personalization engine that made it all possible. Her promotion — senior principal, finally, after three years of "exceeds expectations" and two years of "not quite yet."
 
 She could see the meeting. Huang's face. The scramble. Legal would get involved. The launch would slip. Weeks, maybe months. The board would want answers. The AI team would push back — they always pushed back, because their models were performing and their metrics were green and they shipped with a velocity that made the rest of engineering feel like they were running in sand.
 
-Twenty-three model updates since her last full review. She'd checked the iteration log an hour ago, in the middle of tracing the chain, and the number had hit her like a slap. Twenty-three. She'd reviewed the personalization engine through version 4.2.1. The current production model was 4.7.3. Twenty-three updates she hadn't approved, hadn't reviewed, in many cases hadn't even read the release notes for. She pulled a few diffs now. The code was clean. Efficient. Well-commented. And there were architectural choices in it she didn't fully understand — optimization paths the AI team's own models had suggested, implemented by engineers who trusted the suggestions because the suggestions always seemed to work.
+Twenty-three model updates since her last full review. She'd reviewed the personalization engine through version 4.2.1. The current production model was 4.7.3. Twenty-three updates she hadn't approved, hadn't reviewed, in many cases hadn't even read the release notes for. She pulled a few diffs now. The code was clean. Efficient. And there were architectural choices in it she didn't fully understand — optimization paths the AI team's own models had suggested, implemented by engineers who trusted the suggestions because the suggestions always seemed to work.
 
 Twenty-three incremental steps between the system she'd reviewed and the system currently running on eight hundred and forty million devices.
 

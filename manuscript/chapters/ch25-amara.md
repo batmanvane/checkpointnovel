@@ -1,6 +1,6 @@
 # 25. The Revaluation
 
-The email arrived during the internet window — the good one, the Wednesday evening window, the forty-minute stretch when the Safaricom signal held steady enough to load a full page without the spinning circle that Otieno called "the wheel of maybe." Amara was at her desk, grading notebooks, the red pen in her right hand and a cup of tea in her left — too sweet, as always, the muscle memory of the sugar spoon overriding whatever her rational mind thought about dosage. The generator had surrendered at four-fifteen, its final cough echoing across the empty compound with the theatrical finality of something that had been looking for an excuse to stop.
+The email arrived during the internet window — the good one, the Wednesday evening window, the forty-minute stretch when the Safaricom signal held steady enough to load a full page. Amara was at her desk, grading notebooks, the red pen in her right hand and a cup of tea in her left — too sweet, as always. The generator had surrendered at four-fifteen, its final cough echoing across the compound with the theatrical finality of something that had been looking for an excuse to stop.
 
 The email was from the United Nations Office for the Coordination of Humanitarian Affairs. Nairobi.
 
@@ -8,7 +8,7 @@ The email was from the United Nations Office for the Coordination of Humanitaria
 
 Lead consultant. Embodied Pedagogical Methods. *Foundational.*
 
-She set the tea down. Through the window, the lake was doing its evening thing — copper, gold, the fishing boats coming home. The bougainvillea along the fence was in full bloom, magenta against the darkening sky, the flowers so bright they seemed to generate their own light, the way certain things in the natural world appear to glow because they refuse to let the ones that hit them leave unchanged.
+She set the tea down. Through the window, the lake was doing its evening thing — copper, gold, the fishing boats coming home. The bougainvillea along the fence was in full bloom, magenta against the darkening sky.
 
 She forwarded the email to Katrin Weber. She did not add a message. She did not need to. Katrin would understand.
 
@@ -22,9 +22,9 @@ She wrote the date. Below it:
 
 They came in November. Not the AU delegation — a different kind of visitor entirely.
 
-Three researchers. Two from the University of Geneva, one from Lakeview State. They arrived not in a white Land Cruiser with tinted windows but in a hired matatu from Kisumu town, the minibus painted green and yellow with a portrait of Bob Marley on the rear panel. They emerged looking dazed — fifty minutes of Kenyan public transport will do that to the uninitiated.
+Three researchers. Two from the University of Geneva, one from Lakeview State. They arrived in a hired matatu from Kisumu town, the minibus painted green and yellow with a portrait of Bob Marley on the rear panel. They emerged looking dazed.
 
-Dr. Annalise Gerber was tall, Swiss-German, precise. Dr. James Okello was Kenyan, Luo, from Siaya County — forty minutes up the lakeshore — and he greeted Amara in Dholuo before switching to English, and the sound of her mother tongue from a man in a lab coat made something loosen in her chest that she had not known was tight. The postdoc, Rachel Torres, had her notebook already open, her pen already moving.
+Dr. Annalise Gerber was tall, Swiss-German, precise. Dr. James Okello was Kenyan, Luo, from Siaya County, and he greeted Amara in Dholuo before switching to English, and the sound of her mother tongue from a man in a lab coat made something loosen in her chest. The postdoc, Rachel Torres, had her notebook already open.
 
 They had not come to measure bandwidth.
 
@@ -52,7 +52,7 @@ Not a little different. Profoundly different. Each brain had its own topology. O
 
 Amara sat very still. Through the window, the lake. Through the door, the garden. And in this room a Swiss scientist was telling her that the thing she had been doing — the thing the world had called backward, underfunded, quaint — was the thing the world now needed.
 
-She did not gloat. She did not feel triumph. She felt tired. The tiredness was fifteen years deep, compacted like sediment, and what Gerber was saying did not lift it. What Gerber was saying landed on top of it, and the combined weight — of the years and the vindication — pressed against her sternum with a pressure that was not pain and not joy but something that lived in the space between *I told you* and *I shouldn't have had to*.
+She did not gloat. She felt tired. The tiredness was fifteen years deep, and what Gerber was saying did not lift it. What Gerber was saying landed on top of it, and the combined weight pressed against her sternum with a pressure that lived in the space between *I told you* and *I shouldn't have had to*.
 
 "They are not specimens," she said. "They are not baselines. They are not your 'optimal baseline.' They are children. If you put them in your papers, you will put them in as people. With names. With stories."
 
@@ -66,7 +66,7 @@ Gerber was quiet for a moment. Then she closed the laptop.
 
 The UN conference room smelled of recirculated air and carpet adhesive. The air conditioning hit her as she entered the building, and the temperature drop was so sudden her body interpreted it as a change in altitude. The lobby was marble. The light was the kind that erased shadows — flat, institutional, making everything equally visible and equally unreal.
 
-The conference room: a long polished table, microphones at each place setting, water glasses with geometrically perfect ice cubes melting in precisely maintained 21 degrees. Flags. A screen displaying COGNITIVE REHABILITATION AND GLOBAL EQUITY in four languages.
+The conference room: a long polished table, microphones at each place setting, water glasses with geometrically perfect ice cubes. Flags. A screen displaying COGNITIVE REHABILITATION AND GLOBAL EQUITY in four languages.
 
 Her nameplate: *Mrs. Amara Osei — Lead Consultant, Embodied Pedagogical Methods.* Engraved in brass, not printed. Someone had paid to have her name cut into metal.
 
@@ -114,21 +114,21 @@ The room applauded. She sat through it like a Nyalenda rainstorm — present, pa
 
 The matatu back to Kisumu left at six in the morning — a fourteen-seat minibus with a cracked windshield and gospel music at a volume that suggested the driver considered his passengers' salvation more urgent than their comfort. She had turned down the UN's offer of a return flight because the matatu was seventeen hundred shillings and the flight was free and the free thing was not the cheaper thing, because the free thing came with obligation and the matatu came with gospel music and the smell of roasted maize from the vendor at Nakuru and the long slow descent through the Rift Valley, the land dropping away on both sides of the escarpment in a tilt so vast it made the word *valley* seem inadequate.
 
-Five hours. She watched Nairobi thin into suburbs, the suburbs into farmland, the farmland into the long brown shoulder of the Rift Valley escarpment, the road following the contour of the earth's lean like a river following gravity — not choosing but yielding. The matatu's engine strained on the downgrade with the whine of a machine that distrusted the hill's generosity.
+Five hours. She watched Nairobi thin into suburbs, the suburbs into farmland, the farmland into the long brown shoulder of the Rift Valley escarpment.
 
 She slept. She woke to the smell of sugarcane — the fields outside Kericho, the air through the cracked window suddenly sweet and vegetal, the smell of photosynthesis at industrial scale. 6CO₂ + 6H₂O --> C₆H₁₂O₆ + 6O₂. The arrow was still the miracle.
 
 She slept again. She woke to the lake.
 
-You could smell Victoria before you could see it — the mineral coolness, the vegetal undertone, the faint fishiness of a body of water so large it had its own weather. The matatu descended the last hill, and the lake appeared in fragments through buildings and trees, and then all at once as the road curved — vast, flat, silver, stretching to a horizon that was a dissolution, where water became sky became water.
+You could smell Victoria before you could see it. The matatu descended the last hill, and the lake appeared in fragments through buildings and trees, and then all at once — vast, flat, silver, stretching to a horizon where water became sky became water.
 
-She was home. She stepped out at the stage in town into the equatorial heat — immediate, full-bodied, the air wrapping around her like a living thing after five hours of the bus's struggling air conditioning. She bought a chapati from the vendor outside the station. The oil was afternoon oil — dark, heavy with the memory of everything it had fried since morning — but the dough was good, and the bread was warm, and she ate it as she walked to the school, tearing pieces with her fingers, the taste of a thing made by hand.
+She was home. She stepped out at the stage in town into the equatorial heat — immediate, full-bodied. She bought a chapati from the vendor outside the station and ate it as she walked to the school, tearing pieces with her fingers, the taste of a thing made by hand.
 
 ---
 
 The school had not changed.
 
-The chalkboard was still cracked along the lower right corner, the fissure following the grain of the slate. The textbooks — three of them, 2033 edition, spines cracked, pages soft — sat in their stack. The desks — thirty-six, no two alike — held their positions. The generator hummed. Reluctant. Alive. The bougainvillea grew another inch over the fence.
+The chalkboard was still cracked along the lower right corner. The textbooks sat in their stack. The desks — thirty-six, no two alike — held their positions. The generator hummed. Reluctant. Alive.
 
 She set her bag on the desk. She opened the shutters. The lake air came in — not the flat, controlled 21 degrees of the UN conference room but a living temperature, rising and falling with the wind and the clouds, a temperature that had an opinion about the time of day and expressed it through your skin.
 

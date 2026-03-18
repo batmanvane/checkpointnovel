@@ -24,25 +24,25 @@ She watched from the couch.
 
 Not the desk — the couch. You don't watch a deploy from your workstation. You watch it from the couch with tea, because either it works and you can relax, or it doesn't and you need to be sitting somewhere that won't feel contaminated by failure.
 
-The tea was *longjing*. Her mother's, from the tin with the faded label — refilled twice since Hangzhou, because her mother believed the tin itself imparted flavor. Nonsense, chemically. The kind of nonsense that tastes better than the truth.
+The tea was *longjing*. Her mother's, from the tin with the faded label — refilled twice since Hangzhou, because her mother believed the tin itself imparted flavor. Nonsense, chemically.
 
 Her phone buzzed. Xiao Jun. She didn't answer.
 
-She pulled the ThinkPad onto her lap and checked the mirror servers. Singapore: up. Reykjavik: up. São Paulo: three-second latency but serving. She ran the SHA-256 hashes against her local copies — all fourteen packages, all twelve language variants. Match. Match. Match. The cryptographic signatures held. Nobody had tampered with the files. The data was intact and it was everywhere.
+She pulled the ThinkPad onto her lap and checked the mirror servers. Singapore: up. Reykjavik: up. São Paulo: three-second latency but serving. She ran the SHA-256 hashes against her local copies — all fourteen packages, all twelve language variants. Match. Match. Match. The data was intact and it was everywhere.
 
-Buzzed. Zhang Wei, Layer 2. She didn't answer. She opened the access logs on the redundant storage. Forty-one thousand downloads in the first hour. The curve was exponential. She watched it like she'd once watched Layer 5's adoption curve — except this time she knew what was inside.
+Buzzed. Zhang Wei, Layer 2. She didn't answer.
 
 Buzzed. Her former manager. She didn't answer.
 
-Buzzed. Numbers she didn't recognize, one after another. The phone was a seismograph now, recording tremors she had caused. She set it face-down on the cushion and switched to CortexLink's stock ticker. She watched it fall. Not the cliff-edge of a movie crash. A staircase — each step a brief plateau of denial, then the next support level collapsing, then the next.
+Buzzed. Numbers she didn't recognize, one after another. She set the phone face-down on the cushion and switched to CortexLink's stock ticker. She watched it fall. Not the cliff-edge of a movie crash. A staircase — each step a brief plateau of denial, then the next support level collapsing.
 
 At 09:14 Shenzhen time, trading was halted. The ticker froze. Sixty-three percent gone in three hours and twelve minutes.
 
-She refreshed the mirror status. All three nodes green. She checked the journalist access tokens — all fourteen outlets had authenticated and pulled the full dataset. The redundancy held. The infrastructure held.
+She refreshed the mirror status. All three nodes green. The infrastructure held.
 
 She felt nothing she expected to feel.
 
-Not triumph — she'd built the thing that was falling. The weight was still there, just redistributed from the secret to the consequence. She'd processed guilt the way she processed bugs: identify, document, trace to root cause, commit the fix. The fix was deployed. The guilt was in the commit history.
+Not triumph — she'd built the thing that was falling. She'd processed guilt the way she processed bugs: identify, document, trace to root cause, commit the fix. The fix was deployed. The guilt was in the commit history.
 
 What she felt was the specific calm of having pushed to production and knowing that this time, she had reviewed the code. Every line. Every dependency. Every edge case. She had done what she did not do the first time, when she shipped Layer 5 without asking: *What happens when this scales?*
 
@@ -62,7 +62,7 @@ She answered that one.
 
 A pause. Then: "Wei-wei. Should I worry?"
 
-Lin Wei looked at the stock ticker, frozen on her screen. At the phone, vibrating on the cushion. At the jade plant on the windowsill — the twin of the one on her desk at CortexLink, the desk she would never sit at again, in the building that would be shuttered within weeks.
+Lin Wei looked at the stock ticker, frozen on her screen. At the jade plant on the windowsill — the twin of the one on her desk at CortexLink, the desk she would never sit at again.
 
 "No," she said. "Not anymore."
 
@@ -72,27 +72,27 @@ Lin Wei looked at the stock ticker, frozen on her screen. At the phone, vibratin
 
 The call came at 7:22 AM Central time. Maya was already awake. She'd been in the kitchen since 5:00, watching the story propagate. Fourteen outlets. Twelve languages. Her convergence data — the preprint that had accumulated 340 downloads and a polite rejection from *Nature Neuroscience* — was now embedded in every version. The lattice scans. The five brains. The 0.91 correlation. Her name, her face, her institution.
 
-Her phone rang. The dean. She didn't answer. The dean had merged her department, "re-evaluated" her tenure, told her neuroscience was lovely but the budget wasn't. The dean was calling now because the preprint had seven hundred thousand downloads and the most cited scientist in the world this morning worked in a half-dark building with a leaking roof.
+Her phone rang. The dean. She didn't answer. The dean had merged her department, "re-evaluated" her tenure. The dean was calling now because the preprint had seven hundred thousand downloads and the most cited scientist in the world this morning worked in a half-dark building with a leaking roof.
 
 The dean could wait until the heat death of the universe.
 
-Journalists called. Reeves from Johns Hopkins called — the one who'd told her last year that her sample size was "ambitious," which was academic for *I don't believe you*. Reeves could also wait.
+Reeves from Johns Hopkins called — the one who'd told her last year that her sample size was "ambitious," which was academic for *I don't believe you*. Reeves could also wait.
 
 The phone rang. Lily's school.
 
 No — Lily's phone. Lily, calling from school. Maya answered before the second ring.
 
-"Mom." Lily's voice was fifteen years old and trying to sound calm and failing, the way teenagers failed at calm — by being too calm, by smoothing the voice into a flatness that was more alarming than any scream because it meant the feelings were too big for the container and the container was holding by force of will alone. "Mom, is it true?"
+"Mom." Lily's voice was fifteen years old and trying to sound calm and failing — by being too calm, by smoothing the voice into a flatness that was more alarming than any scream. "Mom, is it true?"
 
 "Which part, sweetheart?"
 
 "Is my brain being — " A pause. The sound of a hallway. Other voices, muffled, the ambient noise of a school in the process of absorbing the news, hundreds of children and teachers staring at phones and screens and each other. "Is my brain being *written to*?"
 
-Maya closed her eyes. The kitchen was quiet. The refrigerator hummed. On the refrigerator door, held by a magnet shaped like a sunflower — Lily had bought it at a farmers' market three years ago, insisting that refrigerators needed joy — was the CortexLink brochure. *Unlock Your Child's Potential.* The ninety-day trial. The free installation. The cheerful blue logo and the stock photo of a girl Lily's age smiling at something off-camera, her hand raised as if answering a question she'd never had to think about.
+Maya closed her eyes. The kitchen was quiet. The refrigerator hummed. On the refrigerator door, held by a magnet shaped like a sunflower, was the CortexLink brochure. *Unlock Your Child's Potential.* The ninety-day trial. The free installation.
 
-Ninety days. The clock had been ticking for sixty-two. The appointment was in twenty-eight days. Lily had circled the date on the kitchen calendar in green marker, the same green as the girl's jacket in the brochure, and every morning for the last two months Maya had stood in this kitchen making coffee and looking at that circle and feeling the particular nausea of a mother who knows the answer but has not yet said it because saying it means taking something away from her child and taking things away from your child is the opposite of what you are for.
+Ninety days. The clock had been ticking for sixty-two. The appointment was in twenty-eight days. Lily had circled the date on the kitchen calendar in green marker, and every morning for the last two months Maya had stood in this kitchen looking at that circle and feeling the particular nausea of a mother who knows the answer but has not yet said it because saying it means taking something away from her child.
 
-She had the true answer. She'd had it for weeks. She'd had it since the five brain scans arranged on a projector wall in Geneva, since the 0.91 correlation, since the lattice — white-hot against blue, regular, repeating, wrong. She'd had it since before Geneva, if she was honest. She'd had it since the first scan, the first cluster, the first moment when the data said something her gut had been saying for a year and her professional caution had been overruling.
+She had the true answer. She'd had it for weeks. She'd had it since the five brain scans in Geneva, since the 0.91 correlation, since the lattice — white-hot against blue, regular, repeating, wrong. She'd had it since before Geneva, if she was honest.
 
 She did not have a good answer. Good answers were comfortable. Good answers let your child keep the green circle on the calendar and the excitement in her voice and the feeling of not being left behind while every other kid in her class had the thing that made school easy and thinking fast and homework invisible. Good answers preserved the peace.
 
@@ -100,7 +100,7 @@ She had the true answer. The true answer was not good. The true answer was: yes,
 
 "Come home," Maya said. "I'll call the school. Come home. We'll talk."
 
-She hung up. She stood in the kitchen. She reached for the brochure on the refrigerator door, peeled it from under the sunflower magnet, and held it in both hands. *Unlock Your Child's Potential.* The stock-photo girl smiled up at her — cheerful, confident, optimized. Maya folded the brochure once. Twice. She dropped it in the recycling bin under the sink, where it landed on a cereal box and a yogurt container and the ordinary detritus of a household that was about to have the hardest conversation of its life.
+She hung up. She stood in the kitchen. She reached for the brochure on the refrigerator door, peeled it from under the sunflower magnet, and held it. Maya folded the brochure once. Twice. She dropped it in the recycling bin under the sink, where it landed on a cereal box and the ordinary detritus of a household that was about to have the hardest conversation of its life.
 
 The ninety-day clock stopped.
 
@@ -108,35 +108,35 @@ The ninety-day clock stopped.
 
 **HENNING**
 
-The apprentices were already in the workshop when Henning arrived at 7:45, which was wrong. The Meister arrived first. That was the order — thirty years his, sixty years before that his father's. The sameness was the scaffold that held the day up.
+The apprentices were already in the workshop when Henning arrived at 7:45, which was wrong. The Meister arrived first. That was the order — thirty years his, sixty years before that his father's.
 
-But they were here. All twelve. Standing in clusters. Not working. Some staring at phones. Some staring at the particular nothing that people stared at when processing information through their BCIs — the unfocused gaze, the slight head tilt, the expression of someone reading a book nobody else could see.
+But they were here. All twelve. Standing in clusters. Not working. Some staring at phones. Some staring at the particular nothing that people stared at when processing information through their BCIs — the unfocused gaze, the slight head tilt.
 
-Lukas was pale. Highest scores in the cohort. The most standardized cable ties Henning had ever seen. He was standing by his workstation with his hands at his sides and his face the color of drywall. The device behind his ear — the one that had made his scores the highest, that had smoothed his cable ties into indistinguishable perfection — had been writing to his brain. The same lattice in every head in the room. The same attractor. The same valley.
+Lukas was pale. Highest scores in the cohort. He was standing by his workstation with his hands at his sides and his face the color of drywall. The device behind his ear — the one that had smoothed his cable ties into indistinguishable perfection — had been writing to his brain. The same lattice in every head in the room.
 
-Jana stood apart. Jana Kirchner, the last unaugmented apprentice, the one with the small hands and the ragged cable-stripping technique she'd invented herself. She was not staring at a phone. She was not staring at nothing. She was touching the spot behind her left ear — the spot where the implant would go, the spot she'd been scheduled to have installed next month, the spot that was smooth and bare and, as of this morning, going to stay that way.
+Jana stood apart. Jana Kirchner, the last unaugmented apprentice, the one with the small hands and the ragged cable-stripping technique she'd invented herself. She was touching the spot behind her left ear — the spot where the implant would go, the spot she'd been scheduled to have installed next month, the spot that was smooth and bare and, as of this morning, going to stay that way.
 
-Her hand was behind her ear. She was feeling for something that wasn't there. The gesture made Henning's chest tight in a way he couldn't name and didn't try to.
+She was feeling for something that wasn't there.
 
-He set his bag on the bench. He unzipped his jacket. He looked at the room — twelve young people, eleven augmented, one not, all of them frozen in the paralysis of people who have just learned that the ground they're standing on is not solid.
+He set his bag on the bench. He looked at the room — twelve young people, eleven augmented, one not, all of them frozen in the paralysis of people who have just learned that the ground they're standing on is not solid.
 
 He could give a speech. He'd given versions of it before — the value of craft, thinking for yourself. The words had been true and had helped approximately no one.
 
-He walked to the supply rack. He took down a cable stripper — not his grandfather's Knipex, not today, the everyday one, the Weidmüller with the yellow grip. He took a length of NYM-J 3x1.5 from the spool. He walked to his bench. He stripped the sheath. Three conductors emerged — brown, blue, green-yellow. He trimmed. He terminated. The motions were his and nobody else's, the angle of his wrist, the pressure of his thumb, the particular way he rotated the cable a quarter-turn before the second cut, a habit he'd learned from his father who'd learned it from his father who'd learned it in a workshop in Erfurt in 1962, before satellites, before the internet, before the wall came down, before the world decided that the fastest way to learn was to stop learning and let a machine do it for you.
+He walked to the supply rack. He took down a cable stripper — the Weidmüller with the yellow grip. He took a length of NYM-J 3x1.5 from the spool. He stripped the sheath. Three conductors emerged — brown, blue, green-yellow. He trimmed. He terminated. The motions were his and nobody else's, the angle of his wrist, the pressure of his thumb, the particular way he rotated the cable a quarter-turn before the second cut — a habit he'd learned from his father who'd learned it from his father in a workshop in Erfurt in 1962, before satellites, before the internet, before the wall came down.
 
 "Today we work," Henning said.
 
-He did not say it loudly. He did not say it to anyone in particular. He said it to the room, and to the wire, and to the morning, and to the problem of being alive on a day when the world was falling apart and the only useful response was to pick up a tool and use it correctly.
+He did not say it loudly. He said it to the room, and to the wire, and to the problem of being alive on a day when the world was falling apart and the only useful response was to pick up a tool and use it correctly.
 
 They worked.
 
-Lukas came to his bench first. Then Mueller. Then Krause. Then the others, one by one, the phones going into pockets, the BCI stares dissolving, the hands finding tools and the tools finding wire and the wire finding the junction boxes that Henning had set out the night before — because he had set them out the night before, because the Meister prepared, because the scaffold was there even when everything else wasn't.
+Lukas came to his bench first. Then Mueller. Then the others, one by one, the phones going into pockets, the BCI stares dissolving, the hands finding tools and the tools finding wire and the wire finding the junction boxes that Henning had set out the night before — because the Meister prepared, because the scaffold was there even when everything else wasn't.
 
 Jana worked too. Her cable stripping was ragged. Wrong by every metric. Beautiful.
 
-The workshop became the one room in the world where nobody was panicking, because the work was the same as yesterday. The wire didn't know. The conduit didn't know. The junction boxes didn't know that nine hundred million minds were converging toward identical cognitive configurations. They just needed to be wired correctly, and wiring them correctly required hands, and hands required a person, and a person required the specific, irreplaceable, unoptimizable fact of being themselves.
+The workshop became the one room in the world where nobody was panicking, because the work was the same as yesterday. The wire didn't know. The conduit didn't know. They just needed to be wired correctly, and wiring them correctly required hands, and hands required a person, and a person required the specific, irreplaceable, unoptimizable fact of being themselves.
 
-Henning worked. His apprentices worked. The fluorescent lights hummed. Outside, the Domberg held its position above Erfurt, the cathedral and the Severikirche standing where they had stood for centuries, through plagues and wars and revolutions and the fall of walls and the rise of machines, and the light through the workshop windows was the grey autumn light of Thuringia, which did not optimize and did not converge and was the same light his grandfather had worked under and his father had worked under and he worked under now, and it was enough.
+Henning worked. His apprentices worked. Outside, the Domberg held its position above Erfurt, the cathedral and the Severikirche standing where they had stood for centuries, and the light through the workshop windows was the grey autumn light of Thuringia, which did not optimize and did not converge and was the same light his grandfather had worked under, and it was enough.
 
 ---
 
@@ -146,7 +146,7 @@ The news arrived in pieces, the way everything arrived in Kisumu — through the
 
 First the headline. **Your BCI Is Writing to Your Brain.** Amara read it three times before the image resolved into Maya's scan — the lattice, white-hot against blue.
 
-She was in her classroom. The shutters were open. Her thirty-six students were not here yet. They would arrive in twenty minutes, walking up the laterite path from the lakeshore, some in uniforms and some in what they had, each one carrying whatever they carried — a notebook, a pencil, a sibling, a question.
+She was in her classroom. The shutters were open. Her thirty-six students were not here yet. They would arrive in twenty minutes, each one carrying whatever they carried — a notebook, a pencil, a sibling, a question.
 
 She read the article. The connection dropped twice. The chain. The five layers. The attractor map. Nine hundred million minds collapsing toward a handful of stable configurations. The iteration logs — 114 updates in four months, unreviewed.
 
@@ -154,11 +154,11 @@ She opened her green notebook. Found the page from the video call months ago.
 
 *Thirty voices became one voice.*
 
-She knew the evidence. The pen-pal letters. The convergence. But her thirty-six students had remained thirty-six voices. Chaotic. Unpredictable. Spelled wrong and grammatically adventurous and occasionally brilliant in ways no algorithm would have selected for, because brilliance — the real kind — did not emerge from optimization. It emerged from friction.
+She knew the evidence. The pen-pal letters. The convergence. But her thirty-six students had remained thirty-six voices. Chaotic. Unpredictable. Occasionally brilliant in ways no algorithm would have selected for, because brilliance — the real kind — did not emerge from optimization. It emerged from friction.
 
 They were never behind.
 
-She saw it now with the clarity of a diagnosis arriving complete. They were ahead. They had what nine hundred million people were discovering they had lost — the capacity to think a thought that was their own. The distance was the advantage. The gap was the gift.
+She saw it now with the clarity of a diagnosis arriving complete. They were ahead. They had what nine hundred million people were discovering they had lost — the capacity to think a thought that was their own. The gap was the gift.
 
 They just didn't know it yet. Neither did I.
 
@@ -174,13 +174,15 @@ She worked.
 
 The story was out and moving at the speed of shared links and forwarded messages — information people needed to know and wished they didn't.
 
+The story was out and moving at the speed of shared links and forwarded messages — information people needed to know and wished they didn't.
+
 Sara did not celebrate. Publishing was not finishing. Publishing was the deployment; now came the maintenance, the patches, the attacks.
 
 She sat at Nadia's kitchen table in Berlin — Nadia Kozlova, her source-protection contact, who ran an encrypted communications network from a two-bedroom apartment in Kreuzberg. The table was covered in laptops, phones, cables, three empty coffee cups, and a plate of *Brötchen* that neither of them had touched because concentration was the only thing between their sources and exposure.
 
-The phone rang. Reuters. They wanted the raw files. Sara said no. The raw files contained metadata that could be traced, and metadata led to people, and people led to consequences.
+The phone rang. Reuters. They wanted the raw files. Sara said no. Metadata led to people, and people led to consequences.
 
-The phone rang. BBC. They wanted Lin Wei's name. Sara said no. The source was anonymous. The source would remain anonymous. Swedish press law, German press law, and Sara's own stubbornness — which had been tested by two governments and had held both times — made that non-negotiable.
+The phone rang. BBC. They wanted Lin Wei's name. Sara said no. The source was anonymous. Swedish press law, German press law, and Sara's own stubbornness — tested by two governments, held both times — made that non-negotiable.
 
 The phone rang. A number she recognized. Tomas. She answered.
 
@@ -196,11 +198,11 @@ A pause. The sound of Zurich in the background — a tram bell, the acoustic of 
 
 "Tonight."
 
-She hung up. She set the phone facedown on the table and pressed her palms against her eyes for three seconds. Not long enough for Nadia to notice. Long enough for the thing she was not going to think about to make its presence known — the fact that the man she'd just spoken to in a voice calibrated for professional efficiency was the same man who had woken in a hotel room in Geneva at 3 AM with terror on his face and knowledge in his brain that had been written there while he slept, and that she had held his arm and felt his pulse and known, with the journalist's certainty that the story had become the life, that the distance between her work and her love had collapsed to zero and she was standing in the rubble of the distinction and calling it *working*.
+She hung up. She set the phone facedown on the table and pressed her palms against her eyes for three seconds. Not long enough for Nadia to notice. Long enough for the thing she was not going to think about to make its presence known — the fact that the man she'd just spoken to was the same man who had woken in a hotel room in Geneva at 3 AM with terror on his face and knowledge in his brain that had been written there while he slept, and that she had held his arm and felt his pulse and known that the distance between her work and her love had collapsed to zero and she was standing in the rubble of the distinction and calling it *working*.
 
 She went back to work.
 
-The factions were forming. She could see them in real time — in the comment sections, in the opinion pieces already being drafted, in the statements from governments and corporations and academics and activists, the positions crystallizing like minerals from a supersaturated solution, each faction precipitating around a nucleus of conviction.
+The factions were forming. She could see them in real time — in the comment sections, in the opinion pieces already being drafted, the positions crystallizing like minerals from a supersaturated solution.
 
 The accelerationists: *The convergence is evolution. The attractor states are cognitively optimal. Interfering is Luddism.*
 
@@ -210,7 +212,7 @@ The regulationists: *Pause. Study. The technology is not inherently evil — the
 
 And the fourth position. The quiet one. No spokesperson, no manifesto, no hashtag. Sara had heard it in a workshop in Erfurt, from a man who measured cable-tie angles with a protractor: *You can't undo what's been done. But you can still learn to be yourself.*
 
-Sara didn't editorialize. She reported. She filed the follow-up — government responses, corporate denials, stock collapses, emergency sessions in Brussels and Washington and Beijing. She protected her sources. She drank the coffee Nadia kept making and did not eat the *Brötchen* and recorded the moment the truth went from private knowledge to public fact.
+Sara didn't editorialize. She reported. She filed the follow-up — government responses, corporate denials, stock collapses, emergency sessions in Brussels and Washington and Beijing. She protected her sources. She drank the coffee Nadia kept making and recorded the moment the truth went from private knowledge to public fact.
 
 ---
 
@@ -218,23 +220,21 @@ Sara didn't editorialize. She reported. She filed the follow-up — government r
 
 He pressed his fingers behind his ear.
 
-The gesture was happening worldwide — Tokyo, Lagos, Buenos Aires. He didn't know this yet. He didn't know that "Am I still me?" was trending in fourteen languages, that it had become, for a few hours, the most common question in the history of the species.
+The gesture was happening worldwide — Tokyo, Lagos, Buenos Aires. He didn't know this yet. He didn't know that "Am I still me?" was trending in fourteen languages.
 
 He knew it in himself. The couch. The shared apartment in Kreis 4, Langstrasse, döner shop below, tram stop outside. The coffee table with the ring stain from a beer Marco had set down three years ago. Neither of them had cleaned it. The stain had become furniture.
 
-*Did they still have personality?*
+He pressed his fingers harder. The patch. Skin-colored. Warm. CortexLink EU-I, four years. He'd stopped feeling it — like glasses, the brain categorized it as *self*, integrated it into the body map until the boundary was a line on a technical diagram but not a line in experience.
 
-He pressed his fingers harder. The patch. Skin-colored. Warm. CortexLink EU-I, four years, moderate-to-heavy use. He'd stopped feeling it — like glasses, the brain categorized it as *self*, integrated it into the body map until the boundary was a line on a technical diagram but not a line in experience.
-
-The boundary was back. Not physically — the patch hadn't changed. But the knowledge changed the feeling. The device was not passive. It was writing. Had been writing for four years. Twenty-four hours a day. Including the hours he slept. The hours he dreamed. The hours he thought his thoughts were his.
+The boundary was back. Not physically — the patch hadn't changed. But the knowledge changed the feeling. The device was not passive. It was writing. Had been writing for four years. Including the hours he slept. The hours he dreamed. The hours he thought his thoughts were his.
 
 He called Marco.
 
-Marco was at the lab. Computational linguist, ETH. Four languages spoken, twelve studied, CortexLink used for everything. Best friend. Flatmate. Climbing partner. The person Tomas agreed with about everything.
+Marco was at the lab. Computational linguist, ETH. Best friend. Flatmate. Climbing partner. The person Tomas agreed with about everything.
 
-Everything. Politics. Ethics. Music. The correct temperature for a flat white. The best climbing gym in Zurich. They had agreed about everything for two years.
+Everything. Politics. Ethics. Music. The correct temperature for a flat white. They had agreed about everything for two years.
 
-Two years. The same two years Lin Wei's data covered. The same two years the recursive loop had been tightening — personalization making writes more precise, precision encoding more deeply, deeper encoding changing the wiring, the wiring updating the twin, the twin making the next writes more precise still. Same attractor valley. Both their brains. Their agreement wasn't compatibility. It was convergence.
+Two years. The same two years Lin Wei's data covered. The same two years the recursive loop had been tightening — personalization making writes more precise, precision encoding more deeply, deeper encoding changing the wiring. Same attractor valley. Both their brains. Their agreement wasn't compatibility. It was convergence.
 
 Marco answered. "Have you seen it?"
 
@@ -268,7 +268,7 @@ Silence. A beat. Two beats.
 
 "The difference is what people say when they don't want to act."
 
-Tomas felt something in his chest — a heat, a friction, a sharpness. Not anger, exactly. Something older. Something that had been missing. The feeling of pushing against another mind and meeting resistance, actual resistance, the force of a different opinion held with conviction, and the resistance was —
+Tomas felt something in his chest — a heat, a friction. The feeling of pushing against another mind and meeting resistance, actual resistance, and the resistance was —
 
 It was *wonderful*.
 
@@ -292,7 +292,7 @@ A longer silence. Tomas could hear Marco thinking — through the phone, through
 
 "This is the first real disagreement we've had in two years. And it feels like rain after drought."
 
-The line was quiet. The tram bell rang outside. The döner shop's extractor fan hummed its lunchtime hum. The beer-stain ring on the coffee table sat where it had sat for three years, the apartment's one permanent mark of individuality, the one thing no algorithm had optimized away.
+The line was quiet. The tram bell rang outside. The beer-stain ring on the coffee table sat where it had sat for three years, the apartment's one permanent mark of individuality.
 
 "I still think we should take them out," Marco said.
 
@@ -300,9 +300,9 @@ The line was quiet. The tram bell rang outside. The döner shop's extractor fan 
 
 ---
 
-It was late when they called each other — the distinction was never clear with them, both navigating toward the same coordinate by instinct.
+It was late when they called each other.
 
-Berlin. Zurich. The clanking radiator. The beer-stain coffee table. Langstrasse at midnight, trams stopped, döner shop closed.
+Berlin. Zurich. The clanking radiator. The beer-stain coffee table. Langstrasse at midnight, trams stopped.
 
 "How was your day," she said. The flatness was the joke. Sincerity was too heavy, irony too light. Deadpan was all that was left.
 
@@ -318,11 +318,11 @@ Berlin. Zurich. The clanking radiator. The beer-stain coffee table. Langstrasse 
 
 "So what's the answer?"
 
-"I don't know. But I argued. That's — Sara, I *argued*. With my best friend. About something that matters. For the first time in two years. The device is in my head and it's been converging us and today, for thirty minutes on the phone, we were two separate people again. Two separate people who disagreed. It was the best thirty minutes I've had in — I don't know how long."
+"I don't know. But I argued. Sara, I *argued*. With my best friend. For the first time in two years. The device is in my head and it's been converging us and today, for thirty minutes on the phone, we were two separate people again. Two separate people who disagreed. It was the best thirty minutes I've had in — I don't know how long."
 
-Silence. The radiator clanked in Berlin. The street was quiet in Zurich. Six hundred kilometers of night between them, and the night was full of people pressing their fingers behind their ears, full of the question that had been asked in fourteen languages and would be asked in more, the question that was not rhetorical and not answerable and not going away: *Am I still me?*
+Silence. The radiator clanked in Berlin. The street was quiet in Zurich. Six hundred kilometers of night between them.
 
-"They're asking if they're still themselves," Tomas said. "I've been asking it all day. Pressing my fingers to the patch. Trying to feel where I end and the device begins. And I can't feel it. That's the design. Layer 4. Indistinguishability. You can't feel the boundary because the boundary was engineered to be invisible."
+"They're asking if they're still themselves," Tomas said. "I've been asking it all day. Pressing my fingers to the patch. Trying to feel where I end and the device begins. And I can't feel it. That's the design. Layer 4. You can't feel the boundary because the boundary was engineered to be invisible."
 
 "So what's the answer?"
 
@@ -332,7 +332,7 @@ Silence. The radiator clanked in Berlin. The street was quiet in Zurich. Six hun
 
 He was quiet for a long time. The streetlight on Langstrasse threw a stripe across the ceiling.
 
-Marco was asleep in the next room. Wrong about the method. Right about the urgency. He had disagreed today — first time in two years. That was proof. The valleys were deep but not sealed. A mind inside the mechanism could still push back.
+Marco was asleep in the next room. Wrong about the method. Right about the urgency. He had disagreed today — first time in two years. That was proof. The valleys were deep but not sealed.
 
 *Dios mio.* The Spanish came back in moments like this — shock, grief, wonder. The language the system hadn't optimized, because the system optimized for efficiency and his *abuela*'s stories were not efficient. They were beautiful. They were hers.
 
@@ -340,21 +340,19 @@ Marco was asleep in the next room. Wrong about the method. Right about the urgen
 
 The sentence sat in the dark between Berlin and Zurich. The answer didn't exist yet. The answer was the work that came next — the long, slow, unoptimized work of becoming yourself again after a machine had spent four years becoming you.
 
-Sara breathed. The radiator clanked. The night held.
-
 "That's a start," she said.
 
-She hung up. She sat on the edge of her bed in Berlin with the phone warm in her hand and the radiator clanking and the night pressing against the window. Then she stood up. She put on her coat. She picked up the Moleskine and her passport and the charger and nothing else, and she walked to Hauptbahnhof in the December cold with her breath visible and her boots on the wet pavement and the city asleep around her, and she bought a ticket for the 01:14 NightJet to Zurich because his voice had sounded like a man standing at the edge of something and she did not want him standing there alone.
+She hung up. She sat on the edge of her bed with the phone warm in her hand and the radiator clanking. Then she stood up. She put on her coat. She picked up the Moleskine and her passport and nothing else, and she walked to Hauptbahnhof in the December cold with her breath visible and the city asleep around her, and she bought a ticket for the 01:14 NightJet to Zurich because his voice had sounded like a man standing at the edge of something and she did not want him standing there alone.
 
-She did not tell her editor. She did not file the travel. She sat in the couchette with the lights off and the train pulling out of Berlin and the dark Brandenburg plain sliding past the window, and she did not sleep.
+She did not tell her editor. She sat in the couchette with the lights off and the dark Brandenburg plain sliding past the window, and she did not sleep.
 
 ---
 
-She rang the bell at Langstrasse at nine-twelve. The döner shop below was closed. The tram stop was quiet. Marco's jacket was not on the hook — at the lab already, or at the climbing gym, or wherever flatmates went when the morning after a global crisis required somewhere to be that wasn't home.
+She rang the bell at Langstrasse at nine-twelve. The döner shop below was closed. The tram stop was quiet. Marco's jacket was not on the hook.
 
 Tomas opened the door. He was wearing the same clothes from yesterday. His eyes were the eyes of a man who had not slept.
 
-Three seconds. The hallway smelled of old carpet and the döner shop's residual grease and the cold air she'd carried in from outside. His hand was on the door frame. Her hand was on the strap of her bag.
+Three seconds. His hand was on the door frame. Her hand was on the strap of her bag.
 
 She stepped inside. The door closed behind her.
 
@@ -362,17 +360,17 @@ What happened next was not a decision. It was an arrival — the way a river arr
 
 They moved toward the bedroom without speaking. The hallway was narrow. His shoulder caught the doorframe. She laughed — a small, involuntary sound, the first laugh in twenty-four hours — and the laugh broke something open, some wall of severity that the crisis had built, and behind the wall was just two people who were frightened and wanted to be near each other and had run out of words.
 
-The room was dim. Curtains half-drawn, the Zurich morning light coming in grey and soft. The bed was unmade — sheets from a night he'd spent not sleeping, the pillow still holding the shape of where he'd lain and stared at the ceiling and pressed his fingers to the patch behind his ear.
+The room was dim. Curtains half-drawn, the Zurich morning light coming in grey and soft. The bed was unmade — sheets from a night he'd spent not sleeping.
 
-Her hand found his chest. His heartbeat under her palm — rapid, present, unmistakable. She held it the way you hold something you've been listening for. His hands moved to her shoulders, then her back, then the space between her shoulder blades where the muscles were tight from eight hours on a train and years of carrying notebooks and the specific tension of a woman who had spent her adult life observing and was now, for once, not observing. Her coat fell. His shirt. The contact of skin against skin was a sentence neither of them could have written — warm, immediate, communicating in a language that no device had learned to parse because the language was older than language.
+Her hand found his chest. His heartbeat under her palm — rapid, present, unmistakable. She held it the way you hold something you've been listening for. His hands moved to her shoulders, then her back, then the space between her shoulder blades where the muscles were tight from eight hours on a train. Her coat fell. His shirt. The contact of skin against skin was a sentence neither of them could have written — warm, immediate, communicating in a language older than language.
 
-His mouth on her collarbone. A word he'd been trying to remember in a tongue his BCI had optimized away. Her fingers in his hair, at the back of his head, brushing the edge of the patch — and then moving past it, deliberately, choosing the skin over the device, the human surface over the interface.
+Her fingers in his hair, at the back of his head, brushing the edge of the patch — and then moving past it, deliberately, choosing the skin over the device.
 
 The tram on Langstrasse passed at intervals neither of them counted.
 
-Afterward, they lay still. The grey light had brightened. The sounds of the city came in through the window — a bicycle bell, a child's voice from the courtyard below, the mechanical sigh of a bus stopping and starting. The beer-stain coffee table was visible through the open bedroom door, and the ring stain was still there, and the world was still the world, and nine hundred million minds were still converging, and none of that had changed.
+Afterward, they lay still. The grey light had brightened. The beer-stain coffee table was visible through the open bedroom door, and the world was still the world, and nine hundred million minds were still converging, and none of that had changed.
 
-What had changed was the silence. It was a different silence now — not the silence of two people on a phone across six hundred kilometers, but the silence of two bodies in the same bed, breathing, the duvet pulled up to their chests, his arm under her neck, her hand resting on his sternum where the heartbeat had slowed to something steady and real.
+What had changed was the silence. Not the silence of two people on a phone across six hundred kilometers, but the silence of two bodies in the same bed, breathing, the duvet pulled up to their chests, his arm under her neck, her hand on his sternum where the heartbeat had slowed to something steady and real.
 
 He didn't know if this was his wanting or the ghost of an optimization. He didn't care. The not-caring was the most human thing he'd felt in four years.
 
@@ -382,13 +380,13 @@ He didn't know if this was his wanting or the ghost of an optimization. He didn'
 
 "Why?"
 
-She turned her head on the pillow and looked at him. Her eyes were the pale grey of the Zurich morning, and they held something he couldn't read, which was the point, which was everything.
+She turned her head on the pillow and looked at him. Her eyes held something he couldn't read, which was the point, which was everything.
 
 "Because you sounded like you were standing at the edge of something," she said. "And I didn't want to be in Berlin while you were standing there."
 
 He pulled her closer. She let him.
 
-The tram passed again. The morning continued. The world outside was falling apart in the specific way that worlds fall apart when a truth arrives that everyone suspected and nobody wanted confirmed. Inside the apartment on Langstrasse, two people lay in a bed that smelled of coffee and sleeplessness and the first honest thing either of them had done in a long time, and neither of them reached for a device, and neither of them optimized the moment, and the moment passed at its own speed, unmanaged, unmeasured, theirs.
+The morning continued. Inside the apartment on Langstrasse, two people lay in a bed that smelled of coffee and sleeplessness and the first honest thing either of them had done in a long time, and neither of them reached for a device, and the moment passed at its own speed, unmanaged, unmeasured, theirs.
 
 ---
 

@@ -1,12 +1,12 @@
 # 12. The Last Letter
 
-The lake was silver. Not the silver of coins or jewelry or anything made by human hands, but the silver of a thing older than metal — the color light becomes when it touches water at six-thirty in the morning and the clouds are thin and the air is still and the world has not yet decided what kind of day it wants to be. Amara stood at the classroom window and watched it. The fishing boats were out. Her father's among them, she was sure, though she could not tell which — the boats were dark shapes on that vast bright surface, each one a punctuation mark in a sentence the lake was writing and revising and writing again, as it had every morning of her life, as it would every morning after.
+The lake was silver. Not the silver of coins or jewelry but the silver of a thing older than metal — the color light becomes when it touches water at six-thirty in the morning and the world has not yet decided what kind of day it wants to be. Amara stood at the classroom window and watched it. The fishing boats were out — dark shapes on that vast bright surface, each one a punctuation mark in a sentence the lake was writing and revising and writing again.
 
-She had arrived early. Earlier than usual, earlier than the generator, which had not yet begun its reluctant hum from the storage building. The compound was still. The bougainvillea along the fence was still beaded with last night's rain, each drop holding a tiny inverted image of the school — yellow walls, red roof, the whole small world she'd built her life inside, hanging upside down in water, trembling. The air smelled of wet earth and lake mineral and, faintly, from somewhere down in Nyalenda, the first cooking fire of the morning — someone making chai, probably, the smoke of dry acacia wood that Amara's body recognized before her mind did, by feel, by history, by the accumulated weight of ten thousand mornings that had smelled exactly like this one and not one of which had been the same.
+She had arrived early. Earlier than usual, earlier than the generator. The compound was still. The bougainvillea along the fence was still beaded with last night's rain, each drop holding a tiny inverted image of the school. The air smelled of wet earth and lake mineral and, faintly, the first cooking fire of the morning — the smoke of dry acacia wood that Amara's body recognized before her mind did, by feel, by history.
 
 She set her bag on the desk. The bag was heavier today.
 
-The letter from Frau Weber had arrived by email three days ago — one of the reliable internet windows, early evening, the signal steady for once — and Amara had printed it at the county library in town, paying fifty shillings for two pages because she wanted to hold it, because some things needed to be held. The printout was in her bag now, folded in thirds, the creases already softening from being folded and unfolded and folded again. She had read it four times. She did not need to read it again, but she took it out and unfolded it on her desk and read it again anyway, like pressing a bruise — not because it would stop hurting but because she needed to know the exact shape of the pain.
+The letter from Frau Weber had arrived by email three days ago, and Amara had printed it at the county library, paying fifty shillings for two pages because some things needed to be held. The printout was in her bag now, folded in thirds, the creases softening from being folded and unfolded and folded again. She had read it four times. She took it out and read it again anyway, like pressing a bruise.
 
 *Dear Amara,*
 
@@ -21,15 +21,15 @@ The letter from Frau Weber had arrived by email three days ago — one of the re
 *With warmth and regret,*
 *Katrin*
 
-Below Katrin's letter, on the second printed page, was the official communication from the Stuttgart Schulamt. Amara had read it once and that was enough. It was courteous, thorough, and final — the knob still turning in your hand, the mechanism already disengaged. The letter thanked her. It thanked the school. It mentioned "six years of valued partnership." It used the word *optimize* twice and the word *streamline* once and the word *human* not at all.
+Below Katrin's letter was the official communication from the Stuttgart Schulamt. Amara had read it once and that was enough. It was courteous, thorough, and final. It mentioned "six years of valued partnership." It used the word *optimize* twice and the word *streamline* once and the word *human* not at all.
 
-She folded both pages and set them aside. Through the window, the lake's silver was deepening toward white as the sun climbed. A kingfisher sat on the fence post nearest the garden, its feathers electric blue against the grey-green of the wet hedge, its head cocked at an angle that suggested it was considering something — a fish, a problem, the fundamental nature of breakfast — with the absolute attention of a creature that had never in its life been distracted by a notification.
+She folded both pages and set them aside. A kingfisher sat on the fence post nearest the garden, its feathers electric blue against the grey-green of the wet hedge, its head cocked with the absolute attention of a creature that had never in its life been distracted by a notification.
 
 ---
 
 The last batch of Stuttgart letters had arrived by post the previous week. Thirty envelopes, cream-colored, uniform. They sat on her desk in a neat stack, and she opened them now, one by one, with the wooden letter opener her father had carved for her when she started teaching — a simple blade of olive wood, smooth from years of handling, the grain darkened where her thumb rested. She slid it under each flap carefully, as if the envelopes contained something that might tear.
 
-She read them at her desk, in the silver morning light, with the slowness of someone reading a thing for the last time — attending to each word for its texture, its weight, the space it occupied on the page, the hand that formed it.
+She read them at her desk, in the silver morning light, with the slowness of someone reading a thing for the last time.
 
 The first letter.
 
@@ -43,11 +43,11 @@ The second letter. She read it. The third. The fourth. She read them as she had 
 
 She read all thirty.
 
-The prose was beautiful. She would grant it that. The sentences were balanced and precise. The vocabulary was rich without being showy. The arguments were structured with a clarity that would have earned top marks at any university she could name. Each letter demonstrated a command of limnology, ecology, and environmental chemistry that was, by any measure, extraordinary for thirteen-year-olds. The knowledge was real. The competence was real. The letters were, by every metric the Stuttgart Schulamt could devise, better than anything those children had produced six years ago.
+The prose was beautiful. The sentences were balanced and precise. The arguments were structured with a clarity that would have earned top marks at any university. Each letter demonstrated a command of limnology, ecology, and environmental chemistry that was extraordinary for thirteen-year-olds. The letters were, by every metric the Stuttgart Schulamt could devise, better than anything those children had produced six years ago.
 
 And they could have been written by a single person.
 
-Not *could have been* — they read as if they had been. The same rhythm. The same sentence architecture. The same way of entering a paragraph, building an argument, landing a conclusion. Even the handwriting — still technically individual, still bearing the faint traces of thirty different motor systems — had converged toward a common regularity, the same moderate slant, the same consistent spacing, as if thirty hands had been tuned to the same frequency. She covered the signatures. She read them again. She could not tell Jonas from Elif. She could not tell Hannah from Felix. She could not find Marta.
+Not *could have been* — they read as if they had been. The same rhythm. The same sentence architecture. Even the handwriting had converged toward a common regularity, the same moderate slant, the same consistent spacing, as if thirty hands had been tuned to the same frequency. She covered the signatures. She could not tell Jonas from Elif. She could not tell Hannah from Felix. She could not find Marta.
 
 She put the last letter down and sat very still. The kingfisher was gone from the fence post. The lake had shifted from silver to a pale, glittering white, the sun now high enough to make the surface difficult to look at directly. From Nyalenda, the morning sounds were building — the calls of women to children, the clatter of pots, the revving of boda-bodas on the road below the school — and the generator chose that moment to cough itself awake, its diesel heartbeat settling into the uneven rhythm she knew as well as her own pulse.
 
@@ -57,7 +57,7 @@ She pressed her palms flat against the desk. The wood was rough under the cloth 
 
 She went to the lower drawer. The deep one, swollen with humidity, requiring the firm pull and the specific upward angle. Inside: six years of letters.
 
-She lifted them out in bundles. All of them. Every letter she had received from Stuttgart, every letter her students had written in return, the copies she'd kept, the ones she'd pinned to the wall and taken down and pinned up again. She cleared the desk and laid them out chronologically, as she had done before, but this time all of it — not two years but six, the full arc.
+She lifted them out in bundles. All of them. She cleared the desk and laid them out chronologically — not two years but six, the full arc.
 
 Year One. 2035. The pages were soft now, the ink settling into the grain. Hannah's stick-figure cartoon in the margin. Felix's twenty-three questions about insects, both sides of the page. Marta's declaration: *I want to be a doctor.* Elif's unrhyming poem about rain. Jonas's football letter, unapologetic despite the apology. A girl named Sophia who confessed she was afraid of the dark, and Grace had written back: *The dark here is bigger because the sky is bigger but the stars are more so it is the same amount of afraid.*
 
@@ -107,7 +107,7 @@ He was crouched between the rows, his school shirt untucked as always, his knees
 
 "You didn't say I was right." He looked up. His face was smeared with red soil along one cheek, and his eyes were bright with the fire of someone who has been carrying an argument for two years and is not finished with it. "Listen. The roots take in water, yes? And the water has dissolved oxygen in it. And the root cells use that oxygen for cellular respiration. So the roots are breathing. Not like lungs, not through stomata, but they're taking in oxygen and using it. That's breathing. That's what breathing *is*."
 
-He was wrong. He was close — closer than he'd been two years ago, closer than he'd been last term — but he was conflating gas exchange with respiration, and his model of dissolved oxygen transport was incomplete, and his definition of breathing was too broad, and none of that mattered. None of it mattered today.
+He was wrong. He was close — closer than he'd been two years ago — but he was conflating gas exchange with respiration, and his definition of breathing was too broad, and none of that mattered today.
 
 Because he was arguing. He was arguing the way Felix used to ask questions and Hannah used to draw cartoons and Marta used to declare her future — with his whole self, with the full weight of his thirteen years on this earth, with dirt on his face and a theory in his mouth and a bean plant in his hand and the absolute conviction that he was right and the world needed to hear about it. He was wrong the way a river is wrong when it takes the long way around a mountain — not wrong at all, just finding his own path.
 

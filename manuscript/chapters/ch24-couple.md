@@ -4,9 +4,9 @@ The room was aggressively ordinary.
 
 Tomas had expected — what? Not the gleaming theatre of a Hollywood neuroscience lab. He was a neuroscientist; he knew better. But something. A hum. An apparatus. The visual grammar of *something is about to happen to your brain*. Instead: a desk. A chair. A lamp. A monitor showing what looked like a children's puzzle — colored blocks, spatial rotation, the kind of thing that appeared on IQ tests designed for twelve-year-olds and grad school entrance exams designed for twenty-four-year-olds and, apparently, neuroplasticity recovery protocols designed for thirty-three-year-old postdocs who had volunteered to find out whether the mind inside the machine was still their own.
 
-The desk was IKEA. BEKANT, adjustable height, birch veneer. He'd had one in his office for three years. This one had a coffee ring and a pencil — an actual pencil, yellow, No. 2, HB graphite, the kind of pencil that existed in the world as a rebuke to progress.
+The desk was IKEA. BEKANT, birch veneer. This one had a coffee ring and a pencil — an actual pencil, yellow, No. 2, the kind of pencil that existed in the world as a rebuke to progress.
 
-Dr. Isabelle Fournier stood by the door, holding a tablet. Forty, French-Swiss, the physical economy of a woman who had spent two decades in academic medicine. Her lab coat was grey rather than white — the grey of a person who washed it with everything else and the colors had negotiated a truce. Behind her left ear, the CortexLink EU-I patch, same model as his. She was enhanced. She was running the recovery protocol. The irony was present. She'd chosen not to discuss it.
+Dr. Isabelle Fournier stood by the door, holding a tablet. Forty, French-Swiss. Her lab coat was grey rather than white — the grey of a person who washed it with everything else and the colors had negotiated a truce. Behind her left ear, the CortexLink EU-I patch, same model as his. She was enhanced. She was running the recovery protocol. The irony was present.
 
 "Ready?" she said.
 
@@ -34,7 +34,7 @@ The door closed. He was alone with the BEKANT desk and the spatial reasoning pro
 
 Sara watched from behind the glass.
 
-The observation room was narrow, separated from the testing room by one-way glass — she could see him; he couldn't see her. She'd seen enough one-way mirrors in her journalism career to know that the experience was not neutral. You were close enough to see the pores on their skin and far enough that you could not touch them, and the distance between those two facts was where something lived that she had no professional word for.
+The observation room was narrow, separated from the testing room by one-way glass — she could see him; he couldn't see her. She'd seen enough one-way mirrors to know that the experience was not neutral.
 
 She had her Moleskine. She was not writing in it.
 
@@ -42,7 +42,7 @@ This was unusual. Sara Lindqvist wrote in her Moleskine like other people breath
 
 She was here as a person watching someone she loved do something difficult.
 
-Through the glass: Tomas stared at the monitor. His right hand held the pencil — he'd picked it up without seeming to notice, the way he'd picked up the conference pen at the Palais des Nations a year ago, the hand reaching for an instrument the mind had forgotten it needed. His left hand gripped the edge of the desk. His jaw was set.
+Through the glass: Tomas stared at the monitor. His right hand held the pencil — he'd picked it up without seeming to notice, the way he'd picked up the conference pen at the Palais des Nations, the hand reaching for an instrument the mind had forgotten it needed. His left hand gripped the edge of the desk. His jaw was set.
 
 He was thinking.
 
@@ -50,13 +50,13 @@ Sara had watched Tomas think many times. The hummingbird attention, the spiralin
 
 This was different. This was Tomas thinking without the canal.
 
-His face contorted. Not pain — effort. A mind reaching for a cognitive pathway it hadn't used in four years and finding it overgrown. Not gone but difficult. A trail through a forest abandoned when the highway was built — still there, but the brush was thick and the muscles that used to walk it had been riding in cars.
+His face contorted. Not pain — effort. A mind reaching for a cognitive pathway it hadn't used in four years and finding it overgrown. Not gone but difficult. A trail through a forest abandoned when the highway was built — still there, but the brush was thick.
 
 Eleven minutes.
 
 He got it wrong.
 
-She watched him close his eyes at the red X on the screen. His hands tightened on the desk edge. The tendons in his forearms stood out. She thought: *this is what it looks like when someone lifts weight with muscles that haven't carried anything in years*. The shaking, uncertain, ugly effort of rehabilitation.
+She watched him close his eyes at the red X on the screen. His hands tightened on the desk edge. She thought: *this is what it looks like when someone lifts weight with muscles that haven't carried anything in years*. The shaking, uncertain, ugly effort of rehabilitation.
 
 He opened his eyes. Tried again. Got it wrong differently — a different answer, a different error, which meant something was happening in the dark corridors of his unassisted cognition. The errors were not repeating. They were exploring.
 
@@ -68,25 +68,23 @@ She closed the notebook. Sat with it on her lap. Through the glass, Tomas presse
 
 She was not publishing this.
 
-The thought sat in her chest like a stone. Three years of work. Two hundred interviews, twelve countries, fourteen notebooks full of the most detailed longitudinal record of cognitive convergence that any journalist had assembled. She could have written the definitive piece. She was writing nothing. She was sitting behind one-way glass watching her boyfriend fail a children's puzzle, and the reason she was not writing was the reason she could not stop watching: she was inside the story now, had been inside it since Geneva, since the hotel room at 3 AM when Tomas woke with terror in his voice and knowledge in his brain that had been written while he slept, and she had held his arm and understood that the arm she was holding belonged to her source and the man she loved and that these two facts would eventually destroy one of two things — the story or the relationship — and she had chosen.
+The thought sat in her chest like a stone. Three years of work. Two hundred interviews, twelve countries, fourteen notebooks. She could have written the definitive piece. She was writing nothing. She was sitting behind one-way glass watching her boyfriend fail a children's puzzle, and the reason she was not writing was the reason she could not stop watching: she was inside the story now, had been inside it since Geneva, since the hotel room at 3 AM when Tomas woke with terror in his voice, and she had understood that the arm she was holding belonged to her source and the man she loved and that these two facts would eventually destroy one of two things — the story or the relationship — and she had chosen.
 
 She had chosen him. Not the story.
 
-Sara Lindqvist had never not chosen the story. That was who she was. The woman who slept on a colleague's sofa in Istanbul for eleven days to protect a source. Who once told a Swedish intelligence officer that she would go to prison before revealing a name, and meant it, and the officer had known she meant it, and had backed down. The woman whose entire professional identity was built on the principle that the story came first, always, because the story was the only thing that couldn't be negotiated or compromised or bent by the gravity of personal attachment.
+Sara Lindqvist had never not chosen the story. That was who she was. The woman who once told a Swedish intelligence officer that she would go to prison before revealing a name, and meant it, and the officer had known she meant it, and had backed down. The woman whose entire professional identity was built on the principle that the story came first, always.
 
 And she'd chosen him.
 
-Her editor didn't know about Tomas. Nobody at *Klartext* knew. They believed she was on leave — research sabbatical, the kind of extended deep-dive they'd funded twice before. They did not know she was in Zurich. They did not know she was watching the protocol from the other side of the glass. They did not know that the journalist who had coordinated a fourteen-outlet simultaneous publication of the most consequential neurotechnology story since Snowden was now sitting in a university observation room with a closed notebook and an open conflict of interest that would end her career if anyone named it.
+Her editor didn't know about Tomas. Nobody at *Klartext* knew. They believed she was on leave — research sabbatical, the kind of extended deep-dive they'd funded twice before. They did not know she was in Zurich. They did not know that the journalist who had coordinated a fourteen-outlet simultaneous publication of the most consequential neurotechnology story since Snowden was now sitting in a university observation room with a closed notebook and an open conflict of interest that would end her career if anyone named it.
 
-She was not enhanced. She had never been enhanced. People assumed this was ideological — the journalist who refused the device on principle, the way some war correspondents refused to carry weapons. It was simpler than that and less noble. She'd spent a year, early in the research, interviewing BCI users about their experience of their own cognition, and she had noticed something that she could not prove and could not forget: the enhanced interviewees were more articulate, more consistent, more fluent — and less surprising. Their answers arrived pre-formed. Their metaphors converged. Their hesitations disappeared, and with the hesitations went the moments where a person said something they hadn't planned to say, the unguarded phrase that was the only thing worth quoting.
+She was not enhanced. She had never been enhanced. People assumed this was ideological. It was simpler than that. She'd noticed that the enhanced interviewees were more articulate, more consistent, more fluent — and less surprising. Their answers arrived pre-formed. Their hesitations disappeared, and with the hesitations went the moments where a person said something they hadn't planned to say, the unguarded phrase that was the only thing worth quoting.
 
-She needed her hesitations. She needed the gap between the question and the answer, the gap where the real thing lived — not the optimized response but the messy, uncertain, first-draft thought that arrived before the editing. Her unenhanced mind was not a political statement. It was a professional tool. The clumsiest, slowest, most unreliable tool she owned, and the only one that could recognize a surprise when it saw one, because it was still capable of being surprised.
+She needed her hesitations. She needed the gap between the question and the answer, the gap where the real thing lived. Her unenhanced mind was not a political statement. It was a professional tool. The clumsiest, slowest, most unreliable tool she owned, and the only one that could recognize a surprise when it saw one, because it was still capable of being surprised.
 
-Through the glass, Tomas was trying the problem again. His third attempt. She could see the effort in his shoulders — the physical manifestation of cognitive strain, the body bearing witness to what the mind was doing. She wanted to go in there. She wanted to sit next to him and say nothing, like the break room, shoulder to shoulder, the proximity that was not journalism and not therapy and not anything she had a word for.
+Through the glass, Tomas was trying the problem again. His third attempt. She could see the effort in his shoulders. She wanted to go in there. She wanted to sit next to him and say nothing.
 
 She stayed behind the glass. The protocol required it. Isabelle had been clear: no external input during testing sessions. The mind had to find its own way, unassisted by devices or by the people who loved the person inside the device.
-
-Sara understood this professionally. She understood it personally. She understood that watching someone you love struggle, without intervening, without offering the thing you know — that this was its own form of discipline, and that she had been training for it her entire career without knowing what she was training for.
 
 ---
 
@@ -94,19 +92,19 @@ Day two was worse.
 
 Isabelle had warned them. "Day one has adrenaline. Novelty. Day two, the novelty is gone. Day two is the real baseline."
 
-The real baseline: Tomas sat at the BEKANT desk and could not rotate a three-dimensional shape in his mind. He could hold it for approximately two seconds before it collapsed — the faces of the cube losing their relationship to each other, the whole structure dissolving into parts he could see individually but could not reassemble.
+The real baseline: Tomas sat at the BEKANT desk and could not rotate a three-dimensional shape in his mind. He could hold it for approximately two seconds before it collapsed — the faces of the cube losing their relationship to each other.
 
 Twenty-three minutes on the first problem. Wrong. Nineteen on the second. Wrong.
 
-Sara watched from behind the glass and did not write and did not look away. She wanted him to get it right. She examined the wanting and could not determine its source — whether it came from love, or from the need to believe that her choice to pick him over the story had been worth the cost. Both motives pointed at the same green checkmark. She could not separate them. She was not sure she wanted to.
+Sara watched from behind the glass and did not write and did not look away.
 
-Day three: marginally better. He solved one problem. One. Fourteen minutes, tentative — she could see it in how he entered the answer, finger hovering. But the guess was right. One right answer in ninety minutes, and when the green checkmark appeared, Tomas put his head down on the BEKANT desk and stayed there for eleven seconds. Sara counted. Eleven seconds of a man resting his forehead on birch veneer because his own brain had, for the first time in four years, solved a simple spatial reasoning problem without help.
+Day three: he solved one problem. Fourteen minutes, tentative. But the guess was right. One right answer in ninety minutes, and when the green checkmark appeared, Tomas put his head down on the BEKANT desk and stayed there for eleven seconds. Sara counted. Eleven seconds of a man resting his forehead on birch veneer because his own brain had, for the first time in four years, solved a simple spatial reasoning problem without help.
 
 By the end of week one he could solve in minutes what had taken seconds. Three out of five correct. Five out of eight on a good run. The improvement was real and modest and purchased at the price of an exhaustion so complete that he fell asleep on the tram home twice, once riding all the way to the terminus at Flughafen, where he sat in the empty car and called Sara and said, "I'm at the airport. I didn't mean to come to the airport. I think I'm getting better."
 
 ---
 
-The break room had a table, four chairs, a microwave with a stained turntable, and a poster about hand-washing that featured a cartoon bacterium with googly eyes. The fluorescent light buzzed at a frequency no algorithm had optimized. The vending machine sold chocolate bars and a brand of sparkling water Tomas had never heard of and suspected had been discontinued in the previous decade.
+The break room had a table, four chairs, a microwave with a stained turntable, and a poster about hand-washing that featured a cartoon bacterium with googly eyes. The fluorescent light buzzed at a frequency no algorithm had optimized.
 
 He sat with his head in his hands and a half-eaten sandwich on the table. Emmentaler on *Ruchbrot*. He had chosen it himself. This was worth noting. He'd stood in the cafeteria line and the choosing had taken four minutes because the choosing was his own — no pre-loading of preference, no anticipatory narrowing of options, no gentle nudge toward the optimal caloric profile for his current metabolic state. Just a man looking at sandwiches and not knowing which one he wanted.
 
@@ -134,7 +132,7 @@ His hands were shaking. Not weakness — the residual vibration of effort, like 
 
 The fluorescent light buzzed. The cartoon bacterium stared at them with its googly eyes.
 
-"It felt like being alive," Tomas said. "The alive where you don't know the answer. The alive where the next thought hasn't been prepared for you. Where your brain is *struggling*. The way a muscle struggles. And the struggle hurts and the struggle is slow and the struggle is inefficient and the struggle is *you*. *Eres tu.* It's you in there. Not the system wearing your face. You."
+"It felt like being alive," Tomas said. "The alive where you don't know the answer. Where your brain is *struggling*. The way a muscle struggles. And the struggle is slow and the struggle is inefficient and the struggle is *you*. *Eres tu.* It's you in there. Not the system wearing your face. You."
 
 Sara sat next to him. Their shoulders touched. She held the pressure.
 
@@ -148,19 +146,19 @@ Isabelle's protocol measured cognitive performance — speed, accuracy, the quan
 
 The thing was this: he wanted something.
 
-Not the way he'd wanted things for four years. For four years, his wanting had been *smooth*. He'd always known what he wanted next. Coffee at 7:15. The paper at 7:30. Tram 6. Lunch at 12:10. He'd attributed this to personality. To being organized. It had never occurred to him that his patterns had been curated.
+Not the way he'd wanted things for four years. For four years, his wanting had been *smooth*. He'd always known what he wanted next. Coffee at 7:15. Tram 6. Lunch at 12:10. He'd attributed this to personality. It had never occurred to him that his patterns had been curated.
 
-Pre-loading. The CortexLink's quietest function, the one Isabelle's research had identified as the most neurologically consequential. It operated below awareness, in the cognitive basement, adjusting the priority queue of desires and intentions before they reached consciousness. Want coffee? The system had already modeled the optimal time based on his cortisol cycle, his sleep data, his metabolic profile. Want lunch? Options narrowed to those aligned with his nutritional targets, his taste profile, his schedule. The wanting felt like his wanting. It wore his face. It spoke in his voice. But the scheduler that decided *what* to want and *when* to want it — a background process, running silently, like a program he'd never installed — ran on the system's clock, not his own.
+Pre-loading. The CortexLink's quietest function, the one Isabelle's research had identified as the most neurologically consequential. It operated below awareness, in the cognitive basement, adjusting the priority queue of desires and intentions before they reached consciousness. Want coffee? The system had already modeled the optimal time based on his cortisol cycle. Want lunch? Options narrowed to those aligned with his taste profile, his schedule. The wanting felt like his wanting. It wore his face. It spoke in his voice. But the scheduler that decided *what* to want and *when* to want it ran on the system's clock, not his own.
 
-He hadn't known. That was the essential thing and the terrible thing. The wanting had felt *native*. Four years of being gently, invisibly managed, and the management had been so seamless that the managed and the manager had become indistinguishable, like a river that has been flowing through an engineered channel so long it has forgotten there was ever a landscape it chose for itself.
+He hadn't known. That was the essential thing and the terrible thing. The wanting had felt *native*. Four years of being gently, invisibly managed, and the management had been so seamless that the managed and the manager had become indistinguishable, like a river flowing through an engineered channel so long it has forgotten there was ever a landscape it chose for itself.
 
 Now, with the BCI passive, the engineered channel was dry.
 
 And the water didn't know where to go.
 
-Week three, Tuesday. Tomas stood in the university cafeteria and could not decide what to eat. Not the four-minute deliberation of week one, which had been almost fun. This was different. A man standing in front of options with no internal signal telling him what he wanted. He stood there for nine minutes. He chose the soup. He did not know why he chose the soup. The not-knowing was a gift.
+Week three, Tuesday. Tomas stood in the university cafeteria and could not decide what to eat. Not the four-minute deliberation of week one. A man standing in front of options with no internal signal telling him what he wanted. He stood there for nine minutes. He chose the soup. He did not know why. The not-knowing was a gift.
 
-Week three, Thursday. He sat in his office trying to plan his research agenda. For four years, priorities had emerged in clean sequence. Now they milled around in his head like guests at a party where nobody knew each other. They would not organize themselves. They would not line up. They waited for *him* to sort them, and he could not, and the inability produced a feeling he had not experienced in four years.
+Week three, Thursday. He sat in his office trying to plan his research agenda. For four years, priorities had emerged in clean sequence. Now they milled around in his head like guests at a party where nobody knew each other. They waited for *him* to sort them, and he could not.
 
 Restlessness. Not the productive kind. The purposeless kind. The kind that drives you to stand up and walk to the window and stare at the Zurich skyline without knowing what you're looking for, and stand there for five minutes, and return to your desk with nothing. Just five minutes of a mind *between things* without anything rushing to fill the gap.
 
@@ -176,9 +174,9 @@ He stood in the bathroom with toothpaste foam on his lips and felt it: a mind su
 
 ---
 
-Evening. The apartment in Kreis 4, Brauerstrasse, third floor. Two rooms and a kitchen and a balcony that faced the courtyard, where the neighbors grew tomatoes in summer and the cat from the second floor sat on the railing and watched the pigeons with an expression of theoretical violence.
+Evening. The apartment on Brauerstrasse, Kreis 4, third floor. Two rooms and a kitchen and a balcony that faced the courtyard.
 
-Sara stood at the kitchen counter making Earl Grey. The kettle was electric — a concession to modernity she'd negotiated with herself and lost — but the teapot was ceramic, brown, chipped on the spout, bought at a flea market in Bern. The tea was loose-leaf, measured by eye.
+Sara stood at the kitchen counter making Earl Grey. The teapot was ceramic, brown, chipped on the spout, bought at a flea market in Bern. The tea was loose-leaf, measured by eye.
 
 Tomas sat at the kitchen table watching her.
 
@@ -190,9 +188,9 @@ She turned. Kettle in hand. Steam between them.
 
 He looked at the table. The clementines sat in their bowl with the dumb patience of fruit.
 
-"Before passive mode, I would have wanted the tea at the same time as you because the system modeled our shared patterns and pre-loaded the desire at the optimal moment. The wanting would have felt synchronous. Like being in tune. But it wasn't knowing. It was scheduling. Our schedules were synced. Not by choice — by code."
+"Before passive mode, I would have wanted the tea at the same time as you because the system modeled our shared patterns and pre-loaded the desire. The wanting would have felt synchronous. But it wasn't knowing. It was scheduling. Our schedules were synced. Not by choice — by code."
 
-Sara poured. The bergamot intensified — sharp, old-fashioned, impossible to optimize because bergamot was a living thing that varied with the season and the soil, and no two cups of Earl Grey made from loose-leaf measured by eye from a chipped teapot were the same.
+Sara poured. The bergamot intensified — sharp, old-fashioned, impossible to optimize because bergamot was a living thing that varied with the season, and no two cups of Earl Grey made from loose-leaf measured by eye were the same.
 
 "I could tell," she said.
 
@@ -202,7 +200,7 @@ Sara poured. The bergamot intensified — sharp, old-fashioned, impossible to op
 
 "How?"
 
-She considered this. Slowly, with the patience of a person who had learned that the first answer was rarely the right answer.
+She considered this.
 
 "You shifted in your chair. Your weight moved. Your eyes went to the kettle before you knew they'd gone to the kettle. I saw the wanting before you named it."
 
@@ -212,9 +210,9 @@ She considered this. Slowly, with the patience of a person who had learned that 
 
 She brought two cups to the table. Their fingers touched on the handoff — his reaching, hers releasing, the ceramic warm between them, the contact lasting a half-second longer than mechanics required.
 
-They drank. And the silence between them was good, but different from the silences they used to share. The old silences had been seamless — two minds in the same groove, comfortable, frictionless. This silence had texture. An edge. He noticed her Moleskine on the counter, and the one on the nightstand, and the one in her coat pocket, and for the first time in a year the notebooks irritated him. Not their presence — their quantity. Their ubiquity. The way she documented everything, catalogued everything, processed the world through ink before she let it settle.
+They drank. And the silence between them was good, but different from the silences they used to share. The old silences had been seamless — two minds in the same groove, frictionless. This silence had texture. An edge. He noticed her Moleskine on the counter, and the one on the nightstand, and for the first time in a year the notebooks irritated him. Not their presence — their quantity.
 
-He said nothing. But she saw his eyes move to the notebook on the counter and then away, and something in her chest tightened — not hurt, not quite, but the awareness that his irritation was new, and the newness meant something. He never would have been irritated before. The CortexLink had smoothed that. Filed the sharp edges off his reactions before they reached consciousness. Every disagreement pruned. Every friction preemptively resolved.
+He said nothing. But she saw his eyes move to the notebook on the counter and then away, and something in her chest tightened — not hurt, not quite, but the awareness that his irritation was new, and the newness meant something. He never would have been irritated before. The CortexLink had smoothed that. Filed the sharp edges off his reactions before they reached consciousness. Every friction preemptively resolved.
 
 *He never disagreed before,* she thought. *Was that love? Or was that convergence?*
 
@@ -224,15 +222,15 @@ She didn't ask. He didn't say. They drank their tea, and the question hung betwe
 
 In bed.
 
-The bedroom was small and the bed was large and these two facts competed for dominance in a way the floorplan had not resolved. Sara was reading — a paperback, cover bent backward in the barbaric way she defended by saying a book that couldn't survive being read wasn't worth reading. The lamp cast a yellow cone on her side. His side was dark.
+The bedroom was small and the bed was large. Sara was reading — a paperback, cover bent backward in the barbaric way she defended by saying a book that couldn't survive being read wasn't worth reading. The lamp cast a yellow cone on her side. His side was dark.
 
-He lay on his back and stared at the ceiling. White, cracked in one corner where the building had settled. For four years, lying in the dark and staring at nothing had been something his CortexLink gently redirected — not forcefully, but the way a stream is redirected by a subtle grade. Staring at nothing was unproductive. The device would offer sleep optimization, or replay consolidated learning, or run low-level maintenance routines that felt like dreamy productivity, rest being *used*.
+He lay on his back and stared at the ceiling. White, cracked in one corner where the building had settled. For four years, staring at nothing had been something his CortexLink gently redirected. The device would offer sleep optimization, or replay consolidated learning, rest being *used*.
 
-Now the ceiling was a ceiling. The dark was dark. His mind was idle. Actually idle. No processes running, no background optimization, no quiet hum of a system using his downtime to improve his uptime. Just the sound of Sara turning a page. Just the warmth of the duvet and the slow rhythm of his breathing, which no algorithm was adjusting, which arrived at whatever rhythm it arrived at — inefficient, unoptimized, his.
+Now the ceiling was a ceiling. The dark was dark. His mind was idle. Actually idle. No processes running, no background optimization. Just the sound of Sara turning a page. Just the warmth of the duvet and the slow rhythm of his breathing, which no algorithm was adjusting — inefficient, unoptimized, his.
 
 "I had a thought today," he said. "A thought I didn't expect."
 
-Sara finished her sentence, put her finger on the page, and looked at him. The two-second delay of a person completing one thing before beginning another — genuine, human, a delay that optimized response protocols would have eliminated.
+Sara finished her sentence, put her finger on the page, and looked at him.
 
 "What was it?"
 
@@ -242,25 +240,21 @@ She waited. With the full engagement of a person who understood that silence bet
 
 "That's the point," he said. "It came this morning. While I was brushing my teeth. A research idea, maybe, or the beginning of one. It arrived from *nowhere*. From a direction I didn't know I was facing. And it was *strange*. Strange to have a thought I didn't expect. Like opening a door in your own house and finding a room you've never seen. Except the room was always there. The CortexLink was just routing me past it."
 
-He was quiet for a moment. The crack in the ceiling ran from the corner like a river on a map, a line drawn by a building settling for eighty years at its own pace, finding its own equilibrium without anyone's help.
+"I can't remember what it was. It came and went and I didn't capture it. The CortexLink would have captured it. Filed it. Tagged it. Cross-referenced it with every paper I've read. Nothing was lost. Nothing was wasted. Every thought was *processed*."
 
-"I can't remember what it was. It came and went and I didn't capture it. The CortexLink would have captured it. Filed it. Tagged it. Cross-referenced it with every paper I've read. Evaluated it — probability of utility, novelty score, relevance index — and either promoted it to conscious attention or archived it. Nothing was lost. Nothing was wasted. Every thought was *processed*."
-
-He turned his head on the pillow and looked at the ceiling as if it owed him something.
-
-"This one just passed through. Like a bird outside a window. You see it — shape, color, the quick beat of the wings. And then it's gone. Not captured. Not filed. Just gone. A thing that existed in my mind for three seconds and then left, and the leaving is part of what made it real. The leaving is what thoughts *do* when they're not being managed. They come. They go. Some you keep. Most you lose. And the losing is not a failure of the system. The losing *is* the system. The losing is how a mind stays *open*. Open to the next bird. The next unexpected shape at the window."
+"This one just passed through. Like a bird outside a window. You see it — shape, color, the quick beat of the wings. And then it's gone. Not captured. Not filed. Just gone. And the leaving is part of what made it real. The leaving is what thoughts *do* when they're not being managed. They come. They go. Some you keep. Most you lose. And the losing is not a failure of the system. The losing *is* the system. The losing is how a mind stays *open*."
 
 Sara put down her book. Not on the nightstand — on her chest, facedown, her signal for *I'll come back to this but not yet*.
 
 "That sounds like thinking," she said.
 
-He turned his head and looked at her. The lamp lit her face from one side — one eye in light, one in shadow, the geometry of a person half-visible and half-hidden who did not experience this as a contradiction.
+He turned his head and looked at her.
 
 "That sounds like *my* thinking," he said.
 
-She reached over and turned off the lamp. The room went dark. The ceiling disappeared. Everything absorbed into a darkness that was complete and unmonitored and that contained nothing except two people breathing in a room in Kreis 4 in winter, the sound of the tram on Brauerstrasse, the distant clock of the Fraumunster striking something — eleven, probably, though he hadn't counted, because counting was a thing that could be left undone, a small act of trust in the passage of unmarked time.
+She reached over and turned off the lamp. The room went dark. The ceiling disappeared. Everything absorbed into a darkness that was complete and unmonitored and that contained nothing except two people breathing, the sound of the tram on Brauerstrasse, the distant clock of the Fraumunster striking something — eleven, probably, though he hadn't counted, because counting was a thing that could be left undone, a small act of trust in the passage of unmarked time.
 
-He closed his eyes. BCI in passive mode. The device still there, still implanted, a dormant architecture behind his ear, holding its knowledge, holding its models, holding four years of optimized cognition — all of it available if he chose to reactivate, all of it waiting. But not writing. Not tonight.
+He closed his eyes. BCI in passive mode. The device still there, still implanted, a dormant architecture behind his ear — all of it available if he chose to reactivate, all of it waiting. But not writing. Not tonight.
 
 For the first time in four years, nothing wrote to his brain while he dreamed.
 

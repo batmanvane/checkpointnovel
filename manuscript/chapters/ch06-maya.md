@@ -4,25 +4,25 @@ The protocol took Maya three days to design and two pots of coffee to believe in
 
 She built it at the kitchen table, after Lily was asleep, with her spiral-bound notebook open to a blank page and a pen that was running low on ink. The pen mattered. Not because of some romantic attachment to analog tools — though she had one, and she was self-aware enough to admit it — but because you couldn't copy-paste a bad assumption in a notebook. You had to write it out, letter by letter, and somewhere around the third sentence your hand would slow down and your brain would say, *Wait. That's not right.*
 
-The study needed three tasks. She'd known that since the cluster — five BCI users producing identical solution paths on her Divergent Solutions Task — but a single task was a single data point, and a single data point was an anecdote in a lab coat. She needed convergence across modalities: verbal, spatial, narrative. Three tasks, three cognitive domains, same prediction. If BCI users converged on identical outputs across all three, the pattern was not an artifact of the task. It was an artifact of the mind.
+The study needed three tasks. She'd known that since the cluster, but a single task was a single data point, and a single data point was an anecdote in a lab coat. She needed convergence across modalities: verbal, spatial, narrative. Three tasks, three cognitive domains, same prediction. If BCI users converged on identical outputs across all three, the pattern was not an artifact of the task. It was an artifact of the mind.
 
-Task One: the Alternative Uses Test. Classic divergent thinking measure, Guilford, 1967. Give a subject a common object — a brick — and ask them to generate as many novel uses as possible in three minutes. Doorstop, paperweight, weapon — those were the obvious ones, the ones everybody generated. The interesting answers were the strange ones. The ones that came from a specific life, a specific set of associations, a specific kind of wrong that was actually creative. One of her control subjects in the pilot study had written *emergency xylophone (line up six and use a wrench)*. That was the kind of answer you couldn't optimize.
+Task One: the Alternative Uses Test. Classic divergent thinking measure, Guilford, 1967. Give a subject a common object — a brick — and ask them to generate as many novel uses as possible in three minutes. Doorstop, paperweight, weapon — those were the obvious ones. The interesting answers were the strange ones, the ones that came from a specific life, a specific kind of wrong that was actually creative. One control subject in the pilot had written *emergency xylophone (line up six and use a wrench)*. That was the kind of answer you couldn't optimize.
 
 Task Two: open-ended engineering. Design a rainwater collection system for a school building using only materials available at a hardware store. Budget: two hundred dollars. No single correct answer. Multiple valid approaches — gutters, barrels, filtration, first-flush diverters — and the solution path mattered as much as the solution. Which constraint did you address first? Where did you get stuck? What did you try that didn't work?
 
 Task Three: short fiction. Write a story of 300 to 500 words in response to the prompt: *A woman finds a door in her house that wasn't there yesterday.* No right answer. No optimal structure. Just a mind encountering an impossible situation and building a narrative to contain it.
 
-She recruited forty-eight subjects. Twenty-four BCI users — CortexLink US-I, the dominant platform in the Midwest — matched with twenty-four unaugmented controls on age, education level, and baseline cognitive scores from their intake assessments. She randomized assignment to testing sessions, blinded the research assistants who administered the tasks, and blinded herself to subject identity during scoring. Double-blind. Clean. The kind of protocol that would survive peer review if the reviewers were paying attention.
+She recruited forty-eight subjects. Twenty-four BCI users — CortexLink US-I, the dominant platform in the Midwest — matched with twenty-four unaugmented controls on age, education level, and baseline cognitive scores. She randomized assignment to testing sessions, blinded the research assistants, and blinded herself to subject identity during scoring. Double-blind. Clean.
 
-Grace helped with recruitment and scheduling. She was efficient in the way that BCI users were efficient — tasks completed before Maya finished describing them, emails sent in the time it took to blink — but she was also careful, which was rarer and more valuable. She flagged two potential subjects whose intake scores showed ceiling effects on the baseline measures. She caught a scheduling conflict that would have placed two subjects from the same workplace in the same testing session. She was, Maya thought, the best graduate student she'd ever had, and the fact that Grace's BCI might be part of the reason was a thought Maya held at arm's length, like a specimen she wasn't ready to examine.
+Grace helped with recruitment and scheduling. She was efficient in the way that BCI users were efficient — tasks completed before Maya finished describing them — but she was also careful, which was rarer and more valuable. She flagged two potential subjects whose intake scores showed ceiling effects. She caught a scheduling conflict that would have placed two subjects from the same workplace in the same session. She was, Maya thought, the best graduate student she'd ever had, and the fact that Grace's BCI might be part of the reason was a thought Maya held at arm's length.
 
-They ran the study over three weeks in late April and early May. Room 314, fluorescent lights buzzing at the frequency Maya had learned to stop hearing years ago, the broken fMRI machine standing in the corner like a monument to deferred maintenance. Each subject came in alone, sat at a clean desk, received printed instructions — paper, not screen, to eliminate any possibility of BCI-mediated access to external databases — and worked in silence.
+They ran the study over three weeks in late April and early May. Room 314, the broken fMRI machine standing in the corner like a monument to deferred maintenance. Each subject came in alone, sat at a clean desk, received printed instructions — paper, not screen, to eliminate any possibility of BCI-mediated access to external databases — and worked in silence.
 
 Maya observed through the one-way mirror from the adjacent room, taking notes in her notebook. The controls were a pleasure to watch. They fidgeted. They crossed things out. They stared at the ceiling, tapped their pens, wrote in bursts and pauses that reflected the uneven, lurching rhythm of a mind working without assistance. One woman laughed out loud at her own answer on the brick task — she'd written *tiny coffin for a hamster* and apparently surprised herself.
 
-The BCI users were different. Not in any way that would show up on video review as abnormal — they sat, they wrote, they paused. But the pauses were uniform. The writing was steady. There was no visible struggle, no crossed-out false starts, no moments of surprise. They worked like well-maintained machines: smoothly, reliably, without waste.
+The BCI users were different. They sat, they wrote, they paused. But the pauses were uniform. The writing was steady. There was no visible struggle, no crossed-out false starts, no moments of surprise.
 
-Maya scored the responses on a Saturday, alone in Room 314, with a cup of coffee that went cold and stayed cold for three hours. She'd blinded herself to group membership, so she was reading sixty-odd brick lists and engineering schematics and short stories without knowing who was augmented and who wasn't. She didn't need to know. By the fourteenth response, she could sort them by feel.
+Maya scored the responses on a Saturday, alone in Room 314, with a cup of coffee that went cold and stayed cold for three hours. She'd blinded herself to group membership. She didn't need to know. By the fourteenth response, she could sort them by feel.
 
 The controls were messy. Idiosyncratic. One man's brick list included *boat anchor for a very small boat* and *thing to throw at the moon*. His engineering schematic was overambitious, underfunded, and included a hand-drawn diagram of a "rain funnel" that probably wouldn't work but showed genuine spatial reasoning. His short story was about a woman who opened the mysterious door and found her childhood kitchen, complete with a burnt pot of rice her mother had left on the stove in 1987. It wasn't polished. It was his.
 
@@ -44,17 +44,17 @@ Four BCI users wrote this story. Four. The words were different — one set it i
 
 Maya unblinded the data and laid all twenty-four BCI stories on the desk in Room 314, side by side, like a forensic display. She counted. Of the twenty-four, seventeen followed the same five-beat structure. Eleven used the door as a metaphor for a road not taken. Four produced narratives so structurally identical that you could overlay them like transparencies and the plot points would align.
 
-The controls wrote twenty-four different stories. A woman who bricked up the door and never mentioned it again. A woman who found an ocean behind it and drowned. A woman who discovered the door led to a room full of other doors, each one opening onto a different woman finding a door. A story told from the door's perspective. A story in which the door was a hallucination caused by carbon monoxide. Twenty-four minds, twenty-four architectures.
+The controls wrote twenty-four different stories. A woman who bricked up the door and never mentioned it again. A woman who found an ocean behind it and drowned. A story told from the door's perspective. A story in which the door was a hallucination caused by carbon monoxide. Twenty-four minds, twenty-four architectures.
 
 She wrote the results section in two days. The statistics were clean because the effect was enormous — you didn't need sophisticated analysis when the signal was screaming. Cohen's *d* for solution-path similarity between groups: 3.2. An effect size so large it looked like a typo. She checked it four times. It was not a typo.
 
 ---
 
-She submitted the paper to the *Journal of Cognitive Neuroscience* on a Wednesday evening, from her home office, with the sensation of dropping a stone into a well and listening for the splash. The title was measured — "Convergent Solution Paths in Augmented Cognition: Evidence from a Double-Blind Study of Divergent Thinking" — because measured titles survived review and provocative titles did not. She listed Grace as second author. She included the raw data as supplementary material. She triple-checked the formatting.
+She submitted the paper to the *Journal of Cognitive Neuroscience* on a Wednesday evening, with the sensation of dropping a stone into a well and listening for the splash. The title was measured — "Convergent Solution Paths in Augmented Cognition: Evidence from a Double-Blind Study of Divergent Thinking" — because measured titles survived review and provocative titles did not. She listed Grace as second author.
 
 Six weeks passed.
 
-Six weeks during which Maya taught her three remaining classes to rooms that were a third full, graded papers with a growing unease she couldn't articulate — the student essays were getting better and more alike, semester by semester, the same arguments in the same order with the same examples — and drove home every evening through a town that was contracting around the university like skin around a closing wound. The Thai restaurant on College Avenue shut down. The used bookstore became a BCI accessories shop: cases, decorative patches, signal boosters. The Planned Parenthood closed — the building's lease expired and no one renewed it. The town was simplifying.
+Six weeks during which Maya taught her three remaining classes to rooms that were a third full, graded papers with a growing unease — the student essays were getting better and more alike, the same arguments in the same order — and drove home every evening through a town that was contracting around the university like skin around a closing wound. The Thai restaurant on College Avenue shut down. The used bookstore became a BCI accessories shop. The town was simplifying.
 
 The rejection arrived on a Thursday at 4:47 PM. Maya was in Room 314, recalibrating the working fMRI machine — a task she'd learned to do herself when the department lost its lab technician to a CortexLink service contract that paid three times an academic salary. Her phone buzzed. She wiped the calibration gel off her hands and opened the email.
 
@@ -74,7 +74,7 @@ Reviewer 3: *"This manuscript reads more like advocacy than science. The author 
 
 Maya read Reviewer 3's comments twice. Then a third time. The word *alarmist* sat in her throat like a fish bone.
 
-She was not alarmist. She was a scientist with a Cohen's *d* of 3.2 and a desk covered in short stories that were the same short story. She had not designed the study to confirm anything — she had designed it to test a hypothesis generated by the cluster data from her longitudinal study, following the standard sequence of observation, hypothesis, experiment, analysis. The sequence that every reviewer on the *Journal of Cognitive Neuroscience* editorial board had been trained in. The sequence that science ran on.
+She was not alarmist. She was a scientist with a Cohen's *d* of 3.2 and a desk covered in short stories that were the same short story. She had designed the study to test a hypothesis, following the standard sequence of observation, hypothesis, experiment, analysis. The sequence that science ran on.
 
 She reread all three reviews together. Side by side. And she noticed something that made the fish bone in her throat drop into her stomach.
 
@@ -84,7 +84,7 @@ And they were interchangeable.
 
 The same confident tone. The same absence of hedging. The same declarative rhythm: subject, verb, object, period. No digressions. No idiosyncratic phrasings. No moments where a reviewer's own expertise or perspective broke through the surface of the prose. Three reviewers — presumably three different scientists, at three different institutions, with three different research histories — and they wrote like the same person.
 
-She could not prove the reviewers were BCI users. The journal's review process was double-blind, which meant she didn't know their names, their institutions, or their augmentation status. She had no data. She had no evidence. She had only a pattern recognition system — her own, unaugmented, trained by twenty years of reading scientific prose — and the cold feeling in her sternum that she'd last felt when she read the four identical short stories.
+She could not prove the reviewers were BCI users. The journal's review process was double-blind. She had no data. She had only a pattern recognition system — her own, unaugmented, trained by twenty years of reading scientific prose — and the cold feeling in her sternum that she'd last felt when she read the four identical short stories.
 
 She printed the rejection letter and the reviewer comments. She drove home.
 
@@ -112,13 +112,13 @@ She cooked dinner. Grilled cheese and tomato soup, because it was Thursday and s
 
 "Lily. Dinner."
 
-Lily came to the table. She'd been crying. Not dramatically — her eyes were dry now, her face composed — but Maya could see it in the puffiness around the orbits, the pink at the edges of the nostrils. The signs a mother reads the way a radiologist reads a scan: automatically, completely, without needing to be told what she's seeing.
+Lily came to the table. She'd been crying. Not dramatically — her eyes were dry now, her face composed — but Maya could see it in the puffiness around the orbits, the pink at the edges of the nostrils.
 
 "What happened?"
 
 "Nothing." Lily sat down. Picked up half a grilled cheese. Did not eat it.
 
-Maya waited. The soup steamed between them. The kitchen faucet dripped — she needed to replace the washer, had needed to for two months, kept not doing it because plumbing required a trip to the hardware store and twenty minutes under the sink and she didn't have twenty minutes, she had a rejected paper and a ninety-day countdown and a daughter who was sitting across from her holding a sandwich she wasn't eating.
+Maya waited. The soup steamed between them. The kitchen faucet dripped — she needed to replace the washer, had needed to for two months, kept not doing it because she had a rejected paper and a ninety-day countdown and a daughter who was sitting across from her holding a sandwich she wasn't eating.
 
 "The group project," Lily said finally. "For AP Bio. Mrs. Hartley assigned the groups. I'm with Aiden and Priya and Marcus. They all have BCIs. They finished the whole project in one class period. Like, the research, the slides, the script for the presentation. All of it. In forty-five minutes."
 
@@ -162,13 +162,13 @@ She went into her home office. The third bedroom. Stacked journals, two monitors
 
 She pinned the rejection letter to the corkboard. Upper left corner, next to the cluster printout. The paper was warm from the printer, and it took two thumbtacks because the paper was heavy — the journal's template, formatted with the masthead, gave it the weight of official judgment. She smoothed it flat with her palm.
 
-Next to it, already pinned: the convergence cluster printout from the longitudinal study. Five subjects, five identical solution paths, red string connecting them. That was the observation. The question.
+Next to it, already pinned: the convergence cluster printout. Five subjects, five identical solution paths, red string connecting them.
 
 Below both, she pinned the school's BCI brochure. The trifold with the blue-and-silver logo and the testimonials and the ninety-day deadline. August first. She wrote the date on a sticky note — *Aug 1* — and pressed it to the brochure's corner.
 
-Three documents. Three versions of the same problem. The data showing convergence. The institution refusing to see it. The clock ticking down to the moment when refusal became irrelevant because her daughter would be absorbed into the pattern whether Maya proved it existed or not.
+Three documents. The data showing convergence. The institution refusing to see it. The clock ticking down to the moment when her daughter would be absorbed into the pattern whether Maya proved it existed or not.
 
-She touched the jade pendant at her throat. Her mother had given it to her when she'd started her PhD — smooth, cool, the green so dark it was almost black. Her mother, who had never gone to college, who read recipes the way Maya read data, who had said, when Maya told her about the PhD program: *Good. Ask the hard questions. But eat lunch.* Maya had not eaten lunch today. She'd forgotten.
+She touched the jade pendant at her throat. Her mother had given it to her when she'd started her PhD — smooth, cool, the green so dark it was almost black. Her mother, who had never gone to college, who had said: *Good. Ask the hard questions. But eat lunch.* Maya had not eaten lunch today.
 
 She sat down at her desk. Opened her laptop. Created a new file.
 
@@ -178,7 +178,7 @@ The cursor blinked on the empty page. She typed:
 
 She stared at the title. Then, below it, she began to write.
 
-Larger sample. Eighty per group. Multi-site — she would need collaborators, which meant finding researchers who were willing to study this, which meant finding researchers who were unaugmented or at least open to the possibility that augmentation changed cognition in ways the augmented could not perceive. A shrinking pool. She wrote down three names, crossed out one — he'd gotten a BCI last year — and added two more. She would need to call in favors. She would need to self-fund the pilot if the grant applications failed, which meant dipping into savings that were also Lily's college fund, which meant making a bet with money she could not afford to lose on a hypothesis the field refused to take seriously.
+Larger sample. Eighty per group. Multi-site — she would need collaborators, which meant finding researchers who were unaugmented or at least open to the possibility that augmentation changed cognition in ways the augmented could not perceive. A shrinking pool. She wrote down three names, crossed out one — he'd gotten a BCI last year — and added two more. She would need to self-fund the pilot if the grant applications failed, which meant dipping into savings that were also Lily's college fund.
 
 She added a fourth task to the protocol: collaborative problem-solving. Pairs of BCI users working together versus pairs of controls versus mixed pairs. If the convergence was real, BCI pairs should produce solutions faster but less diverse. Mixed pairs would be the interesting condition — would the augmented user's convergent process dominate, or would the unaugmented user's divergent process survive?
 

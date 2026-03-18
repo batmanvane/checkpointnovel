@@ -4,13 +4,13 @@ The conference room on the fourth floor of Whitfield Hall seated forty, but Dean
 
 "Thank you all for coming," Alvarez said, clicking to the first slide. A bar chart. Five bars, each one shorter than the last, descending left to right like a staircase leading underground. "Enrollment trends, 2036 to 2041."
 
-Maya already knew the numbers. She'd watched them arrive semester by semester, the way you watch a slow leak in a basement wall — first a stain, then a drip, then the quiet understanding that the foundation was compromised. Twenty-two thousand students five years ago. Eight thousand eight hundred now. A sixty-percent decline rendered in blue rectangles on a white screen, each bar casting a little shadow, as if the numbers themselves had weight.
+Maya already knew the numbers. She'd watched them arrive semester by semester, the way you watch a slow leak in a basement wall — first a stain, then a drip, then the quiet understanding that the foundation was compromised. Twenty-two thousand students five years ago. Eight thousand eight hundred now. A sixty-percent decline rendered in blue rectangles on a white screen.
 
 "The Board of Regents has asked us to present a sustainability plan by June," Alvarez continued. He was a decent man. An economist by training, which meant he understood the budget the way Maya understood a brain scan — structurally, without sentiment. He clicked to the next slide. "Proposed departmental consolidations."
 
 There it was. Third line down, in the same neutral font the university used for everything from commencement programs to parking citations: Cognitive Neuroscience — merge with Computer Science. Effective Fall 2042.
 
-Rajiv Patel, seated two chairs to Maya's left, shifted in his seat. As department chair, he'd known this was coming — she could tell by his non-reaction, the careful stillness of a man who had already processed his shock in private. His BCI patch was barely visible behind his left ear, a small square of skin-colored polymer that she'd learned to stop noticing years ago, like a colleague's glasses. He'd been an early adopter, back in 2033, when the devices were still expensive enough to signal ambition rather than normalcy.
+Rajiv Patel, seated two chairs to Maya's left, shifted in his seat. As department chair, he'd known this was coming — she could tell by his non-reaction, the careful stillness of a man who had already processed his shock in private. His BCI patch was barely visible behind his left ear. He'd been an early adopter, back in 2033, when the devices were still expensive enough to signal ambition rather than normalcy.
 
 "The merger doesn't eliminate cognitive neuroscience," Alvarez said, preempting the question Maya hadn't asked yet. "It restructures it within a broader computational framework."
 
@@ -22,35 +22,35 @@ Alvarez looked at her with the expression she'd come to recognize in administrat
 
 A silence. The kind of silence that falls in a room where everyone agrees with the person speaking but no one can afford to say so. Outside the window, the April sky was the pale grey of a Midwest spring that hadn't committed to warmth yet, and Maya could see the south parking lot, half empty at ten in the morning on a Tuesday. It used to be full by eight.
 
-Alvarez moved on. Tenure re-evaluation criteria. Space allocation. The library — already converted to a "Learning Commons" three years ago, the books moved to storage or digitized, the reading rooms now filled with modular furniture and screens that nobody used because everyone carried their information behind their ears — would absorb the vacated offices in Whitfield's east wing. Three buildings on campus were dark. Not closed, officially. Just dark. The lights off, the hallways locked, the bulletin boards still covered in flyers for events from two semesters ago: a psychology study seeking participants, a bake sale for the now-defunct French club, a charity run that had been canceled and never rescheduled.
+Alvarez moved on. Tenure re-evaluation criteria. Space allocation. The library — already converted to a "Learning Commons" three years ago, the books moved to storage or digitized — would absorb the vacated offices in Whitfield's east wing. Three buildings on campus were dark. Not closed, officially. Just dark. The lights off, the hallways locked, the bulletin boards still covered in flyers for events from two semesters ago: a psychology study seeking participants, a bake sale for the now-defunct French club.
 
 Maya sat through the rest of the meeting the way she sat through MRI scans — still, patient, recording. When it ended, Rajiv caught her eye and gave a small nod that meant my office, later. She nodded back. They had been doing this for years, the silent language of colleagues who understood each other's constraints. He couldn't protect her research forever. She couldn't stop doing it.
 
 She gathered her notebook — an actual paper notebook, spiral-bound, which she knew some of her colleagues found quaint and others found pointed — and walked out of the conference room into a hallway that smelled of floor polish and the staleness of a building with too much space and not enough people to breathe the air.
 ...
-Room 314 of the neuroscience building told the truth about its occupant's funding level. Functional furniture, fluorescent lights, twelve workstations of which seven were active. Two fMRI machines — one operational, one waiting for a replacement coil that had been on order for six months. A whiteboard so layered with dry-erase marker that it had become a palimpsest of hypotheses, the ghosts of old ideas bleeding through the new ones like memories through sediment.
+Room 314 told the truth about its occupant's funding level. Functional furniture, fluorescent lights, twelve workstations of which seven were active. Two fMRI machines — one operational, one waiting for a replacement coil that had been on order for six months. A whiteboard so layered with dry-erase marker that it had become a palimpsest of hypotheses, the ghosts of old ideas bleeding through the new ones.
 
 Maya set her coffee on her desk and opened the longitudinal study database. Three years of data. Two hundred BCI users matched with two hundred controls, tracked quarterly on cognitive assessments — working memory, processing speed, verbal reasoning, and a creative problem-solving module she'd designed herself: the Divergent Solutions Task.
 
-Routine work. She was running the quarterly data pull, scanning the output the way a radiologist scans a chest X-ray — trained to notice when something isn't right, even without knowing what she was looking for.
+Routine work. She was running the quarterly data pull, scanning the output the way a radiologist scans a chest X-ray — trained to notice when something isn't right.
 
 She almost missed it.
 
-The Divergent Solutions Task scores for Q1 2041 were unremarkable in aggregate. BCI users scored higher on speed and accuracy, as expected. Controls showed wider variance, as expected. The effect sizes were consistent with previous quarters. Nothing publishable, nothing alarming, nothing that would make anyone at the NIH sit up in their chair.
+The Divergent Solutions Task scores for Q1 2041 were unremarkable in aggregate. BCI users scored higher on speed and accuracy, as expected. Controls showed wider variance, as expected. Nothing publishable, nothing alarming.
 
 But Maya didn't read aggregates the way most researchers did. She read them like her mother had read recipes — checking the ingredients before trusting the dish. She pulled up the individual response profiles, sorting by solution path rather than by score, and that was when the pattern surfaced.
 
 Five subjects. BCI users, all from the experimental cohort. Subject 0047, Subject 0112, Subject 0158, Subject 0203, Subject 0341. On the open-ended engineering problem — design a water purification system using only locally available materials — they had produced identical solution paths. Not similar. Not convergent-within-normal-parameters. Identical.
 
-Same initial approach: gravity-fed filtration using layered sediment. Same sequence of refinements: charcoal layer added second, not first. Same error: underestimating flow rate at the sand-gravel interface. Same correction: widening the outlet diameter by a factor Maya could calculate from their diagrams — 1.4, every one of them, as if they'd all consulted the same invisible engineer. Same final design, down to the placement of the overflow channel.
+Same initial approach: gravity-fed filtration using layered sediment. Same sequence of refinements: charcoal layer added second, not first. Same error: underestimating flow rate at the sand-gravel interface. Same correction: widening the outlet diameter by a factor of 1.4, every one of them, as if they'd all consulted the same invisible engineer.
 
 She ran the probability calculation three times because the first two felt like errors. Five independent subjects producing identical solution paths on a divergent thinking task. The probability was somewhere south of being struck by lightning while winning the lottery. On a Tuesday. In February.
 
-She sat back in her chair. The fluorescent tube above her desk ticked — the one with the bad ballast, the one facilities had been meaning to replace since January. On the corkboard behind her desk, three years of pinned papers and sticky notes formed their own kind of stratigraphy — layers of work, each one a question she'd tried to answer.
+She sat back in her chair. The fluorescent tube above her desk ticked — the one with the bad ballast that facilities had been meaning to replace since January.
 
 She printed the five profiles and pinned them to a clear section of the corkboard. Then she pulled a length of red string from the supply drawer — left over from a department poster session, the kind of thing you keep because you might need it and then one day you do — and ran it between the five printouts, connecting them. Subject to subject, line to line, the red string tracing the identical solution paths like a web.
 
-It looked like a conspiracy board. She was aware of this. She was also aware that sometimes the reason something looked like a conspiracy board was that a pattern existed and no other visualization could hold it.
+It looked like a conspiracy board. She was aware of this. She was also aware that sometimes the reason something looked like a conspiracy board was that a pattern existed.
 
 Grace Okonkwo, her graduate student, appeared in the doorway with two cups of coffee, saw the corkboard, and stopped.
 
@@ -58,11 +58,11 @@ Grace Okonkwo, her graduate student, appeared in the doorway with two cups of co
 
 "Five subjects," Maya said. "Same task. Same solution path. Same errors. Same corrections. Same sequence."
 
-Grace set the coffees down and stepped closer. She was twenty-eight, Nigerian-American, sharp in the way that made Maya grateful every semester that she'd chosen Lakeview State over the better-funded labs that had tried to recruit her. Grace was also a BCI user — had been since 2036 — which made her both a researcher and, in some sense, a subject.
+Grace set the coffees down and stepped closer. She was twenty-eight, Nigerian-American, sharp in the way that made Maya grateful every semester. Grace was also a BCI user — had been since 2036 — which made her both a researcher and, in some sense, a subject.
 
 "Same BCI model?" Grace asked.
 
-"Same manufacturer. CortexLink US-I, all five. But different firmware versions, different activation dates." Maya tapped the first profile. "Different ages, different cities, different occupations. A civil engineer in Detroit, a retired pharmacist in Duluth, a graduate student in Madison."
+"Same manufacturer. CortexLink US-I, all five. But different firmware versions, different activation dates." Maya tapped the first profile. "Different ages, different cities, different occupations."
 
 Grace studied the profiles. Maya watched her — the slight narrowing of the eyes, the micro-pause that could have been thought or could have been the BCI pre-loading relevant statistical frameworks.
 
@@ -86,9 +86,9 @@ Maya pulled into the driveway of the house on Maple Street and sat in the car fo
 
 The kitchen smelled of the pasta sauce she'd started in the slow cooker that morning. Lily was at the table, her geometry textbook open, a glass of water poured and untouched at her elbow. She was fifteen, dark-haired, and she was not doing homework.
 
-She was not doing homework because the homework was impossible to do the way homework used to be done. The textbook was open to the correct chapter, but a worksheet lay beside it, mostly blank, and Lily was watching something on her phone propped against the salt shaker — a tutorial, or a feed, or whatever fifteen-year-olds watched when they'd given up on a problem set that their classmates had finished in ten minutes with their BCIs. Lily's classmates didn't struggle with geometry proofs. Lily's classmates didn't struggle with anything.
+She was not doing homework because the homework was impossible to do the way homework used to be done. The textbook was open to the correct chapter, but a worksheet lay beside it, mostly blank, and Lily was watching something on her phone propped against the salt shaker — a tutorial, or a feed, or whatever fifteen-year-olds watched when they'd given up on a problem set that their classmates had finished in ten minutes with their BCIs.
 
-Maya and David had divorced four years ago, and the BCI question had been the reef the marriage broke on. David had wanted Lily to get one. Maya had refused. David thought she was being irrational, letting her professional skepticism override their daughter's future. Maya understood the neuroscience of adolescent brain development well enough to be terrified of implanting a device in a fifteen-year-old's still-maturing prefrontal cortex. Both of them were right. Neither could hear the other. The marriage couldn't hold the contradiction.
+Maya and David had divorced four years ago, and the BCI question had been the reef the marriage broke on. David had wanted Lily to get one. Maya had refused. David thought she was letting her professional skepticism override their daughter's future. Maya understood the neuroscience of adolescent brain development well enough to be terrified of implanting a device in a fifteen-year-old's still-maturing prefrontal cortex. Both of them were right. The marriage couldn't hold the contradiction.
 
 "Hey, sweetheart," Maya said, setting her bag on the counter. "How was school?"
 
@@ -112,7 +112,7 @@ Lily set down her phone. Not dramatically — she wasn't a dramatic child, had n
 
 "My day was fine. My day is always fine. My day is me being the slow one in every class and pretending it doesn't matter."
 
-They looked at each other across the kitchen table, and Maya felt the ache of a fight that both people have already had in their heads, where the words are worn smooth from rehearsal and nothing new can break through. On the refrigerator behind Lily, held by a magnet from the Chicago Field Museum, were three of Lily's childhood drawings: a purple elephant from age six, a self-portrait from age eight with hair like a lion's mane, a watercolor of Lake Michigan from a family trip when she was ten. Lily hadn't drawn anything in over a year. Not because of a BCI — because of despair. What was the point of drawing when your classmates could visualize anything they wanted, instantly, perfectly, without lifting a pencil?
+They looked at each other across the kitchen table, and Maya felt the ache of a fight that both people have already had in their heads, where the words are worn smooth from rehearsal and nothing new can break through. On the refrigerator behind Lily, held by a magnet from the Chicago Field Museum, were three of Lily's childhood drawings: a purple elephant from age six, a self-portrait from age eight with hair like a lion's mane, a watercolor of Lake Michigan from a family trip when she was ten. Lily hadn't drawn anything in over a year. What was the point of drawing when your classmates could visualize anything they wanted, instantly, perfectly, without lifting a pencil?
 
 Below the drawings, held by another magnet, was the school's subsidized BCI brochure. Still sealed. Addressed to "Parent/Guardian of Lily Chen." Maya had not opened it. She had not thrown it away.
 
@@ -142,17 +142,17 @@ They finished dinner in a silence that was at least not war. Lily cleared her pl
 ...
 Maya's home office was the third bedroom, stacked journals and two monitors and a desk chair with a broken armrest she kept meaning to replace. She sat down at eleven-fifteen, after Lily's light went off, and opened the study database on her laptop.
 
-She pulled up the demographic data for the cluster. Subject 0047: female, 52, civil engineer, Detroit. Subject 0112: male, 38, high school teacher, Columbus. Subject 0158: female, 67, retired pharmacist, Duluth. Subject 0203: non-binary, 29, graphic designer, Indianapolis. Subject 0341: male, 24, graduate student, Madison. BCI activation dates spanning 2034 to 2039 — seven years of use down to two.
+She pulled up the demographic data for the cluster. Subject 0047: female, 52, civil engineer, Detroit. Subject 0112: male, 38, high school teacher, Columbus. Subject 0158: female, 67, retired pharmacist, Duluth. Subject 0203: non-binary, 29, graphic designer, Indianapolis. Subject 0341: male, 24, graduate student, Madison. BCI activation dates spanning 2034 to 2039.
 
-Five people who had never met. Five different cities, five different professions, five different ages. They had nothing in common that would explain convergence on this scale. Nothing except the platform — CortexLink US-I — and the general knowledge domains they'd accessed for the task.
+Five people who had never met. They had nothing in common that would explain convergence on this scale. Nothing except the platform — CortexLink US-I — and the general knowledge domains they'd accessed for the task.
 
-She switched to the solution-path visualizations. Each subject's problem-solving process was mapped as a branching tree — decisions, dead ends, reversals, the messy topology of a mind working through an unfamiliar problem. For control subjects, the trees looked like trees: unique, branching, asymmetric, each one shaped by that person's knowledge and experience and cognitive style. No two were alike. That was the point of divergent thinking — it diverged.
+She switched to the solution-path visualizations. Each subject's problem-solving process was mapped as a branching tree — decisions, dead ends, reversals. For control subjects, the trees looked like trees: unique, branching, asymmetric. No two were alike. That was the point of divergent thinking — it diverged.
 
 For the five clustered subjects, the trees were identical. Same trunk. Same branches. Same dead end at the third decision node, same reversal, same alternative path. Overlaid, they collapsed into a single tree. Five minds, one shape.
 
 Maya stared at the overlaid trees for a long time. The house was quiet. The furnace clicked on, hummed, clicked off. Somewhere in the neighborhood, a dog barked twice and stopped. Through the wall, she could hear the faint nothing of Lily's room — no music, no conversation, just the silence of a sleeping teenager whose brain was still entirely her own.
 
-She reached for her lab notebook — the physical one, clothbound, the thirty-eighth in a row that lined the shelf above her desk. There were certain kinds of thinking that needed the resistance of a pen on paper, the slowness of a hand that couldn't be optimized.
+She reached for her lab notebook — the physical one, clothbound, the thirty-eighth in a row that lined the shelf above her desk.
 
 She uncapped her pen and wrote the date. Then, below it, in handwriting that was distinctly hers — the left-leaning slant, the open loops, the habit of dotting her is slightly to the right — she wrote:
 
@@ -164,4 +164,4 @@ Artifact? Or signal?
 
 She closed the notebook. Set the pen on top of it. Looked at the screen, where five branching trees had collapsed into one.
 
-The furnace clicked on again. In the next room, Lily slept — without a device, without a patch, her brain still entirely her own, still forming, still plastic in all the ways that made Maya's expertise feel like a curse. On the refrigerator downstairs, the brochure sat sealed beneath its magnet. Ninety days until the school's enrollment deadline. Maya sat at her desk in the yellow light of the lamp and did not look away.
+The furnace clicked on again. In the next room, Lily slept — without a device, without a patch, her brain still entirely her own, still plastic in all the ways that made Maya's expertise feel like a curse. On the refrigerator downstairs, the brochure sat sealed beneath its magnet. Ninety days until the school's enrollment deadline.
