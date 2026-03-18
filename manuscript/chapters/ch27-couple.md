@@ -226,6 +226,10 @@ Daffodils. Yellow. A bucket of them, standing in water, their stems pale green, 
 
 He bought them. A bunch. The woman wrapped the stems in brown paper and he paid with cash he happened to have because he'd gone to the ATM yesterday for no reason he could articulate.
 
+He stood on the corner holding the daffodils and tried, briefly, to remember the night in December. The night Sara had arrived on the NightJet. The warmth of her. The specificity of her. He could recall it — the broad strokes, the sequence — but the texture was uncertain. Faded, or filtered. He had been a different system then: BCI active, Layer 5 writing, every sensation encoded through a mechanism designed to make the external feel native. Had the intensity been his? Or had it been cached — delivered at the optimal moment by a system that knew his cortisol levels and her proximity and the probability that physical intimacy would increase user satisfaction?
+
+He couldn't tell. The uncertainty should have been painful. Instead it felt honest — the first honest relationship he'd had with a memory in four years. A memory he couldn't fully trust. A wanting he couldn't fully verify. His.
+
 Sara watched him. She stood on the sidewalk with her hands in her jacket pockets and watched him buy daffodils from a woman in a green hat, and her face did the thing it had done in the kitchen — the shift beneath the surface, the tectonic movement.
 
 He handed her the flowers. Brown paper. Yellow heads. The smell of daffodils, which was not a smell most people noticed because it was quiet — not the aggressive perfume of roses or lilies but a smell you had to lean into, a smell that rewarded proximity.
