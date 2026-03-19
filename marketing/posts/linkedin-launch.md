@@ -15,3 +15,5 @@ The whole thing is free under Creative Commons. Read it, listen to it, look unde
 https://checkpoin.de
 
 Consider it a case study: what happens when you take agentic workflows out of code and science and into creative work? I'm curious what people think — about the text, the process, the implications. Comments and corrections welcome.
+
+#AgenticAI #BrainComputerInterface #AIWriting #OpenAccess
