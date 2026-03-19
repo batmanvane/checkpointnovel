@@ -70,6 +70,50 @@ https://github.com/batmanvane/checkpointnovel
 
 ---
 
+## r/claudecode
+
+**Flair:** Show and Tell
+
+**Title:** Used Claude Code to write, edit, and deploy a 123K-word hard sci-fi novel — full pipeline from markdown to production
+
+**Body:**
+
+**Disclosure:** This is my project. It's free (CC BY-NC-SA 4.0). No cost, no paywall, no affiliate links. I'm the author. I'm sharing it because the Claude Code workflow might be interesting to this community.
+
+**What it is:** A hard sci-fi novel called *Checkpoint* — 30 chapters, ~123,000 words, set in 2041. BCIs adopted by 900M people. The device reads the brain. It also writes to it. Four POVs across four continents.
+
+**What the Claude Code pipeline looked like:**
+
+*Research & concept:* World-building bible, character sheets, chapter outlines — all generated collaboratively in Claude, iterated through feedback loops.
+
+*Writing:* Chapter-by-chapter generation from the outline. Each chapter drafted, reviewed, revised in conversation. Markdown source files, git-tracked from day one.
+
+*Editing — this is where Claude Code shined:*
+- Dispatched 5 parallel review agents across all 30 chapters to find inconsistencies, factual errors, clunky phrasing, and AI-writing tics
+- Found ~50 issues: 60Hz power hum in Germany (should be 50Hz), wrong football club, character nationality contradicting between chapters, a psychiatrist called a surgeon
+- Style pass: identified "the way [X] [verbed]" appearing 100+ times — the novel's biggest AI-writing tell. Cut ~45% across 30 chapters using parallel agents
+- Prose tightening: 143K → 123K words. One agent batch cut a chapter by 52% (had to `git checkout HEAD` and redo with stricter constraints in the prompt)
+
+*Build pipeline:*
+- `build.sh` — pandoc + xelatex → PDF
+- `build-reader.sh` — markdown → single-page HTML reader
+- `build-audiobook.sh` — markdown → ElevenLabs-ready plain text
+- `deploy.sh` — builds everything + FTP syncs to production server via lftp
+
+*One-command deploy:* `./deploy.sh` rebuilds all formats from the markdown source and pushes to the live site.
+
+**What I learned about Claude Code for long-form creative work:**
+
+1. **Parallel agents are powerful but need constraints.** "Cut 10-15%" without a hard ceiling led to 52% cuts. "STRICT 10%. Do NOT exceed 15% on any chapter" worked.
+2. **Consistency across 30 chapters is hard.** Names, ages, timelines, device model numbers, even the Hz of fluorescent lights — all drifted. Dedicated consistency-check agents were essential.
+3. **The 1M context window matters.** Earlier models couldn't hold the full novel. Opus 4.6 with 1M context could cross-reference chapters in a single pass.
+4. **Review > generation.** The writing was fast. Finding what was wrong — factual errors, style tics, logical inconsistencies, cultural false notes — took 3x longer.
+
+**Repo:** https://github.com/batmanvane/checkpointnovel
+**Live:** https://checkpoin.de (read online, PDF, audiobook)
+
+---
+
 ## r/selfpublish
 
 **Title:** Wrote a 123K-word novel with AI in days. The editing took weeks. Some notes on the process.
