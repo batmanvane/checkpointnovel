@@ -1,5 +1,6 @@
 # Large binary assets (deployed via FTP, not git)
 website/assets/Checkpoint-Draft.pdf
+website/assets/Checkpoint.epub
 website/assets/trailer.mp4
 website/audiobook/*.mp3
 manuscript/audiobook/mp3/

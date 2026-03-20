@@ -12,9 +12,13 @@ echo "Building..."
 bash manuscript/build-reader.sh
 bash manuscript/build.sh 2>&1 | tail -1
 
-# Copy PDF into website/ for deployment
+# Build EPUB
+bash manuscript/build-epub.sh 2>&1 | tail -1
+
+# Copy outputs into website/ for deployment
 mkdir -p website/assets
 cp manuscript/Checkpoint-Draft.pdf website/assets/Checkpoint-Draft.pdf
+cp manuscript/Checkpoint.epub website/assets/Checkpoint.epub
 
 echo "Deploying to $HOST..."
 lftp -e "
